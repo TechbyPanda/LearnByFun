@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { MCQOption, MCQQuestion, polityQuestions } from "./questions";
+import { playCorrectSound, playIncorrectSound, playFinishSound } from "./sounds";
 import styles from "./page.module.css";
 
 export default function McqPage() {
@@ -18,6 +19,9 @@ export default function McqPage() {
     setSelectedOptionId(optionId);
     if (optionId === currentQuestion.correctOptionId) {
       setScore((prev) => prev + 1);
+      playCorrectSound();
+    } else {
+      playIncorrectSound();
     }
   }
 
@@ -27,6 +31,7 @@ export default function McqPage() {
       setSelectedOptionId(null);
     } else {
       setIsFinished(true);
+      playFinishSound();
     }
   }
 
