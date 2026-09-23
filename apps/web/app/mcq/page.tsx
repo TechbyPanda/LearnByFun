@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { MCQOption, MCQQuestion, polityQuestions } from "./questions";
+import { MCQOption, MCQQuestion, polityQuestions } from "./data";
 import { playCorrectSound, playIncorrectSound, playFinishSound } from "./sounds";
 import styles from "./page.module.css";
 
