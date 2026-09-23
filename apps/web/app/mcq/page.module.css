@@ -76,6 +76,7 @@
 }
 
 .button {
+  display: inline-block;
   padding: 10px 20px;
   border-radius: 8px;
   border: none;
@@ -83,6 +84,13 @@
   color: #fff;
   cursor: pointer;
   font-size: 15px;
+  text-decoration: none;
+}
+
+.resultActions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
 }
 
 .button:disabled {

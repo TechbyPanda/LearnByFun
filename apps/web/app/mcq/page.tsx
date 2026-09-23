@@ -1,18 +1,64 @@
 "use client";
 
-import { useState } from "react";
-import { MCQOption, MCQQuestion, polityQuestions } from "./data";
+import { Suspense, useMemo, useState } from "react";
+import Link from "next/link";
+import { useSearchParams } from "next/navigation";
+import { MCQOption, MCQQuestion, questionsBySubject, type Subject } from "./data";
+import { shuffleArray } from "./lib/shuffle";
 import { playCorrectSound, playIncorrectSound, playFinishSound } from "./sounds";
 import styles from "./page.module.css";
 
 export default function McqPage() {
+  return (
+    <Suspense fallback={null}>
+      <McqQuiz />
+    </Suspense>
+  );
+}
+
+function useQuizQuestions(): MCQQuestion[] {
+  const searchParams = useSearchParams();
+
+  return useMemo(() => {
+    const subjectsParam = searchParams.get("subjects");
+    const countParam = searchParams.get("count");
+    const shuffleParam = searchParams.get("shuffle") === "true";
+
+    if (!subjectsParam || !countParam) return [];
+
+    const subjects = subjectsParam.split(",").filter(Boolean) as Subject[];
+    const count = parseInt(countParam, 10);
+    if (subjects.length === 0 || !Number.isFinite(count) || count < 1) return [];
+
+    const pool = subjects.flatMap((subject) => questionsBySubject[subject] ?? []);
+    const orderedPool = shuffleParam ? shuffleArray(pool) : pool;
+    return orderedPool.slice(0, count);
+  }, [searchParams]);
+}
+
+function McqQuiz() {
+  const quizQuestions = useQuizQuestions();
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOptionId, setSelectedOptionId] = useState<string | null>(null);
   const [score, setScore] = useState(0);
   const [isFinished, setIsFinished] = useState(false);
 
-  const totalQuestions = polityQuestions.length;
-  const currentQuestion = polityQuestions[currentIndex];
+  const totalQuestions = quizQuestions.length;
+  const currentQuestion = quizQuestions[currentIndex];
+
+  if (totalQuestions === 0) {
+    return (
+      <div className={styles.page}>
+        <div className={styles.result}>
+          <h1>No quiz configured</h1>
+          <p>Pick some subjects on the home page to start a quiz.</p>
+          <Link className={styles.button} href="/">
+            Back to Home
+          </Link>
+        </div>
+      </div>
+    );
+  }
 
   function handleSelectOption(optionId: string) {
     if (selectedOptionId || !currentQuestion) return;
@@ -181,7 +227,12 @@ const FinishedScreen = ({
         <p className={styles.score}>
           {score} / {totalQuestions}
         </p>
-        <Button onClick={handleRestart}>Restart</Button>
+        <div className={styles.resultActions}>
+          <Button onClick={handleRestart}>Restart</Button>
+          <Link className={styles.button} href="/">
+            New Quiz
+          </Link>
+        </div>
       </div>
     </div>
   );
