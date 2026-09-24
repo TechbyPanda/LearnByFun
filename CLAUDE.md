@@ -12,9 +12,9 @@ Guidance for working in this repo (`learn-by-fun`, a Turborepo/Next.js app). Fol
 
 ## Project structure
 
-- `apps/web/app/` — Next.js App Router pages.
-- `apps/web/app/mcq/data/` — question bank, one file per subject + `types.ts` + `index.ts` aggregator.
-- `apps/web/app/mcq/lib/` — pure helpers (shuffling, localStorage config persistence).
+- `apps/quizverse/app/` — Next.js App Router pages.
+- `apps/quizverse/app/mcq/data/` — question bank, one file per subject + `types.ts` + `index.ts` aggregator.
+- `apps/quizverse/app/mcq/lib/` — pure helpers (shuffling, localStorage config persistence).
 - No backend/API — quiz configuration is passed via URL query params and the last-used config is cached in `localStorage`.
 
 ## Commands

@@ -17,8 +17,8 @@ This Turborepo includes the following packages/apps:
 ### Apps and Packages
 
 - `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
+- `quizverse`: another [Next.js](https://nextjs.org/) app
+- `@repo/ui`: a stub React component library shared by both `quizverse` and `docs` applications
 - `@repo/eslint-config`: `eslint` configurations (includes `@next/eslint-plugin-next` and `eslint-config-prettier`)
 - `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
 
@@ -93,15 +93,15 @@ You can develop a specific package by using a [filter](https://turborepo.dev/doc
 With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed:
 
 ```sh
-turbo dev --filter=web
+turbo dev --filter=quizverse
 ```
 
 Without global `turbo`:
 
 ```sh
-npx turbo dev --filter=web
-npm exec turbo dev --filter=web
-npm exec turbo dev --filter=web
+npx turbo dev --filter=quizverse
+npm exec turbo dev --filter=quizverse
+npm exec turbo dev --filter=quizverse
 ```
 
 ### Remote Caching
