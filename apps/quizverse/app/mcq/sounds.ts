@@ -34,12 +34,8 @@ function playTone(
   });
 }
 
-export function playCorrectSound() {
-  playTone([523.25, 783.99], { duration: 0.15, type: "sine" });
-}
-
-export function playIncorrectSound() {
-  playTone([220, 164.81], { duration: 0.2, type: "sawtooth" });
+export function playSelectSound() {
+  playTone([440], { duration: 0.08, type: "sine" });
 }
 
 export function playFinishSound() {

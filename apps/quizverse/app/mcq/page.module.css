@@ -1,8 +1,19 @@
 .page {
-  max-width: 640px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 48px 24px;
   font-family: var(--font-geist-sans);
+}
+
+.layout {
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+}
+
+.main {
+  flex: 1;
+  min-width: 0;
 }
 
 .progress {
@@ -43,26 +54,18 @@
   font-size: 16px;
 }
 
-.option:hover:not(:disabled) {
+.option:hover {
   border-color: #888;
 }
 
-.option:disabled {
-  cursor: default;
-}
-
-.optionCorrect {
-  border-color: #2e7d32;
-  background: rgba(46, 125, 50, 0.12);
-}
-
-.optionIncorrect {
-  border-color: #c62828;
-  background: rgba(198, 40, 40, 0.12);
+.optionSelected {
+  border-color: #111;
+  background: rgba(0, 0, 0, 0.06);
+  font-weight: 600;
 }
 
 .explanation {
-  margin-top: 20px;
+  margin-top: 12px;
   padding: 12px 16px;
   border-radius: 8px;
   background: rgba(0, 0, 0, 0.05);
@@ -73,7 +76,13 @@
 .actions {
   margin-top: 24px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.actionsRight {
+  display: flex;
+  gap: 12px;
 }
 
 .button {
@@ -88,23 +97,121 @@
   text-decoration: none;
 }
 
+.button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
 .resultActions {
   display: flex;
   gap: 12px;
   justify-content: center;
 }
 
-.button:disabled {
-  opacity: 0.4;
-  cursor: default;
-}
-
 .result {
   text-align: center;
+  margin-bottom: 40px;
 }
 
 .score {
   font-size: 32px;
   font-weight: 700;
   margin: 16px 0;
+}
+
+.palette {
+  width: 220px;
+  flex-shrink: 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.paletteTitle {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #888;
+  margin-bottom: 12px;
+}
+
+.paletteGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+}
+
+.paletteItem {
+  aspect-ratio: 1;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: transparent;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.paletteItemUnattempted {
+  border-color: #c62828;
+  color: #c62828;
+}
+
+.paletteItemAttempted {
+  border-color: #2e7d32;
+  background: rgba(46, 125, 50, 0.12);
+  color: #2e7d32;
+}
+
+.paletteItemCurrent {
+  outline: 2px solid #111;
+  outline-offset: 2px;
+}
+
+.reviewList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.reviewItem {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.reviewItemHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.reviewAnswerLine {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.reviewStatusCorrect,
+.reviewStatusIncorrect,
+.reviewStatusUnattempted {
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.reviewStatusCorrect {
+  color: #2e7d32;
+  background: rgba(46, 125, 50, 0.12);
+}
+
+.reviewStatusIncorrect {
+  color: #c62828;
+  background: rgba(198, 40, 40, 0.12);
+}
+
+.reviewStatusUnattempted {
+  color: #888;
+  background: rgba(0, 0, 0, 0.05);
 }

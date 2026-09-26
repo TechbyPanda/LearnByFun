@@ -35,7 +35,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-003",
     subject: "Polity",
     topic: "Fundamental Rights",
-    question: "The Right to Constitutional Remedies is guaranteed under which Article?",
+    question:
+      "The Right to Constitutional Remedies is guaranteed under which Article?",
     options: [
       { id: "a", text: "Article 19" },
       { id: "b", text: "Article 21" },
@@ -50,7 +51,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-004",
     subject: "Polity",
     topic: "DPSP",
-    question: "The Directive Principles of State Policy are contained in which Part of the Constitution?",
+    question:
+      "The Directive Principles of State Policy are contained in which Part of the Constitution?",
     options: [
       { id: "a", text: "Part III" },
       { id: "b", text: "Part IV" },
@@ -65,7 +67,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-005",
     subject: "Polity",
     topic: "Parliament",
-    question: "What is the maximum strength of the Lok Sabha as per the Constitution?",
+    question:
+      "What is the maximum strength of the Lok Sabha as per the Constitution?",
     options: [
       { id: "a", text: "530" },
       { id: "b", text: "545" },
@@ -80,7 +83,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-006",
     subject: "Polity",
     topic: "Parliament",
-    question: "A Money Bill can only be introduced in which House of Parliament?",
+    question:
+      "A Money Bill can only be introduced in which House of Parliament?",
     options: [
       { id: "a", text: "Rajya Sabha" },
       { id: "b", text: "Lok Sabha" },
@@ -110,7 +114,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-008",
     subject: "Polity",
     topic: "Federalism",
-    question: "Which Schedule of the Constitution deals with the division of powers between the Union and the States?",
+    question:
+      "Which Schedule of the Constitution deals with the division of powers between the Union and the States?",
     options: [
       { id: "a", text: "Fifth Schedule" },
       { id: "b", text: "Sixth Schedule" },
@@ -125,7 +130,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-009",
     subject: "Polity",
     topic: "Amendments",
-    question: "The 'Basic Structure' doctrine of the Constitution was propounded in which case?",
+    question:
+      "The 'Basic Structure' doctrine of the Constitution was propounded in which case?",
     options: [
       { id: "a", text: "Golaknath v. State of Punjab" },
       { id: "b", text: "Kesavananda Bharati v. State of Kerala" },
@@ -140,7 +146,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-010",
     subject: "Polity",
     topic: "Constitutional Bodies",
-    question: "The Election Commission of India is established under which Article?",
+    question:
+      "The Election Commission of India is established under which Article?",
     options: [
       { id: "a", text: "Article 280" },
       { id: "b", text: "Article 324" },
@@ -155,7 +162,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-011",
     subject: "Polity",
     topic: "Emergency Provisions",
-    question: "Under which Article can the President declare a National Emergency?",
+    question:
+      "Under which Article can the President declare a National Emergency?",
     options: [
       { id: "a", text: "Article 352" },
       { id: "b", text: "Article 356" },
@@ -170,7 +178,8 @@ export const polityQuestions: MCQQuestion[] = [
     id: "polity-012",
     subject: "Polity",
     topic: "Local Government",
-    question: "Which Constitutional Amendment gave constitutional status to Panchayati Raj Institutions?",
+    question:
+      "Which Constitutional Amendment gave constitutional status to Panchayati Raj Institutions?",
     options: [
       { id: "a", text: "42nd Amendment" },
       { id: "b", text: "61st Amendment" },
@@ -207,7 +216,10 @@ export const polityQuestions: MCQQuestion[] = [
       { id: "a", text: "The States, as in the USA" },
       { id: "b", text: "The Union" },
       { id: "c", text: "Union and States concurrently" },
-      { id: "d", text: "The President, on the advice of the Finance Commission" },
+      {
+        id: "d",
+        text: "The President, on the advice of the Finance Commission",
+      },
     ],
     correctOptionId: "b",
     explanation:
@@ -239,7 +251,10 @@ export const polityQuestions: MCQQuestion[] = [
       { id: "a", text: "It lapses immediately" },
       { id: "b", text: "6 months" },
       { id: "c", text: "1 year, renewable" },
-      { id: "d", text: "Indefinitely, until repealed by the state legislature" },
+      {
+        id: "d",
+        text: "Indefinitely, until repealed by the state legislature",
+      },
     ],
     correctOptionId: "b",
     explanation:
@@ -255,7 +270,10 @@ export const polityQuestions: MCQQuestion[] = [
       { id: "a", text: "Applies automatically to all states" },
       { id: "b", text: "Applies only to the requesting states" },
       { id: "c", text: "Applies only during President's Rule" },
-      { id: "d", text: "Requires ratification by half the states to take effect" },
+      {
+        id: "d",
+        text: "Requires ratification by half the states to take effect",
+      },
     ],
     correctOptionId: "b",
     explanation:
@@ -269,7 +287,10 @@ export const polityQuestions: MCQQuestion[] = [
       "The 2020 farm laws, despite touching State List subjects like agriculture and intrastate trade, were held to be within Parliament's legislative competence primarily because of:",
     options: [
       { id: "a", text: "A National Emergency in force at the time" },
-      { id: "b", text: "Entry 33 of the Concurrent List, made permanent by the Constitution (Third Amendment) Act, 1954" },
+      {
+        id: "b",
+        text: "Entry 33 of the Concurrent List, made permanent by the Constitution (Third Amendment) Act, 1954",
+      },
       { id: "c", text: "A Rajya Sabha resolution under Article 249" },
       { id: "d", text: "Consent of all state legislatures under Article 252" },
     ],
@@ -356,5 +377,318 @@ export const polityQuestions: MCQQuestion[] = [
     correctOptionId: "b",
     explanation:
       "The Inter-State Council (first set up in 1990) is a consultative body that investigates/advises on disputes between states, unlike the legally binding tribunal mechanism under Article 262. It exists only as long as the President (i.e., the government of the day) chooses to maintain it. Reform proposals seek to make it adjudicative.",
+  },
+  {
+    id: "polity-024",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "The Inter-State Council is primarily intended to promote coordination and cooperation between:",
+    options: [
+      { id: "a", text: "The Union and the States, and among the States" },
+      { id: "b", text: "The Supreme Court and High Courts" },
+      { id: "c", text: "Parliament and State Legislatures only" },
+      {
+        id: "d",
+        text: "The Election Commission and State Election Commissions",
+      },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The Inter-State Council is a constitutional mechanism under Article 263 intended to facilitate coordination between the Union and States and among States.",
+  },
+
+  {
+    id: "polity-025",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Article 263 of the Constitution empowers the President to establish an Inter-State Council when it appears that public interests would be served by:",
+    options: [
+      { id: "a", text: "Adjudicating all disputes between States" },
+      {
+        id: "b",
+        text: "Establishing a body for coordination and consultation",
+      },
+      { id: "c", text: "Replacing the Rajya Sabha" },
+      { id: "d", text: "Supervising State governments" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Article 263 enables the President to establish an Inter-State Council for coordination and consultation. It is not a court or supervisory authority over State governments.",
+  },
+
+  {
+    id: "polity-026",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Which of the following is NOT one of the constitutional functions contemplated for an Inter-State Council under Article 263?",
+    options: [
+      {
+        id: "a",
+        text: "Inquiring into and advising upon disputes between States",
+      },
+      {
+        id: "b",
+        text: "Investigating and discussing subjects of common interest",
+      },
+      {
+        id: "c",
+        text: "Making recommendations for better coordination of policy and action",
+      },
+      {
+        id: "d",
+        text: "Giving legally binding judgments in disputes between States",
+      },
+    ],
+    correctOptionId: "d",
+    explanation:
+      "The Inter-State Council is consultative and advisory. Article 263 does not make it a judicial body capable of issuing legally binding judgments.",
+  },
+
+  {
+    id: "polity-027",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "The Inter-State Council differs fundamentally from a river water dispute tribunal because the former is:",
+    options: [
+      { id: "a", text: "Adjudicatory and judicial" },
+      { id: "b", text: "Primarily consultative and advisory" },
+      { id: "c", text: "Limited exclusively to water disputes" },
+      { id: "d", text: "A permanent constitutional court" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The Inter-State Council facilitates consultation, coordination and discussion. River water disputes are dealt with through the mechanism contemplated under Article 262 and the Inter-State River Water Disputes Act.",
+  },
+
+  {
+    id: "polity-028",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Which statement best describes the constitutional position of the Inter-State Council?",
+    options: [
+      {
+        id: "a",
+        text: "It is expressly created as a permanent constitutional body",
+      },
+      {
+        id: "b",
+        text: "Article 263 provides for its establishment by the President",
+      },
+      { id: "c", text: "It is created by the Supreme Court under Article 263" },
+      {
+        id: "d",
+        text: "It is automatically constituted after every general election",
+      },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Article 263 gives the President the power to establish an Inter-State Council if its establishment is considered necessary in the public interest.",
+  },
+
+  {
+    id: "polity-029",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "The Inter-State Council was first set up in India in 1990 primarily following the recommendation of which Commission?",
+    options: [
+      { id: "a", text: "Sarkaria Commission" },
+      { id: "b", text: "Punchhi Commission" },
+      { id: "c", text: "Mandal Commission" },
+      { id: "d", text: "Finance Commission" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The Sarkaria Commission recommended establishing a permanent Inter-State Council under Article 263. It was set up in 1990 through a Presidential Order.",
+  },
+
+  {
+    id: "polity-030",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Which of the following correctly distinguishes Article 263 from Article 262?",
+    options: [
+      {
+        id: "a",
+        text: "Article 263 concerns consultation and coordination; Article 262 concerns inter-State river water disputes",
+      },
+      {
+        id: "b",
+        text: "Article 263 concerns elections; Article 262 concerns taxation",
+      },
+      {
+        id: "c",
+        text: "Both Articles exclusively deal with judicial adjudication",
+      },
+      { id: "d", text: "Article 262 establishes the Inter-State Council" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "Article 263 provides for an Inter-State Council for consultation and coordination. Article 262 specifically concerns adjudication of disputes relating to waters of inter-State rivers or river valleys.",
+  },
+
+  {
+    id: "polity-031",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Under Article 262, Parliament may provide for the adjudication of disputes relating to:",
+    options: [
+      { id: "a", text: "Any political disagreement between States" },
+      { id: "b", text: "Waters of inter-State rivers or river valleys" },
+      { id: "c", text: "All disputes concerning State boundaries" },
+      { id: "d", text: "All disputes between the Union and States" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Article 262 specifically deals with disputes relating to the use, distribution or control of waters of inter-State rivers or river valleys.",
+  },
+
+  {
+    id: "polity-032",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Which statement about Parliament's power under Article 262 is correct?",
+    options: [
+      {
+        id: "a",
+        text: "Parliament may provide for adjudication of inter-State river water disputes",
+      },
+      {
+        id: "b",
+        text: "Parliament itself must personally adjudicate every river dispute",
+      },
+      { id: "c", text: "Parliament cannot regulate river water disputes" },
+      {
+        id: "d",
+        text: "Only the Supreme Court can establish river water tribunals",
+      },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "Article 262 authorizes Parliament to provide by law for adjudication of inter-State river water disputes. Parliament enacted the Inter-State River Water Disputes Act, 1956.",
+  },
+
+  {
+    id: "polity-033",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "What is an important constitutional feature of Article 262 regarding the jurisdiction of courts?",
+    options: [
+      {
+        id: "a",
+        text: "It requires all river disputes to be decided by the Supreme Court",
+      },
+      {
+        id: "b",
+        text: "It permits Parliament to provide for exclusion of the jurisdiction of the Supreme Court and other courts",
+      },
+      {
+        id: "c",
+        text: "It permanently bars every court from hearing any water-related matter",
+      },
+      { id: "d", text: "It gives exclusive jurisdiction to High Courts" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Article 262 allows Parliament to provide by law that neither the Supreme Court nor any other court shall exercise jurisdiction over such disputes.",
+  },
+
+  {
+    id: "polity-034",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Which of the following best describes the nature of recommendations made by the Inter-State Council?",
+    options: [
+      { id: "a", text: "They function as judicial decrees" },
+      {
+        id: "b",
+        text: "They are advisory and aimed at improving coordination",
+      },
+      { id: "c", text: "They automatically override State laws" },
+      { id: "d", text: "They are equivalent to constitutional amendments" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The Inter-State Council is a consultative mechanism. Its recommendations seek better coordination of policy and action and do not operate as judicial decrees or constitutional amendments.",
+  },
+
+  {
+    id: "polity-035",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question: "Which of the following pairs is correctly matched?",
+    options: [
+      { id: "a", text: "Article 263 — Inter-State Council" },
+      { id: "b", text: "Article 262 — Finance Commission" },
+      { id: "c", text: "Article 280 — River Water Tribunal" },
+      { id: "d", text: "Article 356 — Inter-State Council" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "Article 263 deals with the Inter-State Council, while Article 262 deals with adjudication of inter-State river water disputes. Article 280 deals with the Finance Commission.",
+  },
+
+  {
+    id: "polity-036",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Consider the following statements about the Inter-State Council:\n\n1. It can investigate and discuss subjects of common interest to the Union and States.\n2. It can make recommendations upon such subjects.\n3. Its recommendations are legally binding on State governments.\n\nWhich of the statements given above is/are correct?",
+    options: [
+      { id: "a", text: "1 and 2 only" },
+      { id: "b", text: "2 and 3 only" },
+      { id: "c", text: "1 and 3 only" },
+      { id: "d", text: "1, 2 and 3" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "Statements 1 and 2 reflect the consultative role contemplated by Article 263. Statement 3 is incorrect because the Council's recommendations are advisory, not legally binding.",
+  },
+
+  {
+    id: "polity-037",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "A dispute between two States concerns the sharing of water from an inter-State river. Which constitutional provision is most directly relevant to the adjudication mechanism?",
+    options: [
+      { id: "a", text: "Article 263" },
+      { id: "b", text: "Article 262" },
+      { id: "c", text: "Article 280" },
+      { id: "d", text: "Article 312" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Article 262 specifically addresses adjudication of disputes relating to waters of inter-State rivers or river valleys. Article 263 instead concerns the Inter-State Council and broader coordination.",
+  },
+
+  {
+    id: "polity-038",
+    subject: "Polity",
+    topic: "Administrative Relations",
+    question:
+      "Which memory aid most accurately captures the distinction between Articles 262 and 263?",
+    options: [
+      { id: "a", text: "262 = Coordination; 263 = Adjudication" },
+      {
+        id: "b",
+        text: "262 = River water disputes; 263 = Consultation and coordination",
+      },
+      { id: "c", text: "262 = Elections; 263 = Finance" },
+      { id: "d", text: "262 = Emergency; 263 = Judicial review" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "A useful UPSC memory aid is: Article 262 → inter-State river water disputes; Article 263 → Inter-State Council for consultation, coordination and common interests.",
   },
 ];
