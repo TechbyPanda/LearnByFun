@@ -20,17 +20,28 @@ function useQuizQuestions(): MCQQuestion[] {
   const searchParams = useSearchParams();
 
   return useMemo(() => {
-    const subjectsParam = searchParams.get("subjects");
+    const topicsParam = searchParams.get("topics");
     const countParam = searchParams.get("count");
     const shuffleParam = searchParams.get("shuffle") === "true";
 
-    if (!subjectsParam || !countParam) return [];
+    if (!topicsParam || !countParam) return [];
 
-    const subjects = subjectsParam.split(",").filter(Boolean) as Subject[];
     const count = parseInt(countParam, 10);
-    if (subjects.length === 0 || !Number.isFinite(count) || count < 1) return [];
+    if (!Number.isFinite(count) || count < 1) return [];
 
-    const pool = subjects.flatMap((subject) => questionsBySubject[subject] ?? []);
+    let topicsBySubject: Partial<Record<Subject, string[]>>;
+    try {
+      topicsBySubject = JSON.parse(topicsParam);
+    } catch {
+      return [];
+    }
+
+    const pool = (Object.entries(topicsBySubject) as [Subject, string[]][]).flatMap(
+      ([subject, topics]) =>
+        (questionsBySubject[subject] ?? []).filter((question) =>
+          topics.includes(question.topic),
+        ),
+    );
     const orderedPool = shuffleParam ? shuffleArray(pool) : pool;
     return orderedPool.slice(0, count);
   }, [searchParams]);

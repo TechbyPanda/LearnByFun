@@ -1,7 +1,7 @@
 import type { Subject } from "../data";
 
 export interface QuizConfig {
-  subjects: Subject[];
+  topicsBySubject: Partial<Record<Subject, string[]>>;
   questionCount: number;
   shuffle: boolean;
 }
@@ -25,7 +25,7 @@ export function loadQuizConfig(): QuizConfig | null {
     const parsed = JSON.parse(raw);
     if (
       !parsed ||
-      !Array.isArray(parsed.subjects) ||
+      typeof parsed.topicsBySubject !== "object" ||
       typeof parsed.questionCount !== "number" ||
       typeof parsed.shuffle !== "boolean"
     ) {

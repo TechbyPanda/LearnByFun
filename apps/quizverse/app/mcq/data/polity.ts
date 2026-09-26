@@ -691,4 +691,646 @@ export const polityQuestions: MCQQuestion[] = [
     explanation:
       "A useful UPSC memory aid is: Article 262 → inter-State river water disputes; Article 263 → Inter-State Council for consultation, coordination and common interests.",
   },
+  {
+    id: "polity-039",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "The Lokpal and Lokayuktas Act, 2013 provides for the establishment of:",
+    options: [
+      { id: "a", text: "Lokpal for the Union and Lokayukta for States" },
+      { id: "b", text: "Lokpal for States and Lokayukta for the Union" },
+      { id: "c", text: "Lokpal for both Union and States" },
+      { id: "d", text: "Lokayukta for both Union and States" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The 2013 Act establishes Lokpal for the Union and requires every State to establish a Lokayukta. This is the most important basic distinction to remember.",
+  },
+
+  {
+    id: "polity-040",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "The Lokpal and Lokayuktas Act, 2013 is best described as creating a:",
+    options: [
+      { id: "a", text: "Constitutional body" },
+      { id: "b", text: "Statutory anti-corruption institution" },
+      {
+        id: "c",
+        text: "Judicial body established directly by the Constitution",
+      },
+      { id: "d", text: "Temporary executive committee" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Lokpal is a statutory body created under the Lokpal and Lokayuktas Act, 2013. It is not a constitutional body.",
+  },
+
+  {
+    id: "polity-041",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which constitutional provision is relevant to Parliament's power to make laws for implementing international treaties and agreements?",
+    options: [
+      { id: "a", text: "Article 249" },
+      { id: "b", text: "Article 252" },
+      { id: "c", text: "Article 253" },
+      { id: "d", text: "Article 263" },
+    ],
+    correctOptionId: "c",
+    explanation:
+      "Article 253 empowers Parliament to make laws for implementing treaties, agreements and conventions with foreign countries or decisions made at international conferences.",
+  },
+
+  {
+    id: "polity-042",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "The Lokpal and Lokayuktas Act, 2013 refers to India's ratification of which international convention?",
+    options: [
+      { id: "a", text: "UN Convention Against Corruption" },
+      { id: "b", text: "UN Framework Convention on Climate Change" },
+      { id: "c", text: "Vienna Convention on Diplomatic Relations" },
+      { id: "d", text: "UN Convention on the Law of the Sea" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The Act's preamble records that India had ratified the United Nations Convention Against Corruption and refers to effective mechanisms to contain and punish corruption.",
+  },
+
+  {
+    id: "polity-043",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which statement about the India Against Corruption movement and the Lokpal law is most accurate?",
+    options: [
+      {
+        id: "a",
+        text: "The movement created Lokpal directly through the Constitution",
+      },
+      {
+        id: "b",
+        text: "The movement was an important catalyst for the eventual 2013 legislation",
+      },
+      { id: "c", text: "Lokpal was first conceived during the movement" },
+      { id: "d", text: "The movement itself constituted the Lokpal" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The India Against Corruption movement significantly increased public and political pressure for a strong Lokpal, but the idea of a Lokpal predates the movement and several Lokpal Bills had been introduced earlier.",
+  },
+
+  {
+    id: "polity-044",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following correctly identifies the broad jurisdictional distinction between Lokpal and Lokayukta?",
+    options: [
+      { id: "a", text: "Lokpal—Union; Lokayukta—State" },
+      { id: "b", text: "Lokpal—State; Lokayukta—Union" },
+      { id: "c", text: "Both operate only at the Union level" },
+      { id: "d", text: "Both operate only at the State level" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "Lokpal is the Union-level anti-corruption institution. Under Section 63, every State is required to establish a Lokayukta under State law.",
+  },
+
+  {
+    id: "polity-045",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which statement about the establishment of Lokayukta under the 2013 Act is correct?",
+    options: [
+      {
+        id: "a",
+        text: "The Union Government appoints the same Lokayukta for every State",
+      },
+      {
+        id: "b",
+        text: "Every State must establish a Lokayukta through a law made by its State Legislature",
+      },
+      {
+        id: "c",
+        text: "The President directly appoints all State Lokayuktas under Article 253",
+      },
+      { id: "d", text: "The Supreme Court establishes Lokayuktas" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Section 63 requires every State to establish a Lokayukta through a law made by the State Legislature. State Lokayukta arrangements therefore depend on State legislation.",
+  },
+
+  {
+    id: "polity-046",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following is included in the jurisdiction of the Lokpal under the 2013 Act?",
+    options: [
+      {
+        id: "a",
+        text: "Prime Minister, subject to statutory safeguards and exclusions",
+      },
+      { id: "b", text: "President without any statutory qualification" },
+      { id: "c", text: "Only Group A officers" },
+      { id: "d", text: "Only Members of Parliament" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "Section 14 includes the Prime Minister within Lokpal's jurisdiction, but special conditions and exclusions apply, including matters relating to international relations, external and internal security, public order, atomic energy and space.",
+  },
+
+  {
+    id: "polity-047",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following is NOT generally correct regarding the Prime Minister's coverage under the Lokpal Act?",
+    options: [
+      {
+        id: "a",
+        text: "The Prime Minister is within the statutory jurisdiction of Lokpal",
+      },
+      {
+        id: "b",
+        text: "Special safeguards apply to complaints against the Prime Minister",
+      },
+      { id: "c", text: "Certain specified subjects are excluded from inquiry" },
+      {
+        id: "d",
+        text: "The Prime Minister is completely outside Lokpal jurisdiction",
+      },
+    ],
+    correctOptionId: "d",
+    explanation:
+      "The Prime Minister is covered by Section 14, but complaints are subject to special safeguards and specified exclusions. Therefore, saying the PM is completely outside Lokpal jurisdiction is incorrect.",
+  },
+
+  {
+    id: "polity-048",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following is NOT the normal way to remember Lokpal's jurisdiction?",
+    options: [
+      { id: "a", text: "Prime Minister, subject to statutory safeguards" },
+      { id: "b", text: "Union Ministers" },
+      { id: "c", text: "Members of Parliament" },
+      {
+        id: "d",
+        text: "President as an ordinary Lokpal-jurisdiction category",
+      },
+    ],
+    correctOptionId: "d",
+    explanation:
+      "The Lokpal Act expressly covers specified categories such as the PM, Ministers, MPs and Central government officials. The President should not be memorized as an ordinary category under Section 14.",
+  },
+
+  {
+    id: "polity-049",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Under the Lokpal and Lokayuktas Act, the Lokpal's jurisdiction extends to Central Government officials belonging to which groups?",
+    options: [
+      { id: "a", text: "Only Group A" },
+      { id: "b", text: "Groups A and B only" },
+      { id: "c", text: "Groups A, B, C and D" },
+      { id: "d", text: "Only constitutional authorities" },
+    ],
+    correctOptionId: "c",
+    explanation:
+      "Section 14 includes officers and officials of the Central Government belonging to Groups A, B, C and D, subject to the statutory framework.",
+  },
+
+  {
+    id: "polity-050",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "The Lokpal consists of a Chairperson and a maximum of how many Members?",
+    options: [
+      { id: "a", text: "4 Members" },
+      { id: "b", text: "6 Members" },
+      { id: "c", text: "8 Members" },
+      { id: "d", text: "10 Members" },
+    ],
+    correctOptionId: "c",
+    explanation:
+      "The Lokpal consists of a Chairperson and not more than eight Members. Of the Members, 50% must be Judicial Members and at least 50% of the Members are to be from SC, ST, OBC, minorities and women.",
+  },
+
+  {
+    id: "polity-051",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "What is the composition requirement regarding Judicial Members of the Lokpal?",
+    options: [
+      { id: "a", text: "All Members must be Judicial Members" },
+      {
+        id: "b",
+        text: "At least half of the Members must be Judicial Members",
+      },
+      { id: "c", text: "There can be no Judicial Members" },
+      { id: "d", text: "Only the Chairperson must be a Judicial Member" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The Act provides that 50% of the Members of Lokpal shall be Judicial Members.",
+  },
+
+  {
+    id: "polity-052",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question: "Who appoints the Chairperson and Members of the Lokpal?",
+    options: [
+      { id: "a", text: "The Prime Minister alone" },
+      {
+        id: "b",
+        text: "The President, on the recommendation of the Selection Committee",
+      },
+      { id: "c", text: "The Chief Justice of India alone" },
+      { id: "d", text: "The Parliament by election" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The President appoints the Chairperson and Members of Lokpal on the recommendations of the statutory Selection Committee.",
+  },
+
+  {
+    id: "polity-053",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question: "Who is the Chairperson of the Lokpal Selection Committee?",
+    options: [
+      { id: "a", text: "President of India" },
+      { id: "b", text: "Prime Minister" },
+      { id: "c", text: "Chief Justice of India" },
+      { id: "d", text: "Speaker of Lok Sabha" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The Prime Minister is the Chairperson of the Lokpal Selection Committee.",
+  },
+
+  {
+    id: "polity-054",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following is NOT a member of the Lokpal Selection Committee?",
+    options: [
+      { id: "a", text: "Prime Minister" },
+      { id: "b", text: "Speaker of the Lok Sabha" },
+      { id: "c", text: "Leader of Opposition in the Lok Sabha" },
+      { id: "d", text: "Chief Election Commissioner" },
+    ],
+    correctOptionId: "d",
+    explanation:
+      "The Selection Committee includes the Prime Minister, Speaker of Lok Sabha, Leader of Opposition in Lok Sabha, Chief Justice of India or a Supreme Court Judge nominated by him, and an eminent jurist.",
+  },
+
+  {
+    id: "polity-055",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "The Lokpal Selection Committee includes which judicial representative?",
+    options: [
+      { id: "a", text: "Any High Court Chief Justice" },
+      {
+        id: "b",
+        text: "Chief Justice of India or a Supreme Court Judge nominated by him",
+      },
+      { id: "c", text: "Attorney General of India" },
+      { id: "d", text: "Chairperson of the Law Commission" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The Selection Committee includes the Chief Justice of India or a Judge of the Supreme Court nominated by the CJI.",
+  },
+
+  {
+    id: "polity-056",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question: "The term of office of the Lokpal Chairperson and Members is:",
+    options: [
+      { id: "a", text: "3 years or 65 years of age, whichever is earlier" },
+      { id: "b", text: "5 years or 70 years of age, whichever is earlier" },
+      { id: "c", text: "6 years with no age limit" },
+      { id: "d", text: "5 years or 65 years of age, whichever is later" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Section 6 provides a term of five years from entering office or until attaining 70 years of age, whichever is earlier.",
+  },
+
+  {
+    id: "polity-057",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which statement about the Lokpal's post-tenure employment is correct?",
+    options: [
+      {
+        id: "a",
+        text: "There are statutory restrictions on employment after leaving office",
+      },
+      {
+        id: "b",
+        text: "The Chairperson can immediately join any government office",
+      },
+      { id: "c", text: "There are no restrictions after retirement" },
+      {
+        id: "d",
+        text: "The President may waive every restriction automatically",
+      },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The Act contains restrictions on employment by the Chairperson and Members after ceasing to hold office, intended to protect institutional independence.",
+  },
+
+  {
+    id: "polity-058",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question: "Which institution has an Inquiry Wing under the Lokpal Act?",
+    options: [
+      { id: "a", text: "Lokpal" },
+      { id: "b", text: "Election Commission" },
+      { id: "c", text: "Finance Commission" },
+      { id: "d", text: "Inter-State Council" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The Act provides the Lokpal with an Inquiry Wing and also provides for a Prosecution Wing, giving it an institutional mechanism for dealing with corruption complaints.",
+  },
+
+  {
+    id: "polity-059",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which statement best describes the relationship between Lokpal and the CBI?",
+    options: [
+      { id: "a", text: "Lokpal and CBI are constitutionally identical bodies" },
+      {
+        id: "b",
+        text: "Lokpal can use the statutory investigative mechanism involving the CBI in cases under its jurisdiction",
+      },
+      { id: "c", text: "CBI has no role in cases referred by Lokpal" },
+      { id: "d", text: "Lokpal permanently replaces the CBI" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The Lokpal Act provides mechanisms through which investigation of cases can involve the CBI. Lokpal does not replace the CBI.",
+  },
+
+  {
+    id: "polity-060",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question: "Which statement correctly distinguishes Lokpal from the CVC?",
+    options: [
+      { id: "a", text: "Lokpal and CVC are the same institution" },
+      {
+        id: "b",
+        text: "Lokpal is the statutory anti-corruption ombudsman; CVC is a separate statutory vigilance institution",
+      },
+      {
+        id: "c",
+        text: "CVC is a constitutional body while Lokpal is a constitutional body",
+      },
+      { id: "d", text: "Lokpal deals only with State government employees" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Lokpal and CVC are separate statutory institutions with different legal frameworks and functions. Lokpal was created under the 2013 Act, while CVC is governed by the CVC Act, 2003.",
+  },
+
+  {
+    id: "polity-061",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following is a significant safeguard relating to complaints against the Prime Minister?",
+    options: [
+      { id: "a", text: "No complaint can ever be made against the PM" },
+      {
+        id: "b",
+        text: "Certain sensitive subjects are excluded and special procedural safeguards apply",
+      },
+      {
+        id: "c",
+        text: "Every complaint automatically becomes an investigation",
+      },
+      {
+        id: "d",
+        text: "The complaint is decided by Parliament without Lokpal",
+      },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The Act places special safeguards around complaints against the Prime Minister and excludes specified matters such as international relations, security, public order, atomic energy and space.",
+  },
+
+  {
+    id: "polity-062",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question: "Which of the following statements about Lokpal is correct?",
+    options: [
+      {
+        id: "a",
+        text: "It is a constitutional authority mentioned by name in Part XIV",
+      },
+      { id: "b", text: "It is a statutory body created by Parliament" },
+      { id: "c", text: "It is a judicial court under Article 32" },
+      {
+        id: "d",
+        text: "It is an executive department of the Ministry of Home Affairs",
+      },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Lokpal derives its existence from the Lokpal and Lokayuktas Act, 2013, making it a statutory institution.",
+  },
+
+  {
+    id: "polity-063",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which statement about the Lokayukta is most accurate for UPSC purposes?",
+    options: [
+      {
+        id: "a",
+        text: "There is one uniform Lokayukta institution with identical powers in every State",
+      },
+      {
+        id: "b",
+        text: "Every State must have a Lokayukta, but its detailed structure and powers are governed by State law",
+      },
+      {
+        id: "c",
+        text: "Lokayukta is directly controlled by the Union Government",
+      },
+      {
+        id: "d",
+        text: "Lokayukta is a constitutional body with identical powers nationwide",
+      },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Section 63 requires every State to establish a Lokayukta, but State legislation determines the detailed institutional structure and jurisdiction. Therefore, Lokayukta arrangements can differ between States.",
+  },
+
+  {
+    id: "polity-064",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following best captures the difference between Lokpal and Lokayukta?",
+    options: [
+      { id: "a", text: "Lokpal is Union-level; Lokayukta is State-level" },
+      { id: "b", text: "Lokpal is judicial; Lokayukta is legislative" },
+      { id: "c", text: "Lokpal handles taxation; Lokayukta handles elections" },
+      { id: "d", text: "Lokpal is constitutional; Lokayukta is executive" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The simplest memory rule is: LOKPAL → UNION; LOKAYUKTA → STATE. Both are anti-corruption ombudsman institutions within their respective spheres.",
+  },
+
+  {
+    id: "polity-065",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which statement correctly describes the legal status of the Lokpal and Lokayukta institutions?",
+    options: [
+      { id: "a", text: "Both are directly established by the Constitution" },
+      {
+        id: "b",
+        text: "Lokpal is statutory, while State Lokayuktas operate under State laws",
+      },
+      { id: "c", text: "Both are created by presidential order alone" },
+      { id: "d", text: "Both are constitutional courts" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Lokpal is established under the 2013 Central Act. Section 63 requires States to establish Lokayuktas through State legislation, so their detailed institutional arrangements vary.",
+  },
+
+  {
+    id: "polity-066",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which sequence correctly represents the broad evolution of the Lokpal idea?",
+    options: [
+      {
+        id: "a",
+        text: "Long-standing legislative proposals → public pressure including IAC → Lokpal and Lokayuktas Act, 2013",
+      },
+      { id: "b", text: "IAC movement → constitutional amendment → Lokpal" },
+      {
+        id: "c",
+        text: "Article 253 → Supreme Court judgment → Lokpal Constitution",
+      },
+      {
+        id: "d",
+        text: "Lokpal Constitution → IAC movement → repeal of the Constitution",
+      },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The Lokpal idea existed for decades through repeated legislative proposals. The India Against Corruption movement generated major public pressure, followed by enactment of the 2013 law.",
+  },
+
+  {
+    id: "polity-067",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Consider the following statements:\n\n1. Lokpal is a statutory body.\n2. Lokpal operates at the Union level.\n3. Lokayukta is the State-level counterpart.\n4. Lokpal has no jurisdiction over the Prime Minister.\n\nWhich of the statements given above are correct?",
+    options: [
+      { id: "a", text: "1, 2 and 3 only" },
+      { id: "b", text: "1 and 4 only" },
+      { id: "c", text: "2, 3 and 4 only" },
+      { id: "d", text: "1, 2, 3 and 4" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "Statements 1, 2 and 3 are correct. Statement 4 is incorrect because the Prime Minister is included within Lokpal jurisdiction, although important safeguards and exclusions apply.",
+  },
+
+  {
+    id: "polity-068",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "A student remembers 'Lokpal = State' and 'Lokayukta = Centre'. Which correction should be made?",
+    options: [
+      { id: "a", text: "Both terms refer only to the Union" },
+      { id: "b", text: "Lokpal = Union and Lokayukta = State" },
+      { id: "c", text: "Lokpal = judiciary and Lokayukta = legislature" },
+      { id: "d", text: "Lokpal = Centre and Lokayukta = international bodies" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "The essential memory correction is: LOKPAL → UNION; LOKAYUKTA → STATE.",
+  },
+
+  {
+    id: "polity-069",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which of the following is the most accurate one-line description of Lokpal?",
+    options: [
+      { id: "a", text: "A constitutional court for corruption cases" },
+      { id: "b", text: "A statutory Union-level anti-corruption ombudsman" },
+      { id: "c", text: "A State-level vigilance department" },
+      { id: "d", text: "A parliamentary committee on public expenditure" },
+    ],
+    correctOptionId: "b",
+    explanation:
+      "Lokpal is a statutory Union-level anti-corruption ombudsman established under the Lokpal and Lokayuktas Act, 2013.",
+  },
+
+  {
+    id: "polity-070",
+    subject: "Polity",
+    topic: "Lokpal and Lokayukta",
+    question:
+      "Which memory combination is most useful for revising the Lokpal and Lokayukta topic?",
+    options: [
+      {
+        id: "a",
+        text: "2013 Act + Union Lokpal + State Lokayukta + anti-corruption + 5 years/70 years",
+      },
+      {
+        id: "b",
+        text: "Article 356 + State Lokpal + Union Lokayukta + 10 years",
+      },
+      { id: "c", text: "Article 280 + Finance Commission + 65 years" },
+      { id: "d", text: "Article 324 + Election Commission + 6 years" },
+    ],
+    correctOptionId: "a",
+    explanation:
+      "The key revision chain is: Lokpal and Lokayuktas Act, 2013 → Lokpal for Union → Lokayukta for States → anti-corruption jurisdiction → tenure of 5 years or 70 years, whichever is earlier.",
+  },
 ];

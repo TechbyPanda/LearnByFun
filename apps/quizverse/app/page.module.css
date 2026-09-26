@@ -38,6 +38,27 @@
   cursor: default;
 }
 
+.subjectGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.topicList {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px 14px 8px 40px;
+}
+
+.topicItem {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #444;
+  cursor: pointer;
+}
+
 .subjectCount {
   margin-left: auto;
   font-size: 13px;
