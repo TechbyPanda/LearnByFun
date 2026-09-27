@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { questionsBySubject, type Subject } from "./mcq/data";
-import { testPapers } from "./mcq/testPapers";
+import { testPapers, type TestPaper } from "./mcq/testPapers";
 import { getResolvedQuestionCount } from "./mcq/lib/buildQuestionPool";
 import { getTopicsForSubject } from "./mcq/lib/topics";
 import { loadQuizConfig, saveQuizConfig } from "./mcq/lib/quizConfig";
@@ -191,38 +191,54 @@ export default function Home() {
       <h1 className={styles.title}>UPSC CSE Practice</h1>
       <p className={styles.subtitle}>Pick a mock test, or build your own.</p>
 
-      <div className={styles.paperList}>
-        {testPapers.map((paper) => {
-          const resolvedCount = getResolvedQuestionCount(paper.sections);
-          const breakdown = paper.sections
-            .map((section) => `${section.count} ${section.subject}`)
-            .join(" + ");
+      <MockTestList
+        testPapers={testPapers}
+        onStartTestPaper={handleStartTestPaper}
+        onCreateOwn={() => setView("manual")}
+      />
+    </div>
+  );
+}
 
-          return (
-            <button
-              key={paper.id}
-              className={styles.paperCard}
-              onClick={() => handleStartTestPaper(paper.id)}
-            >
-              <span className={styles.paperTitle}>{paper.title}</span>
-              <span className={styles.paperDescription}>{paper.description}</span>
-              <span className={styles.paperMeta}>
-                {breakdown} &middot; {resolvedCount} questions
-              </span>
-            </button>
-          );
-        })}
+type MockTestListProps = {
+  testPapers: TestPaper[];
+  onStartTestPaper: (paperId: string) => void;
+  onCreateOwn: () => void;
+};
 
-        <button
-          className={`${styles.paperCard} ${styles.paperCardManual}`}
-          onClick={() => setView("manual")}
-        >
-          <span className={styles.paperTitle}>Create Your Own Test</span>
-          <span className={styles.paperDescription}>
-            Pick subjects, topics, and question count yourself.
-          </span>
-        </button>
-      </div>
+function MockTestList({ testPapers, onStartTestPaper, onCreateOwn }: MockTestListProps) {
+  return (
+    <div className={styles.paperList}>
+      {testPapers.map((paper) => {
+        const resolvedCount = getResolvedQuestionCount(paper.sections);
+        const breakdown = paper.sections
+          .map((section) => `${section.count} ${section.subject}`)
+          .join(" + ");
+
+        return (
+          <button
+            key={paper.id}
+            className={styles.paperCard}
+            onClick={() => onStartTestPaper(paper.id)}
+          >
+            <span className={styles.paperTitle}>{paper.title}</span>
+            <span className={styles.paperDescription}>{paper.description}</span>
+            <span className={styles.paperMeta}>
+              {breakdown} &middot; {resolvedCount} questions
+            </span>
+          </button>
+        );
+      })}
+
+      <button
+        className={`${styles.paperCard} ${styles.paperCardManual}`}
+        onClick={onCreateOwn}
+      >
+        <span className={styles.paperTitle}>Create Your Own Test</span>
+        <span className={styles.paperDescription}>
+          Pick subjects, topics, and question count yourself.
+        </span>
+      </button>
     </div>
   );
 }
