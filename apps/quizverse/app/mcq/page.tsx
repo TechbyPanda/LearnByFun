@@ -4,6 +4,8 @@ import { Suspense, useMemo, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { MCQOption, MCQQuestion, questionsBySubject, type Subject } from "./data";
+import { testPapers } from "./testPapers";
+import { buildQuestionPool } from "./lib/buildQuestionPool";
 import { shuffleArray } from "./lib/shuffle";
 import { playSelectSound, playFinishSound } from "./sounds";
 import styles from "./page.module.css";
@@ -20,6 +22,13 @@ function useQuizQuestions(): MCQQuestion[] {
   const searchParams = useSearchParams();
 
   return useMemo(() => {
+    const paperId = searchParams.get("paperId");
+    if (paperId) {
+      const paper = testPapers.find((p) => p.id === paperId);
+      if (!paper) return [];
+      return buildQuestionPool(paper.sections, paper.shuffle);
+    }
+
     const topicsParam = searchParams.get("topics");
     const countParam = searchParams.get("count");
     const shuffleParam = searchParams.get("shuffle") === "true";

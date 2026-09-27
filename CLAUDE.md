@@ -14,8 +14,9 @@ Guidance for working in this repo (`learn-by-fun`, a Turborepo/Next.js app). Fol
 
 - `apps/quizverse/app/` — Next.js App Router pages.
 - `apps/quizverse/app/mcq/data/` — question bank, one file per subject + `types.ts` + `index.ts` aggregator.
-- `apps/quizverse/app/mcq/lib/` — pure helpers (shuffling, localStorage config persistence).
-- No backend/API — quiz configuration is passed via URL query params and the last-used config is cached in `localStorage`.
+- `apps/quizverse/app/mcq/testPapers/` — predefined mock test definitions (id, title, section list of `{subject, topics?, count}`), same `types.ts` + `index.ts` pattern as `data/`. Add a new mock test by adding one entry here — never by editing `page.tsx`.
+- `apps/quizverse/app/mcq/lib/` — pure helpers (shuffling, question-pool building from sections, topic lookup, localStorage config persistence).
+- No backend/API — quiz configuration (manual topic picks, or a `paperId` referencing a test paper) is passed via URL query params; the last-used manual config is cached in `localStorage`.
 
 ## Commands
 
