@@ -1,161 +1,154 @@
 .page {
-  max-width: 560px;
+  min-height: calc(100vh - 57px);
+  padding: 88px 32px 96px;
+  background-color: #f4f6f2;
+  background-image: linear-gradient(rgba(31, 63, 45, 0.035) 1px, transparent 1px);
+  background-size: 100% 44px;
+}
+
+.content {
+  width: min(100%, 1040px);
   margin: 0 auto;
-  padding: 48px 24px;
-  font-family: var(--font-geist-sans);
+}
+
+.eyebrow {
+  margin: 0 0 18px;
+  color: #416b50;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
 }
 
 .title {
-  font-size: 26px;
-  font-weight: 700;
-  margin-bottom: 8px;
+  margin: 0;
+  color: #17231d;
+  font-size: 56px;
+  font-weight: 750;
+  line-height: 1.05;
 }
 
 .subtitle {
-  color: #666;
-  margin-bottom: 24px;
+  max-width: 480px;
+  margin: 18px 0 44px;
+  color: #45534a;
+  font-size: 18px;
+  line-height: 1.6;
 }
 
-.subjectList {
+.cardList {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.card {
   display: flex;
   flex-direction: column;
-  gap: 8px;
-  margin-bottom: 24px;
-}
-
-.subjectItem {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 10px 14px;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  cursor: pointer;
-}
-
-.subjectItemDisabled {
-  opacity: 0.5;
-  cursor: default;
-}
-
-.subjectGroup {
-  display: flex;
-  flex-direction: column;
-}
-
-.topicList {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  padding: 8px 14px 8px 40px;
-}
-
-.topicItem {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 14px;
-  color: #444;
-  cursor: pointer;
-}
-
-.subjectCount {
-  margin-left: auto;
-  font-size: 13px;
-  color: #888;
-}
-
-.field {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin-bottom: 16px;
-}
-
-.field input[type="number"] {
-  width: 80px;
-  padding: 6px 10px;
-  border: 1px solid #ccc;
+  align-items: flex-start;
+  min-height: 250px;
+  padding: 28px;
+  border: 1px solid #c9d3cb;
   border-radius: 6px;
-  font-size: 15px;
+  color: #17231d;
+  text-decoration: none;
+  transition: transform 160ms ease, border-color 160ms ease, background-color 160ms ease;
 }
 
-.hint {
-  font-size: 13px;
-  color: #888;
-}
-
-.startButton {
-  width: 100%;
-  padding: 12px 20px;
-  border-radius: 8px;
-  border: none;
-  background: #111;
+.quizCard {
+  border-color: #244c36;
+  background: #244c36;
   color: #fff;
-  font-size: 16px;
-  cursor: pointer;
-  margin-top: 8px;
 }
 
-.startButton:disabled {
-  opacity: 0.4;
-  cursor: default;
+.flashcardCard {
+  background: rgba(255, 255, 255, 0.82);
 }
 
-.backLink {
-  display: inline-block;
-  background: none;
-  border: none;
-  padding: 0;
-  margin-bottom: 16px;
-  color: #666;
+.card:hover {
+  transform: translateY(-3px);
+}
+
+.quizCard:hover {
+  border-color: #356749;
+  background: #2b5a40;
+}
+
+.flashcardCard:hover {
+  border-color: #416b50;
+  background: #fff;
+}
+
+.card:focus-visible {
+  outline: 3px solid #d28d39;
+  outline-offset: 4px;
+}
+
+.cardIndex {
+  margin-bottom: 34px;
+  color: #a6c9ae;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+}
+
+.flashcardCard .cardIndex {
+  color: #416b50;
+}
+
+.cardTitle {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.cardDescription {
+  max-width: 360px;
+  margin-top: 10px;
+  color: #dce8de;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.flashcardCard .cardDescription {
+  color: #45534a;
+}
+
+.cardAction {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: auto;
+  padding-top: 28px;
+  color: #fff;
   font-size: 14px;
-  cursor: pointer;
-}
-
-.backLink:hover {
-  color: #111;
-}
-
-.paperList {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.paperCard {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  text-align: left;
-  padding: 16px;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  background: transparent;
-  cursor: pointer;
-  font-family: inherit;
-}
-
-.paperCard:hover {
-  border-color: #888;
-}
-
-.paperCardManual {
-  border-style: dashed;
-}
-
-.paperTitle {
-  font-size: 16px;
   font-weight: 700;
 }
 
-.paperDescription {
-  font-size: 14px;
-  color: #666;
+.flashcardCard .cardAction {
+  color: #416b50;
 }
 
-.paperMeta {
-  font-size: 13px;
-  color: #888;
-  margin-top: 4px;
+@media (max-width: 640px) {
+  .page {
+    min-height: calc(100vh - 57px);
+    padding: 56px 20px 64px;
+  }
+
+  .title {
+    font-size: 44px;
+  }
+
+  .subtitle {
+    margin-bottom: 32px;
+    font-size: 16px;
+  }
+
+  .cardList {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    min-height: 220px;
+    padding: 24px;
+  }
 }

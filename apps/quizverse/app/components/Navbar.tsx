@@ -7,6 +7,14 @@ export default function Navbar() {
       <Link href="/" className={styles.brand}>
         Quizverse
       </Link>
+      <nav className={styles.links}>
+        <Link href="/quiz" className={styles.link}>
+          Quiz
+        </Link>
+        <Link href="/flashcard" className={styles.link}>
+          Flashcards
+        </Link>
+      </nav>
     </header>
   );
 }

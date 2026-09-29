@@ -1,0 +1,15 @@
+:root {
+	color-scheme: light;
+	color: #17231d;
+	background: #f4f6f2;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	font-family: var(--font-geist-sans), sans-serif;
+}
