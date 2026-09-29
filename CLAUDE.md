@@ -15,11 +15,12 @@ Guidance for working in this repo (`learn-by-fun`, a Turborepo/Next.js app). Fol
 - `apps/quizverse/app/` — Next.js App Router pages.
 - `apps/quizverse/app/page.tsx` — landing page, links out to `/quiz` and `/flashcard`.
 - `apps/quizverse/app/quiz/` — the quiz dashboard (mock test list + manual setup), which starts a quiz at `/mcq`.
-- `apps/quizverse/app/flashcard/` — flashcard mode (placeholder for now).
+- `apps/quizverse/app/flashcard/` — flashcard mode: `page.tsx` is the subject/topic picker (mirrors the quiz manual picker), `study/page.tsx` renders the filtered flashcards as a flip-card grid.
 - `apps/quizverse/app/mcq/data/` — question bank, one file per subject + `types.ts` + `index.ts` aggregator.
 - `apps/quizverse/app/mcq/testPapers/` — predefined mock test definitions (id, title, section list of `{subject, topics?, count}`), same `types.ts` + `index.ts` pattern as `data/`. Add a new mock test by adding one entry here — never by editing `page.tsx`.
 - `apps/quizverse/app/mcq/lib/` — pure helpers (shuffling, question-pool building from sections, topic lookup, localStorage config persistence).
-- No backend/API — quiz configuration (manual topic picks, or a `paperId` referencing a test paper) is passed via URL query params; the last-used manual config is cached in `localStorage`.
+- `apps/quizverse/app/flashcard/data/` — flashcard content, same one-file-per-subject + `types.ts` + `index.ts` pattern as `mcq/data/`, but with its own `Flashcard` shape (`front`/`back`) since a flashcard isn't a 4-option MCQ. `flashcard/lib/` holds its own pure helpers (e.g. topic lookup) — flashcard and quiz content/logic stay independent even though the folder layout mirrors each other.
+- No backend/API — quiz configuration (manual topic picks, or a `paperId` referencing a test paper) and flashcard topic selection are both passed via URL query params; the last-used manual quiz config is cached in `localStorage`.
 
 ## Commands
 

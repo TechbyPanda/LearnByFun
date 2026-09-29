@@ -1,0 +1,232 @@
+.page {
+  width: min(100%, 1200px);
+  margin: 0 auto;
+  padding: 32px 32px 72px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 38px;
+}
+
+.backLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #416b50;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.backLink:hover {
+  color: #244c36;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.count {
+  margin: 0;
+  font-size: 14px;
+  color: #45534a;
+}
+
+.count strong {
+  color: #17231d;
+  font-size: 18px;
+}
+
+.intro {
+  margin-bottom: 28px;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  color: #416b50;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+}
+
+.title {
+  margin: 0;
+  color: #17231d;
+  font-size: 34px;
+  line-height: 1.2;
+}
+
+.subtitle {
+  margin: 10px 0 0;
+  color: #45534a;
+  font-size: 15px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr));
+  gap: 16px;
+}
+
+.cardOuter {
+  perspective: 1200px;
+  height: 270px;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.cardOuter:focus-visible {
+  outline: 3px solid #d28d39;
+  outline-offset: 4px;
+}
+
+.cardInner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  transition: transform 420ms ease;
+  transform-style: preserve-3d;
+}
+
+.cardFlipped {
+  transform: rotateY(180deg);
+}
+
+.face {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 22px;
+  border: 1px solid #c9d3cb;
+  border-radius: 6px;
+  backface-visibility: hidden;
+  text-align: left;
+}
+
+.faceFront {
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(23, 35, 29, 0.05);
+}
+
+.faceBack {
+  border-color: #244c36;
+  background: #244c36;
+  color: #fff;
+  transform: rotateY(180deg);
+}
+
+.faceMeta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.faceLabel {
+  color: #416b50;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.faceBack .faceLabel {
+  color: #bdd8c3;
+}
+
+.topic {
+  overflow: hidden;
+  color: #526158;
+  font-size: 12px;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.faceBack .topic {
+  color: #e0ece2;
+}
+
+.text {
+  max-height: 174px;
+  margin: auto 0;
+  overflow: auto;
+  color: #17231d;
+  font-size: 17px;
+  font-weight: 550;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
+}
+
+.faceBack .text {
+  color: #fff;
+  font-weight: 450;
+}
+
+.cardNumber,
+.flipHint {
+  color: #68766d;
+  font-size: 12px;
+}
+
+.flipHint {
+  color: #d1e3d5;
+}
+
+.empty {
+  text-align: center;
+  margin-top: 80px;
+  color: #17231d;
+}
+
+.backButton {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-top: 16px;
+  padding: 0 18px;
+  border-radius: 4px;
+  background: #244c36;
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.backButton:focus-visible {
+  outline: 3px solid #d28d39;
+  outline-offset: 3px;
+}
+
+@media (max-width: 600px) {
+  .page {
+    padding: 24px 20px 48px;
+  }
+
+  .header {
+    margin-bottom: 30px;
+  }
+
+  .title {
+    font-size: 30px;
+  }
+
+  .cardOuter {
+    height: 250px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cardInner {
+    transition: none;
+  }
+}
