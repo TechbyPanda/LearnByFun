@@ -18,6 +18,13 @@ export const testPapers: TestPaper[] = [
     shuffle: true,
   },
   {
+    id: "environment-mock-10",
+    title: "Environment Mock Test",
+    description: "A focused mock test covering Environment and Ecology.",
+    sections: [{ subject: "Environment", count: 10 }],
+    shuffle: true,
+  },
+  {
     id: "polity-economy-mixed-20",
     title: "Polity + Economy Combined",
     description: "A balanced mock test mixing Polity and Economy questions.",
