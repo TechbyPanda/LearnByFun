@@ -303,7 +303,7 @@ const ReviewScreen = ({
         </p>
         <div className={styles.resultActions}>
           <Button onClick={handleRestart}>Restart</Button>
-          <Link className={styles.button} href="/">
+          <Link className={styles.button} href="/quiz">
             New Quiz
           </Link>
         </div>

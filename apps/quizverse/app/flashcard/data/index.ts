@@ -1,6 +1,7 @@
 import type { Flashcard, Subject } from "./types";
 import { polityFlashcards } from "./polity";
 import { economyFlashcards } from "./economy";
+import { environmentFlashCards } from "./environment";
 
 export * from "./types";
 
@@ -10,7 +11,7 @@ export const flashcardsBySubject: Record<Subject, Flashcard[]> = {
   Polity: polityFlashcards,
   Economy: economyFlashcards,
   "Science & Technology": [],
-  Environment: [],
+  Environment: environmentFlashCards,
   Geography: [],
   History: [],
   "Art & Culture": [],
@@ -18,4 +19,4 @@ export const flashcardsBySubject: Record<Subject, Flashcard[]> = {
   "Current Affairs": [],
 };
 
-export { polityFlashcards, economyFlashcards };
+export { polityFlashcards, economyFlashcards, environmentFlashCards };
