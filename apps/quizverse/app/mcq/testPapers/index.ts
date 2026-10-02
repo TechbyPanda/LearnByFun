@@ -78,6 +78,24 @@ export const testPapers: TestPaper[] = [
 
   // Topic drills — go deep on one theme
   {
+    id: "drill-historical-background",
+    title: "Drill — Historical Background",
+    description: "Laxmikanth Ch. 1: Company Rule, Crown Rule and the road to Independence.",
+    category: "Topic Drill",
+    sections: [
+      {
+        subject: "Polity",
+        topics: [
+          "Historical Background – Company Rule (1773–1858)",
+          "Historical Background – Crown Rule (1858–1947)",
+          "Historical Background – Independence & First Governments",
+        ],
+        count: 25,
+      },
+    ],
+    shuffle: true,
+  },
+  {
     id: "drill-lokpal",
     title: "Drill — Lokpal & Lokayukta",
     description: "Anti-corruption institutions, powers and jurisdiction.",

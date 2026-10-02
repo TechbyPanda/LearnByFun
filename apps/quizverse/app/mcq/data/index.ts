@@ -1,5 +1,6 @@
 import type { MCQQuestion, Subject } from "./types";
 import { polityQuestions } from "./polity";
+import { polityHistoryQuestions } from "./polityHistory";
 import { economyQuestions } from "./economy";
 import { environmentQuestions } from "./environment";
 
@@ -7,12 +8,13 @@ export * from "./types";
 
 export const allQuestions: MCQQuestion[] = [
   ...polityQuestions,
+  ...polityHistoryQuestions,
   ...economyQuestions,
   ...environmentQuestions,
 ];
 
 export const questionsBySubject: Record<Subject, MCQQuestion[]> = {
-  Polity: polityQuestions,
+  Polity: [...polityQuestions, ...polityHistoryQuestions],
   Economy: economyQuestions,
   "Science & Technology": [],
   Environment: environmentQuestions,
