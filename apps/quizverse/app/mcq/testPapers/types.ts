@@ -6,10 +6,13 @@ export interface TestPaperSection {
   count: number;
 }
 
+export type TestPaperCategory = "Quick" | "Full Length" | "Subject" | "Topic Drill";
+
 export interface TestPaper {
   id: string;
   title: string;
   description: string;
+  category: TestPaperCategory;
   sections: TestPaperSection[];
   shuffle: boolean;
 }

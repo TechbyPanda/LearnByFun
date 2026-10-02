@@ -11,7 +11,7 @@ export function useQuizSession(initialQuestions: MCQQuestion[]) {
   const [flagged, setFlagged] = useState<boolean[]>(() =>
     new Array(initialQuestions.length).fill(false),
   );
-  const [instantFeedback, setInstantFeedback] = useState(true);
+  const [instantFeedback, setInstantFeedback] = useState(false);
   const [isFinished, setIsFinished] = useState(false);
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
 

@@ -13,7 +13,15 @@ export function useQuizQuestions(): MCQQuestion[] {
     if (paperId) {
       const paper = testPapers.find((p) => p.id === paperId);
       if (!paper) return [];
-      return buildQuestionPool(paper.sections, paper.shuffle);
+
+      // Optional overrides from the paper launch panel.
+      const overrideShuffle = searchParams.get("shuffle");
+      const overrideCount = parseInt(searchParams.get("count") ?? "", 10);
+      return buildQuestionPool(
+        paper.sections,
+        overrideShuffle === null ? paper.shuffle : overrideShuffle === "true",
+        Number.isFinite(overrideCount) && overrideCount > 0 ? overrideCount : undefined,
+      );
     }
 
     const topicsParam = searchParams.get("topics");
