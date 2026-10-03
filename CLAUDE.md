@@ -15,7 +15,9 @@ Guidance for working in this repo (`learn-by-fun`, a Turborepo/Next.js app). Fol
 - `apps/quizverse/app/` — Next.js App Router pages.
 - `apps/quizverse/app/page.tsx` — landing page, links out to `/quiz` and `/flashcard`.
 - `apps/quizverse/app/quiz/` — the quiz dashboard (mock test list + manual setup), which starts a quiz at `/mcq`.
-- `apps/quizverse/app/flashcard/` — flashcard mode: `page.tsx` is the subject/topic picker (mirrors the quiz manual picker), `study/page.tsx` renders the filtered flashcards as a flip-card grid.
+- `apps/quizverse/app/components/` — UI shared across features, one folder per component (`LinkCard/`, `SegmentedControl/`) with its own CSS module. `apps/quizverse/app/lib/` — pure helpers shared across features (`shuffle.ts`, `topics.ts`). Don't copy a helper into a feature folder; promote it here.
+- `apps/quizverse/app/flashcard/` — flashcard mode: `page.tsx` switches between ready-made sessions (`components/SessionList`) and the custom builder (`components/CustomBuilder`, state in `hooks/useCardSelection`). `study/page.tsx` resolves the URL to a deck and renders `study/components/StudySession` (one card at a time; state in `study/hooks/useStudySession`).
+- `apps/quizverse/app/flashcard/sessions/` — ready-made flashcard sessions (subject mixes, topic drills), same `types.ts` + `index.ts` pattern as `mcq/testPapers/`. Add a session by adding one entry — never by editing a page.
 - `apps/quizverse/app/mcq/data/` — question bank, one file per subject + `types.ts` + `index.ts` aggregator.
 - `apps/quizverse/app/mcq/testPapers/` — predefined mock test definitions (id, title, section list of `{subject, topics?, count}`), same `types.ts` + `index.ts` pattern as `data/`. Add a new mock test by adding one entry here — never by editing `page.tsx`.
 - `apps/quizverse/app/mcq/lib/` — pure helpers (shuffling, question-pool building from sections, topic lookup, localStorage config persistence).

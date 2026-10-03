@@ -3,7 +3,7 @@ import { useSearchParams } from "next/navigation";
 import { MCQQuestion, questionsBySubject, type Subject } from "../data";
 import { testPapers } from "../testPapers";
 import { buildQuestionPool } from "../lib/buildQuestionPool";
-import { shuffleArray } from "../lib/shuffle";
+import { shuffleArray } from "../../lib/shuffle";
 
 export function useQuizQuestions(): MCQQuestion[] {
   const searchParams = useSearchParams();

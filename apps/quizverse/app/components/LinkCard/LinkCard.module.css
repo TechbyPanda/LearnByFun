@@ -1,0 +1,100 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 250px;
+  padding: 28px;
+  border: 1px solid #c9d3cb;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.82);
+  color: #17231d;
+  text-decoration: none;
+  transition: transform 160ms ease, border-color 160ms ease, background-color 160ms ease;
+}
+
+.card[data-variant="filled"] {
+  border-color: #244c36;
+  background: #244c36;
+  color: #fff;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+.card[data-variant="outline"]:hover {
+  border-color: #416b50;
+  background: #fff;
+}
+
+.card[data-variant="filled"]:hover {
+  border-color: #356749;
+  background: #2b5a40;
+}
+
+.card:focus-visible {
+  outline: 3px solid #d28d39;
+  outline-offset: 4px;
+}
+
+.index {
+  margin-bottom: 34px;
+  color: #416b50;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.description {
+  max-width: 360px;
+  margin-top: 10px;
+  color: #45534a;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.action {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: auto;
+  padding-top: 28px;
+  color: #416b50;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.card[data-variant="filled"] .index {
+  color: #a6c9ae;
+}
+
+.card[data-variant="filled"] .description {
+  color: #dce8de;
+}
+
+.card[data-variant="filled"] .action {
+  color: #fff;
+}
+
+@media (max-width: 640px) {
+  .card {
+    min-height: 220px;
+    padding: 24px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: none;
+  }
+
+  .card:hover {
+    transform: none;
+  }
+}

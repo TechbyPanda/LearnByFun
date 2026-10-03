@@ -1,0 +1,53 @@
+.control {
+  display: inline-flex;
+  border: 1px solid #c9d3cb;
+  border-radius: 6px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.segment {
+  min-width: 48px;
+  min-height: 36px;
+  padding: 0 14px;
+  border: 0;
+  border-right: 1px solid #e0e6e0;
+  background: transparent;
+  color: #34443a;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.segment:last-child {
+  border-right: 0;
+}
+
+.segment[aria-pressed="true"] {
+  background: #244c36;
+  color: #fff;
+}
+
+.segment:focus-visible {
+  outline: 2px solid #d28d39;
+  outline-offset: -2px;
+}
+
+.control[data-size="md"] .segment {
+  min-height: 42px;
+  padding: 0 20px;
+  font-size: 14px;
+}
+
+@media (max-width: 700px) {
+  .control[data-size="md"] {
+    display: flex;
+    width: 100%;
+  }
+
+  .control[data-size="md"] .segment {
+    flex: 1;
+    padding: 0 8px;
+  }
+}

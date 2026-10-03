@@ -1,6 +1,6 @@
 import { questionsBySubject, type MCQQuestion } from "../data";
 import type { TestPaperSection } from "../testPapers";
-import { shuffleArray } from "./shuffle";
+import { shuffleArray } from "../../lib/shuffle";
 
 function getSectionQuestions(section: TestPaperSection): MCQQuestion[] {
   const subjectQuestions = questionsBySubject[section.subject] ?? [];

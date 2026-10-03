@@ -1,0 +1,158 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 18px;
+}
+
+.backLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #416b50;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.backLink:hover {
+  color: #244c36;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.count {
+  margin: 0;
+  font-size: 14px;
+  color: #45534a;
+}
+
+.count strong {
+  color: #17231d;
+  font-size: 18px;
+}
+
+.progress {
+  height: 8px;
+  border-radius: 999px;
+  background: #dfe6e0;
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #416b50, #d28d39);
+  transition: width 320ms ease;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 16px;
+  min-height: 28px;
+  margin: 14px 0 22px;
+  font-size: 13px;
+  font-weight: 650;
+}
+
+.known {
+  color: #244c36;
+}
+
+.missed {
+  color: #8a5a1c;
+}
+
+.streak {
+  margin-left: auto;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: #fbefd9;
+  color: #8a5a1c;
+  animation: pop 260ms ease;
+}
+
+.rateRow {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 20px;
+  transition: opacity 200ms ease, transform 200ms ease;
+}
+
+.rateRow[data-visible="false"] {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(6px);
+}
+
+.again,
+.gotIt {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 52px;
+  border-radius: 6px;
+  font: inherit;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.again {
+  border: 1px solid #d28d39;
+  background: #fff;
+  color: #8a5a1c;
+}
+
+.again:hover {
+  background: #fbefd9;
+}
+
+.gotIt {
+  border: 1px solid #244c36;
+  background: #244c36;
+  color: #fff;
+}
+
+.gotIt:hover {
+  background: #2b5a40;
+}
+
+.again:focus-visible,
+.gotIt:focus-visible {
+  outline: 3px solid #d28d39;
+  outline-offset: 3px;
+}
+
+.rateRow kbd {
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: rgba(0, 0, 0, 0.08);
+  font: inherit;
+  font-size: 12px;
+}
+
+.gotIt kbd {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+@keyframes pop {
+  from {
+    transform: scale(0.8);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progressFill,
+  .rateRow {
+    transition: none;
+  }
+
+  .streak {
+    animation: none;
+  }
+}

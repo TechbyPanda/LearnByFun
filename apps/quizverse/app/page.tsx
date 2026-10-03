@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { LinkCard } from "./components/LinkCard";
 import styles from "./page.module.css";
 
 export default function Home() {
@@ -12,25 +12,21 @@ export default function Home() {
         </p>
 
         <div className={styles.cardList}>
-          <Link href="/quiz" className={`${styles.card} ${styles.quizCard}`}>
-            <span className={styles.cardIndex}>01 / PRACTICE</span>
-            <span className={styles.cardTitle}>Quiz</span>
-            <span className={styles.cardDescription}>
-              Mock tests or a quiz you configure yourself.
-            </span>
-            <span className={styles.cardAction}>
-              Choose a quiz <span aria-hidden="true">-&gt;</span>
-            </span>
-          </Link>
-
-          <Link href="/flashcard" className={`${styles.card} ${styles.flashcardCard}`}>
-            <span className={styles.cardIndex}>02 / REVIEW</span>
-            <span className={styles.cardTitle}>Flashcards</span>
-            <span className={styles.cardDescription}>
-              A new way to review is on its way.
-            </span>
-            <span className={styles.cardAction}>Coming soon</span>
-          </Link>
+          <LinkCard
+            href="/quiz"
+            index="01 / PRACTICE"
+            title="Quiz"
+            description="Mock tests or a quiz you configure yourself."
+            actionLabel="Choose a quiz"
+            variant="filled"
+          />
+          <LinkCard
+            href="/flashcard"
+            index="02 / REVIEW"
+            title="Flashcards"
+            description="Ready-made sessions or your own mix, one card at a time."
+            actionLabel="Choose a session"
+          />
         </div>
       </div>
     </main>
