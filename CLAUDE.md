@@ -10,6 +10,15 @@ Guidance for working in this repo (`learn-by-fun`, a Turborepo/Next.js app). Fol
 - **Interface Segregation**: component props should expose only what that component needs (e.g. `Option` takes `currentQuestion`/`selectedOptionId`/`handleSelectOption`, not the whole quiz state). Don't pass down large config objects when a component only needs a few fields.
 - **Dependency Inversion**: pages and components depend on the `Subject`/`MCQQuestion`/`questionsBySubject` abstractions exported from `data/index.ts`, never importing a specific subject file (e.g. `./data/polity`) directly.
 
+## Feature independence
+
+Quiz (`mcq/` + `quiz/`), flashcards (`flashcard/`) and Quick Match (`match/`) are three separate products that each own their data, types and code. Editing one must never affect another.
+
+- **The only link between them is a topic name** (free text, e.g. `"Fundamental Rights"`, and the `Subject` union in `app/lib/subject.ts`). Never import another feature's data, types, components or hooks, and never reference its ids.
+- **Shared code lives only in `app/lib/` and `app/components/`** (pure helpers, generic UI). If two features need the same helper, promote it there instead of importing across features.
+- **`learn/` is the one deliberate integrator** and is the only folder allowed to import from the others.
+- This is enforced: `npm run lint` runs `scripts/check-boundaries.mjs` (also available as `npm run lint:boundaries`) and fails on any forbidden import. Update its `FORBIDDEN` map if you add a feature folder.
+
 ## Project structure
 
 - `apps/quizverse/app/` — Next.js App Router pages.
@@ -19,6 +28,7 @@ Guidance for working in this repo (`learn-by-fun`, a Turborepo/Next.js app). Fol
 - `apps/quizverse/app/flashcard/` — flashcard mode: `page.tsx` switches between ready-made sessions (`components/SessionList`) and the custom builder (`components/CustomBuilder`, state in `hooks/useCardSelection`). `study/page.tsx` resolves the URL to a deck and renders `study/components/StudySession` (one card at a time; state in `study/hooks/useStudySession`).
 - `apps/quizverse/app/learn/` — microlearning ("bites"). `page.tsx` is the daily dashboard (goal ring, streak, up-next, paths); `bite/page.tsx` runs one bite (`?id=`, optional `&mode=refresh`) through learn -> recall -> check (`hooks/useBiteFlow`). `bites/` holds the content, one file per subject plus `types.ts` + `index.ts`; a bite only *references* existing flashcard and MCQ ids, so after adding bites run a reference check with `findBrokenReferences(allBites)` from `lib/content.ts`. Progress (completed bites, per-day activity) lives in localStorage via `hooks/useLearnProgress`; `lib/progress.ts` and `lib/schedule.ts` are pure (streaks, 1/3/7-day refreshers, up-next).
 - `apps/quizverse/app/flashcard/sessions/` — ready-made flashcard sessions (subject mixes, topic drills), same `types.ts` + `index.ts` pattern as `mcq/testPapers/`. Add a session by adding one entry — never by editing a page.
+- `apps/quizverse/app/match/` — Quick Match, a timed match-the-column puzzle (which Article belongs to which provision). `page.tsx` picks a set and Timed/Relaxed mode; `play/page.tsx` plays rounds (`?set=<id>&mode=relaxed`) through `hooks/useMatchGame` (rounds, retries, best times) and `hooks/useMatchRound` (selection, +3s penalty, clock). `data/` holds the content, one file per subject plus `types.ts` + `index.ts`: add a set by adding an entry, never by editing a page. Its data is fully independent of `mcq/data` and `flashcard/data`. Pure logic is in `lib/round.ts`; best times live in localStorage.
 - `apps/quizverse/app/mcq/data/` — question bank, one file per subject + `types.ts` + `index.ts` aggregator.
 - `apps/quizverse/app/mcq/testPapers/` — predefined mock test definitions (id, title, section list of `{subject, topics?, count}`), same `types.ts` + `index.ts` pattern as `data/`. Add a new mock test by adding one entry here — never by editing `page.tsx`.
 - `apps/quizverse/app/mcq/lib/` — pure helpers (shuffling, question-pool building from sections, topic lookup, localStorage config persistence).
@@ -29,4 +39,4 @@ Guidance for working in this repo (`learn-by-fun`, a Turborepo/Next.js app). Fol
 
 - `npm run dev` — start dev server
 - `npm run check-types` — type-check all packages
-- `npm run lint` — lint all packages
+- `npm run lint` — lint all packages. Note: the shared ESLint config only lints `.js`/`.mjs` files, **not `.ts`/`.tsx`**, so rely on `npm run check-types` for TypeScript correctness. `lint` also runs the feature-boundary check.

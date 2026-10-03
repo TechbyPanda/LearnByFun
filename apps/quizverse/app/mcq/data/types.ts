@@ -1,13 +1,6 @@
-export type Subject =
-  | "Polity"
-  | "Economy"
-  | "Science & Technology"
-  | "Environment"
-  | "Geography"
-  | "History"
-  | "Art & Culture"
-  | "International Relations"
-  | "Current Affairs";
+import type { Subject } from "../../lib/subject";
+
+export type { Subject };
 
 export interface MCQOption {
   id: string;

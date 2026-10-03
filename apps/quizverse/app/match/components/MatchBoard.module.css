@@ -1,0 +1,28 @@
+.board {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.7fr);
+  align-items: start;
+  gap: 16px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+}
+
+.heading {
+  margin: 0 0 2px;
+  color: #416b50;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 600px) {
+  .board {
+    gap: 10px;
+  }
+}

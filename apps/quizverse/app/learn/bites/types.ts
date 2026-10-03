@@ -1,4 +1,4 @@
-import type { Subject } from "../../mcq/data/types";
+import type { Subject } from "../../lib/subject";
 
 /** One idea, about three minutes: learn it, recall it, then check it. */
 export interface Bite {

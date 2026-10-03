@@ -1,0 +1,25 @@
+.status {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 42px;
+}
+
+.relaxed {
+  color: #416b50;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.progress {
+  color: #526158;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.hint {
+  margin: 4px 0 18px;
+  color: #45534a;
+  font-size: 14px;
+}

@@ -1,4 +1,4 @@
-import type { Subject } from "../../mcq/data/types";
+import type { Subject } from "../../lib/subject";
 
 export type { Subject };
 

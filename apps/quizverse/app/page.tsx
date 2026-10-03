@@ -34,6 +34,13 @@ export default function Home() {
             description="One idea, about three minutes. Build a streak a little at a time."
             actionLabel="Start a bite"
           />
+          <LinkCard
+            href="/match"
+            index="04 / DRILL"
+            title="Quick Match"
+            description="Race the clock to pair each Article with what it says."
+            actionLabel="Start matching"
+          />
         </div>
       </div>
     </main>

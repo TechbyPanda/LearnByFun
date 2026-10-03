@@ -1,0 +1,18 @@
+.badge {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.time {
+  color: #17231d;
+  font-size: 28px;
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+
+.penalty {
+  color: #b3422f;
+  font-size: 13px;
+  font-weight: 650;
+}

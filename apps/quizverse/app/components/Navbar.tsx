@@ -17,6 +17,9 @@ export default function Navbar() {
         <Link href="/learn" className={styles.link}>
           Learn
         </Link>
+        <Link href="/match" className={styles.link}>
+          Match
+        </Link>
       </nav>
     </header>
   );
