@@ -1,4 +1,4 @@
-import { ActionButton, ActionLink } from "../../components/ActionButton";
+import { ActionButton, ActionLink } from "../../../components/ActionButton";
 import styles from "./SessionResults.module.css";
 
 interface SessionResultsProps {

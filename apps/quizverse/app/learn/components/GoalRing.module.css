@@ -1,0 +1,48 @@
+.ring {
+  position: relative;
+  width: 84px;
+  height: 84px;
+  flex: 0 0 auto;
+}
+
+.ring svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.track,
+.fill {
+  fill: none;
+  stroke-width: 8;
+}
+
+.track {
+  stroke: #dfe6e0;
+}
+
+.fill {
+  stroke: #d28d39;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 500ms ease;
+}
+
+.ring[data-reached="true"] .fill {
+  stroke: #416b50;
+}
+
+.value {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: #17231d;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fill {
+    transition: none;
+  }
+}

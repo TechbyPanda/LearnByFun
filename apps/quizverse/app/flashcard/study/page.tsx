@@ -2,7 +2,7 @@
 
 import { Suspense, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import { ActionLink } from "../components/ActionButton";
+import { ActionLink } from "../../components/ActionButton";
 import type { Flashcard } from "../data";
 import { buildDeckFromQuery } from "../lib/deck";
 import { StudySession } from "./components/StudySession";

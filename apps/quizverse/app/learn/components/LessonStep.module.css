@@ -1,0 +1,90 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  padding: 28px;
+  border: 1px solid #d5ddd6;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(23, 35, 29, 0.06);
+  animation: enter 260ms ease;
+}
+
+.eyebrow {
+  margin: 0;
+  color: #416b50;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+}
+
+.title {
+  margin: 0;
+  color: #17231d;
+  font-size: 28px;
+  line-height: 1.25;
+}
+
+.lines {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 0;
+  padding-left: 20px;
+  color: #2a3a30;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.lines li::marker {
+  color: #d28d39;
+}
+
+.hook {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+  margin: 0;
+  padding: 14px 16px;
+  border-left: 4px solid #d28d39;
+  border-radius: 4px;
+  background: #fbefd9;
+  color: #5c3d10;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.hook strong {
+  font-size: 11px;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+@keyframes enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+@media (max-width: 600px) {
+  .card {
+    padding: 22px 18px;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .lines {
+    font-size: 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    animation: none;
+  }
+}

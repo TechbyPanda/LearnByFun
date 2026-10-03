@@ -14,6 +14,9 @@ export default function Navbar() {
         <Link href="/flashcard" className={styles.link}>
           Flashcards
         </Link>
+        <Link href="/learn" className={styles.link}>
+          Learn
+        </Link>
       </nav>
     </header>
   );

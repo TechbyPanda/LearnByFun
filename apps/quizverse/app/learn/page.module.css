@@ -1,0 +1,93 @@
+.page {
+  min-height: calc(100vh - 57px);
+  padding: 64px 32px 80px;
+  background-color: #f4f6f2;
+  background-image: linear-gradient(rgba(31, 63, 45, 0.035) 1px, transparent 1px);
+  background-size: 100% 44px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  width: min(100%, 860px);
+  margin: 0 auto;
+}
+
+.eyebrow {
+  margin: 0 0 14px;
+  color: #416b50;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+}
+
+.title {
+  margin: 0;
+  color: #17231d;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.subtitle {
+  margin: 12px 0 0;
+  color: #45534a;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.today {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px 28px;
+  padding: 20px 24px;
+  border: 1px solid #d5ddd6;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.todayText {
+  flex: 1;
+  min-width: 140px;
+}
+
+.streak {
+  margin: 0;
+  color: #17231d;
+  font-size: 16px;
+}
+
+.streak strong {
+  color: #244c36;
+  font-size: 32px;
+}
+
+.goalText {
+  margin: 2px 0 0;
+  color: #526158;
+  font-size: 13px;
+}
+
+.sectionTitle {
+  margin: 0 0 14px;
+  color: #17231d;
+  font-size: 18px;
+}
+
+.paths {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+  gap: 12px;
+}
+
+@media (max-width: 700px) {
+  .page {
+    padding: 48px 20px 56px;
+  }
+
+  .title {
+    font-size: 30px;
+  }
+}

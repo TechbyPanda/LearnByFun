@@ -27,6 +27,13 @@ export default function Home() {
             description="Ready-made sessions or your own mix, one card at a time."
             actionLabel="Choose a session"
           />
+          <LinkCard
+            href="/learn"
+            index="03 / LEARN"
+            title="Daily Bites"
+            description="One idea, about three minutes. Build a streak a little at a time."
+            actionLabel="Start a bite"
+          />
         </div>
       </div>
     </main>

@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Flashcard } from "../../data";
 import { shuffleArray } from "../../../lib/shuffle";
 import { useStudySession } from "../hooks/useStudySession";
+import { RateButtons } from "./RateButtons";
 import { SessionResults } from "./SessionResults";
 import { StudyCard } from "./StudyCard";
 import styles from "./StudySession.module.css";
@@ -60,24 +61,7 @@ export function StudySession({ cards, onRetry }: StudySessionProps) {
 
       <StudyCard key={card.id} card={card} isFlipped={isFlipped} onFlip={session.flip} />
 
-      <div className={styles.rateRow} data-visible={isFlipped}>
-        <button
-          type="button"
-          className={styles.again}
-          onClick={() => session.rate(false)}
-          tabIndex={isFlipped ? 0 : -1}
-        >
-          Still learning <kbd>&larr;</kbd>
-        </button>
-        <button
-          type="button"
-          className={styles.gotIt}
-          onClick={() => session.rate(true)}
-          tabIndex={isFlipped ? 0 : -1}
-        >
-          Got it <kbd>&rarr;</kbd>
-        </button>
-      </div>
+      <RateButtons visible={isFlipped} onRate={session.rate} />
     </>
   );
 }
