@@ -1,159 +1,102 @@
-# Turborepo starter
+# Learn by Fun (Quizverse)
 
-This Turborepo starter is maintained by the Turborepo core team.
+A study app for competitive-exam preparation (Polity, Economy, Environment and more) that turns revision into short, focused sessions. It runs entirely in the browser with no backend, so there is nothing to sign up for or configure.
 
-## Using this example
+The repo is a [Turborepo](https://turborepo.dev) monorepo. The app itself is **Quizverse**, a Next.js (App Router) project in `apps/quizverse`.
 
-Run the following command:
+## Features
 
-```sh
-npx create-turbo@latest
-```
+| Feature | Route | What it does |
+| --- | --- | --- |
+| **Quiz** | `/quiz` | Predefined mock tests (quick 10s, full mocks, subject mocks, topic drills) or a manual setup where you pick subjects, topics and question count. |
+| **Flashcards** | `/flashcard` | Ready-made sessions or a custom mix of topics, studied one card at a time. |
+| **Daily Bites** | `/learn` | Microlearning. Each bite is about three minutes: learn, recall, check. Tracks a daily goal, a streak and 1/3/7-day refreshers. |
+| **Quick Match** | `/match` | A timed match-the-column puzzle (for example, which Article matches which provision). It has Timed and Relaxed modes and keeps your best times. |
 
-## What's inside?
+Progress, best times and your last quiz setup are stored in `localStorage`. Quiz and flashcard configuration is passed through URL query params.
 
-This Turborepo includes the following packages/apps:
+## Tech stack
 
-### Apps and Packages
+- [Next.js](https://nextjs.org) 16 (App Router), React 19
+- TypeScript, ESLint, Prettier
+- Turborepo with npm workspaces
+- CSS Modules
 
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `quizverse`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `quizverse` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `@next/eslint-plugin-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+## Getting started
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
-
-### Utilities
-
-This Turborepo has some additional tools already setup for you:
-
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
-
-### Build
-
-To build all apps and packages, run the following command:
-
-With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended):
+**Prerequisites:** Node.js 24 or newer and npm 11.
 
 ```sh
-cd my-turborepo
-turbo build
+npm install
+npm run dev
 ```
 
-Without global `turbo`, use your package manager:
+Open [http://localhost:3005](http://localhost:3005).
 
-```sh
-cd my-turborepo
-npx turbo build
-npm exec turbo build
-npm exec turbo build
+### Commands
+
+Run these from the repo root.
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start the dev server (port 3005) |
+| `npm run build` | Production build |
+| `npm run check-types` | Type-check all packages. Use this for TypeScript correctness. |
+| `npm run lint` | Lint all packages and run the feature-boundary check |
+| `npm run format` | Format `.ts`, `.tsx` and `.md` files with Prettier |
+
+> The shared ESLint config only lints `.js`/`.mjs` files, not `.ts`/`.tsx`, so rely on `check-types` for TypeScript.
+
+## Repository layout
+
+```
+apps/
+  quizverse/            The Next.js app
+    app/
+      page.tsx          Landing page
+      quiz/             Quiz dashboard (mock tests + manual setup)
+      mcq/              Quiz engine: question bank, test papers, helpers
+        data/           Questions, one file per subject
+        testPapers/     Mock test definitions
+        lib/            Pure helpers (shuffle, pool building, config persistence)
+      flashcard/        Flashcards: data/, sessions/, lib/, study/
+      learn/            Daily Bites: bites/ (content), hooks/, lib/
+      match/            Quick Match: data/, hooks/, lib/, play/
+      components/       UI shared across features
+      lib/              Pure helpers shared across features
+    scripts/
+      check-boundaries.mjs   Enforces the feature-independence rules
+packages/
+  ui/                   Shared React component library
+  eslint-config/        Shared ESLint configs
+  typescript-config/    Shared tsconfig files
 ```
 
-You can build a specific package by using a [filter](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters):
+## Architecture
 
-With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed:
+The code follows SOLID principles, applied concretely. The full rules are in [CLAUDE.md](CLAUDE.md). The main ones:
 
-```sh
-turbo build --filter=docs
-```
+- **Content is data.** To add a subject or question, add a `data/<subject>.ts` file and one entry in that folder's `index.ts`. You don't edit pages or existing subject files.
+- **Features are independent.** Quiz, Flashcards and Quick Match each own their data, types and code. The only link between them is a free-text topic name. Daily Bites (`learn/`) is the one feature allowed to import from the others.
+- **Shared code lives in two places.** Put it in `app/lib/` for pure helpers or `app/components/` for generic UI.
+- **Boundaries are enforced.** `npm run lint` runs `scripts/check-boundaries.mjs` and fails on any forbidden cross-feature import.
 
-Without global `turbo`:
+## Adding content
 
-```sh
-npx turbo build --filter=docs
-npm exec turbo build --filter=docs
-npm exec turbo build --filter=docs
-```
+| To add... | Do this |
+| --- | --- |
+| Quiz questions for a subject | Create `mcq/data/<subject>.ts` and register it in `mcq/data/index.ts`. Each question must match `MCQQuestion` in `mcq/data/types.ts`. |
+| A mock test | Add one entry to `mcq/testPapers/index.ts`. |
+| Flashcards | Create `flashcard/data/<subject>.ts` and register it in `flashcard/data/index.ts`. |
+| A flashcard session | Add one entry to `flashcard/sessions/index.ts`. |
+| A Daily Bite | Add it under `learn/bites/`. Bites only reference existing flashcard and MCQ ids. Afterwards, check them with `findBrokenReferences(allBites)` from `learn/lib/content.ts`. |
+| A Quick Match set | Add an entry in `match/data/`. |
 
-### Develop
+Before committing, run `npm run check-types` and `npm run lint`.
 
-To develop all apps and packages, run the following command:
+## Contributing
 
-With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended):
-
-```sh
-cd my-turborepo
-turbo dev
-```
-
-Without global `turbo`, use your package manager:
-
-```sh
-cd my-turborepo
-npx turbo dev
-npm exec turbo dev
-npm exec turbo dev
-```
-
-You can develop a specific package by using a [filter](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters):
-
-With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed:
-
-```sh
-turbo dev --filter=quizverse
-```
-
-Without global `turbo`:
-
-```sh
-npx turbo dev --filter=quizverse
-npm exec turbo dev --filter=quizverse
-npm exec turbo dev --filter=quizverse
-```
-
-### Remote Caching
-
-> [!TIP]
-> Vercel Remote Cache is free for all plans. Get started today at [vercel.com](https://vercel.com/signup?utm_source=remote-cache-sdk&utm_campaign=free_remote_cache).
-
-Turborepo can use a technique known as [Remote Caching](https://turborepo.dev/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
-
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup?utm_source=turborepo-examples), then enter the following commands:
-
-With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended):
-
-```sh
-cd my-turborepo
-turbo login
-```
-
-Without global `turbo`, use your package manager:
-
-```sh
-cd my-turborepo
-npx turbo login
-npm exec turbo login
-npm exec turbo login
-```
-
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
-
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
-
-With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed:
-
-```sh
-turbo link
-```
-
-Without global `turbo`:
-
-```sh
-npx turbo link
-npm exec turbo link
-npm exec turbo link
-```
-
-## Useful Links
-
-Learn more about the power of Turborepo:
-
-- [Tasks](https://turborepo.dev/docs/crafting-your-repository/running-tasks)
-- [Caching](https://turborepo.dev/docs/crafting-your-repository/caching)
-- [Remote Caching](https://turborepo.dev/docs/core-concepts/remote-caching)
-- [Filtering](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters)
-- [Configuration Options](https://turborepo.dev/docs/reference/configuration)
-- [CLI Usage](https://turborepo.dev/docs/reference/command-line-reference)
+1. Create a branch off `main`.
+2. Make your change, following the architecture rules above.
+3. Run `npm run check-types` and `npm run lint`.
+4. Open a pull request.

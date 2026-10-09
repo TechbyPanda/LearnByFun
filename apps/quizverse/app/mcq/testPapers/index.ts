@@ -96,6 +96,27 @@ export const testPapers: TestPaper[] = [
     shuffle: true,
   },
   {
+    id: "drill-dpsp",
+    title: "Drill — Directive Principles (DPSP)",
+    description: "Laxmikanth Ch. 8: Articles 36–51, classification, amendments and the FR–DPSP conflict.",
+    category: "Topic Drill",
+    sections: [
+      {
+        subject: "Polity",
+        topics: [
+          "DPSP – Features & Sanction",
+          "DPSP – Criticism & Utility",
+          "DPSP – Classification & Articles",
+          "DPSP – Amendments & New Directives",
+          "DPSP – Conflict with Fundamental Rights",
+          "DPSP – Implementation & Directives outside Part IV",
+        ],
+        count: 25,
+      },
+    ],
+    shuffle: true,
+  },
+  {
     id: "drill-lokpal",
     title: "Drill — Lokpal & Lokayukta",
     description: "Anti-corruption institutions, powers and jurisdiction.",
