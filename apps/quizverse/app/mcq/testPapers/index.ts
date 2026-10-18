@@ -75,6 +75,51 @@ export const testPapers: TestPaper[] = [
     sections: [{ subject: "Environment", count: 20 }],
     shuffle: true,
   },
+  {
+    id: "history-battles-mock-25",
+    title: "Modern History Mock — Battles",
+    description: "Wars and battles of modern India, from the Carnatic Wars to 1857 and the frontier.",
+    category: "Subject",
+    sections: [
+      {
+        subject: "History",
+        topics: [
+          "Modern Battles – Carnatic Wars & Anglo-French Rivalry",
+          "Modern Battles – Plassey, Buxar & Bengal",
+          "Modern Battles – 18th-Century Contests (Karnal, Panipat, Colachel)",
+          "Modern Battles – Anglo-Mysore Wars",
+          "Modern Battles – Anglo-Maratha Wars",
+          "Modern Battles – Anglo-Sikh Wars & Sindh",
+          "Modern Battles – Gurkha, Burmese, Afghan & Frontier Wars",
+          "Modern Battles – Revolt of 1857 & Local Resistance",
+          "Modern Battles – Chronology & Treaties",
+        ],
+        count: 25,
+      },
+    ],
+    shuffle: true,
+  },
+  {
+    id: "history-governance-mock-25",
+    title: "Modern History Mock — Governance",
+    description: "How the Company and the Crown ruled: expansion policies, land revenue, services and reforms.",
+    category: "Subject",
+    sections: [
+      {
+        subject: "History",
+        topics: [
+          "Modern Governance – Subsidiary Alliance, Lapse & Paramountcy",
+          "Modern Governance – Land Revenue Settlements",
+          "Modern Governance – Civil Services, Judiciary, Police & Army",
+          "Modern Governance – Governor-Generals & Their Reforms",
+          "Modern Governance – Local Self-Government, Press & Education",
+          "Modern Governance – Chronology",
+        ],
+        count: 25,
+      },
+    ],
+    shuffle: true,
+  },
 
   // Topic drills — go deep on one theme
   {
@@ -122,6 +167,28 @@ export const testPapers: TestPaper[] = [
     description: "Anti-corruption institutions, powers and jurisdiction.",
     category: "Topic Drill",
     sections: [{ subject: "Polity", topics: ["Lokpal and Lokayukta"], count: 20 }],
+    shuffle: true,
+  },
+  {
+    id: "drill-governance",
+    title: "Drill — Governance",
+    description: "RTI, CVC and CBI, citizen-centric governance, e-governance, statutory bodies and civil services.",
+    category: "Topic Drill",
+    sections: [
+      {
+        subject: "Polity",
+        topics: [
+          "Governance – Right to Information",
+          "Governance – CVC, CBI & Anti-Corruption Laws",
+          "Governance – Citizen's Charter, Social Audit & Service Delivery",
+          "Governance – E-Governance, Aadhaar & Data Protection",
+          "Governance – Statutory, Regulatory & Quasi-Judicial Bodies",
+          "Governance – Civil Services & Administrative Reforms",
+          "Governance – NGOs, SHGs & Civil Society",
+        ],
+        count: 25,
+      },
+    ],
     shuffle: true,
   },
   {
@@ -192,6 +259,45 @@ export const testPapers: TestPaper[] = [
           "Migratory Birds & Indian Flyways",
         ],
         count: 10,
+      },
+    ],
+    shuffle: true,
+  },
+  {
+    id: "drill-battles-south-bengal",
+    title: "Drill — Carnatic, Bengal & Mysore Wars",
+    description: "Anglo-French rivalry, Plassey and Buxar, Panipat, and the four Anglo-Mysore Wars.",
+    category: "Topic Drill",
+    sections: [
+      {
+        subject: "History",
+        topics: [
+          "Modern Battles – Carnatic Wars & Anglo-French Rivalry",
+          "Modern Battles – Plassey, Buxar & Bengal",
+          "Modern Battles – 18th-Century Contests (Karnal, Panipat, Colachel)",
+          "Modern Battles – Anglo-Mysore Wars",
+        ],
+        count: 25,
+      },
+    ],
+    shuffle: true,
+  },
+  {
+    id: "drill-battles-maratha-sikh-frontier",
+    title: "Drill — Maratha, Sikh & Frontier Wars",
+    description: "Anglo-Maratha and Anglo-Sikh Wars, Gurkha, Burmese and Afghan wars, 1857 and key treaties.",
+    category: "Topic Drill",
+    sections: [
+      {
+        subject: "History",
+        topics: [
+          "Modern Battles – Anglo-Maratha Wars",
+          "Modern Battles – Anglo-Sikh Wars & Sindh",
+          "Modern Battles – Gurkha, Burmese, Afghan & Frontier Wars",
+          "Modern Battles – Revolt of 1857 & Local Resistance",
+          "Modern Battles – Chronology & Treaties",
+        ],
+        count: 25,
       },
     ],
     shuffle: true,

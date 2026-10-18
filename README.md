@@ -44,6 +44,7 @@ Run these from the repo root.
 | `npm run check-types` | Type-check all packages. Use this for TypeScript correctness. |
 | `npm run lint` | Lint all packages and run the feature-boundary check |
 | `npm run format` | Format `.ts`, `.tsx` and `.md` files with Prettier |
+| `npx turbo dev --filter=quizverse` | Start the dev server of quizverse only |
 
 > The shared ESLint config only lints `.js`/`.mjs` files, not `.ts`/`.tsx`, so rely on `check-types` for TypeScript.
 
