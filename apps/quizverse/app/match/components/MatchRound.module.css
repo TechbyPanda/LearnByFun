@@ -7,19 +7,19 @@
 }
 
 .relaxed {
-  color: #416b50;
+  color: var(--color-accent);
   font-size: 14px;
   font-weight: 700;
 }
 
 .progress {
-  color: #526158;
+  color: var(--color-subtle);
   font-size: 13px;
   font-weight: 600;
 }
 
 .hint {
   margin: 4px 0 18px;
-  color: #45534a;
+  color: var(--color-muted);
   font-size: 14px;
 }

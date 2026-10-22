@@ -1,6 +1,10 @@
+import { Button } from "../../components/Button";
+import { Eyebrow } from "../../components/Eyebrow";
+import { Panel } from "../../components/Panel";
 import type { MCQQuestion } from "../data";
+import { AnswerFeedback } from "./AnswerFeedback";
 import { OptionList } from "./OptionList";
-import styles from "./quiz.module.css";
+import styles from "./QuestionCard.module.css";
 
 interface QuestionCardProps {
   currentQuestion: MCQQuestion;
@@ -21,27 +25,21 @@ export function QuestionCard({
   onToggleFlag,
   onClear,
 }: QuestionCardProps) {
-  const isCorrect = selectedOptionId === currentQuestion.correctOptionId;
-
   return (
-    <section className={styles.card}>
-      <div className={styles.cardTop}>
-        <span className={styles.topic}>
-          {currentQuestion.subject} · {currentQuestion.topic}
-        </span>
-        <div className={styles.cardTools}>
+    <Panel>
+      <div className={styles.top}>
+        <Eyebrow as="span">
+          {currentQuestion.subject} · {currentQuestion.topic} · {currentQuestion.subtopic}
+        </Eyebrow>
+        <div className={styles.tools}>
           {selectedOptionId && !isRevealed && (
-            <button className={styles.linkButton} onClick={onClear}>
+            <Button variant="text" onClick={onClear}>
               Clear
-            </button>
+            </Button>
           )}
-          <button
-            className={`${styles.linkButton} ${isFlagged ? styles.flagActive : ""}`}
-            onClick={onToggleFlag}
-            aria-pressed={isFlagged}
-          >
+          <Button variant="text" onClick={onToggleFlag} aria-pressed={isFlagged}>
             {isFlagged ? "⚑ Marked" : "⚐ Mark for review"}
-          </button>
+          </Button>
         </div>
       </div>
 
@@ -55,17 +53,13 @@ export function QuestionCard({
       />
 
       {isRevealed && (
-        <div
-          className={`${styles.feedback} ${isCorrect ? styles.feedbackCorrect : styles.feedbackWrong}`}
-        >
-          <strong>{isCorrect ? "Correct!" : "Not quite."}</strong>
-          <p>{currentQuestion.explanation}</p>
-        </div>
+        <AnswerFeedback
+          isCorrect={selectedOptionId === currentQuestion.correctOptionId}
+          explanation={currentQuestion.explanation}
+        />
       )}
 
-      <p className={styles.hint}>
-        Shortcuts: 1–4 or A–D to answer · ← → to navigate · F to mark
-      </p>
-    </section>
+      <p className={styles.hint}>Shortcuts: 1–4 or A–D to answer · ← → to navigate · F to mark</p>
+    </Panel>
   );
 }

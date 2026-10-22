@@ -1,4 +1,5 @@
-import styles from "../quiz.module.css";
+import { ChipGroup, ToggleChip } from "../../components/ToggleChip";
+import styles from "./CountPicker.module.css";
 
 interface CountPickerProps {
   value: number;
@@ -14,21 +15,18 @@ export function CountPicker({ value, max, presets, onChange }: CountPickerProps)
     .sort((a, b) => a - b);
 
   return (
-    <div className={styles.countPicker}>
-      <div className={styles.chipRow}>
+    <div className={styles.picker}>
+      <ChipGroup label="Number of questions">
         {options.map((n) => (
-          <button
-            key={n}
-            className={`${styles.pill} ${value === n ? styles.pillActive : ""}`}
-            onClick={() => onChange(n)}
-          >
+          <ToggleChip key={n} pressed={value === n} onClick={() => onChange(n)}>
             {n === max ? `All (${n})` : n}
-          </button>
+          </ToggleChip>
         ))}
-      </div>
+      </ChipGroup>
       {max > 1 && (
         <input
           type="range"
+          className={styles.slider}
           min={1}
           max={max}
           value={value}
@@ -36,7 +34,9 @@ export function CountPicker({ value, max, presets, onChange }: CountPickerProps)
           aria-label="Number of questions"
         />
       )}
-      <span className={styles.hint}>{value} of {max} questions</span>
+      <span className={styles.hint}>
+        {value} of {max} questions
+      </span>
     </div>
   );
 }

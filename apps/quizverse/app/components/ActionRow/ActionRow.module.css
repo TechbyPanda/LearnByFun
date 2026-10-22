@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.row[data-align="end"] {
+  justify-content: flex-end;
+}
+
+@media (max-width: 600px) {
+  .row > * {
+    flex: 1 1 100%;
+  }
+}

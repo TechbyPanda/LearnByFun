@@ -1,5 +1,8 @@
-import Link from "next/link";
+import { ButtonLink } from "../../components/Button";
+import { ProgressBar } from "../../components/ProgressBar";
+import { Tag } from "../../components/Tag";
 import type { Bite, LearningPath } from "../bites";
+import { biteHref } from "../lib/links";
 import styles from "./PathCard.module.css";
 
 interface PathCardProps {
@@ -11,36 +14,24 @@ interface PathCardProps {
 }
 
 export function PathCard({ path, done, total, nextBite }: PathCardProps) {
-  const isComplete = done === total;
-  const href = nextBite ? `/learn/bite?id=${nextBite.id}` : undefined;
-
   return (
     <article className={styles.card}>
-      <span className={styles.tag}>{path.subject}</span>
+      <Tag>{path.subject}</Tag>
       <h3 className={styles.title}>{path.title}</h3>
       <p className={styles.description}>{path.description}</p>
 
-      <div
-        className={styles.bar}
-        role="progressbar"
-        aria-valuemin={0}
-        aria-valuemax={total}
-        aria-valuenow={done}
-        aria-label={`${path.title} progress`}
-      >
-        <div className={styles.fill} style={{ width: `${(done / total) * 100}%` }} />
-      </div>
+      <ProgressBar value={done} max={total} label={`${path.title} progress`} />
 
       <div className={styles.footer}>
         <span className={styles.count}>
           {done} of {total} bites
         </span>
-        {href ? (
-          <Link href={href} className={styles.action}>
+        {nextBite ? (
+          <ButtonLink variant="text" href={biteHref(nextBite.id)}>
             {done === 0 ? "Start" : "Continue"} <span aria-hidden="true">-&gt;</span>
-          </Link>
+          </ButtonLink>
         ) : (
-          isComplete && <span className={styles.complete}>Path complete</span>
+          done === total && <span className={styles.complete}>Path complete</span>
         )}
       </div>
     </article>

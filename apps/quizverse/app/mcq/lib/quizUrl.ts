@@ -1,4 +1,10 @@
+import { shuffleArray } from "../../lib/shuffle";
+import { pruneSelection } from "../../lib/topicSelection";
+import type { MCQQuestion } from "../data";
+import { testPapers } from "../testPapers";
+import { buildQuestionPool, getQuestionsForTopics } from "./buildQuestionPool";
 import type { QuizConfig } from "./quizConfig";
+import { getTopicsForSubject } from "./topics";
 
 export interface PaperOverrides {
   count?: number;
@@ -19,4 +25,39 @@ export function buildCustomUrl(config: QuizConfig): string {
     shuffle: String(config.shuffle),
   });
   return `/mcq?${params.toString()}`;
+}
+
+function parsePositiveInt(value: string | null): number | undefined {
+  const parsed = parseInt(value ?? "", 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : undefined;
+}
+
+/** Resolves a quiz URL to its questions: a test paper (`paperId`), or custom topic params. */
+export function resolveQuizQuestions(params: URLSearchParams): MCQQuestion[] {
+  const paperId = params.get("paperId");
+  if (paperId) {
+    const paper = testPapers.find((p) => p.id === paperId);
+    if (!paper) return [];
+    // Optional overrides from the paper launch panel.
+    const shuffle = params.get("shuffle");
+    return buildQuestionPool(
+      paper.sections,
+      shuffle === null ? paper.shuffle : shuffle === "true",
+      parsePositiveInt(params.get("count")),
+    );
+  }
+
+  const count = parsePositiveInt(params.get("count"));
+  if (count === undefined) return [];
+
+  let topics: unknown;
+  try {
+    topics = JSON.parse(params.get("topics") ?? "");
+  } catch {
+    return [];
+  }
+
+  const pool = getQuestionsForTopics(pruneSelection(topics, getTopicsForSubject));
+  const ordered = params.get("shuffle") === "true" ? shuffleArray(pool) : pool;
+  return ordered.slice(0, count);
 }

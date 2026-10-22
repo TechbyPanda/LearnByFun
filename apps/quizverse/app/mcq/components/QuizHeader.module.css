@@ -1,0 +1,22 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 -8px 16px;
+  padding: 10px 8px 12px;
+  background: var(--color-bg);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.toggle {
+  margin-left: auto;
+}

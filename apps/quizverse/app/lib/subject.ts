@@ -13,3 +13,6 @@ export type Subject =
   | "Art & Culture"
   | "International Relations"
   | "Current Affairs";
+
+/** A topic selection: the picked topics of each picked subject. */
+export type TopicsBySubject = Partial<Record<Subject, string[]>>;

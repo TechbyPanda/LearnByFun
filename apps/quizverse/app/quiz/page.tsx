@@ -2,12 +2,13 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import type { TestPaper } from "../mcq/testPapers";
+import { Page } from "../components/Page";
+import { PageIntro } from "../components/PageIntro";
 import { buildCustomUrl, buildPaperUrl } from "../mcq/lib/quizUrl";
+import type { TestPaper } from "../mcq/testPapers";
 import { CustomBuilder } from "./components/CustomBuilder";
 import { PaperGrid } from "./components/PaperGrid";
 import { PaperLaunchPanel } from "./components/PaperLaunchPanel";
-import styles from "./quiz.module.css";
 
 export default function QuizDashboard() {
   const router = useRouter();
@@ -15,7 +16,7 @@ export default function QuizDashboard() {
   const [selectedPaper, setSelectedPaper] = useState<TestPaper | null>(null);
 
   return (
-    <div className={styles.page}>
+    <Page>
       {isBuilding ? (
         <CustomBuilder
           onBack={() => setIsBuilding(false)}
@@ -23,10 +24,9 @@ export default function QuizDashboard() {
         />
       ) : (
         <>
-          <h1 className={styles.title}>UPSC CSE Practice</h1>
-          <p className={styles.subtitle}>
+          <PageIntro eyebrow="Mock tests" title="UPSC CSE Practice">
             Pick a mock test, tweak it if you like, or build your own.
-          </p>
+          </PageIntro>
           <PaperGrid onSelectPaper={setSelectedPaper} onCreateOwn={() => setIsBuilding(true)} />
         </>
       )}
@@ -38,6 +38,6 @@ export default function QuizDashboard() {
           onStart={(overrides) => router.push(buildPaperUrl(selectedPaper.id, overrides))}
         />
       )}
-    </div>
+    </Page>
   );
 }

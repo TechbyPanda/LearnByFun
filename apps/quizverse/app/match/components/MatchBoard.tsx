@@ -1,3 +1,4 @@
+import { Eyebrow } from "../../components/Eyebrow";
 import type { MatchPair } from "../data";
 import { MatchItem, type MatchItemState } from "./MatchItem";
 import styles from "./MatchBoard.module.css";
@@ -35,7 +36,7 @@ export function MatchBoard({
   return (
     <div className={styles.board}>
       <section className={styles.column} aria-label={leftLabel}>
-        <h2 className={styles.heading}>{leftLabel}</h2>
+        <Eyebrow as="h2">{leftLabel}</Eyebrow>
         {lefts.map((pair) => (
           <MatchItem
             key={pair.id}
@@ -47,7 +48,7 @@ export function MatchBoard({
       </section>
 
       <section className={styles.column} aria-label={rightLabel}>
-        <h2 className={styles.heading}>{rightLabel}</h2>
+        <Eyebrow as="h2">{rightLabel}</Eyebrow>
         {rights.map((pair) => (
           <MatchItem
             key={pair.id}

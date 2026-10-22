@@ -1,13 +1,14 @@
+import { Button } from "../../components/Button";
 import type { useQuizSession } from "../hooks/useQuizSession";
 import { useQuizShortcuts } from "../hooks/useQuizShortcuts";
-import { Button } from "./Button";
 import { QuestionCard } from "./QuestionCard";
 import { QuestionPalette } from "./QuestionPalette";
 import { QuizHeader } from "./QuizHeader";
-import styles from "./quiz.module.css";
+import styles from "./QuizView.module.css";
 
 type Session = ReturnType<typeof useQuizSession>;
 
+/** The in-progress quiz: header, current question, navigation and the question palette. */
 export function QuizView({ session }: { session: Session }) {
   const {
     total,
@@ -40,10 +41,7 @@ export function QuizView({ session }: { session: Session }) {
 
   function handleFinish() {
     const unanswered = total - attemptedCount;
-    if (
-      unanswered > 0 &&
-      !window.confirm(`${unanswered} question(s) unanswered. Finish anyway?`)
-    ) {
+    if (unanswered > 0 && !window.confirm(`${unanswered} question(s) unanswered. Finish anyway?`)) {
       return;
     }
     finish();
@@ -52,7 +50,7 @@ export function QuizView({ session }: { session: Session }) {
   if (!currentQuestion) return null;
 
   return (
-    <div className={styles.page}>
+    <>
       <QuizHeader
         currentIndex={currentIndex}
         total={total}
@@ -63,7 +61,7 @@ export function QuizView({ session }: { session: Session }) {
       />
 
       <div className={styles.layout}>
-        <main className={styles.main}>
+        <div className={styles.main}>
           <QuestionCard
             currentQuestion={currentQuestion}
             selectedOptionId={selectedOptionId}
@@ -74,7 +72,7 @@ export function QuizView({ session }: { session: Session }) {
             onClear={clearAnswer}
           />
 
-          <div className={styles.actions}>
+          <nav className={styles.nav} aria-label="Question navigation">
             <Button
               variant="secondary"
               onClick={() => goToQuestion(currentIndex - 1)}
@@ -82,7 +80,7 @@ export function QuizView({ session }: { session: Session }) {
             >
               ← Previous
             </Button>
-            <div className={styles.actionsRight}>
+            <div className={styles.navRight}>
               <Button
                 variant="secondary"
                 onClick={() => goToQuestion(currentIndex + 1)}
@@ -92,8 +90,8 @@ export function QuizView({ session }: { session: Session }) {
               </Button>
               <Button onClick={handleFinish}>Finish Test</Button>
             </div>
-          </div>
-        </main>
+          </nav>
+        </div>
 
         <QuestionPalette
           total={total}
@@ -103,6 +101,6 @@ export function QuizView({ session }: { session: Session }) {
           goToQuestion={goToQuestion}
         />
       </div>
-    </div>
+    </>
   );
 }

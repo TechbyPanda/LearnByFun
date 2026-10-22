@@ -1,11 +1,19 @@
 import type { MCQQuestion } from "../data";
-import styles from "./quiz.module.css";
+import styles from "./OptionList.module.css";
+
+type OptionState = "idle" | "selected" | "correct" | "wrong";
 
 interface OptionListProps {
   currentQuestion: MCQQuestion;
   selectedOptionId: string | null;
   isRevealed: boolean;
   handleSelectOption: (optionId: string) => void;
+}
+
+function getOptionState(isSelected: boolean, isCorrect: boolean, isRevealed: boolean): OptionState {
+  if (isRevealed && isCorrect) return "correct";
+  if (isRevealed && isSelected) return "wrong";
+  return isSelected ? "selected" : "idle";
 }
 
 export function OptionList({
@@ -17,27 +25,25 @@ export function OptionList({
   return (
     <div className={styles.options}>
       {currentQuestion.options.map((option, index) => {
-        const isSelected = option.id === selectedOptionId;
-        const isCorrect = option.id === currentQuestion.correctOptionId;
-
-        let stateClass = "";
-        if (isRevealed && isCorrect) stateClass = styles.optionCorrect ?? "";
-        else if (isRevealed && isSelected) stateClass = styles.optionWrong ?? "";
-        else if (isSelected) stateClass = styles.optionSelected ?? "";
+        const state = getOptionState(
+          option.id === selectedOptionId,
+          option.id === currentQuestion.correctOptionId,
+          isRevealed,
+        );
 
         return (
           <button
             key={option.id}
-            className={`${styles.option} ${stateClass}`}
+            type="button"
+            className={styles.option}
+            data-state={state}
             onClick={() => handleSelectOption(option.id)}
             disabled={isRevealed}
           >
-            <span className={styles.optionLetter}>
-              {String.fromCharCode(65 + index)}
-            </span>
-            <span className={styles.optionText}>{option.text}</span>
-            {isRevealed && isCorrect && <span aria-hidden>✓</span>}
-            {isRevealed && isSelected && !isCorrect && <span aria-hidden>✗</span>}
+            <span className={styles.letter}>{String.fromCharCode(65 + index)}</span>
+            <span className={styles.text}>{option.text}</span>
+            {state === "correct" && <span aria-hidden>✓</span>}
+            {state === "wrong" && <span aria-hidden>✗</span>}
           </button>
         );
       })}

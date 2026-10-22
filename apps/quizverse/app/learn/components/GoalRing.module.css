@@ -18,17 +18,17 @@
 }
 
 .track {
-  stroke: #dfe6e0;
+  stroke: var(--color-track);
 }
 
 .fill {
-  stroke: #d28d39;
+  stroke: var(--color-highlight);
   stroke-linecap: round;
   transition: stroke-dashoffset 500ms ease;
 }
 
 .ring[data-reached="true"] .fill {
-  stroke: #416b50;
+  stroke: var(--color-accent);
 }
 
 .value {
@@ -36,13 +36,7 @@
   inset: 0;
   display: grid;
   place-items: center;
-  color: #17231d;
+  color: var(--color-ink);
   font-size: 16px;
   font-weight: 700;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .fill {
-    transition: none;
-  }
 }

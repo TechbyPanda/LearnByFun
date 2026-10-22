@@ -1,12 +1,8 @@
-import { flashcardsBySubject, type Flashcard } from "../../flashcard/data";
+import { allFlashcards, type Flashcard } from "../../flashcard/data";
 import { allQuestions, type MCQQuestion } from "../../mcq/data";
 import type { Bite } from "../bites";
 
-const flashcardById = new Map<string, Flashcard>(
-  Object.values(flashcardsBySubject)
-    .flat()
-    .map((card) => [card.id, card]),
-);
+const flashcardById = new Map<string, Flashcard>(allFlashcards.map((card) => [card.id, card]));
 const questionById = new Map<string, MCQQuestion>(allQuestions.map((q) => [q.id, q]));
 
 export function getBiteCards(bite: Bite): Flashcard[] {

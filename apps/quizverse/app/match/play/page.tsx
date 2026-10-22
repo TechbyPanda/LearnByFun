@@ -1,19 +1,21 @@
 "use client";
 
 import { Suspense } from "react";
-import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import { ActionLink } from "../../components/ActionButton";
+import { EmptyState } from "../../components/EmptyState";
+import { Page } from "../../components/Page";
+import { SessionHeader } from "../../components/SessionHeader";
 import { MatchResults } from "../components/MatchResults";
 import { MatchRound } from "../components/MatchRound";
 import { getMatchSet, type MatchSet } from "../data";
 import { useMatchGame } from "../hooks/useMatchGame";
-import styles from "./page.module.css";
 
 export default function MatchPlayPage() {
   return (
     <Suspense fallback={null}>
-      <MatchLoader />
+      <Page width="narrow" compact>
+        <MatchLoader />
+      </Page>
     </Suspense>
   );
 }
@@ -25,13 +27,12 @@ function MatchLoader() {
 
   if (!set) {
     return (
-      <div className={styles.page}>
-        <div className={styles.empty}>
-          <h1>Set not found</h1>
-          <p>That match set doesn&apos;t exist any more.</p>
-          <ActionLink href="/match">Back to Quick Match</ActionLink>
-        </div>
-      </div>
+      <EmptyState
+        title="Set not found"
+        message="That match set doesn't exist any more."
+        actionHref="/match"
+        actionLabel="Back to Quick Match"
+      />
     );
   }
 
@@ -42,13 +43,10 @@ function MatchGame({ set, timed }: { set: MatchSet; timed: boolean }) {
   const game = useMatchGame(set, timed);
 
   return (
-    <div className={styles.page}>
-      <div className={styles.header}>
-        <Link className={styles.backLink} href="/match">
-          <span aria-hidden="true">&larr;</span> All sets
-        </Link>
-        <p className={styles.meta}>{set.title}</p>
-      </div>
+    <>
+      <SessionHeader backHref="/match" backLabel="All sets">
+        {set.title}
+      </SessionHeader>
 
       {game.outcome ? (
         <MatchResults
@@ -68,6 +66,6 @@ function MatchGame({ set, timed }: { set: MatchSet; timed: boolean }) {
           onComplete={game.handleComplete}
         />
       )}
-    </div>
+    </>
   );
 }

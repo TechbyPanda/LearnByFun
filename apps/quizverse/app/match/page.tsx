@@ -2,6 +2,9 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { OptionGroup } from "../components/BuilderBar";
+import { Page } from "../components/Page";
+import { PageIntro } from "../components/PageIntro";
 import { SegmentedControl, type SegmentedOption } from "../components/SegmentedControl";
 import { SetList } from "./components/SetList";
 import { matchSets } from "./data";
@@ -21,38 +24,28 @@ export default function MatchPage() {
   const [mode, setMode] = useState<Mode>("timed");
 
   return (
-    <main className={styles.page}>
-      <div className={styles.content}>
-        <header className={styles.intro}>
-          <p className={styles.eyebrow}>QUICK MATCH</p>
-          <h1 className={styles.title}>Which belongs to which?</h1>
-          <p className={styles.subtitle}>
-            Pair each item with its partner, as fast as you can. Wrong matches cost 3 seconds, so
-            think before you tap.
-          </p>
-        </header>
+    <Page>
+      <PageIntro eyebrow="Quick match" title="Which belongs to which?">
+        Pair each item with its partner, as fast as you can. Wrong matches cost 3 seconds, so
+        think before you tap.
+      </PageIntro>
 
-        <div className={styles.mode}>
-          <span className={styles.modeLabel}>Mode</span>
-          <SegmentedControl
-            label="Mode"
-            options={MODE_OPTIONS}
-            value={mode}
-            onChange={setMode}
-          />
+      <div className={styles.mode}>
+        <OptionGroup label="Mode">
+          <SegmentedControl label="Mode" options={MODE_OPTIONS} value={mode} onChange={setMode} />
           <span className={styles.modeNote}>
             {mode === "timed"
               ? "Race the clock and chase your best time."
               : "No clock and no penalties. Best while you're still learning the pairs."}
           </span>
-        </div>
-
-        <SetList
-          sets={matchSets}
-          bests={bests}
-          onStart={(set) => router.push(`/match/play?set=${set.id}&mode=${mode}`)}
-        />
+        </OptionGroup>
       </div>
-    </main>
+
+      <SetList
+        sets={matchSets}
+        bests={bests}
+        onStart={(set) => router.push(`/match/play?set=${set.id}&mode=${mode}`)}
+      />
+    </Page>
   );
 }

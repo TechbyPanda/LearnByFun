@@ -1,59 +1,5 @@
-.page {
-  min-height: calc(100vh - 57px);
-  padding: 88px 32px 96px;
-  background-color: #f4f6f2;
-  background-image: linear-gradient(rgba(31, 63, 45, 0.035) 1px, transparent 1px);
-  background-size: 100% 44px;
-}
-
-.content {
-  width: min(100%, 1040px);
-  margin: 0 auto;
-}
-
-.eyebrow {
-  margin: 0 0 18px;
-  color: #416b50;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 1.2px;
-}
-
-.title {
-  margin: 0;
-  color: #17231d;
-  font-size: 56px;
-  font-weight: 750;
-  line-height: 1.05;
-}
-
-.subtitle {
-  max-width: 480px;
-  margin: 18px 0 44px;
-  color: #45534a;
-  font-size: 18px;
-  line-height: 1.6;
-}
-
 .cardList {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
   gap: 16px;
-}
-
-@media (max-width: 640px) {
-  .page {
-    min-height: calc(100vh - 57px);
-    padding: 56px 20px 64px;
-  }
-
-  .title {
-    font-size: 44px;
-  }
-
-  .subtitle {
-    margin-bottom: 32px;
-    font-size: 16px;
-  }
-
 }

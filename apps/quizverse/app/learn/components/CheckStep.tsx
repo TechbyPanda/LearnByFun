@@ -1,7 +1,10 @@
 import { useState } from "react";
-import { ActionButton } from "../../components/ActionButton";
-import type { MCQQuestion } from "../../mcq/data";
+import { ActionRow } from "../../components/ActionRow";
+import { Button } from "../../components/Button";
+import { Panel } from "../../components/Panel";
+import { AnswerFeedback } from "../../mcq/components/AnswerFeedback";
 import { OptionList } from "../../mcq/components/OptionList";
+import type { MCQQuestion } from "../../mcq/data";
 import styles from "./CheckStep.module.css";
 
 interface CheckStepProps {
@@ -15,28 +18,24 @@ export function CheckStep({ question, onFinish }: CheckStepProps) {
   const isCorrect = selectedOptionId === question.correctOptionId;
 
   return (
-    <section className={styles.card}>
-      <p className={styles.eyebrow}>QUICK CHECK</p>
+    <Panel eyebrow="Quick check">
       <h1 className={styles.question}>{question.question}</h1>
 
-      <div className={styles.options}>
-        <OptionList
-          currentQuestion={question}
-          selectedOptionId={selectedOptionId}
-          isRevealed={isRevealed}
-          handleSelectOption={(id) => setSelectedOptionId((prev) => prev ?? id)}
-        />
-      </div>
+      <OptionList
+        currentQuestion={question}
+        selectedOptionId={selectedOptionId}
+        isRevealed={isRevealed}
+        handleSelectOption={(id) => setSelectedOptionId((prev) => prev ?? id)}
+      />
 
       {isRevealed && (
         <>
-          <div className={styles.feedback} data-correct={isCorrect}>
-            <strong>{isCorrect ? "Correct!" : "Not quite."}</strong>
-            <p>{question.explanation}</p>
-          </div>
-          <ActionButton onClick={() => onFinish(isCorrect)}>Finish bite</ActionButton>
+          <AnswerFeedback isCorrect={isCorrect} explanation={question.explanation} />
+          <ActionRow>
+            <Button onClick={() => onFinish(isCorrect)}>Finish bite</Button>
+          </ActionRow>
         </>
       )}
-    </section>
+    </Panel>
   );
 }

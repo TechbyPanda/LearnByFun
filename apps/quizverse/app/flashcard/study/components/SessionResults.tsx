@@ -1,4 +1,7 @@
-import { ActionButton, ActionLink } from "../../../components/ActionButton";
+import { ActionRow } from "../../../components/ActionRow";
+import { Button, ButtonLink } from "../../../components/Button";
+import { Panel } from "../../../components/Panel";
+import { plural } from "../../../lib/format";
 import styles from "./SessionResults.module.css";
 
 interface SessionResultsProps {
@@ -28,30 +31,27 @@ export function SessionResults({
   const missedCount = total - known;
 
   return (
-    <div className={styles.results}>
-      <p className={styles.eyebrow}>SESSION COMPLETE</p>
-      <h1 className={styles.title}>{getMessage(percent)}</h1>
-
+    <Panel eyebrow="Session complete" title={getMessage(percent)}>
       <div className={styles.stats}>
         <Stat value={`${percent}%`} label="recalled" />
         <Stat value={`${known}/${total}`} label="cards known" />
         <Stat value={String(bestStreak)} label="best streak" />
       </div>
 
-      <div className={styles.actions}>
+      <ActionRow>
         {onReviewMissed && (
-          <ActionButton onClick={onReviewMissed}>
-            Review {missedCount} missed {missedCount === 1 ? "card" : "cards"}
-          </ActionButton>
+          <Button onClick={onReviewMissed}>
+            Review {missedCount} missed {plural(missedCount, "card")}
+          </Button>
         )}
-        <ActionButton variant={onReviewMissed ? "secondary" : "primary"} onClick={onRestart}>
+        <Button variant={onReviewMissed ? "secondary" : "primary"} onClick={onRestart}>
           Go again
-        </ActionButton>
-        <ActionLink variant="secondary" href="/flashcard">
+        </Button>
+        <ButtonLink variant="secondary" href="/flashcard">
           Choose new topics
-        </ActionLink>
-      </div>
-    </div>
+        </ButtonLink>
+      </ActionRow>
+    </Panel>
   );
 }
 

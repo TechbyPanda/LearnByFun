@@ -83,17 +83,7 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "History",
-        topics: [
-          "Modern Battles – Carnatic Wars & Anglo-French Rivalry",
-          "Modern Battles – Plassey, Buxar & Bengal",
-          "Modern Battles – 18th-Century Contests (Karnal, Panipat, Colachel)",
-          "Modern Battles – Anglo-Mysore Wars",
-          "Modern Battles – Anglo-Maratha Wars",
-          "Modern Battles – Anglo-Sikh Wars & Sindh",
-          "Modern Battles – Gurkha, Burmese, Afghan & Frontier Wars",
-          "Modern Battles – Revolt of 1857 & Local Resistance",
-          "Modern Battles – Chronology & Treaties",
-        ],
+        topics: ["Modern – Wars & Battles"],
         count: 25,
       },
     ],
@@ -107,14 +97,7 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "History",
-        topics: [
-          "Modern Governance – Subsidiary Alliance, Lapse & Paramountcy",
-          "Modern Governance – Land Revenue Settlements",
-          "Modern Governance – Civil Services, Judiciary, Police & Army",
-          "Modern Governance – Governor-Generals & Their Reforms",
-          "Modern Governance – Local Self-Government, Press & Education",
-          "Modern Governance – Chronology",
-        ],
+        topics: ["Modern – British Administration & Policies"],
         count: 25,
       },
     ],
@@ -130,11 +113,7 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "Polity",
-        topics: [
-          "Historical Background – Company Rule (1773–1858)",
-          "Historical Background – Crown Rule (1858–1947)",
-          "Historical Background – Independence & First Governments",
-        ],
+        topics: ["Historical Background"],
         count: 25,
       },
     ],
@@ -148,15 +127,22 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "Polity",
-        topics: [
-          "DPSP – Features & Sanction",
-          "DPSP – Criticism & Utility",
-          "DPSP – Classification & Articles",
-          "DPSP – Amendments & New Directives",
-          "DPSP – Conflict with Fundamental Rights",
-          "DPSP – Implementation & Directives outside Part IV",
-        ],
+        topics: ["Directive Principles of State Policy"],
         count: 25,
+      },
+    ],
+    shuffle: true,
+  },
+  {
+    id: "drill-parliament",
+    title: "Drill — Parliament",
+    description: "Composition, presiding officers, bills, motions, budget, privileges and Zero Hour.",
+    category: "Topic Drill",
+    sections: [
+      {
+        subject: "Polity",
+        topics: ["Parliament"],
+        count: 14,
       },
     ],
     shuffle: true,
@@ -166,7 +152,7 @@ export const testPapers: TestPaper[] = [
     title: "Drill — Lokpal & Lokayukta",
     description: "Anti-corruption institutions, powers and jurisdiction.",
     category: "Topic Drill",
-    sections: [{ subject: "Polity", topics: ["Lokpal and Lokayukta"], count: 20 }],
+    sections: [{ subject: "Polity", topics: ["Lokpal & Lokayukta"], count: 20 }],
     shuffle: true,
   },
   {
@@ -177,15 +163,7 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "Polity",
-        topics: [
-          "Governance – Right to Information",
-          "Governance – CVC, CBI & Anti-Corruption Laws",
-          "Governance – Citizen's Charter, Social Audit & Service Delivery",
-          "Governance – E-Governance, Aadhaar & Data Protection",
-          "Governance – Statutory, Regulatory & Quasi-Judicial Bodies",
-          "Governance – Civil Services & Administrative Reforms",
-          "Governance – NGOs, SHGs & Civil Society",
-        ],
+        topics: ["Governance"],
         count: 25,
       },
     ],
@@ -193,13 +171,13 @@ export const testPapers: TestPaper[] = [
   },
   {
     id: "drill-centre-state",
-    title: "Drill — Centre-State Relations",
-    description: "Administrative and legislative relations between Union and States.",
+    title: "Drill — Centre-State & Inter-State Relations",
+    description: "Union–State legislative and administrative relations, river water disputes and the Inter-State Council.",
     category: "Topic Drill",
     sections: [
       {
         subject: "Polity",
-        topics: ["Administrative Relations", "Legislative Relations", "Federalism"],
+        topics: ["Centre–State Relations", "Inter-State Relations"],
         count: 20,
       },
     ],
@@ -213,12 +191,7 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "Economy",
-        topics: [
-          "Taxation",
-          "Fiscal Federalism & Taxation",
-          "Public Debt & Government Securities",
-          "Monetary Policy",
-        ],
+        topics: ["Public Finance & Budget", "Money, Banking & Monetary Policy"],
         count: 10,
       },
     ],
@@ -232,12 +205,7 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "Environment",
-        topics: [
-          "Stages of Decomposition",
-          "Decomposition Rates & Soil Fertility",
-          "Factors Affecting Decomposition & Regional Comparison",
-          "Primary Productivity & Solar Radiation",
-        ],
+        topics: ["Functions of an Ecosystem"],
         count: 10,
       },
     ],
@@ -246,18 +214,12 @@ export const testPapers: TestPaper[] = [
   {
     id: "drill-wildlife",
     title: "Drill — Wildlife & Protected Areas",
-    description: "Tiger reserves, migratory birds, invasive species and human-wildlife conflict.",
+    description: "Biodiversity patterns, tiger reserves, migratory birds, invasive species and human-wildlife conflict.",
     category: "Topic Drill",
     sections: [
       {
         subject: "Environment",
-        topics: [
-          "Bandipur Tiger Reserve & Regional Protected Areas",
-          "Protected Areas & Human-Wildlife Interaction",
-          "Human-Wildlife Conflict Mitigation",
-          "Invasive Alien Species & Ecological Impact",
-          "Migratory Birds & Indian Flyways",
-        ],
+        topics: ["Biodiversity", "Protected Area Network", "Wildlife Conservation"],
         count: 10,
       },
     ],
@@ -271,11 +233,12 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "History",
-        topics: [
-          "Modern Battles – Carnatic Wars & Anglo-French Rivalry",
-          "Modern Battles – Plassey, Buxar & Bengal",
-          "Modern Battles – 18th-Century Contests (Karnal, Panipat, Colachel)",
-          "Modern Battles – Anglo-Mysore Wars",
+        topics: ["Modern – Wars & Battles"],
+        subtopics: [
+          "Carnatic Wars & Anglo-French Rivalry",
+          "Plassey, Buxar & Bengal",
+          "18th-Century Contests (Karnal, Panipat, Colachel)",
+          "Anglo-Mysore Wars",
         ],
         count: 25,
       },
@@ -290,12 +253,13 @@ export const testPapers: TestPaper[] = [
     sections: [
       {
         subject: "History",
-        topics: [
-          "Modern Battles – Anglo-Maratha Wars",
-          "Modern Battles – Anglo-Sikh Wars & Sindh",
-          "Modern Battles – Gurkha, Burmese, Afghan & Frontier Wars",
-          "Modern Battles – Revolt of 1857 & Local Resistance",
-          "Modern Battles – Chronology & Treaties",
+        topics: ["Modern – Wars & Battles"],
+        subtopics: [
+          "Anglo-Maratha Wars",
+          "Anglo-Sikh Wars & Sindh",
+          "Gurkha, Burmese, Afghan & Frontier Wars",
+          "Revolt of 1857 & Local Resistance",
+          "Chronology & Treaties",
         ],
         count: 25,
       },

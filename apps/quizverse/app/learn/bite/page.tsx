@@ -1,9 +1,10 @@
 "use client";
 
 import { Suspense } from "react";
-import Link from "next/link";
 import { useSearchParams } from "next/navigation";
-import { ActionLink } from "../../components/ActionButton";
+import { EmptyState } from "../../components/EmptyState";
+import { Page } from "../../components/Page";
+import { SessionHeader } from "../../components/SessionHeader";
 import { getBite, learningPaths, type Bite } from "../bites";
 import { BiteComplete } from "../components/BiteComplete";
 import { CheckStep } from "../components/CheckStep";
@@ -15,12 +16,13 @@ import { useLearnProgress } from "../hooks/useLearnProgress";
 import { getBiteCards, getBiteQuestion } from "../lib/content";
 import { DAILY_GOAL, getStreak, getTodayCount } from "../lib/progress";
 import { getUpNext, type BiteMode } from "../lib/schedule";
-import styles from "./page.module.css";
 
 export default function BitePage() {
   return (
     <Suspense fallback={null}>
-      <BiteLoader />
+      <Page width="narrow" compact>
+        <BiteLoader />
+      </Page>
     </Suspense>
   );
 }
@@ -32,13 +34,12 @@ function BiteLoader() {
 
   if (!bite) {
     return (
-      <div className={styles.page}>
-        <div className={styles.empty}>
-          <h1>Bite not found</h1>
-          <p>That bite doesn&apos;t exist any more.</p>
-          <ActionLink href="/learn">Back to Learn</ActionLink>
-        </div>
-      </div>
+      <EmptyState
+        title="Bite not found"
+        message="That bite doesn't exist any more."
+        actionHref="/learn"
+        actionLabel="Back to Learn"
+      />
     );
   }
 
@@ -54,13 +55,10 @@ function BiteRunner({ bite, mode }: { bite: Bite; mode: BiteMode }) {
   const question = getBiteQuestion(bite);
 
   return (
-    <div className={styles.page}>
-      <div className={styles.header}>
-        <Link className={styles.backLink} href="/learn">
-          <span aria-hidden="true">&larr;</span> Exit
-        </Link>
-        <p className={styles.meta}>{mode === "refresh" ? "Refresher" : bite.title}</p>
-      </div>
+    <>
+      <SessionHeader backHref="/learn" backLabel="Exit">
+        {mode === "refresh" ? "Refresher" : bite.title}
+      </SessionHeader>
 
       {flow.step !== "done" && <StepIndicator steps={flow.visibleSteps} current={flow.step} />}
 
@@ -90,6 +88,6 @@ function BiteRunner({ bite, mode }: { bite: Bite; mode: BiteMode }) {
           next={getUpNext(learningPaths, progress, today)[0]}
         />
       )}
-    </div>
+    </>
   );
 }

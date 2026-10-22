@@ -2,16 +2,18 @@
 
 import { Suspense, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import { ActionLink } from "../../components/ActionButton";
+import { EmptyState } from "../../components/EmptyState";
+import { Page } from "../../components/Page";
 import type { Flashcard } from "../data";
 import { buildDeckFromQuery } from "../lib/deck";
 import { StudySession } from "./components/StudySession";
-import styles from "./page.module.css";
 
 export default function FlashcardStudyPage() {
   return (
     <Suspense fallback={null}>
-      <FlashcardStudy />
+      <Page width="narrow" compact>
+        <FlashcardStudy />
+      </Page>
     </Suspense>
   );
 }
@@ -28,23 +30,20 @@ function FlashcardStudy() {
 
   if (initialDeck.length === 0) {
     return (
-      <div className={styles.page}>
-        <div className={styles.empty}>
-          <h1>No flashcards selected</h1>
-          <p>Pick some subjects and topics to review.</p>
-          <ActionLink href="/flashcard">Back to Flashcards</ActionLink>
-        </div>
-      </div>
+      <EmptyState
+        title="No flashcards selected"
+        message="Pick some subjects and topics to review."
+        actionHref="/flashcard"
+        actionLabel="Back to Flashcards"
+      />
     );
   }
 
   return (
-    <div className={styles.page}>
-      <StudySession
-        key={retry.round}
-        cards={retry.deck ?? initialDeck}
-        onRetry={(deck) => setRetry((prev) => ({ round: prev.round + 1, deck }))}
-      />
-    </div>
+    <StudySession
+      key={retry.round}
+      cards={retry.deck ?? initialDeck}
+      onRetry={(deck) => setRetry((prev) => ({ round: prev.round + 1, deck }))}
+    />
   );
 }

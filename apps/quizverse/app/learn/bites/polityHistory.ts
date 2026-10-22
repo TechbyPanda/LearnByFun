@@ -1,7 +1,7 @@
 import type { Bite, LearningPath } from "./types";
 
 // Laxmikanth — Chapter 1: Historical Background.
-// Flashcard and question ids point at flashcard/data/polityHistory.ts and mcq/data/polityHistory.ts.
+// Flashcard and question ids point at flashcard/data/polityHistory.ts and mcq/data/polity/historicalBackground.ts.
 const COMPANY = "Historical Background – Company Rule (1773–1858)";
 const CROWN = "Historical Background – Crown Rule (1858–1947)";
 const FREEDOM = "Historical Background – Independence & First Governments";

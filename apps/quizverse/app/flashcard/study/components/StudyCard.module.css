@@ -16,7 +16,7 @@
 }
 
 .outer:focus-visible {
-  outline: 3px solid #d28d39;
+  outline: 3px solid var(--color-highlight);
   outline-offset: 4px;
 }
 
@@ -42,23 +42,23 @@
   justify-content: space-between;
   gap: 18px;
   padding: 28px;
-  border: 1px solid #c9d3cb;
+  border: 1px solid var(--color-border);
   border-radius: 8px;
   backface-visibility: hidden;
   text-align: left;
 }
 
 .face[data-side="front"] {
-  background: #fff;
-  box-shadow: 0 8px 24px rgba(23, 35, 29, 0.08);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-card);
 }
 
 .face[data-side="back"] {
-  border-color: #244c36;
-  background: #244c36;
-  color: #fff;
+  border-color: var(--color-primary);
+  background: var(--color-primary);
+  color: var(--color-on-primary);
   transform: rotateY(180deg);
-  box-shadow: 0 8px 24px rgba(36, 76, 54, 0.25);
+  box-shadow: var(--shadow-hover);
 }
 
 .meta {
@@ -69,7 +69,7 @@
 }
 
 .label {
-  color: #416b50;
+  color: var(--color-accent);
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 1px;
@@ -77,7 +77,7 @@
 
 .topic {
   overflow: hidden;
-  color: #526158;
+  color: var(--color-subtle);
   font-size: 12px;
   font-weight: 600;
   text-overflow: ellipsis;
@@ -88,7 +88,7 @@
   max-height: 210px;
   margin: auto 0;
   overflow: auto;
-  color: #17231d;
+  color: var(--color-ink);
   font-size: 21px;
   font-weight: 550;
   line-height: 1.55;
@@ -97,25 +97,25 @@
 }
 
 .hint {
-  color: #68766d;
+  color: var(--color-faint);
   font-size: 12px;
 }
 
 .face[data-side="back"] .label {
-  color: #bdd8c3;
+  color: var(--color-on-primary-muted);
 }
 
 .face[data-side="back"] .topic {
-  color: #e0ece2;
+  color: var(--color-on-primary-muted);
 }
 
 .face[data-side="back"] .text {
-  color: #fff;
+  color: var(--color-on-primary);
   font-weight: 450;
 }
 
 .face[data-side="back"] .hint {
-  color: #d1e3d5;
+  color: var(--color-on-primary-muted);
 }
 
 @keyframes enter {
@@ -132,15 +132,5 @@
 
   .text {
     font-size: 19px;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .inner {
-    transition: none;
-  }
-
-  .outer {
-    animation: none;
   }
 }

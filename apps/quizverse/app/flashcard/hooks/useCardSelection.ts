@@ -1,14 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
-import type { Subject } from "../data";
-import {
-  DEFAULT_OPTIONS,
-  countDeck,
-  type DeckOptions,
-  type TopicsBySubject,
-} from "../lib/deck";
+import type { TopicsBySubject } from "../../lib/subject";
+import { DEFAULT_OPTIONS, countDeck, type DeckOptions } from "../lib/deck";
 import { loadSetup, saveSetup } from "../lib/storage";
-import { AVAILABLE_SUBJECTS } from "../lib/subjects";
-import { getTopicsForSubject } from "../lib/topics";
 
 /** Custom-deck selection state: which topics are picked, deck options, and persistence. */
 export function useCardSelection() {
@@ -36,40 +29,13 @@ export function useCardSelection() {
   );
   const deckSize = useMemo(() => countDeck(topicsBySubject, options), [topicsBySubject, options]);
 
-  function setSubjectTopics(subject: Subject, topics: string[]) {
-    setTopicsBySubject((prev) => {
-      const next = { ...prev };
-      if (topics.length === 0) delete next[subject];
-      else next[subject] = topics;
-      return next;
-    });
-  }
-
-  function toggleTopic(subject: Subject, topic: string) {
-    const current = topicsBySubject[subject] ?? [];
-    setSubjectTopics(
-      subject,
-      current.includes(topic) ? current.filter((t) => t !== topic) : [...current, topic],
-    );
-  }
-
-  function selectEverything() {
-    const all: TopicsBySubject = {};
-    for (const subject of AVAILABLE_SUBJECTS) all[subject] = getTopicsForSubject(subject);
-    setTopicsBySubject(all);
-  }
-
   return {
     topicsBySubject,
     options,
     cardCount,
     deckSize,
     canStart: deckSize > 0,
-    hasSelection: Object.keys(topicsBySubject).length > 0,
+    setTopicsBySubject,
     setOptions,
-    setSubjectTopics,
-    toggleTopic,
-    selectEverything,
-    clear: () => setTopicsBySubject({}),
   };
 }

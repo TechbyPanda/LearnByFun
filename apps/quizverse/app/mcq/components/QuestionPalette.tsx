@@ -1,4 +1,5 @@
-import styles from "./quiz.module.css";
+import { Eyebrow } from "../../components/Eyebrow";
+import styles from "./QuestionPalette.module.css";
 
 interface QuestionPaletteProps {
   total: number;
@@ -17,25 +18,33 @@ export function QuestionPalette({
 }: QuestionPaletteProps) {
   return (
     <aside className={styles.palette}>
-      <p className={styles.paletteTitle}>Questions</p>
-      <div className={styles.paletteGrid}>
-        {Array.from({ length: total }, (_, index) => {
-          let cls = styles.paletteItem;
-          if (answers[index] !== null) cls += ` ${styles.paletteAttempted}`;
-          if (flagged[index]) cls += ` ${styles.paletteFlagged}`;
-          if (index === currentIndex) cls += ` ${styles.paletteCurrent}`;
-
-          return (
-            <button key={index} className={cls} onClick={() => goToQuestion(index)}>
-              {index + 1}
-            </button>
-          );
-        })}
+      <Eyebrow as="h2">Questions</Eyebrow>
+      <div className={styles.grid}>
+        {Array.from({ length: total }, (_, index) => (
+          <button
+            key={index}
+            type="button"
+            className={styles.item}
+            data-answered={answers[index] !== null || undefined}
+            data-flagged={flagged[index] || undefined}
+            aria-current={index === currentIndex || undefined}
+            aria-label={`Question ${index + 1}`}
+            onClick={() => goToQuestion(index)}
+          >
+            {index + 1}
+          </button>
+        ))}
       </div>
       <ul className={styles.legend}>
-        <li><i className={`${styles.dot} ${styles.dotAttempted}`} /> Answered</li>
-        <li><i className={`${styles.dot} ${styles.dotFlagged}`} /> Marked</li>
-        <li><i className={styles.dot} /> Unanswered</li>
+        <li>
+          <i className={styles.dot} data-answered /> Answered
+        </li>
+        <li>
+          <i className={styles.dot} data-flagged /> Marked
+        </li>
+        <li>
+          <i className={styles.dot} /> Unanswered
+        </li>
       </ul>
     </aside>
   );

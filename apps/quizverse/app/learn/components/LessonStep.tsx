@@ -1,4 +1,7 @@
-import { ActionButton } from "../../components/ActionButton";
+import { ActionRow } from "../../components/ActionRow";
+import { Button } from "../../components/Button";
+import { Callout } from "../../components/Callout";
+import { Panel } from "../../components/Panel";
 import type { Bite } from "../bites";
 import styles from "./LessonStep.module.css";
 
@@ -9,10 +12,7 @@ interface LessonStepProps {
 
 export function LessonStep({ bite, onContinue }: LessonStepProps) {
   return (
-    <section className={styles.card}>
-      <p className={styles.eyebrow}>{bite.topic}</p>
-      <h1 className={styles.title}>{bite.title}</h1>
-
+    <Panel eyebrow={bite.topic} title={bite.title}>
       <ul className={styles.lines}>
         {bite.lesson.map((line) => (
           <li key={line}>{line}</li>
@@ -20,15 +20,16 @@ export function LessonStep({ bite, onContinue }: LessonStepProps) {
       </ul>
 
       {bite.mnemonic && (
-        <p className={styles.hook}>
-          <strong>Memory hook</strong>
+        <Callout tone="warning" title="Memory hook">
           {bite.mnemonic}
-        </p>
+        </Callout>
       )}
 
-      <ActionButton onClick={onContinue}>
-        Got it, test me <span aria-hidden="true">&nbsp;-&gt;</span>
-      </ActionButton>
-    </section>
+      <ActionRow>
+        <Button onClick={onContinue}>
+          Got it, test me <span aria-hidden="true">-&gt;</span>
+        </Button>
+      </ActionRow>
+    </Panel>
   );
 }

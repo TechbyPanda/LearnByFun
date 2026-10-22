@@ -2,7 +2,10 @@ import type { Subject } from "../data";
 
 export interface TestPaperSection {
   subject: Subject;
+  /** Chapters to draw from; all chapters when omitted. */
   topics?: string[];
+  /** Narrows the chapters to these subtopics; every subtopic when omitted. */
+  subtopics?: string[];
   count: number;
 }
 

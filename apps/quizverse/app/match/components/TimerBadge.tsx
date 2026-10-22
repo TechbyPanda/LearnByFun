@@ -1,3 +1,4 @@
+import { plural } from "../../lib/format";
 import { WRONG_PENALTY_MS, formatSeconds } from "../lib/round";
 import styles from "./TimerBadge.module.css";
 
@@ -14,7 +15,7 @@ export function TimerBadge({ ms, wrongCount }: TimerBadgeProps) {
       </span>
       {wrongCount > 0 && (
         <span className={styles.penalty}>
-          {wrongCount} {wrongCount === 1 ? "miss" : "misses"} (+
+          {wrongCount} {plural(wrongCount, "miss", "misses")} (+
           {formatSeconds(wrongCount * WRONG_PENALTY_MS)})
         </span>
       )}

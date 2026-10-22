@@ -1,3 +1,4 @@
+import { Button } from "../../../components/Button";
 import styles from "./RateButtons.module.css";
 
 interface RateButtonsProps {
@@ -11,22 +12,12 @@ export function RateButtons({ visible, onRate }: RateButtonsProps) {
 
   return (
     <div className={styles.row} data-visible={visible}>
-      <button
-        type="button"
-        className={styles.again}
-        onClick={() => onRate(false)}
-        tabIndex={tabIndex}
-      >
+      <Button variant="warning" onClick={() => onRate(false)} tabIndex={tabIndex}>
         Still learning <kbd>&larr;</kbd>
-      </button>
-      <button
-        type="button"
-        className={styles.gotIt}
-        onClick={() => onRate(true)}
-        tabIndex={tabIndex}
-      >
+      </Button>
+      <Button onClick={() => onRate(true)} tabIndex={tabIndex}>
         Got it <kbd>&rarr;</kbd>
-      </button>
+      </Button>
     </div>
   );
 }

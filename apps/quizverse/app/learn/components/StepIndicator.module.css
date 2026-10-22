@@ -16,12 +16,12 @@
 .bar {
   height: 6px;
   border-radius: 999px;
-  background: #dfe6e0;
+  background: var(--color-track);
   transition: background 240ms ease;
 }
 
 .label {
-  color: #68766d;
+  color: var(--color-faint);
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.8px;
@@ -29,19 +29,13 @@
 }
 
 .step[data-state="done"] .bar {
-  background: #416b50;
+  background: var(--color-accent);
 }
 
 .step[data-state="current"] .bar {
-  background: #d28d39;
+  background: var(--color-highlight);
 }
 
 .step[data-state="current"] .label {
-  color: #17231d;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .bar {
-    transition: none;
-  }
+  color: var(--color-ink);
 }

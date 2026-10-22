@@ -5,14 +5,14 @@
 }
 
 .time {
-  color: #17231d;
+  color: var(--color-ink);
   font-size: 28px;
   font-variant-numeric: tabular-nums;
   font-weight: 700;
 }
 
 .penalty {
-  color: #b3422f;
+  color: var(--color-danger);
   font-size: 13px;
   font-weight: 650;
 }

@@ -11,6 +11,7 @@ export function StudyCard({ card, isFlipped, onFlip }: StudyCardProps) {
   return (
     <div className={styles.stage}>
       <button
+        type="button"
         className={styles.outer}
         onClick={onFlip}
         aria-label={isFlipped ? "Show question" : "Show answer"}

@@ -1,9 +1,14 @@
 import { useState } from "react";
-import type { TestPaper } from "../../mcq/testPapers";
+import { ActionRow } from "../../components/ActionRow";
+import { Button } from "../../components/Button";
+import { CheckboxField } from "../../components/CheckboxField";
+import { Eyebrow } from "../../components/Eyebrow";
+import { Tag } from "../../components/Tag";
 import { getPaperCapacity, getResolvedQuestionCount } from "../../mcq/lib/buildQuestionPool";
 import type { PaperOverrides } from "../../mcq/lib/quizUrl";
+import type { TestPaper } from "../../mcq/testPapers";
 import { CountPicker } from "./CountPicker";
-import styles from "../quiz.module.css";
+import styles from "./PaperLaunchPanel.module.css";
 
 interface PaperLaunchPanelProps {
   paper: TestPaper;
@@ -27,12 +32,20 @@ export function PaperLaunchPanel({ paper, onClose, onStart }: PaperLaunchPanelPr
 
   return (
     <div className={styles.overlay} onClick={onClose}>
-      <div className={styles.panel} role="dialog" aria-modal onClick={(e) => e.stopPropagation()}>
-        <span className={styles.badge}>{paper.category}</span>
-        <h2 className={styles.panelTitle}>{paper.title}</h2>
-        <p className={styles.paperDescription}>{paper.description}</p>
+      <div
+        className={styles.panel}
+        role="dialog"
+        aria-modal
+        aria-labelledby="paper-title"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <Tag>{paper.category}</Tag>
+        <h2 id="paper-title" className={styles.title}>
+          {paper.title}
+        </h2>
+        <p className={styles.description}>{paper.description}</p>
 
-        <ul className={styles.sectionList}>
+        <ul className={styles.sections}>
           {paper.sections.map((s, i) => (
             <li key={i}>
               <strong>{s.subject}</strong>
@@ -41,26 +54,29 @@ export function PaperLaunchPanel({ paper, onClose, onStart }: PaperLaunchPanelPr
           ))}
         </ul>
 
-        <h3 className={styles.fieldLabel}>Questions</h3>
-        <CountPicker
-          value={count}
-          max={capacity}
-          presets={[5, 10, 20, defaultCount]}
-          onChange={setCount}
-        />
+        <div className={styles.field}>
+          <Eyebrow as="h3">Questions</Eyebrow>
+          <CountPicker
+            value={count}
+            max={capacity}
+            presets={[5, 10, 20, defaultCount]}
+            onChange={setCount}
+          />
+        </div>
 
-        <label className={styles.checkRow}>
-          <input type="checkbox" checked={shuffle} onChange={(e) => setShuffle(e.target.checked)} />
-          Shuffle questions
-        </label>
+        <div className={styles.field}>
+          <CheckboxField checked={shuffle} onChange={setShuffle}>
+            Shuffle questions
+          </CheckboxField>
+        </div>
 
-        <div className={styles.panelActions}>
-          <button className={`${styles.btn} ${styles.btnGhost}`} onClick={onClose}>
-            Cancel
-          </button>
-          <button className={`${styles.btn} ${styles.btnPrimary}`} onClick={handleStart}>
-            Start ({count} questions)
-          </button>
+        <div className={styles.actions}>
+          <ActionRow align="end">
+            <Button variant="secondary" onClick={onClose}>
+              Cancel
+            </Button>
+            <Button onClick={handleStart}>Start ({count} questions)</Button>
+          </ActionRow>
         </div>
       </div>
     </div>

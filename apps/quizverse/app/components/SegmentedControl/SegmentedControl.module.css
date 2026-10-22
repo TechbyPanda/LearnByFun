@@ -1,8 +1,8 @@
 .control {
   display: inline-flex;
-  border: 1px solid #c9d3cb;
+  border: 1px solid var(--color-border);
   border-radius: 6px;
-  background: #fff;
+  background: var(--color-surface);
   overflow: hidden;
 }
 
@@ -11,9 +11,9 @@
   min-height: 36px;
   padding: 0 14px;
   border: 0;
-  border-right: 1px solid #e0e6e0;
+  border-right: 1px solid var(--color-divider);
   background: transparent;
-  color: #34443a;
+  color: var(--color-text);
   font: inherit;
   font-size: 13px;
   font-weight: 650;
@@ -25,12 +25,12 @@
 }
 
 .segment[aria-pressed="true"] {
-  background: #244c36;
-  color: #fff;
+  background: var(--color-primary);
+  color: var(--color-on-primary);
 }
 
 .segment:focus-visible {
-  outline: 2px solid #d28d39;
+  outline: 2px solid var(--color-highlight);
   outline-offset: -2px;
 }
 

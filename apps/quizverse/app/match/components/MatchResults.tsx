@@ -1,4 +1,7 @@
-import { ActionButton, ActionLink } from "../../components/ActionButton";
+import { ActionRow } from "../../components/ActionRow";
+import { Button, ButtonLink } from "../../components/Button";
+import { Panel } from "../../components/Panel";
+import { plural } from "../../lib/format";
 import type { MatchPair } from "../data";
 import type { BestOutcome } from "../hooks/useBestTimes";
 import type { RoundResult } from "../hooks/useMatchRound";
@@ -25,35 +28,21 @@ export function MatchResults({
   onRetryMissed,
   onNewRound,
 }: MatchResultsProps) {
-  return (
-    <section className={styles.card}>
-      <p className={styles.eyebrow}>ROUND COMPLETE</p>
-      <h1 className={styles.title}>
-        {result.wrongCount === 0
-          ? "Flawless. No mix-ups."
-          : `${result.wrongCount} mix-up${result.wrongCount === 1 ? "" : "s"}. Worth a second look.`}
-      </h1>
+  const { wrongCount } = result;
 
-      {timed && (
-        <div className={styles.timeBlock}>
-          <span className={styles.time}>{formatSeconds(result.totalMs)}</span>
-          <span className={styles.timeNote}>
-            {formatSeconds(result.elapsedMs)} on the clock
-            {result.wrongCount > 0 && ` + ${formatSeconds(result.totalMs - result.elapsedMs)} in penalties`}
-          </span>
-          {best?.isNewBest && (
-            <span className={styles.newBest}>
-              {best.previous === null ? "First time on the board!" : "New personal best!"}
-            </span>
-          )}
-          {best && !best.isNewBest && best.previous !== null && (
-            <span className={styles.timeNote}>Personal best: {formatSeconds(best.previous)}</span>
-          )}
-        </div>
-      )}
+  return (
+    <Panel
+      eyebrow="Round complete"
+      title={
+        wrongCount === 0
+          ? "Flawless. No mix-ups."
+          : `${wrongCount} ${plural(wrongCount, "mix-up")}. Worth a second look.`
+      }
+    >
+      {timed && <TimeBlock result={result} best={best} />}
 
       {mixups.length > 0 && (
-        <div className={styles.mixups}>
+        <div>
           <h2 className={styles.mixupsTitle}>Mix-ups to review</h2>
           <ul className={styles.list}>
             {mixups.map((pair) => (
@@ -66,15 +55,36 @@ export function MatchResults({
         </div>
       )}
 
-      <div className={styles.actions}>
-        {onRetryMissed && <ActionButton onClick={onRetryMissed}>Retry the mix-ups</ActionButton>}
-        <ActionButton variant={onRetryMissed ? "secondary" : "primary"} onClick={onNewRound}>
+      <ActionRow>
+        {onRetryMissed && <Button onClick={onRetryMissed}>Retry the mix-ups</Button>}
+        <Button variant={onRetryMissed ? "secondary" : "primary"} onClick={onNewRound}>
           New round
-        </ActionButton>
-        <ActionLink variant="secondary" href="/match">
+        </Button>
+        <ButtonLink variant="secondary" href="/match">
           Choose another set
-        </ActionLink>
-      </div>
-    </section>
+        </ButtonLink>
+      </ActionRow>
+    </Panel>
+  );
+}
+
+function TimeBlock({ result, best }: Pick<MatchResultsProps, "result" | "best">) {
+  return (
+    <div className={styles.timeBlock}>
+      <span className={styles.time}>{formatSeconds(result.totalMs)}</span>
+      <span className={styles.timeNote}>
+        {formatSeconds(result.elapsedMs)} on the clock
+        {result.wrongCount > 0 &&
+          ` + ${formatSeconds(result.totalMs - result.elapsedMs)} in penalties`}
+      </span>
+      {best?.isNewBest && (
+        <span className={styles.newBest}>
+          {best.previous === null ? "First time on the board!" : "New personal best!"}
+        </span>
+      )}
+      {best && !best.isNewBest && best.previous !== null && (
+        <span className={styles.timeNote}>Personal best: {formatSeconds(best.previous)}</span>
+      )}
+    </div>
   );
 }

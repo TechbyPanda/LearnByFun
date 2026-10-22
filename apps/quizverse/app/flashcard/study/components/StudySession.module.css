@@ -1,51 +1,3 @@
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 18px;
-}
-
-.backLink {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 14px;
-  color: #416b50;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.backLink:hover {
-  color: #244c36;
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-
-.count {
-  margin: 0;
-  font-size: 14px;
-  color: #45534a;
-}
-
-.count strong {
-  color: #17231d;
-  font-size: 18px;
-}
-
-.progress {
-  height: 8px;
-  border-radius: 999px;
-  background: #dfe6e0;
-  overflow: hidden;
-}
-
-.progressFill {
-  height: 100%;
-  border-radius: 999px;
-  background: linear-gradient(90deg, #416b50, #d28d39);
-  transition: width 320ms ease;
-}
-
 .stats {
   display: flex;
   flex-wrap: wrap;
@@ -58,34 +10,20 @@
 }
 
 .known {
-  color: #244c36;
+  color: var(--color-primary);
 }
 
 .missed {
-  color: #8a5a1c;
+  color: var(--color-highlight-ink);
 }
 
 .streak {
   margin-left: auto;
-  padding: 3px 10px;
-  border-radius: 999px;
-  background: #fbefd9;
-  color: #8a5a1c;
   animation: pop 260ms ease;
 }
 
 @keyframes pop {
   from {
     transform: scale(0.8);
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .progressFill {
-    transition: none;
-  }
-
-  .streak {
-    animation: none;
   }
 }

@@ -27,7 +27,6 @@ export function useQuizSession(initialQuestions: MCQQuestion[]) {
   // In instant-feedback mode an answer is revealed and locked once chosen.
   const isRevealed = instantFeedback && selectedOptionId !== null;
   const attemptedCount = answers.filter((a) => a !== null).length;
-  const flaggedCount = flagged.filter(Boolean).length;
   const score = questions.reduce(
     (sum, q, i) => sum + (answers[i] === q.correctOptionId ? 1 : 0),
     0,
@@ -80,7 +79,6 @@ export function useQuizSession(initialQuestions: MCQQuestion[]) {
     answers,
     flagged,
     attemptedCount,
-    flaggedCount,
     score,
     elapsedSeconds,
     instantFeedback,

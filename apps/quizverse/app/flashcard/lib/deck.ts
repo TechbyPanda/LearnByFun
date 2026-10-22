@@ -1,12 +1,13 @@
-import { flashcardsBySubject, type Flashcard, type Subject } from "../data";
+import { flashcardsBySubject, type Flashcard } from "../data";
 import {
   flashcardSessions,
   type FlashcardSession,
   type FlashcardSessionSection,
 } from "../sessions";
 import { shuffleArray } from "../../lib/shuffle";
-
-export type TopicsBySubject = Partial<Record<Subject, string[]>>;
+import type { TopicsBySubject } from "../../lib/subject";
+import { filterBySelection, pruneSelection } from "../../lib/topicSelection";
+import { getTopicsForSubject } from "./topics";
 
 export interface DeckOptions {
   shuffle: boolean;
@@ -21,10 +22,7 @@ export const DEFAULT_OPTIONS: DeckOptions = { shuffle: true, limit: 0 };
 // ---- Custom decks (built from topic picks) ----
 
 export function getMatchingCards(topicsBySubject: TopicsBySubject): Flashcard[] {
-  return (Object.entries(topicsBySubject) as [Subject, string[]][]).flatMap(
-    ([subject, topics]) =>
-      (flashcardsBySubject[subject] ?? []).filter((card) => topics.includes(card.topic)),
-  );
+  return filterBySelection(topicsBySubject, flashcardsBySubject);
 }
 
 export function buildDeck(topicsBySubject: TopicsBySubject, options: DeckOptions): Flashcard[] {
@@ -88,17 +86,16 @@ function parseStudyQuery(params: URLSearchParams): {
   topicsBySubject: TopicsBySubject;
   options: DeckOptions;
 } {
-  let topicsBySubject: TopicsBySubject = {};
+  let parsed: unknown = null;
   try {
-    const parsed: unknown = JSON.parse(params.get("topics") ?? "{}");
-    if (parsed && typeof parsed === "object") topicsBySubject = parsed as TopicsBySubject;
+    parsed = JSON.parse(params.get("topics") ?? "{}");
   } catch {
     // Malformed query: fall through to an empty selection.
   }
 
   const limit = Number(params.get("limit"));
   return {
-    topicsBySubject,
+    topicsBySubject: pruneSelection(parsed, getTopicsForSubject),
     options: {
       shuffle: params.get("shuffle") !== "0",
       limit: Number.isInteger(limit) && limit > 0 ? limit : 0,

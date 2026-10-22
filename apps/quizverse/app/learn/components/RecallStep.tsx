@@ -1,4 +1,6 @@
-import { ActionButton } from "../../components/ActionButton";
+import { ActionRow } from "../../components/ActionRow";
+import { Button } from "../../components/Button";
+import { Panel } from "../../components/Panel";
 import type { Flashcard } from "../../flashcard/data";
 import { RateButtons } from "../../flashcard/study/components/RateButtons";
 import { StudyCard } from "../../flashcard/study/components/StudyCard";
@@ -17,17 +19,16 @@ export function RecallStep({ cards, continueLabel, onDone }: RecallStepProps) {
 
   if (!session.card) {
     return (
-      <div className={styles.summary}>
-        <p className={styles.result}>
-          {session.known.length} of {session.total} recalled
-        </p>
+      <Panel title={`${session.known.length} of ${session.total} recalled`}>
         <p className={styles.note}>
           {session.missed.length === 0
             ? "Clean sweep. That's retrieval doing its job."
             : "Struggling a little is the point. It's what makes memories stick."}
         </p>
-        <ActionButton onClick={() => onDone(session.missed.length)}>{continueLabel}</ActionButton>
-      </div>
+        <ActionRow>
+          <Button onClick={() => onDone(session.missed.length)}>{continueLabel}</Button>
+        </ActionRow>
+      </Panel>
     );
   }
 

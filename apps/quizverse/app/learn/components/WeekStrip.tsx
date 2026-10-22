@@ -1,3 +1,4 @@
+import { plural } from "../../lib/format";
 import styles from "./WeekStrip.module.css";
 
 interface WeekStripProps {
@@ -19,7 +20,7 @@ export function WeekStrip({ days, today }: WeekStripProps) {
           className={styles.day}
           data-active={count > 0}
           data-today={date === today}
-          aria-label={`${date}: ${count} ${count === 1 ? "bite" : "bites"}`}
+          aria-label={`${date}: ${count} ${plural(count, "bite")}`}
         >
           <span className={styles.dot}>{count > 0 ? "✓" : ""}</span>
           <span className={styles.initial}>{weekdayInitial(date)}</span>

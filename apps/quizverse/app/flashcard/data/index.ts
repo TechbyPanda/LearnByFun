@@ -7,13 +7,6 @@ import { polityCurrentAffairFlashcards } from "./polityCurrentAffair";
 
 export * from "./types";
 
-export const allFlashcards: Flashcard[] = [
-  ...polityFlashcards,
-  ...polityHistoryFlashcards,
-  ...economyFlashcards,
-  ...polityCurrentAffairFlashcards
-];
-
 export const flashcardsBySubject: Record<Subject, Flashcard[]> = {
   Polity: [...polityFlashcards, ...polityHistoryFlashcards, ...polityCurrentAffairFlashcards],
   Economy: economyFlashcards,
@@ -26,4 +19,5 @@ export const flashcardsBySubject: Record<Subject, Flashcard[]> = {
   "Current Affairs": [],
 };
 
-export { polityFlashcards, economyFlashcards, environmentFlashCards };
+/** Every flashcard, derived from the map above so a subject can never be left out. */
+export const allFlashcards: Flashcard[] = Object.values(flashcardsBySubject).flat();

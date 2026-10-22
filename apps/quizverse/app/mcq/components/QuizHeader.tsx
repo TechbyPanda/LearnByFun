@@ -1,5 +1,8 @@
+import { CheckboxField } from "../../components/CheckboxField";
+import { ProgressBar } from "../../components/ProgressBar";
+import { Tag } from "../../components/Tag";
 import { formatTime } from "../lib/formatTime";
-import styles from "./quiz.module.css";
+import styles from "./QuizHeader.module.css";
 
 interface QuizHeaderProps {
   currentIndex: number;
@@ -18,36 +21,23 @@ export function QuizHeader({
   instantFeedback,
   onToggleFeedback,
 }: QuizHeaderProps) {
-  const percent = Math.round((attemptedCount / total) * 100);
-
   return (
     <header className={styles.header}>
-      <div className={styles.headerRow}>
-        <span className={styles.chip}>
+      <div className={styles.row}>
+        <Tag tone="neutral">
           Question {currentIndex + 1} / {total}
-        </span>
-        <span className={styles.chip}>⏱ {formatTime(elapsedSeconds)}</span>
-        <span className={styles.chip}>
+        </Tag>
+        <Tag tone="neutral">⏱ {formatTime(elapsedSeconds)}</Tag>
+        <Tag tone="neutral">
           Attempted {attemptedCount}/{total}
+        </Tag>
+        <span className={styles.toggle}>
+          <CheckboxField checked={instantFeedback} onChange={onToggleFeedback}>
+            Instant feedback
+          </CheckboxField>
         </span>
-        <label className={styles.toggle}>
-          <input
-            type="checkbox"
-            checked={instantFeedback}
-            onChange={(e) => onToggleFeedback(e.target.checked)}
-          />
-          Instant feedback
-        </label>
       </div>
-      <div
-        className={styles.progressTrack}
-        role="progressbar"
-        aria-valuenow={percent}
-        aria-valuemin={0}
-        aria-valuemax={100}
-      >
-        <div className={styles.progressFill} style={{ width: `${percent}%` }} />
-      </div>
+      <ProgressBar value={attemptedCount} max={total} label="Questions attempted" />
     </header>
   );
 }

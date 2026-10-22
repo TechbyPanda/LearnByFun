@@ -1,7 +1,8 @@
-import type { Subject } from "../data";
+import { readStorage, writeStorage } from "../../lib/storage";
+import type { TopicsBySubject } from "../../lib/subject";
 
 export interface QuizConfig {
-  topicsBySubject: Partial<Record<Subject, string[]>>;
+  topicsBySubject: TopicsBySubject;
   questionCount: number;
   shuffle: boolean;
 }
@@ -9,30 +10,18 @@ export interface QuizConfig {
 const STORAGE_KEY = "mcq:lastQuizConfig";
 
 export function saveQuizConfig(config: QuizConfig): void {
-  if (typeof window === "undefined") return;
-  try {
-    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(config));
-  } catch {
-    // localStorage unavailable (private mode, quota, etc.) — safe to ignore
-  }
+  writeStorage(STORAGE_KEY, config);
 }
 
 export function loadQuizConfig(): QuizConfig | null {
-  if (typeof window === "undefined") return null;
-  try {
-    const raw = window.localStorage.getItem(STORAGE_KEY);
-    if (!raw) return null;
-    const parsed = JSON.parse(raw);
-    if (
-      !parsed ||
-      typeof parsed.topicsBySubject !== "object" ||
-      typeof parsed.questionCount !== "number" ||
-      typeof parsed.shuffle !== "boolean"
-    ) {
-      return null;
-    }
-    return parsed as QuizConfig;
-  } catch {
+  const saved = readStorage(STORAGE_KEY) as Partial<QuizConfig> | null;
+  if (
+    !saved ||
+    typeof saved.topicsBySubject !== "object" ||
+    typeof saved.questionCount !== "number" ||
+    typeof saved.shuffle !== "boolean"
+  ) {
     return null;
   }
+  return saved as QuizConfig;
 }

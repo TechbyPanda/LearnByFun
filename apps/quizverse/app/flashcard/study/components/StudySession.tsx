@@ -1,6 +1,8 @@
-import Link from "next/link";
-import type { Flashcard } from "../../data";
+import { ProgressBar } from "../../../components/ProgressBar";
+import { SessionHeader } from "../../../components/SessionHeader";
+import { Tag } from "../../../components/Tag";
 import { shuffleArray } from "../../../lib/shuffle";
+import type { Flashcard } from "../../data";
 import { useStudySession } from "../hooks/useStudySession";
 import { RateButtons } from "./RateButtons";
 import { SessionResults } from "./SessionResults";
@@ -33,30 +35,20 @@ export function StudySession({ cards, onRetry }: StudySessionProps) {
 
   return (
     <>
-      <div className={styles.header}>
-        <Link className={styles.backLink} href="/flashcard">
-          <span aria-hidden="true">&larr;</span> All sessions
-        </Link>
-        <p className={styles.count}>
-          Card <strong>{index + 1}</strong> of {total}
-        </p>
-      </div>
+      <SessionHeader backHref="/flashcard" backLabel="All sessions">
+        Card <strong>{index + 1}</strong> of {total}
+      </SessionHeader>
 
-      <div
-        className={styles.progress}
-        role="progressbar"
-        aria-valuemin={0}
-        aria-valuemax={total}
-        aria-valuenow={index}
-        aria-label="Session progress"
-      >
-        <div className={styles.progressFill} style={{ width: `${(index / total) * 100}%` }} />
-      </div>
+      <ProgressBar value={index} max={total} label="Session progress" />
 
       <div className={styles.stats} aria-live="polite">
         <span className={styles.known}>{known.length} got it</span>
         <span className={styles.missed}>{missed.length} to revisit</span>
-        {streak >= STREAK_BADGE_MIN && <span className={styles.streak}>{streak} in a row!</span>}
+        {streak >= STREAK_BADGE_MIN && (
+          <span className={styles.streak}>
+            <Tag tone="highlight">{streak} in a row!</Tag>
+          </span>
+        )}
       </div>
 
       <StudyCard key={card.id} card={card} isFlipped={isFlipped} onFlip={session.flip} />

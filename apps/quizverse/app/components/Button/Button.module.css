@@ -1,0 +1,99 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 0 20px;
+  border: 1px solid var(--color-primary);
+  border-radius: var(--radius);
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+  font: inherit;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 120ms ease, border-color 120ms ease, color 120ms ease;
+}
+
+.button:hover:not(:disabled) {
+  background: var(--color-primary-hover);
+}
+
+.button:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: 3px;
+}
+
+.button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.button[data-block] {
+  width: 100%;
+}
+
+.button[data-variant="secondary"] {
+  border-color: var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-primary);
+}
+
+.button[data-variant="secondary"]:hover:not(:disabled) {
+  border-color: var(--color-accent);
+  background: var(--color-surface);
+}
+
+.button[data-variant="warning"] {
+  border-color: var(--color-highlight);
+  background: var(--color-surface);
+  color: var(--color-highlight-ink);
+}
+
+.button[data-variant="warning"]:hover:not(:disabled) {
+  background: var(--color-highlight-soft);
+}
+
+.button[data-variant="text"] {
+  gap: 6px;
+  min-height: 0;
+  padding: 6px 0;
+  border: 0;
+  background: transparent;
+  color: var(--color-accent);
+  font-size: 14px;
+}
+
+.button[data-variant="text"]:hover:not(:disabled) {
+  background: transparent;
+  color: var(--color-primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.button[data-variant="text"]:focus-visible {
+  outline-width: 2px;
+  outline-offset: 2px;
+}
+
+/* A pressed text toggle (e.g. "Marked for review") is highlighted. */
+.button[data-variant="text"][aria-pressed="true"] {
+  color: var(--color-highlight-ink);
+}
+
+/* Keyboard hints inside a button, e.g. "Got it <kbd>-></kbd>". */
+.button kbd {
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.1);
+  font: inherit;
+  font-size: 12px;
+}
+
+.button[data-variant="primary"] kbd {
+  background: rgba(0, 0, 0, 0.12);
+}

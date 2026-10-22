@@ -1,9 +1,12 @@
+import { Eyebrow } from "../../components/Eyebrow";
+import { SelectCard, SelectCardGrid } from "../../components/SelectCard";
+import { plural } from "../../lib/format";
+import { countSessionCards } from "../lib/deck";
 import {
   SESSION_CATEGORY_ORDER,
   flashcardSessions,
   type FlashcardSession,
 } from "../sessions";
-import { countSessionCards } from "../lib/deck";
 import styles from "./SessionList.module.css";
 
 interface SessionListProps {
@@ -21,36 +24,21 @@ export function SessionList({ onStart }: SessionListProps) {
         if (sessions.length === 0) return null;
 
         return (
-          <section key={category} aria-label={category}>
-            <h3 className={styles.category}>{category}</h3>
-            <div className={styles.grid}>
+          <section key={category} className={styles.category} aria-label={category}>
+            <Eyebrow as="h3">{category}</Eyebrow>
+            <SelectCardGrid>
               {sessions.map(({ session, cards }) => (
-                <button
+                <SelectCard
                   key={session.id}
-                  type="button"
-                  className={styles.card}
+                  tags={[...new Set(session.sections.map((s) => s.subject))]}
+                  title={session.title}
+                  description={session.description}
+                  meta={`${cards} ${plural(cards, "card")}`}
+                  actionLabel="Start"
                   onClick={() => onStart(session)}
-                >
-                  <span className={styles.tags}>
-                    {Array.from(new Set(session.sections.map((s) => s.subject))).map(
-                      (subject) => (
-                        <span key={subject} className={styles.tag}>
-                          {subject}
-                        </span>
-                      ),
-                    )}
-                  </span>
-                  <span className={styles.title}>{session.title}</span>
-                  <span className={styles.description}>{session.description}</span>
-                  <span className={styles.footer}>
-                    <span>{cards} {cards === 1 ? "card" : "cards"}</span>
-                    <span className={styles.go}>
-                      Start <span aria-hidden="true">-&gt;</span>
-                    </span>
-                  </span>
-                </button>
+                />
               ))}
-            </div>
+            </SelectCardGrid>
           </section>
         );
       })}

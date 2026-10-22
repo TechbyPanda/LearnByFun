@@ -1,12 +1,21 @@
 import { questionsBySubject, type MCQQuestion } from "../data";
 import type { TestPaperSection } from "../testPapers";
 import { shuffleArray } from "../../lib/shuffle";
+import type { TopicsBySubject } from "../../lib/subject";
+import { filterBySelection } from "../../lib/topicSelection";
+
+/** Every question in the picked topics of the picked subjects. */
+export function getQuestionsForTopics(topicsBySubject: TopicsBySubject): MCQQuestion[] {
+  return filterBySelection(topicsBySubject, questionsBySubject);
+}
 
 function getSectionQuestions(section: TestPaperSection): MCQQuestion[] {
-  const subjectQuestions = questionsBySubject[section.subject] ?? [];
-  return section.topics
-    ? subjectQuestions.filter((question) => section.topics!.includes(question.topic))
-    : subjectQuestions;
+  const { topics, subtopics } = section;
+  return (questionsBySubject[section.subject] ?? []).filter(
+    (question) =>
+      (!topics || topics.includes(question.topic)) &&
+      (!subtopics || subtopics.includes(question.subtopic)),
+  );
 }
 
 export function getAvailableCountForSection(section: TestPaperSection): number {

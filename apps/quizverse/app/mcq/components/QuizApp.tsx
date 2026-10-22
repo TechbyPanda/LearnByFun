@@ -1,6 +1,6 @@
+import { EmptyState } from "../../components/EmptyState";
 import { useQuizQuestions } from "../hooks/useQuizQuestions";
 import { useQuizSession } from "../hooks/useQuizSession";
-import { EmptyState } from "./EmptyState";
 import { QuizView } from "./QuizView";
 import { ReviewScreen } from "./ReviewScreen";
 
@@ -8,7 +8,16 @@ export function QuizApp() {
   const initialQuestions = useQuizQuestions();
   const session = useQuizSession(initialQuestions);
 
-  if (session.total === 0) return <EmptyState />;
+  if (session.total === 0) {
+    return (
+      <EmptyState
+        title="No quiz configured"
+        message="Pick some subjects on the quiz page to start."
+        actionHref="/quiz"
+        actionLabel="Go to Quiz Setup"
+      />
+    );
+  }
 
   if (session.isFinished) {
     return (

@@ -1,13 +1,10 @@
+import { readStorage, writeStorage } from "../../lib/storage";
 import { EMPTY_PROGRESS, type BiteRecord, type LearnProgress } from "./progress";
 
 const STORAGE_KEY = "learn:progress";
 
 export function saveProgress(progress: LearnProgress): void {
-  try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
-  } catch {
-    // Storage unavailable (private mode, quota) — persistence is best-effort.
-  }
+  writeStorage(STORAGE_KEY, progress);
 }
 
 function isRecord(value: unknown): value is BiteRecord {
@@ -20,19 +17,14 @@ function isRecord(value: unknown): value is BiteRecord {
 }
 
 export function loadProgress(): LearnProgress {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return EMPTY_PROGRESS;
-    const saved = JSON.parse(raw) as Partial<LearnProgress>;
+  const saved = readStorage(STORAGE_KEY) as Partial<LearnProgress> | null;
+  if (!saved) return EMPTY_PROGRESS;
 
-    const completed = Object.fromEntries(
-      Object.entries(saved.completed ?? {}).filter(([, record]) => isRecord(record)),
-    );
-    const activity = Object.fromEntries(
-      Object.entries(saved.activity ?? {}).filter(([, count]) => typeof count === "number"),
-    );
-    return { completed, activity };
-  } catch {
-    return EMPTY_PROGRESS;
-  }
+  const completed = Object.fromEntries(
+    Object.entries(saved.completed ?? {}).filter(([, record]) => isRecord(record)),
+  );
+  const activity = Object.fromEntries(
+    Object.entries(saved.activity ?? {}).filter(([, count]) => typeof count === "number"),
+  );
+  return { completed, activity };
 }

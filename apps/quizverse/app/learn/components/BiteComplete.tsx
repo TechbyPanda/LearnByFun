@@ -1,4 +1,8 @@
-import { ActionLink } from "../../components/ActionButton";
+import { ActionRow } from "../../components/ActionRow";
+import { ButtonLink } from "../../components/Button";
+import { Panel } from "../../components/Panel";
+import { plural } from "../../lib/format";
+import { biteHref } from "../lib/links";
 import type { UpNextItem } from "../lib/schedule";
 import { GoalRing } from "./GoalRing";
 import styles from "./BiteComplete.module.css";
@@ -13,14 +17,13 @@ interface BiteCompleteProps {
 }
 
 export function BiteComplete({ correct, streak, todayCount, goal, next }: BiteCompleteProps) {
-  const goalReached = todayCount >= goal;
+  const remaining = goal - todayCount;
 
   return (
-    <section className={styles.card}>
-      <p className={styles.eyebrow}>BITE COMPLETE</p>
-      <h1 className={styles.title}>
-        {correct ? "Locked in." : "Good effort. This one will return tomorrow."}
-      </h1>
+    <Panel
+      eyebrow="Bite complete"
+      title={correct ? "Locked in." : "Good effort. This one will return tomorrow."}
+    >
       <p className={styles.note}>
         {correct
           ? "You'll see it again as a quick refresher so it stays fresh."
@@ -31,28 +34,24 @@ export function BiteComplete({ correct, streak, todayCount, goal, next }: BiteCo
         <GoalRing value={todayCount} goal={goal} />
         <div>
           <p className={styles.statLine}>
-            <strong>{streak}</strong> day{streak === 1 ? "" : "s"} in a row
+            <strong>{streak}</strong> {plural(streak, "day")} in a row
           </p>
           <p className={styles.statSub}>
-            {goalReached
+            {remaining <= 0
               ? "Daily goal reached. Anything more is a bonus."
-              : `${goal - todayCount} more ${goal - todayCount === 1 ? "bite" : "bites"} for today's goal`}
+              : `${remaining} more ${plural(remaining, "bite")} for today's goal`}
           </p>
         </div>
       </div>
 
-      <div className={styles.actions}>
+      <ActionRow>
         {next && (
-          <ActionLink
-            href={`/learn/bite?id=${next.bite.id}${next.mode === "refresh" ? "&mode=refresh" : ""}`}
-          >
-            Next: {next.bite.title}
-          </ActionLink>
+          <ButtonLink href={biteHref(next.bite.id, next.mode)}>Next: {next.bite.title}</ButtonLink>
         )}
-        <ActionLink variant="secondary" href="/learn">
+        <ButtonLink variant="secondary" href="/learn">
           Back to Learn
-        </ActionLink>
-      </div>
-    </section>
+        </ButtonLink>
+      </ActionRow>
+    </Panel>
   );
 }
