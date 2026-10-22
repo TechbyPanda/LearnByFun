@@ -1,7 +1,14 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import { Navbar } from "./components/Navbar";
+import { Navbar, type NavLink } from "./components/Navbar";
+import { PRACTICE_MODES } from "./lib/practiceModes";
+import { tracks } from "./tracks/data";
 import "./globals.css";
+
+const NAV_LINKS: NavLink[] = [
+  ...tracks.map((track) => ({ href: `/tracks/${track.id}`, label: track.title })),
+  ...PRACTICE_MODES.map(({ href, label }) => ({ href, label })),
+];
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -14,7 +21,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Quizverse",
-  description: "UPSC CSE MCQ practice, by subject and question count.",
+  description: "Syllabus dashboards and practice — quizzes, flashcards, bites and match — for UPSC CSE and more.",
 };
 
 export default function RootLayout({
@@ -25,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        <Navbar />
+        <Navbar links={NAV_LINKS} />
         {children}
       </body>
     </html>

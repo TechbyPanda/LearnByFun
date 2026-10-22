@@ -2,8 +2,9 @@
 //
 // Quiz (mcq + quiz), flashcard and match each own their data and code, so
 // editing one can never break another. They share only app/lib and
-// app/components, and link content by topic name. `learn` is the deliberate
-// integrator and is intentionally not restricted.
+// app/components, and link content by topic name. `learn` and `tracks` (the
+// syllabus dashboards) are the deliberate integrators and are intentionally
+// not restricted; no feature may import from them.
 //
 // Why a script and not ESLint: the repo's ESLint setup only lints .js files,
 // so it never sees .ts/.tsx. This reads each file's imports, resolves them to
@@ -16,10 +17,11 @@ import { fileURLToPath } from "node:url";
 const APP_DIR = path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "app");
 
 const FORBIDDEN = {
-  mcq: ["flashcard", "match", "learn"],
-  quiz: ["flashcard", "match", "learn"],
-  flashcard: ["mcq", "quiz", "match", "learn"],
-  match: ["mcq", "quiz", "flashcard", "learn"],
+  mcq: ["flashcard", "match", "learn", "tracks"],
+  quiz: ["flashcard", "match", "learn", "tracks"],
+  flashcard: ["mcq", "quiz", "match", "learn", "tracks"],
+  match: ["mcq", "quiz", "flashcard", "learn", "tracks"],
+  learn: ["tracks"],
 };
 
 const IMPORT_PATTERN =

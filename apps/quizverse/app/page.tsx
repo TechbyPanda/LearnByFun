@@ -1,39 +1,11 @@
-import { LinkCard, type LinkCardProps } from "./components/LinkCard";
+import { LinkCard } from "./components/LinkCard";
 import { Page } from "./components/Page";
 import { PageIntro } from "./components/PageIntro";
+import { PRACTICE_MODES } from "./lib/practiceModes";
+import { tracks } from "./tracks/data";
 import styles from "./page.module.css";
 
-const FEATURES: LinkCardProps[] = [
-  {
-    href: "/quiz",
-    index: "01 / PRACTICE",
-    title: "Quiz",
-    description: "Mock tests or a quiz you configure yourself.",
-    actionLabel: "Choose a quiz",
-    variant: "filled",
-  },
-  {
-    href: "/flashcard",
-    index: "02 / REVIEW",
-    title: "Flashcards",
-    description: "Ready-made sessions or your own mix, one card at a time.",
-    actionLabel: "Choose a session",
-  },
-  {
-    href: "/learn",
-    index: "03 / LEARN",
-    title: "Daily Bites",
-    description: "One idea, about three minutes. Build a streak a little at a time.",
-    actionLabel: "Start a bite",
-  },
-  {
-    href: "/match",
-    index: "04 / DRILL",
-    title: "Quick Match",
-    description: "Race the clock to pair each Article with what it says.",
-    actionLabel: "Start matching",
-  },
-];
+const pad = (n: number) => String(n).padStart(2, "0");
 
 export default function Home() {
   return (
@@ -42,11 +14,42 @@ export default function Home() {
         Build a steady study habit, one focused session at a time.
       </PageIntro>
 
-      <div className={styles.cardList}>
-        {FEATURES.map((feature) => (
-          <LinkCard key={feature.href} {...feature} />
-        ))}
-      </div>
+      <section className={styles.section} aria-labelledby="tracks-heading">
+        <h2 id="tracks-heading" className={styles.sectionTitle}>
+          Your tracks
+        </h2>
+        <div className={styles.cardList}>
+          {tracks.map((track) => (
+            <LinkCard
+              key={track.id}
+              href={`/tracks/${track.id}`}
+              index={track.subtitle.toUpperCase()}
+              title={track.title}
+              description={track.description}
+              actionLabel="Open dashboard"
+              variant="filled"
+            />
+          ))}
+        </div>
+      </section>
+
+      <section className={styles.section} aria-labelledby="practice-heading">
+        <h2 id="practice-heading" className={styles.sectionTitle}>
+          Practice modes
+        </h2>
+        <div className={styles.cardList}>
+          {PRACTICE_MODES.map((mode, i) => (
+            <LinkCard
+              key={mode.href}
+              href={mode.href}
+              index={`${pad(i + 1)} / ${mode.kind}`}
+              title={mode.title}
+              description={mode.description}
+              actionLabel={mode.actionLabel}
+            />
+          ))}
+        </div>
+      </section>
     </Page>
   );
 }
