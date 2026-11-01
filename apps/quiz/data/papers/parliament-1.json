@@ -1,0 +1,90 @@
+{
+  "id": "parliament-1",
+  "name": "Parliament – Paper 1",
+  "tags": ["polity"],
+  "subtags": ["parliament", "rajya-sabha", "money-bills", "procedure"],
+  "questions": [
+    {
+      "question": "Consider the following statements about the Rajya Sabha:\n1. Its maximum strength is fixed at 250.\n2. The President nominates 12 members with special knowledge or practical experience in literature, science, art and social service.\n3. Every Union Territory is represented in the Rajya Sabha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "The maximum strength is 250 (238 elected representatives of states and UTs + 12 nominated by the President under Article 80). Only Delhi, Puducherry and Jammu & Kashmir are represented; the other UTs have no seats, so statement 3 is wrong."
+    },
+    {
+      "question": "The quorum to constitute a meeting of either House of Parliament is:",
+      "options": [
+        "One-fourth of the total number of members",
+        "One-tenth of the total number of members, including the presiding officer",
+        "One-third of the members present and voting",
+        "One-sixth of the total number of members"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 100, the quorum is one-tenth of the total number of members of the House, including the presiding officer. Without it, the presiding officer must adjourn the House or suspend the meeting."
+    },
+    {
+      "question": "The Speaker pro tem of the Lok Sabha is appointed by the:",
+      "options": ["President", "Outgoing Speaker", "Prime Minister", "Vice-President"],
+      "answer": 0,
+      "explanation": "When the Speaker of the outgoing Lok Sabha vacates office just before the new House meets, the President appoints a member (usually the senior-most) as Speaker pro tem. The pro tem Speaker administers the oath to new members and presides over the election of the Speaker."
+    },
+    {
+      "question": "Consider the following statements about the 'Zero Hour':\n1. It is provided for in the Rules of Procedure of both Houses.\n2. It is an Indian innovation in parliamentary practice.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Zero Hour is an informal device that lets members raise matters without prior notice. It is not mentioned in the Rules of Procedure, and it is an Indian innovation. It starts right after Question Hour."
+    },
+    {
+      "question": "Whether a bill is a Money Bill or not is finally decided by the:",
+      "options": [
+        "President",
+        "Finance Minister",
+        "Chairman of the Rajya Sabha",
+        "Speaker of the Lok Sabha"
+      ],
+      "answer": 3,
+      "explanation": "Under Article 110(3), if a question arises whether a bill is a Money Bill, the decision of the Speaker of the Lok Sabha is final. The Speaker endorses a certificate on the bill when it is sent to the Rajya Sabha and to the President."
+    },
+    {
+      "question": "The Rajya Sabha can delay a Money Bill for a maximum period of:",
+      "options": ["30 days", "6 months", "14 days", "3 months"],
+      "answer": 2,
+      "explanation": "The Rajya Sabha must return a Money Bill, with or without recommendations, within 14 days. The Lok Sabha may accept or reject its recommendations. If the bill is not returned in 14 days, it is deemed passed by both Houses."
+    },
+    {
+      "question": "Consider the following statements about a joint sitting of the two Houses of Parliament:\n1. It is presided over by the Speaker of the Lok Sabha.\n2. It can be summoned to resolve a deadlock over a Constitutional Amendment Bill.\n3. It cannot be summoned for a Money Bill.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 3 only", "2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Under Article 108, the Speaker presides over a joint sitting (or the Deputy Speaker in the Speaker's absence). Joint sittings apply only to ordinary bills and financial bills: a Money Bill needs no joint sitting because the Lok Sabha prevails, and a Constitutional Amendment Bill must be passed by each House separately."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Rajya Sabha can authorise Parliament to make a law on a subject in the State List.\n2. The Rajya Sabha can authorise Parliament to create a new All-India Service.\n3. The Rajya Sabha can remove the Council of Ministers by passing a no-confidence motion.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "The Rajya Sabha has two special powers, both exercised by a resolution supported by two-thirds of members present and voting: Article 249 (Parliament legislating on a State List subject) and Article 312 (creating new All-India Services). The Council of Ministers is collectively responsible only to the Lok Sabha (Article 75), so statement 3 is wrong."
+    },
+    {
+      "question": "Consider the following statements about the effect of dissolution of the Lok Sabha on bills:\n1. A bill pending in the Lok Sabha lapses.\n2. A bill passed by the Lok Sabha but pending in the Rajya Sabha lapses.\n3. A bill pending in the Rajya Sabha but not passed by the Lok Sabha does not lapse.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three are correct. Bills that originated in or were passed by the Lok Sabha lapse on its dissolution, but a bill pending in the Rajya Sabha that the Lok Sabha has not yet passed survives. A bill for which the President has notified a joint sitting before dissolution also does not lapse."
+    },
+    {
+      "question": "Consider the following statements regarding disqualification on grounds of defection:\n1. Under the Tenth Schedule, the question is decided by the presiding officer of the House.\n2. The presiding officer's decision is final and cannot be questioned in any court.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "The Chairman or Speaker decides defection cases. Although the Tenth Schedule originally made this decision final, the Supreme Court in Kihoto Hollohan (1992) held that the presiding officer acts as a tribunal, so the decision is subject to judicial review."
+    },
+    {
+      "question": "To be recognised as the Leader of the Opposition in the Lok Sabha, the largest opposition party must have at least what share of the total strength of the House?",
+      "options": ["One-fifth", "One-sixth", "One-third", "One-tenth"],
+      "answer": 3,
+      "explanation": "The largest opposition party with at least one-tenth of the total strength of the House is recognised as the opposition, and its leader as Leader of the Opposition. The post got statutory recognition in 1977, and its holder gets the rank of a Cabinet Minister."
+    },
+    {
+      "question": "During the budget, a 'token cut' motion seeks to reduce the amount of a demand by:",
+      "options": ["Re 1", "A specified amount", "Rs 100", "Half the demand"],
+      "answer": 2,
+      "explanation": "There are three cut motions. A policy cut reduces the demand to Re 1 (disapproving the policy), an economy cut reduces it by a specified amount (to suggest economy), and a token cut reduces it by Rs 100 (to voice a specific grievance)."
+    }
+  ]
+}

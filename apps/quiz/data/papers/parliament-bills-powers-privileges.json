@@ -1,0 +1,44 @@
+{
+  "id": "parliament-bills-powers-privileges",
+  "name": "Parliament – Bills, House Powers & Privileges",
+  "tags": ["polity"],
+  "subtags": ["parliament", "money-bills", "joint-sitting", "anti-defection", "privileges"],
+  "questions": [
+    {
+      "question": "Consider the following statements regarding legislative procedures in Parliament:\n1. A Money Bill can only be introduced in the Lok Sabha on the recommendation of the President.\n2. A Financial Bill (I) under Article 117(1) can be introduced in either House of Parliament, provided it has the prior recommendation of the President.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Under Article 109 and Article 117(1), a Money Bill can only be introduced in the Lok Sabha on the recommendation of the President. Statement 2 is incorrect: Like a Money Bill, a Financial Bill (I) can also ONLY be introduced in the Lok Sabha and not in the Rajya Sabha. In other respects, it is governed by the ordinary bill procedure."
+    },
+    {
+      "question": "Consider the following statements regarding the Joint Sitting of both Houses of Parliament (Article 108):\n1. The Chairman of the Rajya Sabha presides over a joint sitting in the absence of the Speaker and Deputy Speaker of the Lok Sabha.\n2. If the Lok Sabha is dissolved after the President notifies his intention to summon a joint sitting, the joint sitting can still be held and the pending bill does not lapse.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: The Chairman of the Rajya Sabha (Vice-President) cannot preside over a joint sitting because he is not a member of either House. In the absence of both the Speaker and Deputy Speaker, the Deputy Chairman of the Rajya Sabha presides. Statement 2 is correct: As per Article 108, if the President notifies his intention to summon a joint sitting before dissolution, the bill does not lapse on the dissolution of the Lok Sabha and the joint sitting can be held."
+    },
+    {
+      "question": "Consider the following statements regarding the special powers of the Rajya Sabha:\n1. Under Article 249, the Rajya Sabha can authorize Parliament to make laws on a State List subject by passing a resolution by a simple majority of members present and voting.\n2. Under Article 312, a resolution for the creation of a new All-India Service common to the Union and the States can be initiated only in the Rajya Sabha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Under Article 249, the resolution in Rajya Sabha must be passed by a special majority (supported by not less than two-thirds of members present and voting), not a simple majority. Statement 2 is correct: Under Article 312, the Rajya Sabha has the exclusive power to initiate a resolution authorizing Parliament to create new All-India Services."
+    },
+    {
+      "question": "Consider the following statements regarding disqualification under the Tenth Schedule (Anti-Defection Law):\n1. The decision on disqualification under the Tenth Schedule is made by the President of India on the advice of the Election Commission.\n2. The decision of the Presiding Officer regarding disqualification under the Tenth Schedule is subject to judicial review.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Disqualification under the Tenth Schedule is decided by the Chairman (Rajya Sabha) or Speaker (Lok Sabha), whereas constitutional disqualifications under Article 102 are decided by the President based on Election Commission advice. Statement 2 is correct: In the Kihoto Hollohan case (1992), the Supreme Court held that the decision of the Speaker/Chairman under the Tenth Schedule is subject to judicial review."
+    },
+    {
+      "question": "Consider the following statements regarding the effect of Lok Sabha dissolution on pending bills:\n1. A bill pending in the Rajya Sabha which has not been passed by the Lok Sabha does not lapse on dissolution.\n2. A bill passed by both Houses but returned by the President for reconsideration of the Houses lapses on dissolution.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: A bill pending in the Rajya Sabha that has not been passed by the Lok Sabha does not lapse upon dissolution of the Lok Sabha. Statement 2 is incorrect: A bill passed by both Houses and returned by the President for reconsideration does NOT lapse on the dissolution of the Lok Sabha."
+    },
+    {
+      "question": "Consider the following statements regarding Parliamentary Privileges in India:\n1. The privilege of freedom from arrest for Members of Parliament extends to both civil and criminal cases during the session.\n2. Parliamentary privileges extend to the Attorney General of India and Union Ministers who have the right to speak and take part in Parliamentary proceedings.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Freedom from arrest (40 days before, during, and 40 days after a session) is available ONLY in civil cases, and NOT in criminal cases or preventive detention cases. Statement 2 is correct: Under Article 105, parliamentary privileges extend to non-member Union Ministers and the Attorney General of India who are entitled to speak and participate in parliamentary proceedings."
+    }
+  ]
+}

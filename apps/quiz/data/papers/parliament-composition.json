@@ -1,0 +1,235 @@
+{
+  "id": "parliament-composition-powers-procedures",
+  "name": "Polity – Composition & Legislative Procedures",
+  "tags": [
+    "polity"
+  ],
+  "subtags": [
+    "parliament",
+    "lok-sabha",
+    "rajya-sabha",
+    "legislative-procedures"
+  ],
+  "questions": [
+    {
+      "question": "Consider the following statements regarding the Rajya Sabha:\n1. The representative of each State in the Rajya Sabha is elected by the elected members of the State Legislative Assembly in accordance with the system of proportional representation by means of single transferable vote.\n2. The Constitution has fixed the term of office of members of the Rajya Sabha at six years.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: As per Article 80(4), representatives of States in the Rajya Sabha are elected by elected members of State Legislative Assemblies using proportional representation by single transferable vote. Statement 2 is incorrect: The Constitution itself did NOT fix the term of office of Rajya Sabha members; it left the term to be decided by Parliament. Parliament subsequently fixed the 6-year term under Section 154 of the Representation of the People Act, 1951."
+    },
+    {
+      "question": "Consider the following statements regarding the Speaker of the Lok Sabha:\n1. The Speaker vacates his office immediately upon the dissolution of the Lok Sabha.\n2. When a resolution for the removal of the Speaker is under consideration, he can speak and take part in the proceedings of the Lok Sabha and vote in the first instance.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Under Article 94, whenever the Lok Sabha is dissolved, the Speaker does not vacate his office and continues in office until immediately before the first meeting of the newly-elected Lok Sabha. Statement 2 is correct: Under Article 96, when a resolution for his removal is under consideration, the Speaker can speak, participate, and vote in the first instance, but cannot exercise a casting vote in case of an equality of votes."
+    },
+    {
+      "question": "Consider the following statements regarding Money Bills under Article 110 of the Constitution:\n1. A bill is deemed to be a Money Bill if it contains only provisions dealing with the imposition, abolition, remission, alteration or regulation of any tax.\n2. If any question arises whether a bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha is final.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Under Article 110(1)(a), a bill containing provisions dealing exclusively with tax imposition, abolition, remission, alteration, or regulation qualifies as a Money Bill. Statement 2 is correct: Under Article 110(3), if any question arises whether a bill is a Money Bill or not, the Speaker of the Lok Sabha's decision is final and binding."
+    },
+    {
+      "question": "Consider the following statements regarding the Joint Sitting of both Houses of Parliament under Article 108:\n1. The Chairman of the Rajya Sabha presides over a joint sitting of Parliament in the absence of the Speaker of the Lok Sabha.\n2. A joint sitting can be summoned for resolving deadlocks over Money Bills as well as Constitution Amendment Bills.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: The Chairman of the Rajya Sabha (Vice-President) is not a member of Parliament and therefore cannot preside over a joint sitting. In the Speaker's absence, the Deputy Speaker presides, and if he is also absent, the Deputy Chairman of the Rajya Sabha presides. Statement 2 is incorrect: Under Article 108, joint sittings apply only to ordinary bills and financial bills. Money Bills (where Lok Sabha has overriding power) and Constitution Amendment Bills (which must be passed by each House separately) cannot be passed in a joint sitting."
+    },
+    {
+      "question": "Which of the following constitutional amendments extended the freeze on the allocation of Lok Sabha seats to the States up to the year 2026?",
+      "options": [
+        "84th Constitutional Amendment Act, 2001",
+        "87th Constitutional Amendment Act, 2003",
+        "42nd Constitutional Amendment Act, 1976",
+        "91st Constitutional Amendment Act, 2003"
+      ],
+      "answer": 0,
+      "explanation": "Option a is correct: The 84th Constitutional Amendment Act, 2001 extended the freeze on the readjustment of Lok Sabha seats to States until the year 2026. Option b is wrong because the 87th Amendment Act, 2003 allowed delimitation based on 2001 census without changing total seat allocation. Option c is wrong because the 42nd Amendment Act, 1976 originally imposed the freeze until 2000 based on the 1971 census. Option d is wrong because the 91st Amendment Act, 2003 capped the size of the Council of Ministers."
+    },
+    {
+      "question": "Under which Article of the Constitution can the Rajya Sabha pass a resolution by a special majority empowering Parliament to make laws on a subject in the State List in the national interest?",
+      "options": [
+        "Article 248",
+        "Article 249",
+        "Article 250",
+        "Article 312"
+      ],
+      "answer": 1,
+      "explanation": "Option b is correct: Under Article 249, if the Rajya Sabha passes a resolution supported by not less than two-thirds of members present and voting declaring that it is necessary in the national interest, Parliament can legislate on a State List subject. Option a is wrong as Article 248 relates to residuary powers. Option c is wrong as Article 250 applies during a National Emergency. Option d is wrong as Article 312 relates to the creation of All-India Services."
+    },
+    {
+      "question": "Which cut motion moved during the voting on demands for grants aims to reduce the amount of the demand to Re 1 to express disapproval of the policy underlying the demand?",
+      "options": [
+        "Economy Cut Motion",
+        "Token Cut Motion",
+        "Policy Cut Motion",
+        "Disapproval Cut Motion"
+      ],
+      "answer": 2,
+      "explanation": "Option c is correct: A Policy Cut Motion represents disapproval of the policy underlying the demand and seeks to reduce the amount of the demand to Re 1. Option a is wrong because an Economy Cut Motion seeks a specific monetary reduction to affect economy. Option b is wrong because a Token Cut Motion reduces the demand by Rs 100 to ventilate a specific grievance. Option d is wrong because 'Disapproval Cut' is not a recognized nomenclature in parliamentary procedure."
+    },
+    {
+      "question": "If a sitting member of the Lok Sabha is subsequently elected to the Rajya Sabha, what is the status of his original seat in the Lok Sabha?",
+      "options": [
+        "He can retain both seats for up to 14 days.",
+        "The Election Commission decides which seat becomes vacant.",
+        "His seat in the Rajya Sabha becomes vacant automatically.",
+        "His seat in the Lok Sabha becomes vacant automatically."
+      ],
+      "answer": 3,
+      "explanation": "Option d is correct: Under Section 68 of the Representation of the People Act, 1951, if a sitting member of one House is elected to the other House, his seat in the first House (Lok Sabha here) automatically becomes vacant on the date of such election. Option a is wrong as the 14-day rule applies when a person is elected to both Parliament and State Legislature. Option b is wrong as the Election Commission has no discretionary authority in double membership. Option c is wrong because the seat in the first House becomes vacant, not the second."
+    },
+    {
+      "question": "Consider the following statements regarding the Adjournment Motion in Parliament:\n1. It requires the support of at least 50 members to be admitted in the House.\n2. It carries an element of censure against the Government.\n3. It can be introduced in either the Lok Sabha or the Rajya Sabha.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct: An Adjournment Motion needs the support of 50 members to be admitted and involves an element of censure against the government for administrative lapses. Statement 3 is incorrect: Because it involves censure of the executive, the Adjournment Motion is an extraordinary device permitted ONLY in the Lok Sabha and cannot be used in the Rajya Sabha."
+    },
+    {
+      "question": "Consider the following statements regarding Parliamentary Privileges under Article 105 of the Constitution:\n1. The privilege of freedom from arrest applies to members in both civil and criminal cases during the session of Parliament.\n2. Parliamentary privileges extend to the Attorney General of India and Union Ministers who are entitled to speak and take part in proceedings.\n3. The President of India, despite being an integral part of Parliament, does not enjoy parliamentary privileges.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Freedom from arrest (40 days before, during, and 40 days after a session) is available ONLY in civil cases, and NOT in criminal cases or preventive detention cases. Statements 2 and 3 are correct: Privileges extend under Article 105(4) to non-member Union Ministers and the Attorney General of India who take part in parliamentary proceedings, but do NOT extend to the President of India."
+    },
+    {
+      "question": "Consider the following statements regarding Financial Bills in the Indian Parliament:\n1. A Financial Bill (I) under Article 117(1) can be introduced only in the Lok Sabha on the recommendation of the President.\n2. A Financial Bill (I) cannot be amended or rejected by the Rajya Sabha.\n3. A Financial Bill (II) under Article 117(3) can be introduced in either House of Parliament without prior recommendation of the President.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 2,
+      "explanation": "Statements 1 and 3 are correct: Financial Bill (I) under Article 117(1) requires the President's recommendation and can be introduced only in the Lok Sabha. Financial Bill (II) under Article 117(3) involves expenditure from the Consolidated Fund of India, requires no recommendation at introduction, and can be introduced in either House. Statement 2 is incorrect: Financial Bill (I) can be amended or rejected by the Rajya Sabha, unlike a Money Bill."
+    },
+    {
+      "question": "Consider the following statements regarding the voting and functioning of the Lok Sabha:\n1. The Speaker exercises a casting vote only in the case of an equality of votes.\n2. The quorum to constitute a meeting of the Lok Sabha is one-tenth of the total strength of the House.\n3. If the Speaker's opinion on a voice vote is challenged, he can direct votes to be recorded through automatic vote recorders.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 3,
+      "explanation": "All three statements are correct: Under Article 100(1), the Speaker votes only in the event of a tie (casting vote). Under Article 100(3), quorum is one-tenth of the total membership. Under Lok Sabha Rules of Procedure, if a voice vote ('Ayes'/'Noes') is challenged, the Speaker can order division using the automatic vote recorder, slips, or lobbies."
+    },
+    {
+      "question": "Which of the following funds is operated by executive action without requiring prior parliamentary appropriation laws for payments?",
+      "options": [
+        "Public Account of India",
+        "Consolidated Fund of India",
+        "Union Contingency Revenue Fund",
+        "National Defence Fund"
+      ],
+      "answer": 0,
+      "explanation": "Option a is correct: Under Article 266(2), payments from the Public Account of India (such as provident funds, judicial deposits, savings bank deposits) are operated by executive action without requiring parliamentary appropriation. Option b is wrong as payments from the Consolidated Fund of India require an Appropriation Act under Article 266(1) and Article 114. Option c and d are not distinct constitutional funds operating outside standard budget procedure."
+    },
+    {
+      "question": "What is the maximum period for which the Rajya Sabha can delay an Ordinary Bill passed by the Lok Sabha before a deadlock is deemed to have occurred?",
+      "options": [
+        "14 days",
+        "6 months",
+        "1 year",
+        "3 months"
+      ],
+      "answer": 1,
+      "explanation": "Option b is correct: Under Article 108(1)(c), if an Ordinary Bill passed by one House is sent to the other House and more than six months elapse without the bill being passed, a deadlock is deemed to have taken place, enabling the President to summon a joint sitting. Option a is wrong because 14 days is the maximum delay for a Money Bill. Options c and d are incorrect timeframes."
+    },
+    {
+      "question": "In which landmark case did the Supreme Court hold that the decision of the Speaker or Chairman regarding disqualification under the Tenth Schedule (Anti-Defection Law) is subject to judicial review?",
+      "options": [
+        "Kesavananda Bharati v. State of Kerala (1973)",
+        "Minerva Mills v. Union of India (1980)",
+        "Kihoto Hollohan v. Zachillhu (1992)",
+        "S.R. Bommai v. Union of India (1994)"
+      ],
+      "answer": 2,
+      "explanation": "Option c is correct: In Kihoto Hollohan v. Zachillhu (1992), the Supreme Court held that the Speaker/Chairman acting under the Tenth Schedule acts as a tribunal, and their decision is subject to judicial review. Option a laid down the Basic Structure doctrine. Option b reaffirmed basic structure and limited constituent power. Option d dealt with President's Rule under Article 356."
+    },
+    {
+      "question": "Which of the following devices is an Indian innovation in parliamentary procedures introduced in 1962 and is NOT mentioned in the Rules of Procedure?",
+      "options": [
+        "Calling Attention Motion",
+        "Half-an-Hour Discussion",
+        "Short Duration Discussion",
+        "Zero Hour"
+      ],
+      "answer": 3,
+      "explanation": "Option d is correct: Zero Hour is an informal device that started in 1962 as an Indian parliamentary innovation and is not mentioned in the Rules of Procedure. Option a is wrong because Calling Attention Motion (introduced in 1954) IS mentioned in the Rules of Procedure. Options b and c are also formal procedural devices provided in the Rules."
+    },
+    {
+      "question": "Consider the following statements regarding the dissolution of the Lok Sabha and its effect on pending business:\n1. A bill pending in the Rajya Sabha which has not been passed by the Lok Sabha does not lapse on dissolution.\n2. A bill passed by both Houses but returned by the President for reconsideration of the Houses lapses on the dissolution of the Lok Sabha.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: A bill pending in the Rajya Sabha that has not been passed by the Lok Sabha does not lapse upon dissolution of the Lok Sabha. Statement 2 is incorrect: A bill passed by both Houses and returned by the President for reconsideration does NOT lapse on the dissolution of the Lok Sabha."
+    },
+    {
+      "question": "Consider the following statements regarding the office of the Deputy Speaker of the Lok Sabha:\n1. The date of election of the Deputy Speaker is fixed by the President of India.\n2. Whenever the Deputy Speaker is appointed as a member of a parliamentary committee, he automatically becomes its chairman.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: The date of election of the Deputy Speaker is fixed by the Speaker of the Lok Sabha (whereas the date of election of the Speaker is fixed by the President). Statement 2 is correct: Under Lok Sabha conventions and rules, whenever the Deputy Speaker is nominated to a parliamentary committee, he automatically becomes its Chairman."
+    },
+    {
+      "question": "Consider the following statements regarding the Annual Financial Statement (Budget) under Article 112:\n1. The expenditure charged on the Consolidated Fund of India is not submitted to the vote of Parliament, though it can be discussed.\n2. Parliament can reduce or abolish a tax proposed in the Budget, but cannot increase it.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Under Article 113(1), charged expenditure is non-votable and is not submitted to the vote of Parliament, though both Houses can discuss it. Statement 2 is correct: Under constitutional provisions governing financial matters, Parliament can reduce or abolish a tax proposal submitted by the executive, but has no power to increase a tax."
+    },
+    {
+      "question": "Consider the following statements regarding the Leader of the Opposition in Parliament:\n1. The office of the Leader of the Opposition is explicitly mentioned in the Constitution of India.\n2. To be recognized as the Leader of the Opposition, a party must secure at least 15% of the total strength of the House.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: The office of the Leader of the Opposition is NOT mentioned in the Constitution of India; it was given statutory recognition through the Salary and Allowances of Leaders of Opposition in Parliament Act, 1977. Statement 2 is incorrect: To be recognized as the Leader of the Opposition, the party must have at least one-tenth (10%) of the total seats of the House, not 15%."
+    }
+  ]
+}
