@@ -1,6 +1,7 @@
 import { getPapers } from "../data/papers";
 import PaperGrid from "./PaperGrid";
 import Link from "next/link";
+import SettingsButton from "./SettingsButton";
 
 // Re-read data/papers on every visit so new papers show up without a rebuild.
 export const dynamic = "force-dynamic";
@@ -23,7 +24,10 @@ export default function Dashboard() {
           <span className="brand-mark">LF</span>
           <span className="brand-copy">Learn by Fun<span>UPSC practice</span></span>
         </Link>
-        <span className="header-note">Focused practice. Better recall.</span>
+        <div className="header-actions">
+          <span className="header-note">Focused practice. Better recall.</span>
+          <SettingsButton />
+        </div>
       </header>
 
       <section className="dashboard-hero">

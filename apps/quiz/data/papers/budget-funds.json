@@ -1,0 +1,158 @@
+{
+  "id": "parliament-budget-funds",
+  "name": "Parliament – Budget & Financial Control",
+  "tags": ["polity"],
+  "subtags": ["parliament", "budget", "constitutional-provisions", "parliamentary-funds", "financial-control"],
+  "questions": [
+    {
+      "question": "Consider the following statements regarding the Annual Financial Statement:\n1. Article 112 of the Constitution provides for the presentation of the Annual Financial Statement before Parliament.\n2. The President causes the Annual Financial Statement to be laid before both Houses of Parliament.\n3. The Annual Financial Statement is required to be presented only in the Lok Sabha.",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct. Article 112 provides for the Annual Financial Statement, commonly called the Union Budget, and the President causes it to be laid before both Houses of Parliament. Statement 3 is incorrect because the statement is presented before both Lok Sabha and Rajya Sabha, although demands for grants are voted upon only by the Lok Sabha."
+    },
+    {
+      "question": "Consider the following statements about the Consolidated Fund of India:\n1. All revenues received by the Government of India, loans raised by it and money received in repayment of loans form part of this Fund.\n2. Money can be withdrawn from this Fund only in accordance with law and for purposes provided by the Constitution.\n3. Parliament has no control over expenditure from this Fund once the Budget is passed.",
+      "options": ["1 and 3 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statements 1 and 2 are correct under Article 266(1) and Article 114. The Consolidated Fund includes government revenues, borrowings and loan recoveries. Withdrawals require parliamentary authorization through an Appropriation Act, subject to constitutional provisions. Statement 3 is incorrect because Parliament exercises financial control through demands for grants and appropriation procedures."
+    },
+    {
+      "question": "Consider the following statements regarding the Contingency Fund of India:\n1. It is established under Article 267 of the Constitution.\n2. It is placed at the disposal of the President to meet unforeseen expenditure pending parliamentary authorization.\n3. Expenditure from this Fund does not require subsequent parliamentary authorization.",
+      "options": ["1 and 3 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 1 and 2 are correct. Article 267 provides for the Contingency Fund of India, which is placed at the disposal of the President to meet unforeseen expenditure. Advances from the Fund are subsequently recouped after Parliament authorizes the expenditure. Statement 3 is incorrect because subsequent parliamentary authorization is necessary through the appropriate grant and appropriation procedure."
+    },
+    {
+      "question": "Consider the following statements regarding the Public Account of India:\n1. It is constituted under Article 266(2) of the Constitution.\n2. Money held in the Public Account belongs to the government as its own revenue.\n3. Parliamentary appropriation is not required for withdrawals from the Public Account.",
+      "options": ["1 and 2 only", "2 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 1 and 3 are correct. Article 266(2) provides for the Public Account of India. It includes money such as provident fund deposits, small savings and other funds held by the government in a fiduciary or trustee capacity. Withdrawals generally do not require parliamentary appropriation because the money is not government revenue. Statement 2 is incorrect because these funds are generally held by the government on behalf of others rather than being its own revenue."
+    },
+    {
+      "question": "Consider the following statements regarding expenditure charged upon the Consolidated Fund of India:\n1. It is not submitted to the vote of Parliament.\n2. It can be discussed in either House of Parliament.\n3. Salaries and allowances of the President of India are charged expenditure.",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three statements are correct. Article 113(1) provides that expenditure charged upon the Consolidated Fund of India is not submitted to the vote of Parliament, although it can be discussed in either House. Article 112(3) includes the emoluments and allowances of the President among charged expenditure. Other examples include the salaries and allowances of Supreme Court judges and the Comptroller and Auditor General of India."
+    },
+    {
+      "question": "Which of the following correctly describes the constitutional position of Demands for Grants?",
+      "options": ["They are submitted to both Houses and voted upon by both Houses.", "They are submitted to the Lok Sabha on the recommendation of the President.", "They are submitted directly to the President for approval without parliamentary discussion.", "They are voted upon by the Rajya Sabha before being sent to the Lok Sabha."],
+      "answer": 1,
+      "explanation": "Under Article 113(2), demands for grants are submitted to the Lok Sabha on the recommendation of the President. The Lok Sabha has the exclusive authority to vote on these demands. Rajya Sabha may discuss the Budget but does not vote on demands for grants."
+    },
+    {
+      "question": "Consider the following statements regarding the Appropriation Bill:\n1. It is introduced to authorize withdrawal of money from the Consolidated Fund of India.\n2. It includes expenditure charged upon the Consolidated Fund as well as grants voted by the Lok Sabha.\n3. Amendments can be moved in either House to vary the amount of a grant or alter its destination.",
+      "options": ["1 and 3 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 1 and 2 are correct under Article 114. The Appropriation Bill authorizes withdrawal from the Consolidated Fund and covers both voted grants and charged expenditure. Statement 3 is incorrect because Article 114(2) prohibits amendments in either House that would vary the amount or alter the destination of a grant or charged expenditure. The Appropriation Bill is a Money Bill."
+    },
+    {
+      "question": "Which of the following constitutional provisions deals with supplementary, additional and excess grants?",
+      "options": ["Article 112", "Article 114", "Article 116", "Article 115"],
+      "answer": 3,
+      "explanation": "Article 115 deals with supplementary, additional and excess grants. Supplementary grants are required when the amount authorized for a particular service is insufficient. Additional grants are required for a new service not contemplated in the original Budget. Excess grants arise when expenditure exceeds the amount previously authorized. Article 112 concerns the Annual Financial Statement, Article 114 concerns appropriation and Article 116 concerns votes on account, votes of credit and exceptional grants."
+    },
+    {
+      "question": "Consider the following statements regarding Vote on Account:\n1. It is provided under Article 116 of the Constitution.\n2. It enables the government to obtain advance funds for expenditure for a part of the financial year pending completion of the prescribed budgetary procedure.\n3. It is a permanent substitute for the Appropriation Act.",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct. Article 116 provides for a Vote on Account, allowing the Lok Sabha to make an advance grant for part of a financial year pending completion of the normal budgetary process. Statement 3 is incorrect because a Vote on Account is temporary and does not replace the Appropriation Act required for regular expenditure authorization."
+    },
+    {
+      "question": "Which one of the following best distinguishes a Vote of Credit from a Vote on Account?",
+      "options": ["Vote of Credit is used only for expenditure charged upon the Consolidated Fund.", "Vote of Credit is granted for regular annual administrative expenditure.", "Vote of Credit is granted to meet an unexpected demand of such magnitude or indefinite character that normal details cannot be stated.", "Vote of Credit is a grant approved exclusively by the Rajya Sabha."],
+      "answer": 2,
+      "explanation": "Article 116(1)(b) provides for a Vote of Credit to meet an unexpected demand upon the resources of India when its magnitude or indefinite character makes it impossible to state the details ordinarily required for a regular grant. A Vote on Account under Article 116(1)(a), in contrast, provides advance funds for a part of the financial year."
+    },
+    {
+      "question": "Consider the following statements regarding Exceptional Grants:\n1. They are made for a special purpose and do not form part of the current service of any financial year.\n2. They are provided under Article 116 of the Constitution.\n3. They are automatically included in the Annual Financial Statement without requiring parliamentary approval.",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct. Article 116(1)(c) provides for an Exceptional Grant for a special purpose that does not form part of the current service of any financial year. Statement 3 is incorrect because an Exceptional Grant requires parliamentary approval and cannot be automatically included without the prescribed constitutional procedure."
+    },
+    {
+      "question": "Which of the following statements about the Finance Bill is correct?",
+      "options": ["It authorizes withdrawals from the Consolidated Fund of India.", "It gives effect to the government's taxation proposals and other financial proposals.", "It is introduced by the Rajya Sabha.", "It is passed before the presentation of the Annual Financial Statement."],
+      "answer": 1,
+      "explanation": "The Finance Bill gives effect to the government's taxation proposals and other financial proposals announced in the Budget. It is introduced in the Lok Sabha. The Appropriation Bill, rather than the Finance Bill, authorizes withdrawals from the Consolidated Fund of India. The Finance Bill is ordinarily introduced after the presentation of the Annual Financial Statement."
+    },
+    {
+      "question": "Consider the following statements regarding Cut Motions:\n1. A Policy Cut Motion seeks to reduce the demand for grant to Re. 1.\n2. An Economy Cut Motion seeks to reduce the demand by a specified amount.\n3. A Token Cut Motion seeks to reduce the demand by Rs. 100.",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three statements are correct. A Policy Cut Motion expresses disapproval of the policy underlying a demand and seeks to reduce it to Re. 1. An Economy Cut Motion proposes a specified reduction in expenditure. A Token Cut Motion seeks a reduction of Rs. 100 to ventilate a specific grievance within the responsibility of the Union Government. These motions are moved in the Lok Sabha during discussion on demands for grants."
+    },
+    {
+      "question": "Which of the following best describes the Guillotine in the parliamentary budgetary process?",
+      "options": ["The rejection of the entire Annual Financial Statement by the Speaker.", "The automatic approval of all charged expenditure.", "The transfer of budgetary powers from the Lok Sabha to the Rajya Sabha.", "Putting outstanding demands for grants to vote without further discussion when the allotted discussion time expires."],
+      "answer": 3,
+      "explanation": "Guillotine refers to the parliamentary procedure under which outstanding demands for grants are put to vote together without further discussion when the allotted time for discussion expires. It enables completion of the budgetary process within the prescribed time. It does not mean rejection of the Budget or transfer of financial powers to Rajya Sabha."
+    },
+    {
+      "question": "Consider the following statements regarding the Public Accounts Committee:\n1. It examines the reports of the Comptroller and Auditor General of India relating to the accounts of the Union Government.\n2. It consists of 22 members, including 15 from Lok Sabha and 7 from Rajya Sabha.\n3. A minister can be elected as a member of the Committee.",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct. The Public Accounts Committee examines appropriation accounts, finance accounts and relevant CAG reports. It has 22 members, comprising 15 from Lok Sabha and 7 from Rajya Sabha. Statement 3 is incorrect because ministers are not eligible to be elected as members of parliamentary financial committees. The PAC scrutinizes financial accountability and regularity of expenditure."
+    },
+    {
+      "question": "Which of the following is the primary function of the Estimates Committee?",
+      "options": ["To examine the reports of the Election Commission.", "To recommend economies and improvements in organization, efficiency and administrative reform in government expenditure.", "To authorize withdrawals from the Consolidated Fund of India.", "To examine the constitutional validity of taxation laws."],
+      "answer": 1,
+      "explanation": "The Estimates Committee examines budget estimates and suggests economies in public expenditure, improvements in organization, efficiency and administrative reform. It consists of 30 members, all elected from the Lok Sabha. It does not authorize expenditure or examine the constitutional validity of taxation laws."
+    },
+    {
+      "question": "Consider the following statements regarding the Committee on Public Undertakings:\n1. It examines the reports and accounts of public sector undertakings.\n2. It consists of 22 members, with 15 from Lok Sabha and 7 from Rajya Sabha.\n3. It examines matters of major government policy and the day-to-day administration of public undertakings in detail.",
+      "options": ["1 and 3 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 1 and 2 are correct. The Committee on Public Undertakings examines the reports and accounts of public undertakings and relevant CAG reports. It consists of 22 members, including 15 from Lok Sabha and 7 from Rajya Sabha. Statement 3 is incorrect because the committee generally does not examine matters of major government policy or matters concerning day-to-day administration of public undertakings."
+    },
+    {
+      "question": "Under which Article of the Constitution is the procedure for the passage of Money Bills in Parliament primarily provided?",
+      "options": ["Article 110", "Article 112", "Article 114", "Article 117"],
+      "answer": 0,
+      "explanation": "Article 110 defines a Money Bill and Article 109 provides the special procedure for its passage. Article 112 concerns the Annual Financial Statement, Article 114 deals with Appropriation Bills and Article 117 deals with special provisions relating to financial Bills. A Money Bill can be introduced only in the Lok Sabha on the recommendation of the President."
+    },
+    {
+      "question": "Consider the following statements regarding the Rajya Sabha and Money Bills:\n1. A Money Bill can be introduced only in the Lok Sabha.\n2. The Rajya Sabha can recommend amendments to a Money Bill within 14 days.\n3. The Lok Sabha is bound to accept all recommendations made by the Rajya Sabha.",
+      "options": ["1 and 3 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 1 and 2 are correct under Article 109. A Money Bill can originate only in the Lok Sabha. Rajya Sabha may make recommendations within 14 days. Statement 3 is incorrect because the Lok Sabha may accept or reject any or all recommendations made by the Rajya Sabha. If Rajya Sabha does not return the Bill within 14 days, it is deemed to have been passed by both Houses in the form passed by Lok Sabha."
+    },
+    {
+      "question": "Which of the following expenditures is NOT charged upon the Consolidated Fund of India under Article 112(3)?",
+      "options": ["The emoluments and allowances of the President of India.", "The salaries and allowances of the Chairman and Deputy Chairman of the Rajya Sabha.", "The salaries and allowances of the Speaker and Deputy Speaker of the Lok Sabha.", "The salaries and allowances of all Members of Parliament."],
+      "answer": 3,
+      "explanation": "The salaries and allowances of all Members of Parliament are not collectively classified as charged expenditure under Article 112(3). The salaries and allowances of the President, the Chairman and Deputy Chairman of Rajya Sabha, and the Speaker and Deputy Speaker of Lok Sabha are charged upon the Consolidated Fund of India. Other parliamentary expenditure is dealt with through the normal budgetary process."
+    },
+    {
+      "question": "Consider the following statements regarding the financial year and Union Budget:\n1. The financial year of the Government of India begins on 1 April and ends on 31 March.\n2. The Annual Financial Statement contains estimated receipts and expenditure of the Government of India for the financial year.\n3. The Constitution explicitly uses the word 'Budget' instead of 'Annual Financial Statement'.",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct. The financial year in India runs from 1 April to 31 March. Article 112 requires an Annual Financial Statement showing estimated receipts and expenditure of the Government of India for that year. Statement 3 is incorrect because the Constitution uses the expression 'Annual Financial Statement', not the popular term 'Budget'."
+    },
+    {
+      "question": "Which of the following correctly explains an Excess Grant?",
+      "options": ["A grant given for a new service not included in the original Budget.", "A grant provided to meet expenditure exceeding the amount originally authorized by Parliament.", "An advance grant for expenditure during the first few months of a financial year.", "A grant made exclusively for unforeseen emergencies."],
+      "answer": 1,
+      "explanation": "An Excess Grant is sought when expenditure on a particular service exceeds the amount authorized by Parliament for that service during the financial year. It is covered under Article 115. The excess expenditure is presented for regularization after the expenditure has occurred. A new service is covered by an Additional Grant, a temporary advance by a Vote on Account and an unforeseen demand of an indefinite character by a Vote of Credit."
+    },
+    {
+      "question": "Consider the following statements regarding the Constitution and financial legislation:\n1. A Bill or amendment making provision for the imposition, abolition, remission, alteration or regulation of any tax can be introduced without the President's recommendation.\n2. A Money Bill can be introduced only on the recommendation of the President.\n3. An Appropriation Bill is a Money Bill.",
+      "options": ["1 and 3 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 2 and 3 are correct. Article 117(1) requires the President's recommendation for introduction of a Financial Bill containing matters specified in Article 110(1)(a) to (f). Article 109 and Article 117 also establish the special procedure applicable to Money Bills. Statement 1 is incorrect because such taxation provisions require the President's recommendation under the relevant constitutional provisions. An Appropriation Bill is a Money Bill under Article 114."
+    },
+    {
+      "question": "Which of the following correctly describes the relationship between the Consolidated Fund of India and the Appropriation Act?",
+      "options": ["The Appropriation Act transfers all money in the Public Account into the Consolidated Fund.", "The Appropriation Act allows the government to withdraw money from the Contingency Fund without approval.", "The Appropriation Act authorizes expenditure only from the Public Account.", "The Appropriation Act provides legal authority for withdrawal of money from the Consolidated Fund of India to meet authorized expenditure."],
+      "answer": 3,
+      "explanation": "The Appropriation Act provides the legal authority for withdrawal of money from the Consolidated Fund of India to meet grants voted by the Lok Sabha and charged expenditure. Article 114 establishes this requirement. It does not transfer Public Account money or provide a general authorization to withdraw from the Contingency Fund."
+    },
+    {
+      "question": "Consider the following statements about the different categories of government funds:\n1. The Consolidated Fund of India is constituted under Article 266(1).\n2. The Public Account of India is constituted under Article 266(2).\n3. The Contingency Fund of India is constituted under Article 267.",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three statements are correct. Article 266(1) provides for the Consolidated Fund of India, Article 266(2) provides for the Public Account of India and Article 267 provides for the Contingency Fund of India. These three funds have distinct constitutional purposes and mechanisms for handling public money."
+    }
+  ]
+}

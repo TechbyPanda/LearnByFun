@@ -1,11 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { Question } from "../../data/types";
+import SettingsButton from "../SettingsButton";
+import { useSettings } from "../settings";
 
 export default function Quiz({ title, questions }: { title: string; questions: Question[] }) {
   const [index, setIndex] = useState(0);
+  const { timerSeconds } = useSettings();
   const [answers, setAnswers] = useState<Array<number | null>>(() =>
     questions.map(() => null),
   );
@@ -153,6 +156,13 @@ export default function Quiz({ title, questions }: { title: string; questions: Q
                 {answered ? "Attempted" : "Not attempted"}
               </span>
             </div>
+            {timerSeconds > 0 && !answered && (
+              <QuestionTimer
+                key={`${index}-${timerSeconds}`}
+                seconds={timerSeconds}
+                onExpire={() => setIndex((current) => current + 1)}
+              />
+            )}
             <h2 className="question">{q.question}</h2>
             <p className="answer-prompt">Choose the best answer</p>
             <div className="options">
@@ -192,6 +202,11 @@ export default function Quiz({ title, questions }: { title: string; questions: Q
                   See results
                   <span aria-hidden="true"> →</span>
                 </button>
+              ) : answered && index < questions.length - 1 ? (
+                <button className="button" onClick={() => setIndex(index + 1)}>
+                  Next question
+                  <span aria-hidden="true"> →</span>
+                </button>
               ) : (
                 <span className="answer-reminder">Use the question list to move around</span>
               )}
@@ -214,7 +229,38 @@ function QuizHeader({ title }: { title: string }) {
         <span className="eyebrow">NOW PRACTICING</span>
         <h1>{title}</h1>
       </div>
-      <Link href="/" className="quiz-header-link">All papers <span aria-hidden="true">↗</span></Link>
+      <div className="header-actions">
+        <Link href="/" className="quiz-header-link">All papers <span aria-hidden="true">↗</span></Link>
+        <SettingsButton />
+      </div>
     </header>
+  );
+}
+
+/** Counts down, then calls onExpire. Remount (via key) to restart. */
+function QuestionTimer({ seconds, onExpire }: { seconds: number; onExpire: () => void }) {
+  const [left, setLeft] = useState(seconds);
+
+  useEffect(() => {
+    const end = Date.now() + seconds * 1000;
+    const tick = setInterval(() => {
+      const remaining = Math.max(0, Math.ceil((end - Date.now()) / 1000));
+      setLeft(remaining);
+      if (remaining === 0) {
+        clearInterval(tick);
+        onExpire();
+      }
+    }, 200);
+    return () => clearInterval(tick);
+    // onExpire is a fresh closure each render; the timer should only restart on remount.
+  }, [seconds]);
+
+  return (
+    <div className={left <= 3 ? "question-timer urgent" : "question-timer"} role="timer" aria-live="off">
+      <span className="question-timer-label">{left}s left</span>
+      <span className="question-timer-track">
+        <span style={{ animationDuration: `${seconds}s` }} />
+      </span>
+    </div>
   );
 }

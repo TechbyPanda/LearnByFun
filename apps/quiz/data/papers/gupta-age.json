@@ -1,0 +1,68 @@
+{
+  "id": "history-gupta-empire-vakataka-kingdom",
+  "name": "History – Gupta Empire & Vakataka Kingdom",
+  "tags": ["ancient history" ],
+  "subtags": ["gupta-age-and-vakatakas", "gupta-empire", "vakatakas", "gupta-administration", "gupta-art-literature"],
+  "questions": [
+    {
+      "question": "Consider the following statements about the Prayag Prashasti (Allahabad Pillar Inscription):\n1. It was composed by Harisena, the court poet of Samudragupta.\n2. It is inscribed on a pillar originally erected by the Mauryan emperor Ashoka.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: The Prayag Prashasti was composed in Sanskrit by Harisena, court poet and minister of Samudragupta. It records Samudragupta's conquests in north and south India. Statement 2 is correct: The eulogy was engraved on an Ashokan pillar, which already carried Ashoka's edicts. Later inscriptions, including one of the Mughal emperor Jahangir, were also added to it."
+    },
+    {
+      "question": "The Chinese Buddhist pilgrim Fa-Hien visited India during the reign of which Gupta ruler?",
+      "options": ["Samudragupta", "Chandragupta II", "Kumaragupta I", "Skandagupta"],
+      "answer": 1,
+      "explanation": "Fa-Hien (Faxian) travelled in India from about 399 to 414 CE, which falls within the reign of Chandragupta II (Vikramaditya). He described a peaceful country and noted that Chandalas lived outside villages. Samudragupta ruled before him. Kumaragupta I and Skandagupta ruled after him, so they are wrong."
+    },
+    {
+      "question": "Consider the following statements about the Vakataka dynasty:\n1. Prabhavatigupta, daughter of Chandragupta II, ruled as regent for her minor sons after the death of her husband Rudrasena II.\n2. Pravarasena I was the founder of the Vakataka dynasty.\n3. The Prakrit poem Setubandha is traditionally attributed to Pravarasena II.\nWhich of the statements given above are correct?",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Chandragupta II married his daughter Prabhavatigupta to the Vakataka king Rudrasena II. After Rudrasena II died, she ruled as regent, which brought the Vakataka kingdom under strong Gupta influence. Statement 2 is incorrect: The dynasty was founded by Vindhyashakti. Pravarasena I was his son, who expanded the kingdom, performed several Vedic sacrifices and took the title Samrat. Statement 3 is correct: Setubandha (Ravanavaho), a Maharashtri Prakrit poem on the Ramayana theme, is traditionally attributed to Pravarasena II."
+    },
+    {
+      "question": "The Junagadh inscription of Skandagupta is significant because it records:",
+      "options": ["The repair of the Sudarshana lake", "The defeat of the Western Kshatrapas", "A grant made to the Nalanda monastery", "A marriage alliance with the Vakatakas"],
+      "answer": 0,
+      "explanation": "Skandagupta's Junagadh inscription records that the Sudarshana lake in Saurashtra was repaired by Chakrapalita, son of the provincial governor Parnadatta. The lake was first built under Chandragupta Maurya and was earlier repaired under the Shaka ruler Rudradaman. The other options are wrong: Chandragupta II defeated the Western Kshatrapas, Nalanda is generally attributed to Kumaragupta I, and the Vakataka marriage alliance was made by Chandragupta II."
+    },
+    {
+      "question": "Consider the following statements about Gupta coinage:\n1. Gupta gold coins were known as dinaras.\n2. Gupta gold coins had a higher gold content than Kushana gold coins.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: The Guptas issued a very large number of gold coins, called dinaras. They show rulers in poses such as Samudragupta playing the veena and the Ashvamedha type. Statement 2 is incorrect: Gupta gold coins were less pure than Kushana gold coins. The Guptas issued gold coins in larger numbers, but the Kushanas used purer gold."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Aryabhatiya was composed by Varahamihira.\n2. The Brahmasphutasiddhanta was composed by Aryabhata.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: The Aryabhatiya was written by Aryabhata. It holds that the earth rotates on its axis and explains eclipses scientifically. Varahamihira wrote the Brihat Samhita and the Panchasiddhantika. Statement 2 is incorrect: The Brahmasphutasiddhanta was written by Brahmagupta in the 7th century CE, after the Gupta age. So neither statement is correct."
+    },
+    {
+      "question": "The Dashavatara temple, one of the earliest surviving examples of Gupta-period stone temple architecture, is located at:",
+      "options": ["Bhitargaon", "Tigawa", "Deogarh", "Aihole"],
+      "answer": 2,
+      "explanation": "The Dashavatara temple at Deogarh (Lalitpur district, Uttar Pradesh) is a Vishnu temple. It has a raised platform and the beginnings of a shikhara, an early form of the Nagara style, and is known for panels showing Vishnu reclining on Sheshanaga. The other options are wrong: Bhitargaon (near Kanpur) has a Gupta-period brick temple, Tigawa (Madhya Pradesh) has a small flat-roofed early Gupta temple, and Aihole is known for Chalukya temples."
+    },
+    {
+      "question": "Consider the following statements about Gupta administration:\n1. Provinces were called bhuktis and were governed by officers called uparikas.\n2. Districts were called vishayas and were headed by vishayapatis.\n3. Kumaramatyas formed an important class of officials.\nWhich of the statements given above are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: The Gupta empire was divided into bhuktis (provinces), each governed by an uparika appointed by the king. Statement 2 is correct: Bhuktis were divided into vishayas (districts) under vishayapatis. Statement 3 is correct: Kumaramatyas were high-ranking officers who were often posted in provinces and districts. Offices also tended to become hereditary in this period."
+    },
+    {
+      "question": "Which one of the following works is NOT attributed to Kalidasa?",
+      "options": ["Meghaduta", "Mudrarakshasa", "Raghuvamsha", "Kumarasambhava"],
+      "answer": 1,
+      "explanation": "Mudrarakshasa was written by Vishakhadatta. This political drama shows Chanakya outwitting Rakshasa, the minister of the Nandas. Kalidasa wrote Meghaduta, Raghuvamsha and Kumarasambhava, along with the play Abhijnanashakuntalam. He is traditionally associated with the court of Chandragupta II."
+    },
+    {
+      "question": "Consider the following statements about Chandragupta I:\n1. He married Kumaradevi, a princess of the Lichchhavi clan.\n2. He was the founder of the Gupta dynasty.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Chandragupta I married the Lichchhavi princess Kumaradevi, which raised the prestige and power of the Guptas. Samudragupta proudly called himself Lichchhavi-dauhitra (daughter's son of the Lichchhavis), and coins show Chandragupta I with Kumaradevi. Statement 2 is incorrect: Sri Gupta is regarded as the founder of the dynasty and was followed by Ghatotkacha. Chandragupta I was its first important ruler. He took the title Maharajadhiraja, and the Gupta era, reckoned from 319–320 CE, is associated with his accession."
+    }
+  ]
+}
