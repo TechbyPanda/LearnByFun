@@ -1,0 +1,176 @@
+{
+  "id": "geography-earthquake-seismology",
+  "name": "Geography – Earthquake Waves & Seismic Processes",
+  "tags": ["geography", "earthquake"],
+  "subtags": ["earthquake", "seismic-waves", "plate-tectonics", "earthquake-measurement", "seismic-zones"],
+  "questions": [
+    {
+      "question": "Consider the following statements regarding earthquakes:\n1. The point inside the Earth where an earthquake originates is called the focus or hypocentre.\n2. The point on the Earth's surface directly above the focus is called the epicentre.\n3. The intensity of an earthquake is always highest at the focus.",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct. The focus or hypocentre is the location inside the Earth where seismic energy is first released. The epicentre is its vertical projection on the surface. Statement 3 is incorrect because intensity is assessed through observed effects at the surface and is generally greatest near the epicentre, not at the underground focus."
+    },
+    {
+      "question": "Consider the following statements about seismic waves:\n1. P-waves are longitudinal waves.\n2. S-waves can travel through both solids and liquids.\n3. Surface waves generally cause greater damage to buildings than body waves.",
+      "options": ["1 only", "1 and 2 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 1 and 3 are correct. P-waves are compressional or longitudinal waves involving particle motion parallel to the direction of propagation. Surface waves, particularly Love and Rayleigh waves, often produce strong ground motion and cause considerable structural damage. Statement 2 is incorrect because S-waves are shear waves and cannot travel through liquids."
+    },
+    {
+      "question": "Which of the following seismic waves reaches a seismic station first after an earthquake?",
+      "options": ["Love waves", "Rayleigh waves", "S-waves", "P-waves"],
+      "answer": 3,
+      "explanation": "P-waves are the fastest seismic waves and therefore arrive first at seismic recording stations. S-waves arrive later, followed by surface waves. This difference in arrival times helps determine the distance of a seismic station from an earthquake's epicentre."
+    },
+    {
+      "question": "Consider the following statements regarding the Earth's interior and seismic waves:\n1. The outer core is liquid.\n2. S-waves do not propagate through the Earth's liquid outer core.\n3. P-waves are completely blocked by the Earth's outer core.",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statements 1 and 2 are correct. Seismic evidence indicates that the Earth's outer core is liquid, and S-waves cannot propagate through it because liquids do not support shear-wave propagation. Statement 3 is incorrect because P-waves can travel through the liquid outer core, although their velocity changes significantly due to changes in material properties."
+    },
+    {
+      "question": "The absence of direct S-wave arrivals from certain angular distances on the Earth's surface is primarily used as evidence for:",
+      "options": ["The solid nature of the mantle", "The liquid nature of the outer core", "The gaseous nature of the inner core", "The absence of seismic activity in the mantle"],
+      "answer": 1,
+      "explanation": "S-waves cannot travel through liquids. Their absence beyond the relevant shadow zone provides important evidence that the Earth's outer core is liquid. The mantle is predominantly solid, and the inner core is believed to be solid due to the extremely high pressure."
+    },
+    {
+      "question": "Consider the following statements about earthquake magnitude and intensity:\n1. Magnitude measures the size of an earthquake in terms of energy released.\n2. Intensity describes the observed effects and damage at a particular location.\n3. A single earthquake can have different intensity values at different locations.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three statements are correct. Magnitude represents the earthquake's overall size and is determined from seismic measurements. Intensity describes the shaking and observed effects at a particular place, commonly using the Modified Mercalli Intensity scale. Therefore, intensity varies geographically, while an earthquake has one assigned magnitude value for a given magnitude scale and determination."
+    },
+    {
+      "question": "Which scale is widely used by seismologists today to measure the magnitude of large earthquakes?",
+      "options": ["Modified Mercalli Scale", "Beaufort Scale", "Moment Magnitude Scale", "Richter Intensity Scale"],
+      "answer": 2,
+      "explanation": "The Moment Magnitude Scale (Mw) is widely used for measuring earthquake magnitude, particularly for large earthquakes. It is based on seismic moment, which incorporates fault area, average displacement and rock rigidity. The Modified Mercalli Scale measures observed intensity, while the Beaufort Scale measures wind force."
+    },
+    {
+      "question": "Consider the following statements regarding the Richter scale:\n1. It is a logarithmic scale.\n2. An increase of one magnitude unit corresponds to approximately ten times greater recorded wave amplitude.\n3. An increase of one magnitude unit corresponds to approximately 32 times greater energy release.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three statements are correct as approximate relationships for earthquake magnitude. The Richter magnitude scale is logarithmic. A one-unit increase corresponds to ten times the recorded wave amplitude and approximately 31.6 times the energy release. The energy relationship is commonly rounded to 32 times."
+    },
+    {
+      "question": "Which of the following plate boundaries is most commonly associated with shallow-focus earthquakes and significant strike-slip faulting?",
+      "options": ["Transform boundary", "Divergent boundary", "Convergent boundary", "Passive continental margin"],
+      "answer": 0,
+      "explanation": "Transform boundaries involve the horizontal sliding of tectonic plates past one another. Frictional locking and sudden release of accumulated stress produce earthquakes, generally at shallow depths. The San Andreas Fault in California is a classic example."
+    },
+    {
+      "question": "Consider the following statements about earthquakes at convergent plate boundaries:\n1. Oceanic-continental convergence can produce deep-focus earthquakes.\n2. The Wadati-Benioff zone represents an inclined zone of earthquake activity associated with a subducting plate.\n3. Deep-focus earthquakes are commonly associated with subduction zones.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three statements are correct. At subduction zones, an oceanic plate descends beneath another plate and generates earthquakes at different depths. The inclined zone of seismicity is called the Wadati-Benioff zone. Deep-focus earthquakes can occur at depths of approximately 300 to 700 km and are strongly associated with subducting slabs."
+    },
+    {
+      "question": "At what approximate depth range are deep-focus earthquakes generally classified?",
+      "options": ["0-35 km", "35-70 km", "70-300 km", "300-700 km"],
+      "answer": 3,
+      "explanation": "Deep-focus earthquakes generally occur at depths between approximately 300 and 700 km. Shallow-focus earthquakes occur from the surface to around 70 km, while intermediate-focus earthquakes occur between approximately 70 and 300 km."
+    },
+    {
+      "question": "Consider the following statements regarding the distribution of earthquakes:\n1. Earthquakes are distributed uniformly across the Earth's surface.\n2. The Circum-Pacific Belt is one of the most seismically active regions of the world.\n3. The Alpine-Himalayan Belt is another major earthquake-prone region.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 2 and 3 are correct. The Circum-Pacific Belt, commonly called the Ring of Fire, accounts for a major proportion of global seismic activity. The Alpine-Himalayan Belt is another important seismic zone associated with the convergence of the African, Arabian and Indian plates with the Eurasian Plate. Statement 1 is incorrect because earthquake distribution is highly concentrated along tectonic plate boundaries and certain intraplate fault systems."
+    },
+    {
+      "question": "Which of the following regions is commonly associated with the Pacific Ring of Fire?",
+      "options": ["Eastern coast of South America", "Western coast of North and South America", "Central Africa", "Northern European Plain"],
+      "answer": 1,
+      "explanation": "The western margins of North and South America form part of the Pacific Ring of Fire. This region is characterised by subduction zones, volcanic arcs and frequent earthquakes. The Ring of Fire also extends around the western Pacific through Japan, the Philippines, Indonesia and New Zealand."
+    },
+    {
+      "question": "Consider the following statements regarding the Indian Plate:\n1. The Indian Plate is moving northward towards the Eurasian Plate.\n2. The collision between the Indian and Eurasian plates is responsible for the formation of the Himalayas.\n3. The Himalayan region is tectonically stable and experiences very few earthquakes.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statements 1 and 2 are correct. The northward movement of the Indian Plate and its collision with the Eurasian Plate led to the formation and continuing uplift of the Himalayas. Statement 3 is incorrect because the Himalayan region is highly tectonically active and experiences frequent earthquakes due to ongoing plate convergence and accumulated crustal stress."
+    },
+    {
+      "question": "Which of the following is the most appropriate explanation for the occurrence of earthquakes in the Himalayan region?",
+      "options": ["The movement of the Indian Plate away from the Eurasian Plate", "The interaction of the Indian Plate with the African Plate", "The continuous convergence and collision of the Indian and Eurasian plates", "The sinking of the entire Himalayan range into the mantle"],
+      "answer": 2,
+      "explanation": "The Himalayas are located at a convergent continental collision boundary between the Indian and Eurasian plates. Their continuing convergence produces compression, faulting and accumulation of elastic strain, which is released through earthquakes. The region is therefore highly seismically active."
+    },
+    {
+      "question": "Consider the following statements about earthquake-prone regions in India:\n1. The Himalayan belt is highly vulnerable to earthquakes.\n2. The Kachchh region of Gujarat has experienced major earthquakes.\n3. The Peninsular Indian region is completely free from earthquakes.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statements 1 and 2 are correct. The Himalayas are highly active due to plate convergence, while Kachchh has experienced major intraplate earthquakes, including the 2001 Bhuj earthquake. Statement 3 is incorrect because Peninsular India, although relatively stable compared with the Himalayas, can experience intraplate earthquakes. The 1993 Latur earthquake is an important example."
+    },
+    {
+      "question": "The 2001 Bhuj earthquake in Gujarat is an example of:",
+      "options": ["A volcanic earthquake", "An earthquake associated with oceanic subduction", "A shallow-focus intraplate earthquake", "A deep-focus earthquake"],
+      "answer": 2,
+      "explanation": "The 2001 Bhuj earthquake was a major intraplate earthquake occurring within the Indian Plate. It was associated with reactivation of existing faults in the Kachchh region. It was not a volcanic or deep-focus earthquake and did not occur at an active oceanic subduction boundary."
+    },
+    {
+      "question": "Which of the following statements best explains the occurrence of intraplate earthquakes?",
+      "options": ["They occur exclusively along mid-oceanic ridges", "They occur within tectonic plates due to the reactivation of existing faults and accumulated stresses", "They are caused only by volcanic eruptions", "They occur only in regions where two oceanic plates collide"],
+      "answer": 1,
+      "explanation": "Intraplate earthquakes occur within the interiors of tectonic plates. They can result from the reactivation of ancient faults under regional tectonic stresses. The 1993 Latur earthquake and the 2001 Bhuj earthquake in India are notable examples."
+    },
+    {
+      "question": "Consider the following statements regarding tsunami generation:\n1. All underwater earthquakes generate tsunamis.\n2. Large undersea earthquakes involving vertical displacement of the seabed can generate tsunamis.\n3. Tsunamis can also be generated by submarine landslides and volcanic eruptions.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 2 and 3 are correct. Large undersea earthquakes that cause substantial vertical displacement of the seabed can displace huge volumes of water and generate tsunamis. Submarine landslides and volcanic eruptions can also generate tsunamis. Statement 1 is incorrect because most underwater earthquakes do not produce tsunamis; the mechanism, magnitude, depth and seabed displacement matter."
+    },
+    {
+      "question": "Why do tsunamis travel at very high speeds in the deep ocean?",
+      "options": ["Due to strong surface winds", "Due to the rotation of the Earth", "Due to the high temperature of ocean water", "Because tsunami speed depends on water depth and is greater in deeper water"],
+      "answer": 3,
+      "explanation": "Tsunami speed in the open ocean is approximately governed by the shallow-water wave relationship, where speed is proportional to the square root of water depth. Therefore, tsunamis travel faster in deep ocean waters and slow down as they approach shallow coastal regions. Surface winds are not the primary cause of their high speed."
+    },
+    {
+      "question": "Which of the following is the primary purpose of a seismograph?",
+      "options": ["To measure atmospheric pressure", "To record ground motion caused by seismic waves", "To measure ocean tides", "To determine the chemical composition of rocks"],
+      "answer": 1,
+      "explanation": "A seismograph is an instrument used to detect and record ground motion caused by earthquakes and other seismic sources. The resulting record is known as a seismogram. It helps scientists analyse seismic wave arrival times, amplitudes and other characteristics."
+    },
+    {
+      "question": "Consider the following statements regarding earthquake prediction:\n1. Scientists can currently predict the exact date, time and location of a major earthquake with reliable precision.\n2. Seismic hazard assessment can estimate the probability of damaging ground motion over a specified period.\n3. Earthquake early-warning systems detect an earthquake after it begins and may provide a few seconds of warning before stronger shaking arrives.",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statements 2 and 3 are correct. Seismic hazard assessments estimate the likelihood of ground shaking over a given period. Earthquake early-warning systems detect initial seismic waves, often P-waves, and can alert locations before more damaging waves arrive. Statement 1 is incorrect because reliable prediction of the exact date, time and location of major earthquakes is not currently possible."
+    },
+    {
+      "question": "Which of the following is the most suitable earthquake-resistant construction practice in seismic-prone regions?",
+      "options": ["Using heavy unreinforced masonry without structural connections", "Constructing buildings with irregular foundations and weak columns", "Providing appropriate reinforcement, ductile detailing and structural connections", "Increasing building height without considering seismic design"],
+      "answer": 2,
+      "explanation": "Earthquake-resistant construction relies on appropriate structural design, ductile detailing, reinforcement and proper connections between structural elements. These features help buildings withstand shaking and dissipate seismic energy. Heavy unreinforced masonry, weak columns and irregular structural configurations can increase vulnerability."
+    },
+    {
+      "question": "Which of the following Indian institutions is primarily responsible for monitoring earthquakes and maintaining seismic observatories in India?",
+      "options": ["Geological Survey of India", "India Meteorological Department", "Central Water Commission", "National Remote Sensing Centre"],
+      "answer": 1,
+      "explanation": "The India Meteorological Department operates the national seismological network and monitors earthquake activity in India. It maintains seismic observatories and disseminates earthquake information. The Geological Survey of India focuses on geological mapping and related studies, while the Central Water Commission deals with water resources and the National Remote Sensing Centre focuses on remote sensing."
+    },
+    {
+      "question": "Which of the following correctly represents the order of seismic waves from fastest to slowest under typical conditions?",
+      "options": ["P-waves, S-waves, Surface waves", "S-waves, P-waves, Surface waves", "Surface waves, P-waves, S-waves", "P-waves, Surface waves, S-waves"],
+      "answer": 0,
+      "explanation": "P-waves are the fastest seismic waves, followed by S-waves. Surface waves generally travel more slowly than body waves. P-waves are compressional waves, S-waves are shear waves, and surface waves propagate along or near the Earth's surface."
+    },
+    {
+      "question": "Consider the following statements about seismic shadow zones:\n1. The P-wave shadow zone occurs approximately between 103 and 142 degrees from the earthquake's epicentre.\n2. The S-wave shadow zone exists beyond approximately 103 degrees from the epicentre.\n3. The existence of seismic shadow zones helped scientists understand the internal structure of the Earth.",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "All three statements are correct. The P-wave shadow zone is approximately between 103 and 142 degrees due to strong refraction at the core-mantle boundary. S-waves are not directly recorded beyond approximately 103 degrees because they cannot travel through the liquid outer core. These observations provided major evidence about the Earth's internal structure."
+    },
+    {
+      "question": "Which of the following is the correct sequence of events in the elastic rebound theory of earthquakes?",
+      "options": ["Fault movement, stress accumulation, elastic deformation, earthquake", "Stress accumulation, elastic deformation, sudden fault rupture, release of stored energy", "Volcanic eruption, plate separation, ocean formation, earthquake", "Crustal cooling, mantle solidification, fault disappearance, earthquake"],
+      "answer": 1,
+      "explanation": "The elastic rebound theory explains earthquakes through the gradual accumulation of tectonic stress, elastic deformation of rocks and sudden rupture or slip along a fault when accumulated stress exceeds frictional resistance. The stored elastic energy is released as seismic waves, and the rocks partially return towards an undeformed state."
+    },
+    {
+      "question": "Which of the following statements regarding the Modified Mercalli Intensity Scale is correct?",
+      "options": ["It measures earthquake magnitude using seismic moment", "It measures the frequency of seismic waves", "It measures the observed effects and damage caused by an earthquake", "It measures the depth of the earthquake's focus"],
+      "answer": 2,
+      "explanation": "The Modified Mercalli Intensity Scale measures the observed effects of earthquake shaking on people, buildings and the natural environment. It has twelve intensity levels, from I to XII. It does not directly measure magnitude, seismic-wave frequency or focal depth."
+    }
+  ]
+}

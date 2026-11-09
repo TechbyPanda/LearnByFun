@@ -1,0 +1,168 @@
+{
+  "id": "polity-quick-revision-fundamental-rights-articles",
+  "name": "Polity – Quick Revision: Fundamental Rights Articles",
+  "tags": ["polity", "quick revision"],
+  "subtags": ["fundamental-rights", "articles", "equality", "freedom", "constitutional-remedies"],
+  "questions": [
+    {
+      "question": "Article ___ defines the term 'State' for the purposes of Part III of the Constitution.",
+      "options": ["Article 10", "Article 12", "Article 13", "Article 14"],
+      "answer": 1,
+      "explanation": "Article 12 defines 'State' under Part III. Article 13 deals with laws inconsistent with Fundamental Rights."
+    },
+    {
+      "question": "Which Article prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+      "options": ["Article 14", "Article 16", "Article 15", "Article 17"],
+      "answer": 2,
+      "explanation": "Article 15 prohibits discrimination on specified grounds. Article 14 guarantees equality before law, while Article 16 concerns equality in public employment."
+    },
+    {
+      "question": "Article 18 deals with:",
+      "options": ["Abolition of untouchability", "Equality before law", "Abolition of titles", "Protection of interests of minorities"],
+      "answer": 2,
+      "explanation": "Article 18 abolishes titles, except military and academic distinctions. Article 17 abolishes untouchability, while Article 29 protects cultural interests."
+    },
+    {
+      "question": "Which of the following correctly states Article 14?",
+      "options": [
+        "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+        "The State shall not deny to any citizen equality before the law or the equal protection of the laws within the territory of India.",
+        "The State shall not deny to any person equality before the law and the equal protection of the laws within the territory of India.",
+        "Parliament shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+      ],
+      "answer": 0,
+      "explanation": "Article 14 applies to every person, not merely citizens. It uses 'or' between the two expressions and places the obligation on the State."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Article 19 – Protection against double jeopardy",
+        "Article 20 – Protection in respect of conviction for offences",
+        "Article 21 – Right to education for children aged 6–14",
+        "Article 22 – Abolition of untouchability"
+      ],
+      "answer": 1,
+      "explanation": "Article 20 provides protection in respect of conviction for offences. Article 19 covers freedoms, Article 21 protects life and personal liberty, and Article 21A provides the right to education."
+    },
+    {
+      "question": "How many freedoms are currently guaranteed under Article 19(1)?",
+      "options": ["Five", "Seven", "Six", "Eight"],
+      "answer": 2,
+      "explanation": "Article 19(1) guarantees six freedoms. The original seventh freedom, the right to property under Article 19(1)(f), was removed by the 44th Amendment."
+    },
+    {
+      "question": "Which of the following is NOT a ground specifically mentioned under Article 15 for prohibiting discrimination?",
+      "options": ["Religion", "Race", "Place of birth", "Residence"],
+      "answer": 3,
+      "explanation": "Article 15 specifies religion, race, caste, sex and place of birth. Residence is not included in this list."
+    },
+    {
+      "question": "Article ___ provides the Right to Education for children between 6 and 14 years of age.",
+      "options": ["21", "21A", "22", "24"],
+      "answer": 1,
+      "explanation": "Article 21A provides free and compulsory education to children aged 6–14 years. Article 24 prohibits employment of children below 14 in specified hazardous occupations."
+    },
+    {
+      "question": "Which Article empowers citizens to move the Supreme Court for enforcement of Fundamental Rights?",
+      "options": ["Article 30", "Article 31", "Article 32", "Article 35"],
+      "answer": 2,
+      "explanation": "Article 32 provides the right to constitutional remedies before the Supreme Court. Article 226 gives High Courts wider writ jurisdiction."
+    },
+    {
+      "question": "Article 23 deals with:",
+      "options": [
+        "Prohibition of traffic in human beings and forced labour",
+        "Prohibition of employment of children in factories",
+        "Freedom of conscience and religion",
+        "Protection against arrest and detention"
+      ],
+      "answer": 0,
+      "explanation": "Article 23 prohibits trafficking in human beings, begar and other similar forms of forced labour. Article 24 concerns child labour in specified occupations."
+    },
+    {
+      "question": "Which of the following correctly states Article 16(1)?",
+      "options": [
+        "There shall be equality of opportunity for all persons in matters of public employment.",
+        "There may be equality of opportunity for all citizens in matters of public employment.",
+        "There shall be equality of opportunity for all citizens in matters of private employment.",
+        "There shall be equality of opportunity for all citizens in matters of public employment."
+      ],
+      "answer": 3,
+      "explanation": "Article 16(1) guarantees equality of opportunity for all citizens in matters of public employment. It does not cover all persons or private employment."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Article 25 – Freedom to manage religious affairs",
+        "Article 26 – Freedom of conscience and free profession, practice and propagation of religion",
+        "Article 27 – Freedom from payment of taxes for promotion of a particular religion",
+        "Article 28 – Protection of language and script"
+      ],
+      "answer": 2,
+      "explanation": "Article 27 prohibits compelling a person to pay taxes specifically appropriated for promoting or maintaining a particular religion. Articles 25 and 26 concern religious freedom; Article 28 concerns religious instruction in educational institutions."
+    },
+    {
+      "question": "What is the maximum initial period of preventive detention permitted under Article 22 without obtaining an Advisory Board opinion?",
+      "options": ["One month", "Two months", "Three months", "Six months"],
+      "answer": 2,
+      "explanation": "Article 22(4) generally prohibits preventive detention beyond three months without an Advisory Board opinion, subject to constitutional provisions and exceptions."
+    },
+    {
+      "question": "Which of the following is NOT included among the protections provided by Article 20?",
+      "options": ["Protection against ex post facto criminal laws", "Protection against double jeopardy", "Protection against self-incrimination", "Protection against arbitrary arrest and detention"],
+      "answer": 3,
+      "explanation": "Article 20 provides three protections: no ex post facto criminal conviction, no double jeopardy and no compelled self-incrimination. Protection against arbitrary arrest and detention is covered under Article 22."
+    },
+    {
+      "question": "Article ___ empowers Parliament to modify the application of Fundamental Rights to armed forces and certain other forces.",
+      "options": ["Article 32", "Article 33", "Article 34", "Article 35"],
+      "answer": 1,
+      "explanation": "Article 33 empowers Parliament to restrict or abrogate Fundamental Rights for specified forces to ensure discipline and proper discharge of duties. Article 34 concerns martial law."
+    },
+    {
+      "question": "Which Article protects the right of religious and linguistic minorities to establish and administer educational institutions?",
+      "options": ["Article 28", "Article 29", "Article 30", "Article 32"],
+      "answer": 2,
+      "explanation": "Article 30 protects the right of religious and linguistic minorities to establish and administer educational institutions. Article 29 protects the interests of sections of citizens having distinct language, script or culture."
+    },
+    {
+      "question": "Article 13(2) states that the State shall not make any law which:",
+      "options": [
+        "Takes away or abridges the rights conferred by Part III",
+        "Restricts only the rights of minorities",
+        "Takes away or abridges the rights conferred by Part IV",
+        "Restricts Fundamental Rights only during emergencies"
+      ],
+      "answer": 0,
+      "explanation": "Article 13(2) prohibits the State from making laws that take away or abridge Fundamental Rights. A law violating this provision is void to the extent of the contravention."
+    },
+    {
+      "question": "Which of the following correctly states Article 29(1)?",
+      "options": [
+        "Any citizen residing in India shall have the right to conserve only their religion.",
+        "Any section of the citizens residing in the territory of India having a distinct language, script or culture shall have the right to conserve the same.",
+        "Only religious minorities shall have the right to conserve their language and culture.",
+        "Any section of the citizens shall have the right to conserve their language, script and culture only with Parliament's permission."
+      ],
+      "answer": 1,
+      "explanation": "Article 29(1) protects any section of citizens having a distinct language, script or culture. It is not restricted exclusively to minorities."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Article 34 – Special provisions relating to martial law",
+        "Article 35 – Right to constitutional remedies",
+        "Article 33 – Protection against discrimination",
+        "Article 32 – Abolition of titles"
+      ],
+      "answer": 0,
+      "explanation": "Article 34 deals with restrictions on Fundamental Rights while martial law is in force in an area. Article 35 empowers Parliament to legislate on specified matters under Part III."
+    },
+    {
+      "question": "How many writs can the Supreme Court issue under Article 32 for enforcement of Fundamental Rights?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "answer": 2,
+      "explanation": "The five constitutional writs are Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo Warranto."
+    }
+  ]
+}

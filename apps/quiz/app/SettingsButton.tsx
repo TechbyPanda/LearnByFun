@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef } from "react";
+import { resetProgress } from "./game";
 import { DEFAULT_SETTINGS, TIMER_CHOICES, updateSettings, useSettings } from "./settings";
 
 export default function SettingsButton() {
@@ -56,6 +57,49 @@ export default function SettingsButton() {
               ))}
             </select>
           </label>
+
+          <label className="settings-row">
+            <span>
+              <strong>Sound effects</strong>
+              <span className="muted">Sounds for correct, wrong, timer and promotions.</span>
+            </span>
+            <input
+              type="checkbox"
+              className="toggle"
+              checked={settings.sound}
+              onChange={(event) => updateSettings({ sound: event.target.checked })}
+            />
+          </label>
+
+          <label className="settings-row">
+            <span>
+              <strong>Siren while loading</strong>
+              <span className="muted">Short police siren when a page is loading.</span>
+            </span>
+            <input
+              type="checkbox"
+              className="toggle"
+              checked={settings.sound && settings.loaderSiren}
+              disabled={!settings.sound}
+              onChange={(event) => updateSettings({ loaderSiren: event.target.checked })}
+            />
+          </label>
+
+          <div className="settings-row">
+            <span>
+              <strong>Rank & XP</strong>
+              <span className="muted">Start again from Cadet with 0 XP.</span>
+            </span>
+            <button
+              type="button"
+              className="button secondary"
+              onClick={() => {
+                if (confirm("Reset your rank and XP to zero? This can't be undone.")) resetProgress();
+              }}
+            >
+              Reset
+            </button>
+          </div>
 
           <div className="settings-footer">
             <button

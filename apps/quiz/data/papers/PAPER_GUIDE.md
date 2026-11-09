@@ -32,4 +32,5 @@ This file has everything needed. **Don't read any other file** (not the sample p
 - UPSC Prelims style: mix direct questions with "Consider the following statements…" ones. Use `\n` for line breaks.
 - Facts must be accurate; if unsure of a fact, leave that question out.
 - Default to 10 questions unless told otherwise.
+- If the user asks for a quick / short / memorisation / fill-in-the-blank paper, read `QUICK_PROMPT.md` too and follow its patterns, `name`/`id`/`quick-revision` tag and content rules (same JSON format).
 - After writing, don't run builds or checks. A malformed paper shows an error naming the file when the app loads it.
