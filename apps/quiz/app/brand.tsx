@@ -22,6 +22,9 @@ export function Brand({ label = `${SITE_NAME} home` }: { label?: string }) {
 
 const LENSES = [0, 1, 2, 3];
 
+/** One red+blue flash cycle of the light bar, in seconds. */
+export const SIREN_CYCLE_S = 1;
+
 /**
  * A police light bar: red lenses left, blue right, double-strobing in turn and
  * lighting up the area around them. Used by the intro and by loading.tsx.
@@ -29,7 +32,11 @@ const LENSES = [0, 1, 2, 3];
 export function SirenLoader({ label = "Loading" }: { label?: string }) {
   return (
     <div className="siren-loader" role="status" aria-label={label}>
-      <div className="lightbar" aria-hidden="true">
+      <div
+        className="lightbar"
+        aria-hidden="true"
+        style={{ "--cycle": `${SIREN_CYCLE_S}s` } as CSSProperties}
+      >
         <span className="lightbar-wash red" />
         <span className="lightbar-wash blue" />
         <div className="lightbar-body">

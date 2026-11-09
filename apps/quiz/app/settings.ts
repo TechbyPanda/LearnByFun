@@ -12,14 +12,11 @@ export interface Settings {
   timerSeconds: number;
   /** Game sounds (correct, wrong, timer tick, level up). */
   sound: boolean;
-  /** Police siren while a page is loading (needs `sound` on too). */
-  loaderSiren: boolean;
 }
 
 export const DEFAULT_SETTINGS: Settings = {
   timerSeconds: 0,
   sound: true,
-  loaderSiren: true,
 };
 
 export const TIMER_CHOICES = [0, 3, 5, 10, 15, 30, 60, 90];

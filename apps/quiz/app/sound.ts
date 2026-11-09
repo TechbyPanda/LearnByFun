@@ -25,60 +25,6 @@ export type SoundName = keyof typeof SOUNDS;
 
 let context: AudioContext | null = null;
 
-/**
- * Police siren ("wail": pitch sweeping up and down) for the page loader.
- * Returns a stop function. Browsers only allow sound after the visitor has clicked
- * something, so before that it stays silent instead of playing late.
- */
-export function startSiren(maxSeconds = 2.5): () => void {
-  const settings = getSettings();
-  if (!settings.sound || !settings.loaderSiren) return () => {};
-  if (typeof navigator !== "undefined" && navigator.userActivation && !navigator.userActivation.hasBeenActive) {
-    return () => {};
-  }
-  try {
-    context ??= new AudioContext();
-    if (context.state === "suspended") void context.resume();
-    const ctx = context;
-    const now = ctx.currentTime;
-    const end = now + maxSeconds;
-    const sweep = 0.42; // seconds for one rise or fall
-
-    const osc = ctx.createOscillator();
-    const filter = ctx.createBiquadFilter();
-    const gain = ctx.createGain();
-    osc.type = "sawtooth";
-    filter.type = "lowpass";
-    filter.frequency.value = 2200; // soften the buzz into a horn-like tone
-
-    osc.frequency.setValueAtTime(650, now);
-    for (let t = now; t < end; t += sweep * 2) {
-      osc.frequency.linearRampToValueAtTime(1300, t + sweep);
-      osc.frequency.linearRampToValueAtTime(650, t + sweep * 2);
-    }
-    gain.gain.setValueAtTime(0, now);
-    gain.gain.linearRampToValueAtTime(0.05, now + 0.08);
-    gain.gain.setValueAtTime(0.05, end - 0.25);
-    gain.gain.linearRampToValueAtTime(0, end);
-
-    osc.connect(filter).connect(gain).connect(ctx.destination);
-    osc.start(now);
-    osc.stop(end);
-
-    return () => {
-      // Page finished loading: let at least one full wail play, then fade out.
-      const t = Math.max(ctx.currentTime, now + sweep * 2);
-      if (t >= end) return;
-      gain.gain.cancelScheduledValues(t);
-      gain.gain.setValueAtTime(gain.gain.value, t);
-      gain.gain.linearRampToValueAtTime(0, t + 0.15);
-      osc.stop(t + 0.2);
-    };
-  } catch {
-    return () => {};
-  }
-}
-
 export function playSound(name: SoundName) {
   if (!getSettings().sound) return;
   const sound = SOUNDS[name];
