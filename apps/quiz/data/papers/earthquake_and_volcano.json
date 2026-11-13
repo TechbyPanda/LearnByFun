@@ -1,0 +1,118 @@
+{
+  "id": "geography-earthquakes-volcanoes-level-1",
+  "name": "Geography – Earthquakes & Volcanoes (Level 1)",
+  "tags": ["geography", "level-1", "earthquake-volcano"],
+  "subtags": ["earthquakes", "volcanoes", "earth-interior", "tectonic-plates", "natural-disasters"],
+  "questions": [
+    {
+      "question": "Which instrument is used to record earthquake vibrations?",
+      "options": [
+        "Seismograph",
+        "Thermometer",
+        "Barometer",
+        "Hygrometer"
+      ],
+      "answer": 0,
+      "explanation": "A seismograph records vibrations produced by earthquakes. A thermometer measures temperature, a barometer measures atmospheric pressure, and a hygrometer measures humidity. Earthquake vibrations are recorded as seismic waves."
+    },
+    {
+      "question": "What is the point inside the Earth where an earthquake originates called?",
+      "options": [
+        "Epicentre",
+        "Focus",
+        "Crater",
+        "Mantle"
+      ],
+      "answer": 1,
+      "explanation": "The focus, also called the hypocentre, is the point inside the Earth where an earthquake begins. The epicentre is the point on the Earth's surface directly above the focus. A crater is a depression commonly found at the top of a volcano, while the mantle is a major layer of the Earth."
+    },
+    {
+      "question": "What is molten rock present beneath the Earth's surface called?",
+      "options": [
+        "Lava",
+        "Granite",
+        "Magma",
+        "Sandstone"
+      ],
+      "answer": 2,
+      "explanation": "Magma is molten or partially molten rock found beneath the Earth's surface. When magma reaches the surface, it is called lava. Granite is an intrusive igneous rock, while sandstone is a sedimentary rock."
+    },
+    {
+      "question": "Which of the following is a common cause of earthquakes?",
+      "options": [
+        "Formation of clouds",
+        "Daily ocean tides",
+        "Changes in seasons",
+        "Sudden movement of tectonic plates"
+      ],
+      "answer": 3,
+      "explanation": "Earthquakes commonly occur when accumulated stress is suddenly released along faults due to tectonic plate movements. Cloud formation, daily ocean tides and seasonal changes are not the common causes of tectonic earthquakes."
+    },
+    {
+      "question": "What is molten rock called when it reaches the Earth's surface during a volcanic eruption?",
+      "options": [
+        "Lava",
+        "Magma",
+        "Coal",
+        "Marble"
+      ],
+      "answer": 0,
+      "explanation": "Lava is molten rock that reaches the Earth's surface during a volcanic eruption. Magma is molten rock beneath the surface. Coal is a combustible sedimentary rock, while marble is a metamorphic rock."
+    },
+    {
+      "question": "Which ocean is surrounded by the region commonly known as the Ring of Fire?",
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": 1,
+      "explanation": "The Pacific Ocean is surrounded by the Ring of Fire, a broad zone of frequent earthquakes and volcanic activity. It is associated with tectonic plate boundaries around the Pacific Ocean. The Atlantic, Indian and Arctic Oceans are not surrounded by this Ring of Fire."
+    },
+    {
+      "question": "What is the point on the Earth's surface directly above the focus of an earthquake called?",
+      "options": [
+        "Crater",
+        "Core",
+        "Epicentre",
+        "Vent"
+      ],
+      "answer": 2,
+      "explanation": "The epicentre is the point on the Earth's surface directly above the earthquake's focus. The focus is located inside the Earth. A crater is a depression associated with volcanic activity, the core is the innermost major layer of the Earth, and a vent is an opening through which volcanic material may escape."
+    },
+    {
+      "question": "Which type of volcano is considered unlikely to erupt again?",
+      "options": [
+        "Active volcano",
+        "Dormant volcano",
+        "Erupting volcano",
+        "Extinct volcano"
+      ],
+      "answer": 3,
+      "explanation": "An extinct volcano is considered unlikely to erupt again. An active volcano is erupting or has the potential to erupt, while a dormant volcano is currently inactive but may erupt in the future. An erupting volcano is actively releasing volcanic material."
+    },
+    {
+      "question": "Which natural disaster can be caused by an earthquake beneath the ocean floor?",
+      "options": [
+        "Tsunami",
+        "Drought",
+        "Heatwave",
+        "Sandstorm"
+      ],
+      "answer": 0,
+      "explanation": "A tsunami can be generated when a powerful undersea earthquake suddenly displaces a large volume of seawater. Not every undersea earthquake produces a tsunami. Drought is caused by prolonged water shortage, a heatwave involves unusually high temperatures, and a sandstorm involves strong winds carrying sand."
+    },
+    {
+      "question": "Which of the following is a well-known active volcano in Italy?",
+      "options": [
+        "Mount Everest",
+        "Mount Etna",
+        "Mount Kilimanjaro",
+        "Mount Fuji"
+      ],
+      "answer": 1,
+      "explanation": "Mount Etna is a well-known active volcano located on the island of Sicily in Italy. Mount Everest is a mountain in the Himalayas and is not a volcano. Mount Kilimanjaro is a volcanic mountain in Tanzania, while Mount Fuji is a volcano in Japan."
+    }
+  ]
+}
