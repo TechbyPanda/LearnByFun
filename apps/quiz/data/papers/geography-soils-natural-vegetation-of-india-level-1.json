@@ -1,0 +1,68 @@
+{
+  "id": "geography-soils-natural-vegetation-of-india-level-1",
+  "name": "Geography – Soils & Natural Vegetation of India (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["indian-soils", "natural-vegetation", "forests", "soil-conservation", "wildlife"],
+  "questions": [
+    {
+      "question": "Which soil is considered the best for growing cotton?",
+      "options": ["Black soil", "Desert soil", "Mountain soil", "Saline soil"],
+      "answer": 0,
+      "explanation": "Black soil holds moisture for a long time, which suits cotton, so it is also called black cotton soil. Desert, mountain and saline soils are not good for cotton."
+    },
+    {
+      "question": "The fertile soil deposited by rivers in the northern plains of India is called:",
+      "options": ["Laterite soil", "Desert soil", "Alluvial soil", "Black soil"],
+      "answer": 2,
+      "explanation": "Alluvial soil is made of the silt brought down by rivers like the Ganga and is very fertile. Black soil is formed from lava rocks, and desert and laterite soils are not river deposits."
+    },
+    {
+      "question": "The Sundarbans forest gets its name from which tree?",
+      "options": ["Teak", "Deodar", "Sandalwood", "Sundari"],
+      "answer": 3,
+      "explanation": "The Sundari tree grows in large numbers in the mangrove forests of the Ganga-Brahmaputra delta, giving the Sundarbans its name. Teak, deodar and sandalwood do not grow in these salty, marshy forests."
+    },
+    {
+      "question": "Gir National Park in Gujarat is famous for which animal?",
+      "options": ["One-horned rhinoceros", "Asiatic lion", "Snow leopard", "Elephant"],
+      "answer": 1,
+      "explanation": "The Gir forest is the only natural home of the Asiatic lion. The one-horned rhinoceros lives in Assam and the snow leopard in the high Himalayas."
+    },
+    {
+      "question": "Kaziranga National Park in Assam is best known for which animal?",
+      "options": ["Asiatic lion", "Camel", "One-horned rhinoceros", "Blackbuck"],
+      "answer": 2,
+      "explanation": "Kaziranga is the most famous home of the one-horned rhinoceros. Lions are found in Gir (Gujarat), and camels live in the desert, not in the wet grasslands of Assam."
+    },
+    {
+      "question": "The removal of the top layer of soil by running water and wind is called:",
+      "options": ["Soil formation", "Soil erosion", "Irrigation", "Afforestation"],
+      "answer": 1,
+      "explanation": "Soil erosion is the washing or blowing away of the fertile topsoil. Soil formation is the making of soil, and afforestation (planting trees) actually helps to stop erosion."
+    },
+    {
+      "question": "Terrace farming, used to stop soil from being washed away, is mostly done on:",
+      "options": ["River deltas", "Sandy deserts", "Sea coasts", "Hill slopes"],
+      "answer": 3,
+      "explanation": "On steep hill slopes, farmers cut broad flat steps called terraces so that water flows down slowly and does not carry the soil away. Deltas, deserts and coasts are flat and do not need terraces."
+    },
+    {
+      "question": "Forests in which the trees shed their leaves at a particular time of the year are called:",
+      "options": ["Tropical deciduous forests", "Tropical evergreen forests", "Mangrove forests", "Coniferous forests"],
+      "answer": 0,
+      "explanation": "Deciduous (monsoon) forests drop their leaves in the dry season to save water. Evergreen forests look green all year because their trees do not shed leaves together."
+    },
+    {
+      "question": "Thorny bushes such as cactus, khair and babool are the natural vegetation of which region?",
+      "options": ["Andaman and Nicobar Islands", "Kerala coast", "Assam valley", "Thar Desert of Rajasthan"],
+      "answer": 3,
+      "explanation": "Thorny bushes grow in dry areas like the Thar Desert, where their small leaves and thorns help to save water. The Andaman Islands, Kerala and Assam are very rainy and have dense green forests."
+    },
+    {
+      "question": "Which of the following trees is found in the mountain forests of the Himalayas?",
+      "options": ["Coconut", "Deodar", "Mango", "Banyan"],
+      "answer": 1,
+      "explanation": "Deodar is a tall, cone-bearing tree of the cool Himalayan slopes, along with pine and chir. Coconut, mango and banyan are trees of the warm plains and coasts."
+    }
+  ]
+}

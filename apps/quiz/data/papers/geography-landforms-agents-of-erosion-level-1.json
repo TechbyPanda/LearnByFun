@@ -1,0 +1,68 @@
+{
+  "id": "geography-landforms-agents-of-erosion-level-1",
+  "name": "Geography – Landforms & Agents of Erosion (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["landforms", "rivers", "glaciers", "deserts", "karst-and-coasts"],
+  "questions": [
+    {
+      "question": "What is the lake called that forms when a river's meander loop gets cut off from the main river?",
+      "options": ["Crater lake", "Salt lake", "Ox-bow lake", "Glacial lake"],
+      "answer": 2,
+      "explanation": "When a meander loop is cut off from the river it is left behind as an ox-bow lake. A crater lake forms in a volcano and a glacial lake is made by ice, not by a river loop."
+    },
+    {
+      "question": "What is the triangular landform built by a river at its mouth called?",
+      "options": ["Delta", "Plateau", "Sand dune", "Glacier"],
+      "answer": 0,
+      "explanation": "Near the sea a river slows down and drops its sediments, building a triangular delta. A plateau is a flat-topped highland and a sand dune is made by wind."
+    },
+    {
+      "question": "What is the material such as rocks, sand and silt carried and deposited by a glacier called?",
+      "options": ["Lava", "Moraine", "Delta", "Coral"],
+      "answer": 1,
+      "explanation": "The rocks, sand and silt dropped by a glacier form glacial moraines. Lava comes from volcanoes and a delta is made by a river."
+    },
+    {
+      "question": "What are the low hill-like heaps of sand deposited by wind in deserts called?",
+      "options": ["Waterfalls", "Beaches", "Moraines", "Sand dunes"],
+      "answer": 3,
+      "explanation": "When the wind stops blowing, the sand it carries falls and piles up as sand dunes. Beaches are made by sea waves and moraines by glaciers."
+    },
+    {
+      "question": "Mushroom rocks found in deserts are shaped mainly by:",
+      "options": ["Wind", "Rivers", "Glaciers", "Sea waves"],
+      "answer": 0,
+      "explanation": "Wind wears away the lower part of a rock more than the upper part, leaving a narrow base and a wide top like a mushroom. Rivers, glaciers and sea waves are not at work in a dry desert."
+    },
+    {
+      "question": "What do we call the landform where a river tumbles down from a steep height over hard rock?",
+      "options": ["Delta", "Meander", "Beach", "Waterfall"],
+      "answer": 3,
+      "explanation": "When a river falls at a steep angle over very hard rock or down a steep valley side, it forms a waterfall. A meander is a bend in a river and a delta forms at the river's mouth."
+    },
+    {
+      "question": "The Himalayas are an example of which type of mountains?",
+      "options": ["Volcanic mountains", "Fold mountains", "Block mountains", "Sand mountains"],
+      "answer": 1,
+      "explanation": "The Himalayas are young fold mountains with rugged relief and high conical peaks. Volcanic mountains are built by volcanic eruptions, and block mountains form when blocks of land are lifted or dropped."
+    },
+    {
+      "question": "What is a flat-topped tableland standing above the surrounding area called?",
+      "options": ["Plain", "Valley", "Plateau", "Delta"],
+      "answer": 2,
+      "explanation": "A plateau is an elevated flat land, like a table, such as the Deccan Plateau. A plain is flat but low-lying, and a valley is the low land between hills."
+    },
+    {
+      "question": "What is the steep rocky coast rising almost vertically above sea water called?",
+      "options": ["Sand dune", "Sea cliff", "Floodplain", "Moraine"],
+      "answer": 1,
+      "explanation": "A steep rocky coast rising almost straight up from the sea is a sea cliff, cut by sea waves. A floodplain is made by a river and a moraine by a glacier."
+    },
+    {
+      "question": "Beaches are formed by the deposition of sediments by:",
+      "options": ["Glaciers", "Wind", "Sea waves", "Volcanoes"],
+      "answer": 2,
+      "explanation": "Sea waves deposit sand and other sediments along the shore to form beaches. Glaciers deposit moraines and wind builds sand dunes."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "geography-soils-natural-vegetation-of-india-level-3",
+  "name": "Geography – Soils & Natural Vegetation of India (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["indian-soils", "natural-vegetation", "forests", "soil-conservation", "wildlife"],
+  "questions": [
+    {
+      "question": "Alluvial soils cover about what share of the total area of India?",
+      "options": ["About 20 per cent", "About 30 per cent", "About 40 per cent", "About 60 per cent"],
+      "answer": 2,
+      "explanation": "Alluvial soils are the most widespread soils of India, covering about 40 per cent of its area, mainly in the northern plains and the river valleys and deltas. The other figures are too low or too high."
+    },
+    {
+      "question": "Black soil is described as 'self-ploughing' because it:",
+      "options": ["Develops wide cracks when it dries", "Is very rich in humus", "Has a loose, sandy texture", "Is turned over by river floods every year"],
+      "answer": 0,
+      "explanation": "Black soil swells when wet and shrinks when dry, opening wide cracks that let air in and loosen the soil as if it had been ploughed. It is clayey, not sandy, and is actually poor in humus."
+    },
+    {
+      "question": "Laterite soils develop mainly as a result of:",
+      "options": ["Deposition of silt by rivers", "Weathering of basaltic lava", "Deposition of sand by wind", "Intense leaching under high temperature and heavy rainfall"],
+      "answer": 3,
+      "explanation": "Heavy rain washes lime and silica down out of the soil (leaching), leaving it rich in iron oxide and aluminium compounds. River deposition gives alluvial soil and weathered basalt gives black soil."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Regur – Laterite soil", "Usar – Saline soil", "Khadar – Old alluvium", "Bhangar – New alluvium"],
+      "answer": 1,
+      "explanation": "Saline soils are also known as usar soils. Regur is black soil, khadar is the new alluvium and bhangar is the old alluvium, so the other three pairs are wrong."
+    },
+    {
+      "question": "Which substance are farmers advised to add to the soil to reduce the problem of salinity?",
+      "options": ["Gypsum", "Lime", "Urea", "Potash"],
+      "answer": 0,
+      "explanation": "Gypsum is added to saline and alkaline soils to correct them. Lime is used for the opposite problem of acidic soils, while urea and potash are fertilisers and do not cure salinity."
+    },
+    {
+      "question": "Tropical moist deciduous forests are found in areas that receive annual rainfall of:",
+      "options": ["Less than 50 cm", "70–100 cm", "100–200 cm", "More than 200 cm"],
+      "answer": 2,
+      "explanation": "Moist deciduous forests grow where rainfall is 100–200 cm. Areas with 70–100 cm have dry deciduous forests, less than 50 cm gives thorn forests, and more than 200 cm supports evergreen forests."
+    },
+    {
+      "question": "Which one of the following pairs (tree – forest type) is correctly matched?",
+      "options": ["Rosewood – Tropical thorn forest", "Sandalwood – Tropical deciduous forest", "Babool – Tropical evergreen forest", "Ebony – Montane forest"],
+      "answer": 1,
+      "explanation": "Sandalwood is a tree of the tropical deciduous forests, like teak and sal. Rosewood and ebony belong to the tropical evergreen forests, and babool is a tree of the thorn forests."
+    },
+    {
+      "question": "The temperate forests found in the Nilgiri, Anaimalai and Palani hills are locally called:",
+      "options": ["Bugyals", "Duns", "Terai", "Sholas"],
+      "answer": 3,
+      "explanation": "The temperate forests of these southern hills are known as sholas. Bugyals are high-altitude grasslands of the Himalayas, duns are valleys between the Lesser Himalayas and the Shiwaliks, and the Terai is a marshy belt at the Himalayan foothills."
+    },
+    {
+      "question": "Project Tiger was launched in India in which year?",
+      "options": ["1972", "1973", "1980", "1992"],
+      "answer": 1,
+      "explanation": "Project Tiger began in 1973. The Wildlife (Protection) Act was passed in 1972, the Forest (Conservation) Act in 1980, and Project Elephant was launched in 1992."
+    },
+    {
+      "question": "Corbett National Park, the first national park of India, is located in which state?",
+      "options": ["Uttarakhand", "Uttar Pradesh", "Himachal Pradesh", "Madhya Pradesh"],
+      "answer": 0,
+      "explanation": "Corbett National Park, set up in 1936, lies in Uttarakhand and is well known for its tigers. It was part of Uttar Pradesh only until Uttarakhand became a separate state in 2000."
+    }
+  ]
+}

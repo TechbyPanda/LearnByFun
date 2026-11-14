@@ -1,0 +1,68 @@
+{
+  "id": "geography-rivers-drainage-of-india-level-1",
+  "name": "Geography – Rivers & Drainage of India (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["indian-drainage", "himalayan-rivers", "peninsular-rivers", "lakes", "dams"],
+  "questions": [
+    {
+      "question": "The river Ganga begins its journey from which glacier?",
+      "options": ["Siachen Glacier", "Gangotri Glacier", "Baltoro Glacier", "Zemu Glacier"],
+      "answer": 1,
+      "explanation": "The Ganga rises from the Gangotri Glacier in Uttarakhand. The Siachen and Baltoro glaciers are in the Karakoram and the Zemu Glacier is in Sikkim, far from the source of the Ganga."
+    },
+    {
+      "question": "The world's largest delta, the Sundarbans delta, is formed by which two rivers?",
+      "options": ["Narmada and Tapi", "Krishna and Kaveri", "Indus and Sutlej", "Ganga and Brahmaputra"],
+      "answer": 3,
+      "explanation": "The Ganga and the Brahmaputra together form the Sundarbans delta before entering the Bay of Bengal. The Narmada and the Tapi do not form deltas, and the other rivers flow in different parts of the subcontinent."
+    },
+    {
+      "question": "Which of the following rivers flows towards the west and falls into the Arabian Sea?",
+      "options": ["Narmada", "Godavari", "Krishna", "Kaveri"],
+      "answer": 0,
+      "explanation": "The Narmada flows westwards and drains into the Arabian Sea. The Godavari, the Krishna and the Kaveri all flow eastwards into the Bay of Bengal."
+    },
+    {
+      "question": "The Mahanadi, the Godavari, the Krishna and the Kaveri all drain into the:",
+      "options": ["Arabian Sea", "Gulf of Khambhat", "Bay of Bengal", "Red Sea"],
+      "answer": 2,
+      "explanation": "These four big peninsular rivers flow eastwards and fall into the Bay of Bengal, forming fertile deltas at their mouths. The Arabian Sea and the Gulf of Khambhat receive west-flowing rivers such as the Narmada and the Tapi."
+    },
+    {
+      "question": "At which city does the river Yamuna join the Ganga?",
+      "options": ["Kolkata", "Prayagraj (Allahabad)", "Mumbai", "Amritsar"],
+      "answer": 1,
+      "explanation": "The Yamuna meets the Ganga at Prayagraj (Allahabad), at the famous Sangam. Kolkata is near the mouth of the Ganga system, while Mumbai and Amritsar are not on the Ganga at all."
+    },
+    {
+      "question": "Delhi is located on the banks of which river?",
+      "options": ["Godavari", "Narmada", "Kaveri", "Yamuna"],
+      "answer": 3,
+      "explanation": "Delhi stands on the banks of the Yamuna, a major tributary of the Ganga. The Godavari, the Narmada and the Kaveri are rivers of peninsular India, far to the south of Delhi."
+    },
+    {
+      "question": "A smaller river or stream that joins a main river is called a:",
+      "options": ["Tributary", "Delta", "Glacier", "Strait"],
+      "answer": 0,
+      "explanation": "A tributary is a river or stream that adds its water to a main river, as the Yamuna does to the Ganga. A delta is land formed at a river's mouth, a glacier is a river of ice and a strait is a narrow passage of sea."
+    },
+    {
+      "question": "The Jhelum, the Chenab, the Ravi, the Beas and the Sutlej are tributaries of which river?",
+      "options": ["Ganga", "Godavari", "Indus", "Mahanadi"],
+      "answer": 2,
+      "explanation": "These five rivers of the Punjab region join the Indus. The Ganga has tributaries such as the Yamuna and the Kosi, while the Godavari and the Mahanadi are peninsular rivers."
+    },
+    {
+      "question": "Rivers that have water flowing in them throughout the year are called:",
+      "options": ["Seasonal rivers", "Perennial rivers", "Dry rivers", "Canals"],
+      "answer": 1,
+      "explanation": "Perennial rivers flow all year round; Himalayan rivers are perennial because they get water from both rain and melting snow. Seasonal rivers flow mainly in the rainy season, and canals are made by people."
+    },
+    {
+      "question": "In which state is Chilika Lake located?",
+      "options": ["Punjab", "Madhya Pradesh", "Haryana", "Odisha"],
+      "answer": 3,
+      "explanation": "Chilika Lake is a large coastal lake in Odisha, on the shore of the Bay of Bengal. Punjab, Madhya Pradesh and Haryana have no sea coast, so a coastal lake cannot be found there."
+    }
+  ]
+}

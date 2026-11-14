@@ -1,0 +1,68 @@
+{
+  "id": "geography-cyclones-rainfall-climate-types-level-1",
+  "name": "Geography – Cyclones, Rainfall & Climate Types (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["climatology", "cyclones", "rainfall", "climate-types", "el-nino"],
+  "questions": [
+    {
+      "question": "Rain, snow, sleet and hail are all forms of:",
+      "options": ["Evaporation", "Precipitation", "Erosion", "Transpiration"],
+      "answer": 1,
+      "explanation": "Any water that falls from clouds to the ground, as liquid or ice, is called precipitation. Evaporation and transpiration send water up into the air, not down."
+    },
+    {
+      "question": "Which instrument is used to measure rainfall?",
+      "options": ["Barometer", "Thermometer", "Wind vane", "Rain gauge"],
+      "answer": 3,
+      "explanation": "A rain gauge collects rain and shows how much has fallen. A barometer measures air pressure, a thermometer measures temperature and a wind vane shows wind direction."
+    },
+    {
+      "question": "A violent storm with very strong winds and heavy rain that forms over warm seas is called a:",
+      "options": ["Cyclone", "Earthquake", "Drought", "Landslide"],
+      "answer": 0,
+      "explanation": "A cyclone is a huge spinning storm that forms over warm sea water and brings strong winds and heavy rain to the coast. An earthquake and a landslide are movements of the ground, and a drought is a long dry period."
+    },
+    {
+      "question": "Which type of climate is hot and wet throughout the year and has thick evergreen rainforests?",
+      "options": ["Tundra", "Hot desert", "Equatorial", "Mediterranean"],
+      "answer": 2,
+      "explanation": "Places near the Equator, like the Amazon basin, are hot and rainy all year, so dense evergreen rainforests grow there. Tundra is freezing cold and a hot desert is very dry."
+    },
+    {
+      "question": "The Sahara in Africa is an example of which type of region?",
+      "options": ["Equatorial rainforest", "Tundra", "Coniferous forest", "Hot desert"],
+      "answer": 3,
+      "explanation": "The Sahara is the world's largest hot desert, with very high temperatures and very little rain. Rainforests need heavy rain, and tundra and coniferous forests are found in cold lands."
+    },
+    {
+      "question": "Which type of climate does most of India have?",
+      "options": ["Monsoon", "Tundra", "Mediterranean", "Polar"],
+      "answer": 0,
+      "explanation": "India has a monsoon climate, in which seasonal winds bring most of the rain in a few months of the year. Tundra and polar climates are found in very cold lands near the poles."
+    },
+    {
+      "question": "Which very cold region near the North Pole has no trees, and only mosses, lichens and small shrubs grow there?",
+      "options": ["Savanna", "Tundra", "Rainforest", "Hot desert"],
+      "answer": 1,
+      "explanation": "The tundra is so cold that the ground stays frozen for most of the year, so trees cannot grow. Savanna, rainforest and hot desert are all found in warm parts of the world."
+    },
+    {
+      "question": "The coniferous forests of the cold northern lands, with trees like pine and fir, are also called the:",
+      "options": ["Savanna", "Mangroves", "Taiga", "Rainforest"],
+      "answer": 2,
+      "explanation": "Taiga is the name for the belt of coniferous (cone-bearing) forests across the cold north, such as Siberia and Canada. Savanna is tropical grassland and mangroves grow on warm, muddy coasts."
+    },
+    {
+      "question": "Water vapour in the air cools and changes into tiny water droplets to form clouds. This process is called:",
+      "options": ["Condensation", "Evaporation", "Melting", "Freezing"],
+      "answer": 0,
+      "explanation": "Condensation is the change of water vapour (a gas) into liquid water droplets. Evaporation is the opposite: liquid water turning into vapour."
+    },
+    {
+      "question": "A violent, funnel-shaped spinning column of air that touches the ground is called a:",
+      "options": ["Tsunami", "Flood", "Avalanche", "Tornado"],
+      "answer": 3,
+      "explanation": "A tornado is a narrow, dark, funnel-shaped whirlwind that reaches down from a storm cloud to the ground. A tsunami is a giant sea wave and an avalanche is snow sliding down a mountain."
+    }
+  ]
+}

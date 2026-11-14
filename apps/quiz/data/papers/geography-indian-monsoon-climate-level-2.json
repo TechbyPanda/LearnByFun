@@ -1,0 +1,68 @@
+{
+  "id": "geography-indian-monsoon-climate-level-2",
+  "name": "Geography – Indian Monsoon & Climate (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["indian-climate", "monsoon", "seasons", "rainfall-distribution", "local-storms"],
+  "questions": [
+    {
+      "question": "The western cyclonic disturbances that bring winter rain to north-west India originate over the:",
+      "options": ["Bay of Bengal", "Mediterranean Sea", "Arabian Sea", "South China Sea"],
+      "answer": 1,
+      "explanation": "Western disturbances form over the Mediterranean Sea and travel eastwards to India, giving winter rain that helps the rabi crops. The Bay of Bengal and the Arabian Sea feed the summer monsoon, not these winter storms."
+    },
+    {
+      "question": "The pre-monsoon showers of Kerala and Karnataka that help in the early ripening of mangoes are called:",
+      "options": ["Mango showers", "Kal Baisakhi", "Loo", "Mahawat"],
+      "answer": 0,
+      "explanation": "Mango showers fall towards the end of summer in Kerala and Karnataka. Kal Baisakhi is a thunderstorm of West Bengal, the loo is a hot dry wind, and mahawat is the winter rain of north India."
+    },
+    {
+      "question": "'Kal Baisakhi', the violent thunderstorms of the hot weather season, are associated with which state?",
+      "options": ["Gujarat", "Punjab", "Kerala", "West Bengal"],
+      "answer": 3,
+      "explanation": "Kal Baisakhi (the 'calamity of the month of Baisakh') brings strong winds and heavy showers, often with hail, to West Bengal. The other states do not use this name for their summer storms."
+    },
+    {
+      "question": "The Tamil Nadu coast receives most of its rainfall during which period?",
+      "options": ["March to May", "June to September", "October to December", "January to February"],
+      "answer": 2,
+      "explanation": "The Tamil Nadu coast gets most of its rain from October to December from the north-east (retreating) monsoon, which picks up moisture over the Bay of Bengal. From June to September, when most of India gets rain, this coast stays fairly dry."
+    },
+    {
+      "question": "The sudden increase in rainfall, lasting for several days, at the time of the arrival of the monsoon is known as the:",
+      "options": ["Break of the monsoon", "October heat", "Retreat of the monsoon", "Burst of the monsoon"],
+      "answer": 3,
+      "explanation": "The 'burst' is the sudden, heavy start of the monsoon rains. A 'break' is a dry spell in between, and the 'retreat' is the withdrawal of the monsoon in October-November."
+    },
+    {
+      "question": "Which important line of latitude passes through the middle of India, from the Rann of Kuchchh in the west to Mizoram in the east?",
+      "options": ["Tropic of Cancer", "Equator", "Tropic of Capricorn", "Arctic Circle"],
+      "answer": 0,
+      "explanation": "The Tropic of Cancer divides India into a tropical southern part and a subtropical northern part. The Equator lies to the south of India, and the Tropic of Capricorn is in the Southern Hemisphere."
+    },
+    {
+      "question": "The 'October heat' experienced during the retreating monsoon is caused by:",
+      "options": ["Hot, dry loo winds", "High temperature combined with high humidity", "Western cyclonic disturbances", "Cold waves from Central Asia"],
+      "answer": 1,
+      "explanation": "In October the skies clear and temperatures rise while the land is still moist, so the weather feels hot and sticky. The loo blows in May-June, and western disturbances and cold waves belong to winter."
+    },
+    {
+      "question": "Which of the following regions lies in the rain shadow of the Western Ghats?",
+      "options": ["Konkan coast", "Malabar coast", "Deccan Plateau", "Lakshadweep Islands"],
+      "answer": 2,
+      "explanation": "The monsoon winds drop heavy rain on the windward (western) side of the Western Ghats, so the Deccan Plateau on the leeward side gets little rain. The Konkan and Malabar coasts are on the rainy windward side."
+    },
+    {
+      "question": "El Niño, which can affect the Indian monsoon, is a warm ocean current that appears off the coast of:",
+      "options": ["Japan", "Somalia", "Australia", "Peru"],
+      "answer": 3,
+      "explanation": "El Niño is a warm current that appears from time to time off the coast of Peru in the eastern Pacific Ocean, in place of the usual cold current. It is not linked to the coasts of Japan, Somalia or Australia."
+    },
+    {
+      "question": "The cyclonic depressions that strike the eastern coast of India in October and November generally originate over the:",
+      "options": ["Andaman Sea", "Arabian Sea", "Mediterranean Sea", "Persian Gulf"],
+      "answer": 0,
+      "explanation": "These tropical cyclones form over the Andaman Sea, cross the Bay of Bengal and hit the deltas of the Godavari, Krishna and Kaveri. The Mediterranean Sea is the source of winter western disturbances, not of these cyclones."
+    }
+  ]
+}

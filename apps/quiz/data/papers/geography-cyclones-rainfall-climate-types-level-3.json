@@ -1,0 +1,68 @@
+{
+  "id": "geography-cyclones-rainfall-climate-types-level-3",
+  "name": "Geography – Cyclones, Rainfall & Climate Types (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["climatology", "cyclones", "rainfall", "climate-types", "el-nino"],
+  "questions": [
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Hurricanes – Indian Ocean", "Typhoons – Atlantic Ocean", "Willy-willies – Western Australia", "Cyclones – Western Pacific and South China Sea"],
+      "answer": 2,
+      "explanation": "Tropical cyclones are called willy-willies in Western Australia. They are hurricanes in the Atlantic, typhoons in the western Pacific and South China Sea, and cyclones in the Indian Ocean."
+    },
+    {
+      "question": "In Koeppen's climate classification, the symbol 'Af' stands for:",
+      "options": ["Tropical wet climate", "Tropical monsoon climate", "Tropical wet and dry climate", "Mediterranean climate"],
+      "answer": 0,
+      "explanation": "'A' means tropical and 'f' means no dry season, so Af is the tropical wet (rainforest) climate. Tropical monsoon is Am, tropical wet and dry (savanna) is Aw, and Mediterranean is Cs."
+    },
+    {
+      "question": "In Koeppen's scheme, which capital letter denotes the dry climates?",
+      "options": ["A", "B", "C", "D"],
+      "answer": 1,
+      "explanation": "B stands for dry climates and is the only main group defined by lack of moisture rather than by temperature. A is tropical, C is warm temperate and D is cold snow-forest climate."
+    },
+    {
+      "question": "When a cold air mass overtakes a warm air mass and lifts it completely off the ground, the front formed is called:",
+      "options": ["A warm front", "A cold front", "A stationary front", "An occluded front"],
+      "answer": 3,
+      "explanation": "An occluded front forms when the warm air is fully lifted above the surface. In a cold front the cold air is only pushing under the warm air, and a stationary front is one that is not moving."
+    },
+    {
+      "question": "For a tropical cyclone to form, the sea surface temperature should be higher than about:",
+      "options": ["17°C", "22°C", "27°C", "37°C"],
+      "answer": 2,
+      "explanation": "Tropical cyclones need a large sea surface warmer than 27°C, which supplies the heat and moisture that power the storm. Cooler seas at 17°C or 22°C cannot do this, and open oceans do not reach 37°C."
+    },
+    {
+      "question": "Tropical cyclones do not form very close to the Equator mainly because:",
+      "options": ["The Coriolis force is negligible there", "The sea surface is too cold there", "There is no moisture in the air there", "The trade winds are too strong there"],
+      "answer": 0,
+      "explanation": "The Coriolis force is zero at the Equator, so the air cannot be set spinning into a cyclonic vortex. The equatorial seas are actually warm and the air is moist, so those options are wrong."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Nimbus – Thin, white, feathery clouds", "Cirrus – High clouds at 8,000–12,000 m", "Stratus – Clouds that look like cotton wool", "Cumulus – Layered clouds covering large parts of the sky"],
+      "answer": 1,
+      "explanation": "Cirrus clouds form at 8,000–12,000 m and are thin and feathery. Nimbus are dark grey rain clouds, stratus are the layered clouds, and cumulus are the ones that look like cotton wool."
+    },
+    {
+      "question": "Temperate (extra-tropical) cyclones generally move from:",
+      "options": ["East to west", "North to south", "West to east", "South to north"],
+      "answer": 2,
+      "explanation": "Temperate cyclones form in the belt of the westerlies and travel with them from west to east. Tropical cyclones are the ones that generally move from east to west with the trade winds."
+    },
+    {
+      "question": "La Niña refers to:",
+      "options": ["Unusually warm surface waters in the eastern equatorial Pacific", "Unusually warm surface waters in the northern Indian Ocean", "Unusually cool surface waters in the North Atlantic", "Unusually cool surface waters in the eastern equatorial Pacific"],
+      "answer": 3,
+      "explanation": "La Niña is the cooling of surface waters in the central and eastern equatorial Pacific and is the opposite of El Niño. Warm water in the same region is El Niño, and neither event is defined by the Indian or Atlantic Ocean."
+    },
+    {
+      "question": "The Mediterranean type of climate is typically found along the:",
+      "options": ["Western margins of continents between 30° and 40° latitudes", "Eastern margins of continents between 30° and 40° latitudes", "Western margins of continents between 5° and 10° latitudes", "Interiors of continents between 50° and 70° latitudes"],
+      "answer": 0,
+      "explanation": "It occurs on the western coasts of continents between 30° and 40° latitudes, such as central California and central Chile, where westerlies bring rain only in winter. The eastern margins at the same latitudes have a humid subtropical climate with summer rain instead."
+    }
+  ]
+}

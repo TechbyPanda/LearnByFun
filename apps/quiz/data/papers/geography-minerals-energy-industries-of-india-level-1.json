@@ -1,0 +1,68 @@
+{
+  "id": "geography-minerals-energy-industries-of-india-level-1",
+  "name": "Geography – Minerals, Energy & Industries of India (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["minerals", "energy-resources", "industries", "coal-and-petroleum", "nuclear-power"],
+  "questions": [
+    {
+      "question": "Which of the following is a metallic mineral?",
+      "options": ["Limestone", "Mica", "Iron ore", "Gypsum"],
+      "answer": 2,
+      "explanation": "Iron ore contains metal (iron), so it is a metallic mineral. Limestone, mica and gypsum do not contain metals and are non-metallic minerals."
+    },
+    {
+      "question": "Which of the following is a non-conventional source of energy?",
+      "options": ["Coal", "Petroleum", "Natural gas", "Solar energy"],
+      "answer": 3,
+      "explanation": "Solar energy is a non-conventional (renewable) source that has come into wide use only recently. Coal, petroleum and natural gas are conventional fossil fuels used for a long time."
+    },
+    {
+      "question": "Bauxite is the ore of which metal?",
+      "options": ["Aluminium", "Iron", "Copper", "Gold"],
+      "answer": 0,
+      "explanation": "Aluminium is obtained from bauxite. Iron comes from ores like haematite and magnetite, and copper and gold come from their own ores."
+    },
+    {
+      "question": "Jamshedpur is famous for which industry?",
+      "options": ["Cotton textile", "Iron and steel", "Sugar", "Information technology"],
+      "answer": 1,
+      "explanation": "Jamshedpur in Jharkhand is home to the Tata iron and steel plant, set up in 1907. It is not known for textiles, sugar or IT."
+    },
+    {
+      "question": "Ahmedabad is often called the 'Manchester of India' because of its:",
+      "options": ["Steel plants", "Jute mills", "Oil refineries", "Cotton textile mills"],
+      "answer": 3,
+      "explanation": "Ahmedabad has many cotton textile mills, just like Manchester in England, which was famous for cotton cloth. Jute mills are found mainly near Kolkata, not in Ahmedabad."
+    },
+    {
+      "question": "Which city is known as the 'Silicon Valley of India'?",
+      "options": ["Bengaluru", "Kanpur", "Nagpur", "Patna"],
+      "answer": 0,
+      "explanation": "Bengaluru is India's leading centre of the information technology (IT) industry, so it is compared to Silicon Valley in the USA. Kanpur, Nagpur and Patna are not major IT hubs."
+    },
+    {
+      "question": "Energy obtained from the heat of the Earth's interior is called:",
+      "options": ["Tidal energy", "Wind energy", "Geothermal energy", "Solar energy"],
+      "answer": 2,
+      "explanation": "'Geo' means earth and 'thermal' means heat, so geothermal energy comes from the heat inside the Earth. Tidal energy comes from sea tides, wind energy from moving air and solar energy from the Sun."
+    },
+    {
+      "question": "Biogas is produced from:",
+      "options": ["Sea waves", "Animal dung and kitchen waste", "Sunlight", "Uranium"],
+      "answer": 1,
+      "explanation": "Biogas is made when organic waste such as animal dung, dead plant matter and kitchen waste decays. Sea waves, sunlight and uranium give other kinds of energy."
+    },
+    {
+      "question": "Which mineral is used as fuel in nuclear power plants?",
+      "options": ["Uranium", "Bauxite", "Limestone", "Mica"],
+      "answer": 0,
+      "explanation": "Nuclear power is produced from the energy stored in atoms of radioactive minerals like uranium and thorium. Bauxite, limestone and mica are not nuclear fuels."
+    },
+    {
+      "question": "Which fuel is often called 'black gold'?",
+      "options": ["Firewood", "Petroleum", "Biogas", "Charcoal"],
+      "answer": 1,
+      "explanation": "Petroleum is thick, black and very valuable, so it and its products are called black gold. Firewood, biogas and charcoal are not given this name."
+    }
+  ]
+}

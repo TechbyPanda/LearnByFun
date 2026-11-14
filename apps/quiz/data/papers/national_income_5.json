@@ -1,0 +1,120 @@
+
+  {
+    "id": "economy-national-income-level-5",
+    "name": "Economy – National Income (Level 5)",
+    "tags": ["economy", "level-5"],
+    "subtags": ["national-income", "gva-and-gdp", "national-income-aggregates", "domestic-territory"],
+    "questions": [
+      {
+        "question": "Consider the following statements regarding the concept of 'Domestic Territory' in National Income accounting:\n1. Embassies and military establishments of a country located abroad are treated as part of its domestic territory.\n2. Offices of international organizations like the United Nations or World Health Organization located inside India are treated as part of India's domestic territory.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": 0,
+        "explanation": "Statement 1 is correct: Embassies, consulates, and military bases maintained by a government abroad form part of that country's economic/domestic territory.\nStatement 2 is incorrect: Premises of international organizations such as the UN or WHO located within India are treated as international territory and are excluded from India's domestic territory.\nSo only statement 1 is correct."
+      },
+      {
+        "question": "Consider the following statements regarding Production Taxes and Product Taxes in India's National Accounts:\n1. Production taxes are paid in relation to production and are independent of the actual volume of output produced.\n2. Goods and Services Tax (GST) and excise duty are classified as production taxes rather than product taxes.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": 0,
+        "explanation": "Statement 1 is correct: Production taxes (such as land revenue, stamp duty, and registration fees) are levied on the act or capacity of production irrespective of the quantity produced.\nStatement 2 is incorrect: GST, excise duty, and customs duty are levied per unit or on the value of goods and services transacted, making them product taxes, not production taxes.\nSo only statement 1 is correct."
+      },
+      {
+        "question": "Consider the following statements regarding the 2015 revision of India's National Accounts Statistics:\n1. The headline measure of economic growth was shifted from GDP at factor cost to GDP at constant market prices.\n2. Enterprise-level financial data from the MCA-21 database was introduced to replace volume extrapolation in corporate manufacturing and services.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": 2,
+        "explanation": "Statement 1 is correct: In January 2015, the Central Statistics Office aligned Indian methodology with the UN System of National Accounts (SNA 2008) by adopting GDP at constant market prices as the headline growth indicator instead of GDP at factor cost.\nStatement 2 is correct: The revised series incorporated corporate filings from the Ministry of Corporate Affairs' MCA-21 database to capture value addition more comprehensively than the earlier Annual Survey of Industries (ASI) and IIP-based extrapolation.\nSo both 1 and 2 are correct."
+      },
+      {
+        "question": "Which of the following pairs is correctly matched?\nAggregate – Defining Relationship",
+        "options": [
+          "GVA at Basic Prices – GVA at Factor Cost plus Net Production Taxes",
+          "GDP at Market Prices – GVA at Basic Prices plus Net Production Taxes",
+          "National Income – Net National Product at Market Prices plus Net Indirect Taxes",
+          "Personal Income – Private Income minus Transfer Payments from Government"
+        ],
+        "answer": 0,
+        "explanation": "Option 1 is correct: Adding net production taxes (production taxes minus production subsidies) to GVA at factor cost yields GVA at basic prices.\nOption 2 is incorrect: GDP at market prices equals GVA at basic prices plus net product taxes, not net production taxes.\nOption 3 is incorrect: National Income (NNP at factor cost) equals NNP at market prices minus net indirect taxes.\nOption 4 is incorrect: Transfer payments from the government are included in Personal Income, whereas corporate tax and undistributed profits are deducted from Private Income.\nSo the correct option is GVA at Basic Prices – GVA at Factor Cost plus Net Production Taxes."
+      },
+      {
+        "question": "Consider the following statements regarding 'Normal Residents' of a country in National Income accounting:\n1. A person residing and working in a country for more than one year with their centre of economic interest in that country is considered its normal resident.\n2. Foreign tourists visiting India for a three-month holiday are treated as normal residents of India for that financial year.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": 0,
+        "explanation": "Statement 1 is correct: Under SNA guidelines, normal residence is determined by residing in an economic territory for one year or more and having one's centre of economic interest there, regardless of citizenship.\nStatement 2 is incorrect: Foreign tourists, medical patients, and short-term visitors staying for less than one year retain their centre of economic interest in their home country and are non-residents.\nSo only statement 1 is correct."
+      },
+      {
+        "question": "Consider the following statements regarding the Expenditure Method of measuring GDP:\n1. Expenditure incurred by households on purchasing newly constructed residential houses is classified under Private Final Consumption Expenditure.\n2. Net acquisition of valuables such as gold and jewellery is included under Gross Domestic Capital Formation.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": 1,
+        "explanation": "Statement 1 is incorrect: Household expenditure on purchasing newly built houses is treated as residential investment and recorded under Gross Fixed Capital Formation (Investment), not Private Final Consumption Expenditure.\nStatement 2 is correct: In Indian national accounts, Gross Domestic Capital Formation comprises Gross Fixed Capital Formation, Change in Stocks, and Valuables (such as precious metals and stones).\nSo only statement 2 is correct."
+      },
+      {
+        "question": "In the context of Indian National Income accounting, what happens to Gross Domestic Product (GDP) at market prices if the government increases subsidies on fertilizers without changing factor incomes or indirect tax rates?",
+        "options": [
+          "GDP at market prices decreases",
+          "GDP at market prices increases",
+          "GDP at market prices remains unchanged",
+          "GVA at factor cost decreases by the exact amount of subsidy"
+        ],
+        "answer": 0,
+        "explanation": "Option 1 is correct: Since GDP at market prices = GVA at basic prices + Product taxes - Product subsidies, an increase in product subsidies (like fertilizer subsidies) reduces net product taxes and therefore lowers GDP at market prices.\nOption 2 is incorrect: Higher subsidies reduce market prices relative to basic prices rather than raising GDP at market prices.\nOption 3 is incorrect: While GVA at basic prices may remain unchanged initially, GDP at market prices changes due to the subsidy term.\nOption 4 is incorrect: Factor cost reflects payments to factors of production and does not automatically fall by the subsidy amount.\nSo the correct option is GDP at market prices decreases."
+      },
+      {
+        "question": "Consider the following statements regarding the treatment of inventories (change in stocks) in National Income accounting:\n1. Unsold finished goods held by a firm at the end of an accounting year are treated as part of investment expenditure in that year.\n2. A fall in business inventories during a year reduces Gross Domestic Capital Formation for that year.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": 2,
+        "explanation": "Statement 1 is correct: In national accounting, firms are treated as purchasing their own unsold output, so positive change in stocks (closing stock minus opening stock) is counted as inventory investment.\nStatement 2 is correct: When closing inventories are lower than opening inventories, change in stocks is negative, which reduces Gross Domestic Capital Formation.\nSo both 1 and 2 are correct."
+      },
+      {
+        "question": "Consider the following statements regarding Potential GDP:\n1. Potential GDP represents the maximum sustainable level of output an economy can produce at full employment without triggering accelerating inflation.\n2. A negative output gap occurs when Actual GDP exceeds Potential GDP.\nWhich of the statements given above is/are correct?",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": 0,
+        "explanation": "Statement 1 is correct: Potential GDP is the highest level of real output sustainable over the long term when labour and capital are utilized at non-inflationary full-employment capacity.\nStatement 2 is incorrect: When Actual GDP falls short of Potential GDP (indicating underutilized resources), a negative output gap occurs; Actual GDP exceeding Potential GDP creates a positive (inflationary) output gap.\nSo only statement 1 is correct."
+      },
+      {
+        "question": "Which of the following transactions is excluded while estimating National Income by the Income Method?",
+        "options": [
+          "Profits retained by corporations for future reinvestment",
+          "Capital gains earned from selling land at a higher price than its purchase cost",
+          "Employers' contribution to employees' provident fund",
+          "Royalty received by an author from a publishing house"
+        ],
+        "answer": 1,
+        "explanation": "Option 2 is correct: Capital gains arise merely from asset price appreciation on existing wealth and do not reflect current production of goods or services, so they are excluded from National Income.\nOption 1 is incorrect: Undistributed corporate profits are part of corporate profit under Operating Surplus and are included.\nOption 3 is incorrect: Employers' contribution to social security schemes is part of Compensation of Employees and is included.\nOption 4 is incorrect: Royalty is a factor income earned for intellectual property rights and is included under Operating Surplus.\nSo the correct option is Capital gains earned from selling land at a higher price than its purchase cost."
+      }
+    ]
+  }
+  

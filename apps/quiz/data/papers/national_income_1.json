@@ -1,0 +1,118 @@
+{
+  "id": "economy-national-income-level-1",
+  "name": "Economy – National Income (Level 1)",
+  "tags": ["economy", "level-1"],
+  "subtags": ["national-income", "gdp", "economic-sectors", "basic-economics"],
+  "questions": [
+    {
+      "question": "What does the full form of GDP stand for in economics?",
+      "options": [
+        "Gross Domestic Product",
+        "General Development Plan",
+        "Global Demand Price",
+        "Government Domestic Policy"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: GDP stands for Gross Domestic Product, which measures the total value of final goods and services produced within a country.\nOption 2 is incorrect: General Development Plan is not a national income measure.\nOption 3 is incorrect: Global Demand Price is not an economic aggregate.\nOption 4 is incorrect: Government Domestic Policy refers to governance, not national income.\nSo the correct option is Gross Domestic Product."
+    },
+    {
+      "question": "Which ministry is responsible for estimating the National Income of India?",
+      "options": [
+        "Ministry of Statistics and Programme Implementation",
+        "Ministry of External Affairs",
+        "Ministry of Home Affairs",
+        "Ministry of Defence"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: The Ministry of Statistics and Programme Implementation (MoSPI), through the National Statistical Office (NSO), compiles and releases National Income estimates in India.\nOption 2 is incorrect: The Ministry of External Affairs handles foreign relations.\nOption 3 is incorrect: The Ministry of Home Affairs looks after internal security and domestic administration.\nOption 4 is incorrect: The Ministry of Defence manages the armed forces.\nSo the correct option is Ministry of Statistics and Programme Implementation."
+    },
+    {
+      "question": "How is Per Capita Income of a country calculated?",
+      "options": [
+        "By multiplying total income by total population",
+        "By dividing total national income by total population",
+        "By adding total exports and total imports",
+        "By subtracting government spending from total tax revenue"
+      ],
+      "answer": 1,
+      "explanation": "Option 2 is correct: Per Capita Income represents the average income earned per person and is obtained by dividing total national income by the total population.\nOption 1 is incorrect: Multiplying income by population does not give an average per person.\nOption 3 is incorrect: Adding exports and imports measures total trade volume.\nOption 4 is incorrect: Subtracting government spending from tax revenue relates to the fiscal balance.\nSo the correct option is By dividing total national income by total population."
+    },
+    {
+      "question": "Which sector of the economy includes farming, forestry, and fishing?",
+      "options": [
+        "Secondary Sector",
+        "Tertiary Sector",
+        "Primary Sector",
+        "Quaternary Sector"
+      ],
+      "answer": 2,
+      "explanation": "Option 3 is correct: Activities that directly use natural resources, such as agriculture, forestry, and fishing, belong to the Primary Sector.\nOption 1 is incorrect: The Secondary Sector involves manufacturing and construction.\nOption 2 is incorrect: The Tertiary Sector comprises services like banking, transport, and trade.\nOption 4 is incorrect: The Quaternary Sector covers knowledge-based services such as research and information technology.\nSo the correct option is Primary Sector."
+    },
+    {
+      "question": "Which of the following is an example of a final good included in GDP calculation?",
+      "options": [
+        "Wheat purchased by a bakery to make bread",
+        "Cotton bought by a textile mill to weave cloth",
+        "A loaf of bread bought by a household for consumption",
+        "Steel sheets purchased by an automobile factory to build cars"
+      ],
+      "answer": 2,
+      "explanation": "Option 3 is correct: A loaf of bread bought by a household is meant for direct consumption and is therefore a final good.\nOption 1 is incorrect: Wheat bought by a bakery is an intermediate good used to produce another product.\nOption 2 is incorrect: Cotton bought by a textile mill is an intermediate raw material.\nOption 4 is incorrect: Steel sheets bought by a car factory are intermediate inputs.\nSo the correct option is A loaf of bread bought by a household for consumption."
+    },
+    {
+      "question": "Who among the following made the first attempt to estimate the National Income of India during British rule?",
+      "options": [
+        "Dadabhai Naoroji",
+        "Subhas Chandra Bose",
+        "Bhagat Singh",
+        "Lala Lajpat Rai"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Dadabhai Naoroji made the earliest estimate of India's National Income and Per Capita Income for the year 1867-68.\nOption 2 is incorrect: Subhas Chandra Bose was a prominent freedom fighter and leader of the Indian National Army.\nOption 3 is incorrect: Bhagat Singh was a revolutionary freedom fighter.\nOption 4 is incorrect: Lala Lajpat Rai was a nationalist leader and social reformer.\nSo the correct option is Dadabhai Naoroji."
+    },
+    {
+      "question": "Which sector is also commonly known as the Service Sector?",
+      "options": [
+        "Primary Sector",
+        "Secondary Sector",
+        "Tertiary Sector",
+        "Mining Sector"
+      ],
+      "answer": 2,
+      "explanation": "Option 3 is correct: The Tertiary Sector provides services such as transport, banking, education, and healthcare, and is known as the Service Sector.\nOption 1 is incorrect: The Primary Sector involves agriculture and extraction of natural resources.\nOption 2 is incorrect: The Secondary Sector is known as the industrial or manufacturing sector.\nOption 4 is incorrect: Mining is a primary economic activity.\nSo the correct option is Tertiary Sector."
+    },
+    {
+      "question": "Which of the following transactions is NOT included in India's GDP?",
+      "options": [
+        "Cars manufactured in a factory located in Chennai",
+        "Unpaid household cooking and cleaning done by a homemaker",
+        "Banking services provided by a branch in Mumbai",
+        "Rice harvested on a farm in Punjab"
+      ],
+      "answer": 1,
+      "explanation": "Option 2 is correct: Non-marketed unpaid domestic services performed within a household are not assigned a monetary market value and are excluded from GDP.\nOption 1 is incorrect: Cars manufactured in Chennai are goods produced within India's domestic territory and are included.\nOption 3 is incorrect: Banking services in Mumbai are paid services produced domestically and are included.\nOption 4 is incorrect: Rice harvested in Punjab is agricultural output produced within India and is included.\nSo the correct option is Unpaid household cooking and cleaning done by a homemaker."
+    },
+    {
+      "question": "In the circular flow of income, which group owns the factors of production such as land, labour, and capital?",
+      "options": [
+        "Foreign governments",
+        "Households",
+        "Commercial banks",
+        "Municipal corporations"
+      ],
+      "answer": 1,
+      "explanation": "Option 2 is correct: In a basic economy, households own the factors of production—land, labour, capital, and entrepreneurship—and supply them to firms.\nOption 1 is incorrect: Foreign governments represent the external sector, not domestic factor owners.\nOption 3 is incorrect: Commercial banks are financial intermediaries.\nOption 4 is incorrect: Municipal corporations are local urban governing bodies.\nSo the correct option is Households."
+    },
+    {
+      "question": "What does the letter 'N' stand for in the economic term GNP?",
+      "options": [
+        "National",
+        "Natural",
+        "Nominal",
+        "New"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: GNP stands for Gross National Product, where 'N' represents National.\nOption 2 is incorrect: 'N' does not stand for Natural.\nOption 3 is incorrect: 'N' does not stand for Nominal in the acronym GNP.\nOption 4 is incorrect: 'N' does not stand for New.\nSo the correct option is National."
+    }
+  ]
+}

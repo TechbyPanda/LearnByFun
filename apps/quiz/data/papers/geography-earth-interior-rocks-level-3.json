@@ -1,0 +1,68 @@
+{
+  "id": "geography-earth-interior-rocks-level-3",
+  "name": "Geography – Earth Interior & Rocks (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["earth-interior", "rocks", "rock-cycle", "weathering", "plate-tectonics"],
+  "questions": [
+    {
+      "question": "The boundary that separates the Earth's crust from the mantle is called the:",
+      "options": ["Mohorovičić (Moho) discontinuity", "Gutenberg discontinuity", "Lehmann discontinuity", "Conrad discontinuity"],
+      "answer": 0,
+      "explanation": "The Moho discontinuity separates the crust from the mantle. The Gutenberg discontinuity lies between the mantle and the core, the Lehmann between the outer and inner core, and the Conrad between the upper and lower crust."
+    },
+    {
+      "question": "The shadow zone of earthquake P-waves lies between which angular distances from the epicentre?",
+      "options": ["45° and 90°", "90° and 120°", "105° and 145°", "145° and 180°"],
+      "answer": 2,
+      "explanation": "P-waves are not recorded in a band between 105° and 145° from the epicentre because they are bent (refracted) at the core. The S-wave shadow zone is much larger, covering the whole area beyond 105°."
+    },
+    {
+      "question": "Which layer of the Earth is in a liquid state?",
+      "options": ["Lower mantle", "Asthenosphere", "Inner core", "Outer core"],
+      "answer": 3,
+      "explanation": "The outer core is liquid, which is known because S-waves cannot pass through it. The inner core is solid due to very high pressure, the lower mantle is solid, and the asthenosphere is a weak, partly molten zone but not a liquid layer."
+    },
+    {
+      "question": "Which is the most abundant element in the Earth's crust by weight?",
+      "options": ["Silicon", "Oxygen", "Aluminium", "Iron"],
+      "answer": 1,
+      "explanation": "Oxygen makes up about 46.6 per cent of the crust by weight, followed by silicon (about 27.7 per cent), aluminium and iron. Iron is the most abundant element only when the whole Earth, including the core, is considered."
+    },
+    {
+      "question": "Which one of the following pairs (original rock – metamorphic rock formed from it) is correctly matched?",
+      "options": ["Limestone – Slate", "Shale – Marble", "Sandstone – Quartzite", "Granite – Quartzite"],
+      "answer": 2,
+      "explanation": "Sandstone changes into quartzite. Limestone changes into marble (not slate), shale changes into slate (not marble), and granite changes into gneiss (not quartzite)."
+    },
+    {
+      "question": "Who proposed the hypothesis of sea floor spreading?",
+      "options": ["Harry Hess", "Alfred Wegener", "Arthur Holmes", "McKenzie and Parker"],
+      "answer": 0,
+      "explanation": "Harry Hess proposed sea floor spreading in 1961. Wegener gave the continental drift theory, Arthur Holmes suggested convection currents in the mantle, and McKenzie and Parker (1967) are linked with the concept of plate tectonics."
+    },
+    {
+      "question": "Which mineral has a hardness of 1, the softest, on the Mohs scale of hardness?",
+      "options": ["Gypsum", "Calcite", "Quartz", "Talc"],
+      "answer": 3,
+      "explanation": "Talc is the softest mineral with hardness 1. Gypsum is 2, calcite is 3 and quartz is 7 on the scale, while diamond is the hardest at 10."
+    },
+    {
+      "question": "Which one of the following pairs (process – type of weathering) is correctly matched?",
+      "options": ["Carbonation – Physical weathering", "Exfoliation – Physical weathering", "Frost wedging – Chemical weathering", "Oxidation – Biological weathering"],
+      "answer": 1,
+      "explanation": "Exfoliation, the peeling off of rock sheets due to unloading and temperature changes, is physical weathering. Carbonation and oxidation are chemical weathering processes, and frost wedging is a physical process."
+    },
+    {
+      "question": "The asthenosphere is a part of the:",
+      "options": ["Crust", "Upper mantle", "Lower mantle", "Outer core"],
+      "answer": 1,
+      "explanation": "The asthenosphere is the weak upper portion of the mantle, extending to about 400 km, and is the main source of magma. The rigid lithosphere (crust plus uppermost mantle) lies above it and moves over it."
+    },
+    {
+      "question": "According to Wegener, the single huge ocean that surrounded the super-continent Pangaea was called:",
+      "options": ["Panthalassa", "Tethys", "Laurasia", "Gondwanaland"],
+      "answer": 0,
+      "explanation": "Wegener named the mega-ocean Panthalassa, meaning 'all water'. Tethys was the sea that later separated Laurasia (the northern landmass) from Gondwanaland (the southern landmass)."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "economy-national-income-level-8",
+  "name": "Economy – National Income (Level 8)",
+  "tags": ["economy", "level-8"],
+  "subtags": ["national-income", "gva-and-gdp", "national-accounts-methodology", "macroeconomic-indicators"],
+  "questions": [
+    {
+      "question": "With reference to the estimation of Gross Value Added (GVA) and Gross Domestic Product (GDP) in India, consider the following statements:\n1. An increase in the Goods and Services Tax (GST) rate on manufactured goods directly raises GDP at market prices without altering GVA at basic prices in the short run.\n2. Production subsidies such as interest subvention to Micro, Small and Medium Enterprises (MSMEs) are subtracted while deriving GVA at basic prices from GVA at factor cost.\n3. In India, Net Domestic Product (NDP) is computed directly by surveying firm-level depreciation reserves rather than through perpetual inventory estimation of capital stock.\nHow many of the statements given above are correct?",
+      "options": [
+        "Only one",
+        "Only two",
+        "All three",
+        "None"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: GDP at market prices = GVA at basic prices + Product taxes - Product subsidies. Since GST is a product tax, a higher GST rate raises GDP at market prices directly while GVA at basic prices excludes product taxes.\nStatement 2 is correct: GVA at basic prices = GVA at factor cost + Production taxes - Production subsidies; hence production subsidies like interest subvention or input subsidies unrelated to output volume are subtracted.\nStatement 3 is incorrect: Trap: Consumption of fixed capital (depreciation) in National Accounts is estimated economically using the Perpetual Inventory Method (PIM) based on asset life and replacement cost, not accounting book depreciation reserves.\nSo only two statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: During periods of sharp depreciation of the Indian Rupee against the US Dollar, India's Nominal GDP measured in US Dollars can grow slower than its Nominal GDP measured in Indian Rupees.\nStatement-II: Conversion of domestic currency GDP into US Dollar terms depends on the prevailing market exchange rate rather than Purchasing Power Parity (PPP) conversion factors.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+        "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+        "Statement-I is correct but Statement-II is incorrect",
+        "Statement-I is incorrect but Statement-II is correct"
+      ],
+      "answer": 0,
+      "explanation": "Statement-I is correct: When the Rupee depreciates against the Dollar, each Rupee translates into fewer Dollars, depressing the USD-denominated growth rate relative to the INR-denominated growth rate.\nStatement-II is correct: Headline international comparisons of Nominal GDP (such as $4 trillion or $5 trillion economy milestones) convert local currency GDP using average market exchange rates, not PPP rates.\nLink: Because market exchange rates directly divide INR GDP to obtain USD GDP, Rupee depreciation mechanically slows USD GDP growth; thus Statement-II explains Statement-I.\nSo both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I."
+    },
+    {
+      "question": "Consider the following pairs:\nComponent in National Accounts – Macroeconomic Classification\n1. Expenditure on Research and Development (R&D) by corporations – Gross Fixed Capital Formation\n2. Net acquisition of gold jewellery by households – Private Final Consumption Expenditure\n3. Imputed value of owner-occupied dwellings – Private Final Consumption Expenditure\nHow many of the pairs given above are correctly matched?",
+      "options": [
+        "Only one pair",
+        "Only two pairs",
+        "All three pairs",
+        "None of the pairs"
+      ],
+      "answer": 1,
+      "explanation": "Pair 1 is correctly matched: Under SNA 2008 and India's 2011-12 National Accounts series, expenditure on R&D and intellectual property products is capitalized under Gross Fixed Capital Formation rather than treated as intermediate consumption.\nPair 2 is incorrectly matched: Trap: In India's National Accounts, net acquisition of valuables (gold, bullion, precious stones, jewellery) is recorded separately as 'Valuables' under Gross Domestic Capital Formation, not Private Final Consumption Expenditure.\nPair 3 is correctly matched: Imputed rent of owner-occupied housing is treated as consumption of housing services under Private Final Consumption Expenditure.\nSo only two pairs are correctly matched."
+    },
+    {
+      "question": "With reference to the treatment of cross-border transactions in India's National Income accounting, consider the following statements:\n1. Profits retained in India by a wholly owned foreign subsidiary operating in Bengaluru are deducted while computing India's Gross National Product (GNP).\n2. Remittances sent by Indian software professionals working in the United States for over two years are included in India's Net Factor Income from Abroad (NFIA).\n3. Fees paid by an Indian resident student for attending a university abroad are recorded as imports of services in India's GDP expenditure identity.\nHow many of the statements given above are correct?",
+      "options": [
+        "Only one",
+        "Only two",
+        "All three",
+        "None"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Under SNA rules, reinvested earnings (retained profits) of foreign direct investment enterprises are treated as factor income accruing to the foreign parent and remitted back, so they are subtracted via NFIA when moving from GDP to GNP.\nStatement 2 is incorrect: Trap: Workers staying abroad for more than one year become normal residents of the host country; funds they remit to India are unilateral private transfers in the Current Account (entering GNDI), not factor income in NFIA.\nStatement 3 is correct: Expenditure by resident travellers/students abroad on education and living expenses constitutes import of travel/education services (M) in the expenditure identity C + I + G + X - M.\nSo only two statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: In India, a sharp divergence between Consumer Price Index (CPI) inflation and Wholesale Price Index (WPI) inflation can cause Real GDP growth and Nominal GDP growth to diverge in ways not predicted by CPI alone.\nStatement-II: The GDP Deflator in India relies heavily on Wholesale Price Index (WPI) components for deflating manufacturing and traded goods output.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+        "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+        "Statement-I is correct but Statement-II is incorrect",
+        "Statement-I is incorrect but Statement-II is correct"
+      ],
+      "answer": 0,
+      "explanation": "Statement-I is correct: When WPI inflation falls sharply (or turns negative due to global commodity price drops) while retail CPI inflation remains elevated, the implied GDP Deflator stays much lower than CPI inflation, boosting Real GDP growth relative to Nominal GDP growth.\nStatement-II is correct: In India's National Accounts compilation, NSO uses item-wise WPI indices extensively (alongside CPI for select services) as price deflators to convert current-price GVA in agriculture, mining, and manufacturing into constant-price GVA.\nLink: Because the GDP Deflator incorporates WPI rather than purely CPI, movements in WPI explain why Real vs Nominal GDP spreads diverge from CPI trends.\nSo both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I."
+    },
+    {
+      "question": "In the context of Indian macroeconomic aggregates, which of the following policies or shocks will most likely widen the positive gap between Gross Domestic Product at market prices and Gross Value Added at basic prices?",
+      "options": [
+        "Rationalization and reduction of central fertilizer and food subsidies alongside buoyant GST collections",
+        "A sharp rise in corporate retained earnings and capital depreciation across the manufacturing sector",
+        "An increase in outward remittances and dividend repatriations by foreign institutional investors",
+        "A hike in direct corporate income tax rates combined with higher personal income tax collections"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Since GDP at market prices - GVA at basic prices = Product taxes - Product subsidies, higher GST revenues (product taxes) coupled with lower food/fertilizer subsidies (product subsidies) directly increases net product taxes and widens the gap.\nOption 2 is incorrect: Depreciation affects the gap between Gross and Net aggregates (GDP vs NDP), while retained earnings affect Personal Income.\nOption 3 is incorrect: Dividend repatriations affect Net Factor Income from Abroad (the gap between GDP and GNP), not between GDP and GVA.\nOption 4 is incorrect: Direct taxes on income and profits do not enter the bridge between GVA at basic prices and GDP at market prices.\nSo the correct option is Rationalization and reduction of central fertilizer and food subsidies alongside buoyant GST collections."
+    },
+    {
+      "question": "With reference to the 'Incremental Capital-Output Ratio' (ICOR) in National Income and growth analysis, consider the following statements:\n1. ICOR measures the additional units of capital investment required to produce one additional unit of output.\n2. A declining ICOR over time generally indicates improving capital efficiency and higher productivity in the economy.\n3. During an economic downturn characterized by significant unutilized industrial capacity, the measured ICOR tends to fall sharply.\nHow many of the statements given above are correct?",
+      "options": [
+        "Only one",
+        "Only two",
+        "All three",
+        "None"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: ICOR = Investment Rate (I/GDP) divided by Real GDP Growth Rate (ΔY/Y), representing marginal capital needed per unit of incremental output.\nStatement 2 is correct: Lower ICOR means less capital is required to generate each unit of extra GDP, reflecting better capacity utilization, infrastructure efficiency, and total factor productivity.\nStatement 3 is incorrect: Trap: During a downturn, GDP growth (the denominator) slows sharply even while ongoing projects continue investment, causing measured ICOR to spike upward (not fall).\nSo only two statements are correct."
+    },
+    {
+      "question": "Consider the following pairs:\nIndex / Framework – Publishing Institution\n1. System of Environmental-Economic Accounting (SEEA) – United Nations Statistical Commission\n2. International Comparison Program (ICP) for Purchasing Power Parity – World Bank\n3. National Accounts Statistics (NAS) of India – Reserve Bank of India\nHow many of the pairs given above are correctly matched?",
+      "options": [
+        "Only one pair",
+        "Only two pairs",
+        "All three pairs",
+        "None of the pairs"
+      ],
+      "answer": 1,
+      "explanation": "Pair 1 is correctly matched: SEEA is the international statistical standard for natural capital and environmental-economic accounting adopted by the UN Statistical Commission.\nPair 2 is correctly matched: The International Comparison Program (ICP), which estimates PPP exchange rates and price level indices worldwide, is coordinated globally by the World Bank.\nPair 3 is incorrectly matched: Trap: India's National Accounts Statistics (NAS) is compiled and published annually by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI), not the RBI.\nSo only two pairs are correctly matched."
+    },
+    {
+      "question": "Which of the following transactions are excluded from India's Gross Domestic Product (GDP) in a given financial year?\n1. Transfer of ownership of agricultural land from a farmer to an industrial developer\n2. Imputed value of free financial intermediation services provided by commercial banks to depositors\n3. Compensation paid by the government to families affected by floods under disaster relief funds\n4. Capital expenditure incurred by a domestic software firm on developing proprietary internal software\nSelect the correct answer using the code given below.",
+      "options": [
+        "1 and 3 only",
+        "2 and 4 only",
+        "1, 2 and 3 only",
+        "1, 3 and 4 only"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct (excluded): Land is a non-produced natural asset; buying and selling existing land merely transfers ownership and is excluded from GDP (though registration fees/brokerage on the transaction are included).\nStatement 2 is incorrect (included): Implicit banking services (FISIM) are imputed and included in financial sector GVA.\nStatement 3 is correct (excluded): Disaster relief compensation is a unilateral government transfer payment with no current production of goods or services, so it is excluded from GDP.\nStatement 4 is incorrect (included): Own-account software development is treated as intellectual property capital formation under Gross Fixed Capital Formation and is included in GDP.\nSo items 1 and 3 only are excluded."
+    },
+    {
+      "question": "Consider the following statements regarding the 'Base Effect' and quarterly GDP growth estimates in India:\n1. A low level of Real GDP in the corresponding quarter of the previous year mathematically inflates the year-on-year percentage growth rate in the current quarter even with modest sequential expansion.\n2. In India, quarterly GDP estimates are compiled using the benchmark-indicator method, where annual benchmarks are extrapolated using high-frequency indicators like the Index of Industrial Production (IIP).\n3. Seasonal adjustment is officially applied to headline quarterly GDP growth numbers released by NSO so that quarter-on-quarter sequential growth replaces year-on-year growth as India's primary metric.\nHow many of the statements given above are correct?",
+      "options": [
+        "Only one",
+        "Only two",
+        "All three",
+        "None"
+      ],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Year-on-year growth compares Q_t with Q_(t-4); an abnormally depressed denominator in Q_(t-4) creates a favourable base effect that boosts the percentage growth rate.\nStatement 2 is correct: Quarterly National Accounts use the benchmark-indicator approach, extrapolating annual GVA benchmarks with quarterly/monthly indicators such as IIP, corporate financial results, railway freight, and bank deposits/credit.\nStatement 3 is incorrect: Trap: India's headline quarterly GDP growth is still reported on an unadjusted year-on-year (YoY) basis comparing the same quarter of the previous fiscal year, not seasonally adjusted QoQ growth.\nSo only two statements are correct."
+    }
+  ]
+}

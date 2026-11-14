@@ -1,0 +1,83 @@
+{
+  "id": "geography-landforms-agents-of-erosion-level-3",
+  "name": "Geography – Landforms & Agents of Erosion (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["landforms", "rivers", "glaciers", "deserts", "karst-and-coasts"],
+  "questions": [
+    {
+      "question": "Crescent-shaped sand dunes whose points (wings) are directed away from the wind direction are called:",
+      "options": ["Seifs", "Parabolic dunes", "Barchans", "Transverse dunes"],
+      "answer": 2,
+      "explanation": "Barchans are crescent-shaped dunes with their wings pointing downwind. Parabolic dunes look like reversed barchans, and a seif is like a barchan with only one wing."
+    },
+    {
+      "question": "The lake that occupies a cirque basin after the glacier has melted is called a:",
+      "options": ["Tarn", "Playa", "Fjord", "Lagoon"],
+      "answer": 0,
+      "explanation": "A cirque is an armchair-shaped hollow cut by a glacier, and the lake left in it is a tarn (cirque lake). A playa is a desert lake bed and a fjord is a glacial trough drowned by the sea."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Drumlin – sharp pyramidal peak formed by glacial erosion",
+        "Esker – sinuous ridge deposited by streams flowing under a glacier",
+        "Horn – oval ridge of glacial till",
+        "Arête – outwash deposit of melt-water"
+      ],
+      "answer": 1,
+      "explanation": "An esker is a winding ridge of sand and gravel laid down by melt-water streams beneath a glacier. A drumlin is the oval ridge of till, while a horn (pyramidal peak) and an arête (saw-toothed ridge) are erosional features."
+    },
+    {
+      "question": "In limestone caves, the depositional features that rise up from the floor of the cave are called:",
+      "options": ["Stalactites", "Stalagmites", "Lapies", "Dolines"],
+      "answer": 1,
+      "explanation": "Stalagmites grow upward from the cave floor, while stalactites hang down from the roof like icicles. Lapies and dolines are erosional karst features found on the surface."
+    },
+    {
+      "question": "A fjord is best described as:",
+      "options": [
+        "A river valley drowned by a rise in sea level",
+        "A lagoon enclosed by a coral reef",
+        "A narrow sea inlet formed along a fault line",
+        "A very deep glacial trough filled with sea water"
+      ],
+      "answer": 3,
+      "explanation": "Fjords are deep glacial troughs in high latitudes that have been filled by the sea, as along the coast of Norway. A drowned river valley is a ria, which is the common confusion."
+    },
+    {
+      "question": "An isolated residual hill that rises abruptly from a desert plain is called:",
+      "options": ["An inselberg", "A playa", "A pediment", "A deflation hollow"],
+      "answer": 0,
+      "explanation": "An inselberg is a steep-sided remnant hill left standing as the land around it is worn down. A pediment is the gently sloping rocky floor at a mountain foot, and a playa is a flat desert lake bed."
+    },
+    {
+      "question": "Which one of the following is a depositional landform of coasts?",
+      "options": ["Sea cliff", "Wave-cut platform", "Sea stack", "Spit"],
+      "answer": 3,
+      "explanation": "A spit is a ridge of sand deposited by waves and currents, attached to the land at one end. Sea cliffs, wave-cut platforms and stacks are all made by wave erosion."
+    },
+    {
+      "question": "The sediments deposited along the convex (inner) side of the meanders of large rivers are known as:",
+      "options": ["Natural levees", "Alluvial fans", "Point bars", "River terraces"],
+      "answer": 2,
+      "explanation": "Point bars, also called meander bars, form on the inner convex bank where the water flows slowly. Natural levees form along the river banks during floods and alluvial fans form at the foot of mountains."
+    },
+    {
+      "question": "Which one of the following pairs of landform and its agent is correctly matched?",
+      "options": [
+        "Lapies – glacier",
+        "Hanging valley – wind",
+        "Uvala – groundwater",
+        "Mushroom rock – sea waves"
+      ],
+      "answer": 2,
+      "explanation": "An uvala (valley sink) forms in limestone regions when sinkholes and dolines join, so it is the work of groundwater. Lapies are also karst features, hanging valleys are made by glaciers and mushroom rocks by wind."
+    },
+    {
+      "question": "The large, deep hole formed at the base of a waterfall by the force of falling water and rotating boulders is called a:",
+      "options": ["Plunge pool", "Sinkhole", "Kettle hole", "Deflation hollow"],
+      "answer": 0,
+      "explanation": "Falling water and the boulders it swirls scoop out a plunge pool at the foot of a waterfall. A sinkhole is a karst feature, a kettle hole is glacial and a deflation hollow is made by wind."
+    }
+  ]
+}

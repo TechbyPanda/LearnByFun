@@ -1,0 +1,68 @@
+{
+  "id": "geography-agriculture-irrigation-in-india-level-2",
+  "name": "Geography – Agriculture & Irrigation in India (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["indian-agriculture", "cropping-seasons", "major-crops", "irrigation", "green-revolution"],
+  "questions": [
+    {
+      "question": "The zaid cropping season falls:",
+      "options": ["During the peak monsoon months", "In the short summer period between the rabi and kharif seasons", "In mid-winter", "Just after the kharif harvest in autumn"],
+      "answer": 1,
+      "explanation": "Zaid is the short summer season between the rabi harvest and kharif sowing. The monsoon months belong to the kharif season and winter to the rabi season."
+    },
+    {
+      "question": "Which of the following is a zaid crop?",
+      "options": ["Wheat", "Mustard", "Watermelon", "Jute"],
+      "answer": 2,
+      "explanation": "Watermelon, muskmelon, cucumber and fodder crops are grown in the zaid season. Wheat and mustard are rabi crops, while jute is a kharif crop."
+    },
+    {
+      "question": "'Bewar' or 'Dahiya' is the local name of shifting cultivation in which state?",
+      "options": ["Madhya Pradesh", "Andhra Pradesh", "Odisha", "Jharkhand"],
+      "answer": 0,
+      "explanation": "Shifting cultivation is called Bewar or Dahiya in Madhya Pradesh. It is Podu or Penda in Andhra Pradesh, Pama Dabi or Koman in Odisha and Kuruwa in Jharkhand."
+    },
+    {
+      "question": "In which type of farming is a single crop grown over a large area with heavy capital investment and migrant labour?",
+      "options": ["Primitive subsistence farming", "Intensive subsistence farming", "Shifting cultivation", "Plantation farming"],
+      "answer": 3,
+      "explanation": "A plantation grows one crop (such as tea, coffee or rubber) on a large estate using capital and migrant labour, and the produce feeds industries. Subsistence farming and shifting cultivation are small-scale and meant mainly for the farmer's own family."
+    },
+    {
+      "question": "Which crops are usually grown in rotation with other crops because they restore soil fertility by fixing nitrogen from the air?",
+      "options": ["Millets", "Oilseeds", "Pulses", "Fibre crops"],
+      "answer": 2,
+      "explanation": "Pulses are leguminous crops, and most of them fix nitrogen from the air into the soil. Millets, oilseeds and fibre crops use up soil nutrients instead of adding nitrogen."
+    },
+    {
+      "question": "Which state is the leading producer of natural rubber in India?",
+      "options": ["Kerala", "Punjab", "Madhya Pradesh", "West Bengal"],
+      "answer": 0,
+      "explanation": "Rubber needs a hot, moist climate with heavy rainfall, and Kerala has long been India's leading rubber producer. Punjab, Madhya Pradesh and West Bengal are not major rubber-growing states."
+    },
+    {
+      "question": "Coffee cultivation in India was first introduced on the:",
+      "options": ["Nilgiri Hills", "Khasi Hills", "Aravalli Hills", "Baba Budan Hills"],
+      "answer": 3,
+      "explanation": "The Arabica variety, originally brought from Yemen, was first grown on the Baba Budan Hills of Karnataka. Coffee later spread to the Nilgiris; the Khasi and Aravalli hills are not coffee regions."
+    },
+    {
+      "question": "The 'White Revolution' (Operation Flood) is related to increased production of:",
+      "options": ["Cotton", "Milk", "Rice", "Sugar"],
+      "answer": 1,
+      "explanation": "The White Revolution, also called Operation Flood, greatly increased India's milk production. The name comes from the colour of milk, not from cotton, rice or sugar."
+    },
+    {
+      "question": "Who described dams as the 'temples of modern India'?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Vallabhbhai Patel", "B. R. Ambedkar"],
+      "answer": 0,
+      "explanation": "Jawaharlal Nehru called dams the 'temples of modern India' because multipurpose projects would link the growth of farming with that of industry. The other leaders did not use this phrase."
+    },
+    {
+      "question": "Underground tanks called 'tankas', used to store rooftop rainwater for drinking, are a traditional feature of houses in:",
+      "options": ["Kerala", "Meghalaya", "Rajasthan", "Punjab"],
+      "answer": 2,
+      "explanation": "In the dry parts of Rajasthan, such as Bikaner, Phalodi and Barmer, houses traditionally had tankas to store rainwater. Meghalaya is known for a different method, bamboo drip irrigation."
+    }
+  ]
+}

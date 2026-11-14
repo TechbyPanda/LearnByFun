@@ -1,0 +1,68 @@
+{
+  "id": "geography-physiography-of-india-level-2",
+  "name": "Geography – Physiography of India (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["indian-physiography", "himalayas", "northern-plains", "peninsular-plateau", "coasts-and-islands"],
+  "questions": [
+    {
+      "question": "Which longitude is taken as the Standard Meridian of India?",
+      "options": ["68°7′ E", "97°25′ E", "82°30′ E", "23°30′ E"],
+      "answer": 2,
+      "explanation": "The Standard Meridian of India is 82°30′ E, which passes through Mirzapur in Uttar Pradesh and gives Indian Standard Time. 68°7′ E and 97°25′ E are the western and eastern limits of the mainland, not the standard meridian."
+    },
+    {
+      "question": "The Tropic of Cancer does NOT pass through which of the following states?",
+      "options": ["Odisha", "Rajasthan", "Chhattisgarh", "Tripura"],
+      "answer": 0,
+      "explanation": "The Tropic of Cancer passes through eight states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. Odisha lies entirely to the south of it."
+    },
+    {
+      "question": "The longitudinal valleys lying between the Lesser Himalaya and the Shiwaliks, such as Dehra and Patli, are known as:",
+      "options": ["Doabs", "Passes", "Barchans", "Duns"],
+      "answer": 3,
+      "explanation": "Valleys between the Lesser Himalaya and the Shiwaliks are called Duns, for example Dehra Dun, Kotli Dun and Patli Dun. A doab is land between two rivers, a pass is a gap in a mountain range, and barchans are sand dunes."
+    },
+    {
+      "question": "The narrow belt of pebbles deposited by rivers along the foot of the Shiwaliks is called:",
+      "options": ["Khadar", "Bhabar", "Delta", "Bhangar"],
+      "answer": 1,
+      "explanation": "Rivers coming down from the mountains drop pebbles in a narrow belt, about 8 to 16 km wide, called the bhabar. Khadar and bhangar are the newer and older alluvium of the plains, and a delta forms at a river's mouth."
+    },
+    {
+      "question": "In the Northern Plains, the term 'doab' refers to:",
+      "options": ["A marshy forest belt", "A crescent-shaped sand dune", "The land between two rivers", "A salt-water lake"],
+      "answer": 2,
+      "explanation": "Doab is made of two words: 'do' meaning two and 'ab' meaning water, so it is the land lying between two rivers. The marshy belt is the terai and crescent-shaped dunes are barchans."
+    },
+    {
+      "question": "The part of the Peninsular Plateau lying to the north of the Narmada river, covering a major area of the Malwa Plateau, is known as the:",
+      "options": ["Central Highlands", "Deccan Plateau", "Coromandel Coast", "Purvachal"],
+      "answer": 0,
+      "explanation": "The Peninsular Plateau has two broad divisions: the Central Highlands north of the Narmada and the Deccan Plateau south of it. The Purvachal are the eastern hills of the Himalayas and the Coromandel is a coastal plain."
+    },
+    {
+      "question": "Which is the highest peak of the Western Ghats?",
+      "options": ["Mahendragiri", "Guru Shikhar", "Kanchenjunga", "Anamudi"],
+      "answer": 3,
+      "explanation": "Anamudi (2,695 m) in Kerala is the highest peak of the Western Ghats and of peninsular India. Mahendragiri is in the Eastern Ghats, Guru Shikhar is in the Aravallis and Kanchenjunga is in the Himalayas."
+    },
+    {
+      "question": "The northern part of the western coastal plain, between Mumbai and Goa, is called the:",
+      "options": ["Malabar Coast", "Konkan", "Northern Circar", "Coromandel Coast"],
+      "answer": 1,
+      "explanation": "The western coast has three sections: the Konkan (Mumbai to Goa) in the north, the Kannad Plain in the middle and the Malabar Coast in the south. The Northern Circar and the Coromandel Coast are parts of the eastern coast."
+    },
+    {
+      "question": "India's only active volcano is found on:",
+      "options": ["Barren Island", "Majuli Island", "Minicoy Island", "Kavaratti Island"],
+      "answer": 0,
+      "explanation": "India's only active volcano is on Barren Island in the Andaman and Nicobar group. Majuli is a river island in the Brahmaputra, and Minicoy and Kavaratti are coral islands of Lakshadweep with no volcanoes."
+    },
+    {
+      "question": "Barchans, the crescent-shaped sand dunes, are a typical feature of the:",
+      "options": ["Chotanagpur Plateau", "Konkan Coast", "Indian Desert", "Brahmaputra Plain"],
+      "answer": 2,
+      "explanation": "Barchans are crescent-shaped dunes that cover large parts of the Indian Desert in western Rajasthan. The other three regions are a rocky plateau, a wet coast and a river plain, where such dunes do not form."
+    }
+  ]
+}

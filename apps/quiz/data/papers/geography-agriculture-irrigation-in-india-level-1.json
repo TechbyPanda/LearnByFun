@@ -1,0 +1,68 @@
+{
+  "id": "geography-agriculture-irrigation-in-india-level-1",
+  "name": "Geography – Agriculture & Irrigation in India (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["indian-agriculture", "cropping-seasons", "major-crops", "irrigation", "green-revolution"],
+  "questions": [
+    {
+      "question": "Kharif crops are sown at the beginning of which season?",
+      "options": ["Winter", "Spring", "Monsoon (rainy season)", "Autumn"],
+      "answer": 2,
+      "explanation": "Kharif crops such as rice and maize are sown when the monsoon rains arrive (June-July) and harvested in September-October. Crops sown in winter are called rabi crops."
+    },
+    {
+      "question": "Which of the following is a rabi (winter) crop?",
+      "options": ["Wheat", "Rice", "Jute", "Cotton"],
+      "answer": 0,
+      "explanation": "Wheat is sown in winter and harvested in spring, so it is a rabi crop. Rice, jute and cotton need the heat and rain of the monsoon, so they are kharif crops."
+    },
+    {
+      "question": "The growing of fruits, vegetables and flowers is called:",
+      "options": ["Sericulture", "Pisciculture", "Apiculture", "Horticulture"],
+      "answer": 3,
+      "explanation": "Horticulture means growing fruits, vegetables and flowers. Sericulture is silkworm rearing, pisciculture is fish breeding and apiculture is bee-keeping."
+    },
+    {
+      "question": "The rearing of silkworms to produce silk is known as:",
+      "options": ["Horticulture", "Sericulture", "Viticulture", "Pisciculture"],
+      "answer": 1,
+      "explanation": "Sericulture is the commercial rearing of silkworms for silk. Horticulture deals with fruits and vegetables, viticulture with grapes and pisciculture with fish."
+    },
+    {
+      "question": "'Jhumming' in north-east India is a local name for which type of farming?",
+      "options": ["Shifting cultivation", "Plantation farming", "Dairy farming", "Mixed farming"],
+      "answer": 0,
+      "explanation": "Jhumming is shifting (slash and burn) cultivation: a forest patch is cleared, farmed for a few years and then left. Plantation, dairy and mixed farming are settled types of farming."
+    },
+    {
+      "question": "Which crop is known as the 'golden fibre'?",
+      "options": ["Cotton", "Sugarcane", "Jute", "Tea"],
+      "answer": 2,
+      "explanation": "Jute is called the golden fibre because of its shiny golden colour and its value. Cotton is also a fibre crop but is not given this name; sugarcane and tea are not fibre crops."
+    },
+    {
+      "question": "Which Indian state is best known for its tea gardens?",
+      "options": ["Rajasthan", "Assam", "Punjab", "Gujarat"],
+      "answer": 1,
+      "explanation": "Assam, with its warm and wet climate, is India's best-known tea-growing state. Rajasthan, Punjab and Gujarat are too dry or lack the conditions tea bushes need."
+    },
+    {
+      "question": "Pisciculture is the breeding of:",
+      "options": ["Honeybees", "Silkworms", "Cattle", "Fish"],
+      "answer": 3,
+      "explanation": "Pisciculture means breeding fish in specially built tanks and ponds. Bee-keeping is apiculture and silkworm rearing is sericulture."
+    },
+    {
+      "question": "Which climate suits the rice crop best?",
+      "options": ["Cold and dry", "Hot and wet with plenty of rainfall", "Hot and very dry", "Cool with snowfall"],
+      "answer": 1,
+      "explanation": "Rice needs high temperature, high humidity and heavy rainfall. Cold, dry or snowy conditions do not allow the rice plant to grow well."
+    },
+    {
+      "question": "Which soil is considered best for growing cotton?",
+      "options": ["Desert soil", "Mountain soil", "Laterite soil", "Black soil"],
+      "answer": 3,
+      "explanation": "Black soil holds moisture well and is ideal for cotton, which is why it is also called black cotton soil. Desert, mountain and laterite soils do not suit cotton as well."
+    }
+  ]
+}

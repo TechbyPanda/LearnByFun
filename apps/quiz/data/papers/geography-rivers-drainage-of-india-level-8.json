@@ -1,0 +1,83 @@
+{
+  "id": "geography-rivers-drainage-of-india-level-8",
+  "name": "Geography – Rivers & Drainage of India (Level 8)",
+  "tags": ["geography", "level-8"],
+  "subtags": ["indian-drainage", "himalayan-rivers", "peninsular-rivers", "tributaries", "dams"],
+  "questions": [
+    {
+      "question": "With reference to the rivers of the Indus system, consider the following statements:\n1. The Sutlej rises near Rakas Tal in Tibet and enters India through Shipki La.\n2. The Ravi rises near the Rohtang Pass and flows through the Chamba valley.\n3. The Beas flows entirely within India.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Sutlej (Langchen Khambab in Tibet) rises near Rakas Tal and enters Himachal Pradesh through Shipki La.\nStatement 2 is correct: the Ravi rises west of the Rohtang Pass in the Kullu hills and drains the Chamba valley.\nStatement 3 is correct: the Beas rises at Beas Kund and joins the Sutlej near Harike in Punjab, so its whole course is in India.\nSo all three statements are correct. Trap: 'entirely' sounds extreme, but here it is true."
+    },
+    {
+      "question": "Consider the following pairs:\nRiver – Tributary\n1. Godavari – Manjra\n2. Krishna – Musi\n3. Mahanadi – Wainganga\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 1,
+      "explanation": "Pair 1 is correctly matched: the Manjra joins the Godavari from the south.\nPair 2 is correctly matched: the Musi, on which Hyderabad stands, is a tributary of the Krishna.\nPair 3 is incorrectly matched: the Wainganga joins the Wardha to form the Pranhita, which is a tributary of the Godavari, not the Mahanadi. (Trap: the Wainganga rises close to the Mahanadi basin.)\nSo only two pairs are correctly matched."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: The Narmada and the Tapi form estuaries rather than deltas at their mouths.\nStatement-II: These rivers flow through rift valleys over hard rock along short, fairly steep courses and carry little silt to the sea.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+        "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+        "Statement-I is correct but Statement-II is incorrect",
+        "Statement-I is incorrect but Statement-II is correct"
+      ],
+      "answer": 0,
+      "explanation": "Statement-I is correct: both west-flowing rivers end in estuaries in the Gulf of Khambhat.\nStatement-II is correct: they occupy rift valleys between the Vindhya, Satpura and Ajanta ranges, cut through hard rock and have short courses, so they bring little sediment.\nA delta needs a large silt load dropped at the mouth. The low silt load is the reason for the estuaries, so Statement-II explains Statement-I."
+    },
+    {
+      "question": "Which of the following are left-bank tributaries of the Ganga?\n1. Ghaghara\n2. Son\n3. Gandak\n4. Kosi\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "2, 3 and 4 only", "1, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 2,
+      "explanation": "1, 3 and 4 are correct: the Ghaghara, Gandak and Kosi come down from the Himalayas in the north and join the Ganga on its left bank.\n2 is incorrect: the Son rises on the Amarkantak plateau in the south and joins the Ganga on its right bank near Patna. (Trap: a Peninsular river hidden among Himalayan ones.)\nSo the answer is 1, 3 and 4 only."
+    },
+    {
+      "question": "With reference to the Brahmaputra, consider the following statements:\n1. It turns sharply around Namcha Barwa before entering Arunachal Pradesh.\n2. The Dibang and the Lohit join it on its right bank.\n3. The Tista joins it within Assam.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Tsangpo takes a U-turn around Namcha Barwa and enters Arunachal Pradesh as the Siang or Dihang.\nStatement 2 is incorrect: the Dibang and the Lohit are left-bank tributaries; the Subansiri, Kameng and Manas join from the right. (Trap: bank swapped.)\nStatement 3 is incorrect: the Tista joins the Brahmaputra, there called the Jamuna, in Bangladesh.\nSo only one statement is correct."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: The Luni drains into the Arabian Sea through a delta.\nStatement-II: The Luni rises in the Aravalli Range near Pushkar and its water turns brackish in its lower course.\nWhich one of the following is correct in respect of the above statements?",
+      "options": [
+        "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+        "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+        "Statement-I is correct but Statement-II is incorrect",
+        "Statement-I is incorrect but Statement-II is correct"
+      ],
+      "answer": 3,
+      "explanation": "Statement-I is incorrect: the Luni does not reach the sea. It is lost in the marshes of the Rann of Kachchh, which makes it a river of inland drainage in its lower reach.\nStatement-II is correct: it rises near Pushkar in the Aravallis, and its water is fresh up to Balotra and brackish beyond it.\nSo Statement-I is incorrect but Statement-II is correct."
+    },
+    {
+      "question": "Arrange the mouths of the following rivers from north to south along the east coast of India:\n1. Pennar\n2. Mahanadi\n3. Krishna\n4. Godavari",
+      "options": ["2-4-1-3", "4-2-3-1", "2-4-3-1", "2-3-4-1"],
+      "answer": 2,
+      "explanation": "The Mahanadi reaches the Bay of Bengal in Odisha, the Godavari and then the Krishna in central Andhra Pradesh, and the Pennar further south near Nellore.\nSo the order is Mahanadi, Godavari, Krishna, Pennar: 2-4-3-1. Trap: the Krishna and Godavari deltas lie next to each other, with the Godavari to the north."
+    },
+    {
+      "question": "Consider the following pairs:\nDam – River\n1. Tehri – Bhagirathi\n2. Ukai – Tapi\n3. Srisailam – Godavari\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 1,
+      "explanation": "Pair 1 is correctly matched: the Tehri Dam in Uttarakhand is on the Bhagirathi.\nPair 2 is correctly matched: the Ukai Dam in Gujarat is on the Tapi.\nPair 3 is incorrectly matched: Srisailam is on the Krishna, upstream of Nagarjuna Sagar. (Trap: both rivers flow through Telangana and Andhra Pradesh.)\nSo only two pairs are correctly matched."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Tapi rises on the Amarkantak plateau.\n2. The Krishna rises near Nashik in the Western Ghats.\n3. The Damodar is a tributary of the Mahanadi.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Tapi rises near Multai in the Satpura Range (Betul district). The Narmada and the Son rise at Amarkantak.\nStatement 2 is incorrect: the Krishna rises near Mahabaleshwar. The Godavari rises near Nashik.\nStatement 3 is incorrect: the Damodar flows through the Chotanagpur plateau and joins the Hugli.\nSo none of the statements is correct. Trap: each statement gives a true fact about a neighbouring river."
+    },
+    {
+      "question": "Most large rivers of Peninsular India rise close to the west coast yet flow into the Bay of Bengal. Which one of the following best explains this?",
+      "options": [
+        "The Eastern Ghats are higher and more continuous than the Western Ghats",
+        "The Peninsular plateau has a general tilt towards the east",
+        "These rivers follow rift valleys that run from west to east",
+        "The Arabian Sea coast receives less rainfall than the Bay of Bengal coast"
+      ],
+      "answer": 1,
+      "explanation": "The Western Ghats, lying close to the west coast, form the main water divide, and the plateau slopes gently eastwards, so the Mahanadi, Godavari, Krishna and Kaveri flow east.\nThe Eastern Ghats are lower and broken, not higher. Rift valleys guide the west-flowing Narmada and Tapi, not the east-flowing rivers. The west coast is in fact the wetter one."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "geography-solar-system-latitudes-longitudes-level-2",
+  "name": "Geography – Solar System, Latitudes & Longitudes (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["earth-and-universe", "solar-system", "latitudes-longitudes", "time-zones", "seasons"],
+  "questions": [
+    {
+      "question": "The Tropic of Cancer does NOT pass through which of the following states?",
+      "options": ["Rajasthan", "Odisha", "Chhattisgarh", "Tripura"],
+      "answer": 1,
+      "explanation": "The Tropic of Cancer passes through eight states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. Odisha lies entirely to the south of it."
+    },
+    {
+      "question": "Indian Standard Time (IST) is ahead of Greenwich Mean Time (GMT) by:",
+      "options": ["4 hours 30 minutes", "5 hours", "5 hours 30 minutes", "6 hours 30 minutes"],
+      "answer": 2,
+      "explanation": "India's Standard Meridian is 82°30'E. Since the Earth turns 15° in one hour, 82½° ÷ 15 gives 5½ hours, so IST is 5 hours 30 minutes ahead of GMT."
+    },
+    {
+      "question": "The time lag between sunrise in Arunachal Pradesh and sunrise in Gujarat is about:",
+      "options": ["2 hours", "30 minutes", "4 hours", "5 hours 30 minutes"],
+      "answer": 0,
+      "explanation": "India stretches across about 30° of longitude from Gujarat to Arunachal Pradesh. At 4 minutes per degree this gives a time lag of about 2 hours. 5 hours 30 minutes is the gap between IST and GMT, not within India."
+    },
+    {
+      "question": "The Standard Meridian of India (82°30'E) passes through which of the following places?",
+      "options": ["Jaipur", "Nagpur", "Kolkata", "Mirzapur"],
+      "answer": 3,
+      "explanation": "The Standard Meridian of India passes through Mirzapur in Uttar Pradesh. Jaipur and Nagpur lie to its west and Kolkata lies to its east."
+    },
+    {
+      "question": "The axis of the Earth makes an angle of how many degrees with the plane of its orbit?",
+      "options": ["23½°", "66½°", "45°", "90°"],
+      "answer": 1,
+      "explanation": "The Earth's axis makes an angle of 66½° with its orbital plane. 23½° is the tilt of the axis measured from the vertical (the line perpendicular to the orbital plane), so the two add up to 90°."
+    },
+    {
+      "question": "On which pair of dates are day and night equal all over the world?",
+      "options": ["21 March and 23 September", "21 June and 22 December", "21 March and 21 June", "23 September and 22 December"],
+      "answer": 0,
+      "explanation": "On 21 March and 23 September (the equinoxes) the Sun shines directly over the Equator, so day and night are equal everywhere. 21 June and 22 December are solstices, when days and nights are most unequal."
+    },
+    {
+      "question": "How much time does the Earth take to rotate through 1° of longitude?",
+      "options": ["1 minute", "15 minutes", "4 minutes", "1 hour"],
+      "answer": 2,
+      "explanation": "The Earth rotates 360° in 24 hours, which is 15° in one hour or 1° in 4 minutes. So 15 is the number of degrees covered in an hour, not the minutes taken for one degree."
+    },
+    {
+      "question": "A solar eclipse occurs when:",
+      "options": ["The Earth comes between the Sun and the Moon", "The Sun comes between the Earth and the Moon", "The Moon moves behind the Earth", "The Moon comes between the Sun and the Earth"],
+      "answer": 3,
+      "explanation": "In a solar eclipse the Moon comes between the Sun and the Earth and blocks the Sun's light. When the Earth comes between the Sun and the Moon, it is a lunar eclipse. The Sun can never come between the Earth and the Moon."
+    },
+    {
+      "question": "The Arctic Circle lies at which latitude?",
+      "options": ["23½°N", "45°N", "66½°N", "90°N"],
+      "answer": 2,
+      "explanation": "The Arctic Circle is at 66½°N. 23½°N is the Tropic of Cancer and 90°N is the North Pole; 45°N is not one of the named important parallels."
+    },
+    {
+      "question": "A lunar eclipse can take place only on a:",
+      "options": ["New moon day", "Full moon day", "Half moon day", "Crescent moon day"],
+      "answer": 1,
+      "explanation": "A lunar eclipse happens when the Earth's shadow falls on the Moon, which is possible only when the Sun and the Moon are on opposite sides of the Earth, that is on a full moon day. A solar eclipse takes place on a new moon day."
+    }
+  ]
+}

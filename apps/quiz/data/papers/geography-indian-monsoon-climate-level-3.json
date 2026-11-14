@@ -1,0 +1,68 @@
+{
+  "id": "geography-indian-monsoon-climate-level-3",
+  "name": "Geography – Indian Monsoon & Climate (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["indian-climate", "monsoon", "seasons", "rainfall-distribution", "local-storms"],
+  "questions": [
+    {
+      "question": "The normal date of onset of the south-west monsoon over Kerala is:",
+      "options": ["15 May", "1 June", "15 June", "1 July"],
+      "answer": 1,
+      "explanation": "The monsoon normally sets in over Kerala on 1 June. It reaches the Andaman and Nicobar Islands earlier, in the second half of May, and covers the whole country only by early to mid July."
+    },
+    {
+      "question": "The 'burst' of the monsoon over India is associated with the setting in of which jet stream over the peninsula?",
+      "options": ["Subtropical westerly jet stream", "Polar front jet stream", "Tropical easterly jet stream", "Polar night jet stream"],
+      "answer": 2,
+      "explanation": "The tropical easterly jet sets in along about 15°N only after the westerly jet has withdrawn from north India, and it is held responsible for the burst of the monsoon. The subtropical westerly jet is the winter jet over north India."
+    },
+    {
+      "question": "The western disturbances that cause winter rain in north-west India are brought into the country by the:",
+      "options": ["Subtropical westerly jet stream", "Tropical easterly jet stream", "North-east trade winds", "Somali jet"],
+      "answer": 0,
+      "explanation": "In winter the subtropical westerly jet flows south of the Himalayas and steers the western disturbances into India. The tropical easterly jet is a summer feature, and the north-east trades blow from land to sea and are dry."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Bardoli Chheerha – Punjab", "Loo – West Bengal", "Kal Baisakhi – Tamil Nadu", "Blossom showers – Kerala"],
+      "answer": 3,
+      "explanation": "Blossom showers are pre-monsoon rains that make coffee flowers blossom in Kerala and nearby areas. Bardoli Chheerha is the name used in Assam, the loo blows over the northern plains, and Kal Baisakhi belongs to West Bengal."
+    },
+    {
+      "question": "A 'break' in the monsoon over the northern plains occurs when the axis of the monsoon trough shifts:",
+      "options": ["Southwards over the peninsula", "Closer to the Himalayas", "Over the Bay of Bengal", "Over the Thar Desert"],
+      "answer": 1,
+      "explanation": "When the trough moves close to the Himalayas, the plains have a long dry spell while the hills and their river catchments get heavy rain. When the trough lies over the plains, the plains get good rain."
+    },
+    {
+      "question": "The Tamil Nadu coast remains relatively dry during the south-west monsoon season mainly because:",
+      "options": ["The Eastern Ghats block all the monsoon winds", "The monsoon withdraws from it before June", "It lies parallel to the Bay of Bengal branch and in the rain shadow of the Arabian Sea branch", "Cold ocean currents flow along it in summer"],
+      "answer": 2,
+      "explanation": "The Bay of Bengal branch blows parallel to this coast, and the Arabian Sea branch has already lost its moisture on the Western Ghats, so the coast gets little rain. The Eastern Ghats are low and broken, and no cold current is involved."
+    },
+    {
+      "question": "The Arabian Sea branch of the monsoon gives very little rain to western Rajasthan mainly because the Aravalli Range:",
+      "options": ["Lies parallel to the direction of the monsoon winds", "Is too far away from the sea", "Is covered with snow in summer", "Runs from east to west across the winds"],
+      "answer": 0,
+      "explanation": "The Aravallis run in the same direction as the winds, so the winds pass along the range without being forced to rise and cool. A range lying across the winds, like the Western Ghats, would have caused rain."
+    },
+    {
+      "question": "Which one of the following pairs (Koeppen climate type – region of India) is correctly matched?",
+      "options": ["As – Ganga plain", "BWhw – Coromandel coast", "Cwg – Extreme western Rajasthan", "Amw – West coast south of Goa"],
+      "answer": 3,
+      "explanation": "Amw (monsoon with a short dry season) covers the west coast south of Goa. As (dry summer) is the Coromandel coast of Tamil Nadu, BWhw (hot desert) is extreme western Rajasthan, and Cwg (dry winter) is the Ganga plain."
+    },
+    {
+      "question": "During an El Niño event, the warm current off the coast of Peru temporarily replaces which cold current?",
+      "options": ["Benguela Current", "California Current", "Humboldt (Peruvian) Current", "Canary Current"],
+      "answer": 2,
+      "explanation": "El Niño replaces the cold Humboldt or Peruvian Current off South America. The Benguela and Canary Currents are in the Atlantic, and the California Current is off North America."
+    },
+    {
+      "question": "Mawsynram and Cherrapunji, which receive the heaviest rainfall in India, are located on the southern slopes of the:",
+      "options": ["Garo Hills", "Khasi Hills", "Jaintia Hills", "Mizo Hills"],
+      "answer": 1,
+      "explanation": "Both places lie on the crest of the southern Khasi Hills in Meghalaya, where the Bay of Bengal branch is forced to rise sharply. The Garo and Jaintia Hills are the neighbouring hills of Meghalaya to the west and east."
+    }
+  ]
+}

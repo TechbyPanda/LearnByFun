@@ -9,7 +9,10 @@ export function getPapers(): Paper[] {
   const papers = readdirSync(PAPERS_DIR)
     .filter((file) => file.endsWith(".json"))
     .sort()
-    .map((file) => parsePaper(file, JSON.parse(readFileSync(path.join(PAPERS_DIR, file), "utf8"))));
+    .map((file) => ({ file, text: readFileSync(path.join(PAPERS_DIR, file), "utf8") }))
+    // An empty file is a paper that was created but not pasted into yet: leave it out.
+    .filter(({ text }) => text.trim() !== "")
+    .map(({ file, text }) => parsePaper(file, parseJson(file, text)));
 
   const seen = new Set<string>();
   for (const p of papers) {
@@ -21,6 +24,15 @@ export function getPapers(): Paper[] {
 
 export function getPaper(id: string): Paper | undefined {
   return getPapers().find((p) => p.id === id);
+}
+
+/** JSON.parse, but the error names the file (a chatbot answer that was cut off or badly copied). */
+function parseJson(file: string, text: string): unknown {
+  try {
+    return JSON.parse(text);
+  } catch (error) {
+    throw new Error(`data/papers/${file} is not valid JSON: ${(error as Error).message}`);
+  }
 }
 
 /** Fails loudly with the file name, so a malformed paper is easy to find. */

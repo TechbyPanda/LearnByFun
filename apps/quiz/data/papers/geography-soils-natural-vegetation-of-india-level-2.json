@@ -1,0 +1,68 @@
+{
+  "id": "geography-soils-natural-vegetation-of-india-level-2",
+  "name": "Geography – Soils & Natural Vegetation of India (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["indian-soils", "natural-vegetation", "forests", "soil-conservation", "wildlife"],
+  "questions": [
+    {
+      "question": "Black soil is also known by which of the following names?",
+      "options": ["Khadar", "Regur", "Bhangar", "Kankar"],
+      "answer": 1,
+      "explanation": "Black soil is called regur soil. Khadar and bhangar are the new and old types of alluvial soil, and kankar refers to lime nodules found in old alluvium."
+    },
+    {
+      "question": "The new alluvium, which is finer and more fertile than the old alluvium, is called:",
+      "options": ["Bhangar", "Regur", "Khadar", "Laterite"],
+      "answer": 2,
+      "explanation": "Khadar is the younger alluvium laid down by floods and is more fertile. Bhangar is the older alluvium with more kankar nodules; regur and laterite are different soil types altogether."
+    },
+    {
+      "question": "The word 'laterite' comes from the Latin word 'later', which means:",
+      "options": ["Brick", "Salt", "Ash", "Sand"],
+      "answer": 0,
+      "explanation": "'Later' means brick; laterite soil hardens like a brick when it dries and has long been cut into building blocks. It has no link with salt, ash or sand."
+    },
+    {
+      "question": "Red soil gets its reddish colour mainly because of the presence of:",
+      "options": ["Humus", "Lime", "Iron", "Salt"],
+      "answer": 2,
+      "explanation": "The red colour comes from iron spreading through the soil formed from crystalline and metamorphic rocks; the soil looks yellow when it is in a hydrated form. Humus makes soil dark, not red."
+    },
+    {
+      "question": "Rows of trees planted to check the force of the wind and protect the soil in dry areas are called:",
+      "options": ["Terraces", "Contour bunds", "Strips", "Shelter belts"],
+      "answer": 3,
+      "explanation": "Shelter belts are lines of trees that break the speed of the wind and have helped to stabilise sand dunes in western India. Terraces and contour methods are used against running water on slopes."
+    },
+    {
+      "question": "Which are the most widespread forests of India?",
+      "options": ["Tropical evergreen forests", "Tropical deciduous forests", "Thorn forests", "Mangrove forests"],
+      "answer": 1,
+      "explanation": "Tropical deciduous forests, also called monsoon forests, cover the largest part of India. Evergreen forests are limited to very rainy areas, thorn forests to dry areas and mangroves to the coastal deltas."
+    },
+    {
+      "question": "Ebony, mahogany, rosewood, rubber and cinchona are important trees of which forests?",
+      "options": ["Tropical evergreen forests", "Tropical deciduous forests", "Thorn forests and scrubs", "Montane forests"],
+      "answer": 0,
+      "explanation": "These trees grow in the tropical evergreen forests of very rainy areas such as the Western Ghats and the Andaman and Nicobar Islands. Deciduous forests are known for teak and sal, and montane forests for pine and deodar."
+    },
+    {
+      "question": "The Royal Bengal Tiger is the famous animal of which forests?",
+      "options": ["Thorn forests of Rajasthan", "Alpine forests of Ladakh", "Evergreen forests of the Western Ghats", "Mangrove forests of the Sundarbans"],
+      "answer": 3,
+      "explanation": "The Royal Bengal Tiger lives in the mangrove forests of the Ganga-Brahmaputra delta, the Sundarbans. The thorn forests and the cold heights of Ladakh are not the home of this tiger."
+    },
+    {
+      "question": "In the Himalayas, at heights above about 3,600 metres, the temperate forests give way to:",
+      "options": ["Alpine vegetation", "Mangrove forests", "Tropical evergreen forests", "Thorn forests"],
+      "answer": 0,
+      "explanation": "At these great heights it is too cold for big forests, so alpine vegetation such as silver fir, junipers, pines and birches, and then grasslands, takes over. Mangrove, evergreen and thorn forests belong to warm lowlands."
+    },
+    {
+      "question": "Which was the first biosphere reserve to be set up in India?",
+      "options": ["Nanda Devi", "Sundarbans", "Nilgiri", "Gulf of Mannar"],
+      "answer": 2,
+      "explanation": "The Nilgiri Biosphere Reserve, at the meeting point of Tamil Nadu, Kerala and Karnataka, was the first to be set up, in 1986. The other three are also biosphere reserves but were created later."
+    }
+  ]
+}

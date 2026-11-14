@@ -1,0 +1,68 @@
+{
+  "id": "geography-atmosphere-pressure-winds-level-3",
+  "name": "Geography – Atmosphere, Pressure & Winds (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["atmosphere", "pressure-belts", "winds", "heat-budget", "local-winds"],
+  "questions": [
+    {
+      "question": "The height of the troposphere at the Equator is about:",
+      "options": ["8 km", "13 km", "18 km", "50 km"],
+      "answer": 2,
+      "explanation": "Strong convection at the Equator pushes the troposphere up to about 18 km. It is only about 8 km at the poles, 13 km is the average height, and 50 km is the top of the stratosphere."
+    },
+    {
+      "question": "In the heat budget of the Earth, out of 100 units of insolation, how many units are reflected back to space (the albedo of the Earth)?",
+      "options": ["14 units", "35 units", "51 units", "65 units"],
+      "answer": 1,
+      "explanation": "35 units are reflected back (27 by clouds, 2 by snow and ice, 6 scattered by the atmosphere). 14 units are absorbed by the atmosphere and 51 by the Earth's surface, making up the remaining 65."
+    },
+    {
+      "question": "The normal lapse rate, at which temperature falls with height in the troposphere, is about:",
+      "options": ["1°C per 1,000 m", "4°C per 1,000 m", "9.8°C per 1,000 m", "6.5°C per 1,000 m"],
+      "answer": 3,
+      "explanation": "The normal lapse rate is 6.5°C for every 1,000 m of height. About 9.8°C per 1,000 m is the dry adiabatic lapse rate of a rising parcel of dry air, which is a different idea."
+    },
+    {
+      "question": "The 'horse latitudes' are associated with which pressure belt?",
+      "options": ["Subtropical high pressure belts", "Equatorial low pressure belt", "Subpolar low pressure belts", "Polar high pressure belts"],
+      "answer": 0,
+      "explanation": "The horse latitudes are the calm subtropical high pressure belts around 30° N and 30° S, where air sinks. The calm equatorial low is called the doldrums, not the horse latitudes."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Sirocco – North America", "Mistral – France", "Chinook – Alps", "Foehn – Rockies"],
+      "answer": 1,
+      "explanation": "The mistral is a cold wind that blows down the Rhône valley in France. The sirocco blows from the Sahara towards the Mediterranean, the chinook belongs to the Rockies and the foehn to the Alps."
+    },
+    {
+      "question": "Which one of the following is an ideal condition for temperature inversion near the ground?",
+      "options": ["A long winter night with clear skies and still air", "A cloudy and windy winter night", "A hot summer afternoon with strong winds", "A short summer night with overcast skies"],
+      "answer": 0,
+      "explanation": "On a long, clear, calm winter night the ground loses heat quickly and cools the air touching it, so cold air lies below warmer air. Clouds trap the outgoing heat and winds mix the air, both of which prevent inversion."
+    },
+    {
+      "question": "In which layer of the atmosphere does the temperature fall to its lowest value, about –100°C at a height of 80 km?",
+      "options": ["Troposphere", "Stratosphere", "Thermosphere", "Mesosphere"],
+      "answer": 3,
+      "explanation": "In the mesosphere temperature falls with height and reaches about –100°C near 80 km (the mesopause). In the stratosphere and thermosphere temperature rises with height instead."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Doldrums – Subpolar low pressure belt", "Trade winds – Blow from the poles towards 60° latitude", "Roaring Forties – Westerlies of the Southern Hemisphere", "Polar easterlies – Blow from the Equator towards the tropics"],
+      "answer": 2,
+      "explanation": "The westerlies are very strong over the open oceans of the Southern Hemisphere and are called the Roaring Forties near 40° S. The doldrums are the equatorial low, trade winds blow from the subtropical highs to the Equator, and polar easterlies blow from the polar highs."
+    },
+    {
+      "question": "The wind in the upper atmosphere that blows parallel to the isobars, when the pressure gradient force is balanced by the Coriolis force, is called the:",
+      "options": ["Katabatic wind", "Geostrophic wind", "Anabatic wind", "Trade wind"],
+      "answer": 1,
+      "explanation": "High above the ground there is no friction, so the two forces balance and the wind flows along the isobars; this is the geostrophic wind. Katabatic and anabatic winds are down-slope and up-slope mountain winds."
+    },
+    {
+      "question": "The Coriolis force is:",
+      "options": ["Zero at the Equator and maximum at the poles", "Maximum at the Equator and zero at the poles", "The same at all latitudes", "Maximum at 45° latitude and zero at the poles"],
+      "answer": 0,
+      "explanation": "The Coriolis force is directly proportional to the angle of latitude, so it is absent at the Equator and strongest at the poles. This is the opposite of the tempting option that puts the maximum at the Equator."
+    }
+  ]
+}

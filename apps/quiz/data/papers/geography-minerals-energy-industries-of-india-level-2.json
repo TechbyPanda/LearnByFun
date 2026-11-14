@@ -1,0 +1,68 @@
+{
+  "id": "geography-minerals-energy-industries-of-india-level-2",
+  "name": "Geography – Minerals, Energy & Industries of India (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["minerals", "energy-resources", "industries", "coal-and-petroleum", "nuclear-power"],
+  "questions": [
+    {
+      "question": "Which is the finest iron ore, with an iron content of up to 70 per cent?",
+      "options": ["Haematite", "Magnetite", "Limonite", "Siderite"],
+      "answer": 1,
+      "explanation": "Magnetite is the finest iron ore, with up to 70 per cent iron and excellent magnetic qualities. Haematite is the most widely used ore but has a slightly lower iron content (50-60 per cent); limonite and siderite are poorer ores."
+    },
+    {
+      "question": "The Koderma-Gaya-Hazaribagh belt is a leading producer of which mineral?",
+      "options": ["Mica", "Bauxite", "Copper", "Petroleum"],
+      "answer": 0,
+      "explanation": "The Koderma-Gaya-Hazaribagh belt of Jharkhand and Bihar is famous for mica, which is used in the electrical and electronics industries. It is not a bauxite, copper or petroleum belt."
+    },
+    {
+      "question": "The Khetri mines of Rajasthan are famous for:",
+      "options": ["Iron ore", "Coal", "Copper", "Manganese"],
+      "answer": 2,
+      "explanation": "Khetri in Rajasthan is a well-known copper mining area. Rajasthan is not an important source of iron ore, coal or manganese."
+    },
+    {
+      "question": "Neyveli in Tamil Nadu is known for its large reserves of:",
+      "options": ["Anthracite", "Petroleum", "Bauxite", "Lignite"],
+      "answer": 3,
+      "explanation": "Neyveli has India's main reserves of lignite, a low-grade brown coal used to generate electricity. Anthracite is the highest-grade hard coal and is not found there."
+    },
+    {
+      "question": "Which is the highest quality hard coal?",
+      "options": ["Anthracite", "Bituminous", "Lignite", "Peat"],
+      "answer": 0,
+      "explanation": "Anthracite has the highest carbon content and is the best quality hard coal. Bituminous is the most commonly used coal, lignite is soft brown coal, and peat is the poorest, with low carbon and high moisture."
+    },
+    {
+      "question": "Which of the following is India's major offshore oil field?",
+      "options": ["Digboi", "Ankleshwar", "Mumbai High", "Naharkatiya"],
+      "answer": 2,
+      "explanation": "Mumbai High lies under the Arabian Sea off the coast of Mumbai, so it is an offshore field. Digboi and Naharkatiya (Assam) and Ankleshwar (Gujarat) are all on land."
+    },
+    {
+      "question": "The monazite sands of Kerala are rich in:",
+      "options": ["Coal", "Copper", "Bauxite", "Thorium"],
+      "answer": 3,
+      "explanation": "The monazite sands on the Kerala coast contain thorium, a mineral used to produce nuclear energy. They are not a source of coal, copper or bauxite."
+    },
+    {
+      "question": "Which plateau is called the 'storehouse of minerals' of India?",
+      "options": ["Malwa Plateau", "Chotanagpur Plateau", "Deccan Trap", "Meghalaya Plateau"],
+      "answer": 1,
+      "explanation": "The Chotanagpur Plateau in Jharkhand and nearby states is very rich in coal, iron ore, mica, bauxite and copper. The other plateaus have far fewer mineral deposits."
+    },
+    {
+      "question": "Most of India's jute mills are located along the banks of which river?",
+      "options": ["Ganga in Uttar Pradesh", "Godavari", "Hugli", "Narmada"],
+      "answer": 2,
+      "explanation": "Jute mills lie in a narrow belt along the Hugli river in West Bengal, close to the jute-growing areas, with cheap water transport and the port of Kolkata. The other rivers have no such jute belt."
+    },
+    {
+      "question": "Which industry is called a 'basic industry' because all other industries depend on it for their machinery?",
+      "options": ["Cotton textile industry", "Iron and steel industry", "Sugar industry", "Jute industry"],
+      "answer": 1,
+      "explanation": "Iron and steel is the basic industry because heavy, medium and light industries all need steel for their machines and tools. Textile, sugar and jute are agro-based industries that make goods for consumers."
+    }
+  ]
+}

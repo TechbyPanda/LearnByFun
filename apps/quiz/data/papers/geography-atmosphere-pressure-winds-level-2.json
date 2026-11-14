@@ -1,0 +1,68 @@
+{
+  "id": "geography-atmosphere-pressure-winds-level-2",
+  "name": "Geography – Atmosphere, Pressure & Winds (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["atmosphere", "pressure-belts", "winds", "heat-budget", "local-winds"],
+  "questions": [
+    {
+      "question": "The incoming solar energy received by the Earth is called:",
+      "options": ["Albedo", "Insolation", "Conduction", "Terrestrial radiation"],
+      "answer": 1,
+      "explanation": "Insolation is short for 'incoming solar radiation'. Albedo is the share of sunlight reflected back, and terrestrial radiation is the heat the Earth itself sends out."
+    },
+    {
+      "question": "The force produced by the Earth's rotation that deflects winds from their straight path is called the:",
+      "options": ["Coriolis force", "Gravitational force", "Frictional force", "Pressure gradient force"],
+      "answer": 0,
+      "explanation": "The Coriolis force arises because the Earth spins, and it turns winds away from a straight path. The pressure gradient force is what starts the wind moving, and friction only slows it down."
+    },
+    {
+      "question": "In the Northern Hemisphere, moving winds are deflected towards their:",
+      "options": ["Left", "Upward side", "Right", "Downward side"],
+      "answer": 2,
+      "explanation": "Because of the Coriolis force, winds turn to the right in the Northern Hemisphere and to the left in the Southern Hemisphere (Ferrel's law)."
+    },
+    {
+      "question": "The calm low pressure belt near the Equator is known as the:",
+      "options": ["Horse latitudes", "Roaring Forties", "Polar high", "Doldrums"],
+      "answer": 3,
+      "explanation": "The equatorial low pressure belt has rising air and very light winds, so sailors called it the doldrums. The horse latitudes are high pressure belts near 30°, and the Roaring Forties are strong westerly winds."
+    },
+    {
+      "question": "The trade winds blow from the:",
+      "options": ["Subtropical high pressure belts towards the Equator", "Equator towards the poles", "Poles towards the subtropical belts", "Subpolar low pressure belts towards the poles"],
+      "answer": 0,
+      "explanation": "Winds always blow from high pressure to low pressure. The trade winds start at the subtropical highs (about 30° N and S) and blow towards the equatorial low."
+    },
+    {
+      "question": "The temperature at which air becomes saturated and its water vapour starts to condense is called the:",
+      "options": ["Freezing point", "Dew point", "Boiling point", "Melting point"],
+      "answer": 1,
+      "explanation": "When air cools to its dew point it can hold no more water vapour, so the vapour turns into droplets (dew, fog or cloud). The freezing and melting points are about water turning to ice and back, not about saturated air."
+    },
+    {
+      "question": "The chinook is a warm, dry local wind that blows down the slopes of which mountain range?",
+      "options": ["Alps", "Andes", "Rockies", "Himalayas"],
+      "answer": 2,
+      "explanation": "The chinook blows down the eastern slopes of the Rockies in the USA and Canada and melts snow quickly, so it is called the 'snow eater'. The similar wind in the Alps is called the foehn."
+    },
+    {
+      "question": "A land breeze blows:",
+      "options": ["From sea to land during the day", "From sea to land at night", "From land to sea during the day", "From land to sea at night"],
+      "answer": 3,
+      "explanation": "At night the land cools faster than the sea, so pressure becomes higher over the land and air moves from land to sea. The daytime wind from sea to land is the sea breeze."
+    },
+    {
+      "question": "Jet streams are:",
+      "options": ["Fast, narrow bands of wind high up in the troposphere", "Warm ocean currents near the Equator", "Slow winds blowing along the sea coast", "Dust storms of hot deserts"],
+      "answer": 0,
+      "explanation": "Jet streams are very fast, narrow air currents that flow high up in the troposphere, mostly from west to east. They are winds, not ocean currents, and are far above the ground."
+    },
+    {
+      "question": "The thin zone that separates the troposphere from the stratosphere is called the:",
+      "options": ["Stratopause", "Mesopause", "Tropopause", "Ionosphere"],
+      "answer": 2,
+      "explanation": "The tropopause is the upper limit of the troposphere, where temperature stops falling with height. The stratopause and mesopause are the tops of the stratosphere and mesosphere."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "geography-earthquakes-volcanoes-level-2",
+  "name": "Geography – Earthquakes & Volcanoes (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["earthquakes", "volcanoes", "seismic-waves", "plate-boundaries", "tsunami"],
+  "questions": [
+    {
+      "question": "Which earthquake waves travel the fastest and are the first to be recorded at a seismic station?",
+      "options": ["P waves", "S waves", "Surface waves", "Tidal waves"],
+      "answer": 0,
+      "explanation": "P (primary) waves are the fastest, so they arrive first. S (secondary) waves come next and surface waves arrive last; tidal waves are not earthquake waves at all."
+    },
+    {
+      "question": "Which earthquake waves can travel only through solids and not through liquids?",
+      "options": ["P waves", "S waves", "Sound waves", "Light waves"],
+      "answer": 1,
+      "explanation": "S waves can pass only through solid material. P waves can travel through solids, liquids and gases, which is why they are different from S waves."
+    },
+    {
+      "question": "The Richter scale is used to measure which feature of an earthquake?",
+      "options": ["The depth of its focus", "The time it lasts", "Its magnitude (energy released)", "The distance of its epicentre"],
+      "answer": 2,
+      "explanation": "The Richter scale gives the magnitude of an earthquake, which tells us how much energy was released. It does not measure depth, duration or distance."
+    },
+    {
+      "question": "Which scale measures the intensity of an earthquake on the basis of the visible damage it causes?",
+      "options": ["Richter scale", "Beaufort scale", "Celsius scale", "Mercalli scale"],
+      "answer": 3,
+      "explanation": "The Mercalli scale rates an earthquake by the damage seen on the ground. The Richter scale measures magnitude (energy), the Beaufort scale measures wind force and Celsius measures temperature."
+    },
+    {
+      "question": "Tsunamis are most commonly caused by:",
+      "options": ["Strong winds over the ocean", "Earthquakes under the sea floor", "The pull of the Moon", "Melting of icebergs"],
+      "answer": 1,
+      "explanation": "A sudden movement of the sea floor during an undersea earthquake pushes up huge waves called tsunamis. Winds make ordinary waves and the Moon's pull causes tides, not tsunamis."
+    },
+    {
+      "question": "Barren Island, the only active volcano of India, is located in:",
+      "options": ["Lakshadweep", "Gujarat", "Andaman and Nicobar Islands", "Kerala"],
+      "answer": 2,
+      "explanation": "Barren Island lies in the Andaman Sea and is part of the Andaman and Nicobar Islands. Lakshadweep is made of coral islands and has no volcano."
+    },
+    {
+      "question": "The Himalayas were formed where two plates move towards each other. Such a plate boundary is called a:",
+      "options": ["Convergent boundary", "Divergent boundary", "Transform boundary", "Passive boundary"],
+      "answer": 0,
+      "explanation": "At a convergent boundary plates collide; the Indian plate pushing into the Eurasian plate raised the Himalayas. At divergent boundaries plates move apart and at transform boundaries they slide past each other."
+    },
+    {
+      "question": "At a mid-ocean ridge, such as the Mid-Atlantic Ridge, the plates:",
+      "options": ["Collide with each other", "Slide past each other", "Stay fixed in one place", "Move away from each other"],
+      "answer": 3,
+      "explanation": "Mid-ocean ridges form at divergent boundaries, where plates move apart and magma rises to make new sea floor. Colliding plates make mountains and trenches instead."
+    },
+    {
+      "question": "Which of the following parts of India is among the most earthquake-prone?",
+      "options": ["The north-eastern states", "The Thar Desert of western Rajasthan", "The Chhattisgarh plain", "The Karnataka plateau"],
+      "answer": 0,
+      "explanation": "The north-eastern states lie close to the boundary where the Indian plate meets other plates, so they face very high earthquake risk. The other three regions lie on more stable land with much lower risk."
+    },
+    {
+      "question": "A volcano that is not erupting at present but may erupt again in the future is called:",
+      "options": ["An active volcano", "An extinct volcano", "A dormant volcano", "A mud volcano"],
+      "answer": 2,
+      "explanation": "A dormant ('sleeping') volcano is quiet now but can erupt again. An active volcano erupts often, while an extinct volcano is not expected to erupt any more."
+    }
+  ]
+}

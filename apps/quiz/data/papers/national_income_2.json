@@ -1,0 +1,118 @@
+{
+  "id": "economy-national-income-level-2",
+  "name": "Economy – National Income (Level 2)",
+  "tags": ["economy", "level-2"],
+  "subtags": ["national-income", "gdp-and-gnp", "factor-cost-and-market-price", "methods-of-measurement"],
+  "questions": [
+    {
+      "question": "Which formula correctly represents the relationship between Gross Domestic Product (GDP) and Gross National Product (GNP)?",
+      "options": [
+        "GNP = GDP + Net Factor Income from Abroad",
+        "GNP = GDP - Depreciation",
+        "GNP = GDP + Indirect Taxes",
+        "GNP = GDP - Subsidies"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Gross National Product (GNP) is obtained by adding Net Factor Income from Abroad (NFIA) to Gross Domestic Product (GDP).\nOption 2 is incorrect: Subtracting depreciation from GDP gives Net Domestic Product (NDP).\nOption 3 is incorrect: Adding indirect taxes relates to converting factor cost to market price.\nOption 4 is incorrect: Subtracting subsidies also relates to market price and factor cost adjustments.\nSo the correct option is GNP = GDP + Net Factor Income from Abroad."
+    },
+    {
+      "question": "What is subtracted from Gross Domestic Product (GDP) to arrive at Net Domestic Product (NDP)?",
+      "options": [
+        "Direct Taxes",
+        "Depreciation",
+        "Net Exports",
+        "Transfer Payments"
+      ],
+      "answer": 1,
+      "explanation": "Option 2 is correct: Depreciation (consumption of fixed capital) accounts for the wear and tear of capital goods, and subtracting it from GDP yields Net Domestic Product (NDP).\nOption 1 is incorrect: Direct taxes are paid out of income and are not subtracted from GDP to get NDP.\nOption 3 is incorrect: Net exports are already a component of GDP under the expenditure method.\nOption 4 is incorrect: Transfer payments are unilateral receipts not included in national income.\nSo the correct option is Depreciation."
+    },
+    {
+      "question": "Which of the following is NOT one of the three standard methods used to measure National Income?",
+      "options": [
+        "Product or Value Added Method",
+        "Income Method",
+        "Expenditure Method",
+        "Monetary Policy Method"
+      ],
+      "answer": 3,
+      "explanation": "Option 4 is correct: Monetary Policy Method is not a method of calculating National Income; monetary policy is used by the central bank to regulate money supply and credit.\nOption 1 is incorrect: The Product or Value Added Method measures national income by summing the value added by each producing enterprise.\nOption 2 is incorrect: The Income Method sums all factor incomes such as wages, rent, interest, and profit.\nOption 3 is incorrect: The Expenditure Method sums final expenditures on consumption, investment, government purchases, and net exports.\nSo the correct option is Monetary Policy Method."
+    },
+    {
+      "question": "Which aggregate is officially referred to as the 'National Income' of a country?",
+      "options": [
+        "Gross Domestic Product at Market Price",
+        "Net National Product at Factor Cost",
+        "Gross National Product at Market Price",
+        "Net Domestic Product at Market Price"
+      ],
+      "answer": 1,
+      "explanation": "Option 2 is correct: Net National Product at Factor Cost (NNP at FC) measures the total income earned by the normal residents of a country and is officially termed National Income.\nOption 1 is incorrect: GDP at Market Price measures domestic output including depreciation and net indirect taxes.\nOption 3 is incorrect: GNP at Market Price includes depreciation and net indirect taxes.\nOption 4 is incorrect: NDP at Market Price measures domestic net output at market prices rather than national factor income.\nSo the correct option is Net National Product at Factor Cost."
+    },
+    {
+      "question": "What is the key difference between Nominal GDP and Real GDP?",
+      "options": [
+        "Nominal GDP is measured at current year prices, whereas Real GDP is measured at constant base year prices",
+        "Nominal GDP includes foreign income, whereas Real GDP excludes foreign income",
+        "Nominal GDP excludes the services sector, whereas Real GDP includes all sectors",
+        "Nominal GDP is calculated after tax, whereas Real GDP is calculated before tax"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Nominal GDP values goods and services at prevailing current prices, whereas Real GDP adjusts for inflation by using constant base year prices.\nOption 2 is incorrect: Inclusion of foreign income distinguishes GNP from GDP, not Nominal from Real GDP.\nOption 3 is incorrect: Both Nominal and Real GDP cover all producing sectors of the economy.\nOption 4 is incorrect: Taxes distinguish market price from factor cost, not Nominal from Real GDP.\nSo the correct option is Nominal GDP is measured at current year prices, whereas Real GDP is measured at constant base year prices."
+    },
+    {
+      "question": "Which of the following is a 'transfer payment' that is excluded from National Income calculation?",
+      "options": [
+        "Salary paid to a government school teacher",
+        "Old-age pension paid by the government to senior citizens",
+        "Interest earned on a fixed deposit in a commercial bank",
+        "Rent received by a landlord for leasing a shop"
+      ],
+      "answer": 1,
+      "explanation": "Option 2 is correct: Old-age pension is a unilateral transfer payment made without any corresponding production of goods or services, so it is excluded from National Income.\nOption 1 is incorrect: Salary paid to a teacher is compensation for active teaching services and is included.\nOption 3 is incorrect: Interest on capital used in productive activity is a factor payment.\nOption 4 is incorrect: Rent is a factor income earned for providing land or property for economic use.\nSo the correct option is Old-age pension paid by the government to senior citizens."
+    },
+    {
+      "question": "What are the four classical factors of production whose rewards make up National Income under the Income Method?",
+      "options": [
+        "Land, Labour, Capital, and Entrepreneurship",
+        "Agriculture, Industry, Banking, and Trade",
+        "Taxes, Subsidies, Exports, and Imports",
+        "Savings, Investment, Consumption, and Inflation"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: The four factors of production are Land, Labour, Capital, and Entrepreneurship, which earn rent, wages, interest, and profit respectively.\nOption 2 is incorrect: Agriculture, industry, banking, and trade are sectors of the economy.\nOption 3 is incorrect: Taxes, subsidies, exports, and imports are fiscal and trade variables.\nOption 4 is incorrect: Savings, investment, consumption, and inflation are macroeconomic aggregates and indicators.\nSo the correct option is Land, Labour, Capital, and Entrepreneurship."
+    },
+    {
+      "question": "What does the 'GDP Deflator' measure in an economy?",
+      "options": [
+        "The ratio of Nominal GDP to Real GDP, reflecting overall price level changes",
+        "The total amount of foreign debt owed by the central government",
+        "The annual rate of unemployment among urban youth",
+        "The share of agriculture in total exports"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: The GDP Deflator is the ratio of Nominal GDP to Real GDP (multiplied by 100) and serves as a broad measure of price inflation across all domestically produced goods and services.\nOption 2 is incorrect: Foreign debt is measured under external debt statistics, not the GDP Deflator.\nOption 3 is incorrect: Unemployment is measured by labour force surveys.\nOption 4 is incorrect: Agricultural export share is a trade statistic.\nSo the correct option is The ratio of Nominal GDP to Real GDP, reflecting overall price level changes."
+    },
+    {
+      "question": "In the context of National Income accounting, what does 'double counting' refer to?",
+      "options": [
+        "Counting the value of an intermediate good more than once while calculating total output",
+        "Calculating GDP twice in the same financial year",
+        "Adding both imports and exports to domestic consumption",
+        "Recording both male and female workers in the labour force"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Double counting occurs when the value of intermediate inputs is counted separately as well as inside the value of the final good, inflating the national output estimate.\nOption 2 is incorrect: Quarterly or half-yearly estimates do not constitute double counting.\nOption 3 is incorrect: Net exports (exports minus imports) are used in expenditure accounting.\nOption 4 is incorrect: Counting all workers in the labour force is standard demographic practice.\nSo the correct option is Counting the value of an intermediate good more than once while calculating total output."
+    },
+    {
+      "question": "Which of the following is included in India's Gross Domestic Product (GDP)?",
+      "options": [
+        "Profits earned by a foreign-owned company operating its factory in Pune",
+        "Income earned by an Indian software engineer working in London",
+        "Sale of a second-hand car between two private individuals in Delhi",
+        "Pocket money given by parents to a college student"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: GDP is a territorial concept that includes all value generated within the domestic territory of India, regardless of whether the producer is domestic or foreign.\nOption 2 is incorrect: Income earned by an Indian resident in London is generated outside India's domestic territory and is part of GNP, not GDP.\nOption 3 is incorrect: Sale of second-hand goods merely transfers ownership of an already counted item and does not represent current production.\nOption 4 is incorrect: Pocket money is a non-productive transfer payment.\nSo the correct option is Profits earned by a foreign-owned company operating its factory in Pune."
+    }
+  ]
+}

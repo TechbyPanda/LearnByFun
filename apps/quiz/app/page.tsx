@@ -1,5 +1,7 @@
 import { getPapers } from "../data/papers";
+import { paperMeta } from "../data/series";
 import PaperGrid from "./PaperGrid";
+import PlayerCard from "./PlayerCard";
 import SettingsButton from "./SettingsButton";
 import XpBadge from "./XpBadge";
 import { Brand, SITE_NAME } from "./brand";
@@ -33,9 +35,9 @@ export default function Dashboard() {
     tags,
     subtags,
     count: questions.length,
+    ...paperMeta(id, tags),
   }));
   const questionCount = papers.reduce((total, paper) => total + paper.count, 0);
-  const subjectCount = new Set(papers.map((paper) => paper.tags[0])).size;
 
   return (
     <div className="dashboard">
@@ -54,19 +56,18 @@ export default function Dashboard() {
           <p className="eyebrow"><span className="live-dot" aria-hidden="true" /> UPSC PRELIMS PRACTICE</p>
           <h1>Spot the trap <span className="hero-accent">before the exam does.</span></h1>
           <p className="hero-description">
-            Topic-wise MCQs, quick-revision drills against the clock, and an explanation for every answer.
+            Clear missions, earn XP, climb from Cadet to DGP. Every answer comes with an explanation.
           </p>
           <div className="hero-actions">
             <a href="#papers" className="button">Start practising <span aria-hidden="true">→</span></a>
-            <span className="hero-note">Free · No sign-up</span>
+            <span className="hero-note">{papers.length} papers · {questionCount} questions · Free</span>
           </div>
         </div>
-        <dl className="hero-stats">
-          <div><dt>Papers</dt><dd>{papers.length}</dd></div>
-          <div><dt>Questions</dt><dd>{questionCount}</dd></div>
-          <div><dt>Subjects</dt><dd>{subjectCount}</dd></div>
-        </dl>
+        <PlayerCard />
       </section>
+
+
+      <PaperGrid papers={papers} />
 
       <ul className="feature-strip" aria-label="Why practise here">
         {FEATURES.map((feature) => (
@@ -79,10 +80,6 @@ export default function Dashboard() {
           </li>
         ))}
       </ul>
-
-      <div id="papers" className="papers-anchor">
-        <PaperGrid papers={papers} />
-      </div>
 
       <footer className="page-footer">
         <span>© {new Date().getFullYear()} {SITE_NAME}</span>

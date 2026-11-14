@@ -1,0 +1,68 @@
+{
+  "id": "geography-cyclones-rainfall-climate-types-level-2",
+  "name": "Geography – Cyclones, Rainfall & Climate Types (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["climatology", "cyclones", "rainfall", "climate-types", "el-nino"],
+  "questions": [
+    {
+      "question": "The rainfall that occurs when moist winds are forced to rise over a mountain is called:",
+      "options": ["Convectional rainfall", "Cyclonic rainfall", "Orographic rainfall", "Frontal rainfall"],
+      "answer": 2,
+      "explanation": "Orographic (relief) rainfall happens when a mountain forces moist air upward, where it cools and gives rain. Convectional rain comes from air heated by the ground, and cyclonic or frontal rain comes from meeting air masses."
+    },
+    {
+      "question": "The dry side of a mountain, away from the rain-bearing winds, is called the:",
+      "options": ["Rain shadow area", "Windward side", "Delta", "Water divide"],
+      "answer": 0,
+      "explanation": "Winds drop most of their rain on the windward side, so the leeward side stays dry and is called the rain shadow area. The windward side is the wet side facing the wind."
+    },
+    {
+      "question": "Tropical cyclones of the China Sea and the western Pacific Ocean are called:",
+      "options": ["Hurricanes", "Typhoons", "Tornadoes", "Blizzards"],
+      "answer": 1,
+      "explanation": "The same kind of storm has different names: typhoons in the western Pacific and China Sea, hurricanes in the Atlantic and Caribbean. Tornadoes are small whirlwinds over land and blizzards are snowstorms."
+    },
+    {
+      "question": "A wind system with high pressure at its centre, which usually brings clear skies and calm weather, is called:",
+      "options": ["A cyclone", "A tornado", "A typhoon", "An anticyclone"],
+      "answer": 3,
+      "explanation": "In an anticyclone air sinks at the high pressure centre and winds blow outward, giving settled, clear weather. A cyclone is the opposite: low pressure at the centre with clouds and rain."
+    },
+    {
+      "question": "El Niño is the unusual warming of the surface waters of which ocean?",
+      "options": ["Pacific Ocean, off the coast of Peru", "Atlantic Ocean, off the coast of Brazil", "Indian Ocean, off the coast of Kenya", "Arctic Ocean, off the coast of Norway"],
+      "answer": 0,
+      "explanation": "El Niño is a warm ocean current that appears every few years in the eastern Pacific off Peru, replacing the cold Peruvian current. It can weaken the Indian monsoon."
+    },
+    {
+      "question": "Which type of climate has hot, dry summers and mild, rainy winters?",
+      "options": ["Equatorial climate", "Monsoon climate", "Mediterranean climate", "Tundra climate"],
+      "answer": 2,
+      "explanation": "The Mediterranean climate is special because its rain comes in winter and its summers are dry. The monsoon climate is the reverse, with rain mainly in summer, and the equatorial climate is rainy all year."
+    },
+    {
+      "question": "Convectional rainfall, which often comes as heavy afternoon showers with thunder, is most common in the:",
+      "options": ["Polar regions", "Equatorial regions", "Hot deserts", "Tundra regions"],
+      "answer": 1,
+      "explanation": "Near the Equator the ground is strongly heated every day, so warm moist air rises, cools and gives heavy rain almost every afternoon. Polar and tundra regions are too cold, and deserts too dry, for this."
+    },
+    {
+      "question": "The calm, clear central part of a tropical cyclone is called its:",
+      "options": ["Front", "Core belt", "Crest", "Eye"],
+      "answer": 3,
+      "explanation": "The eye is the centre of a tropical cyclone, where the air is calm and the sky is often clear. The most violent winds and heaviest rain are in the wall of clouds around the eye."
+    },
+    {
+      "question": "Which clouds are thin and feathery and form at great heights in the sky?",
+      "options": ["Cumulus", "Stratus", "Cirrus", "Nimbus"],
+      "answer": 2,
+      "explanation": "Cirrus clouds are thin, white, feathery clouds found very high up. Cumulus look like heaps of cotton wool, stratus are layered sheets, and nimbus are dark rain clouds."
+    },
+    {
+      "question": "The temperate grasslands of Central Asia are known as the:",
+      "options": ["Savanna", "Steppes", "Selvas", "Taiga"],
+      "answer": 1,
+      "explanation": "The steppes are the short-grass temperate grasslands of Central Asia. The savanna is tropical grassland, selvas are the equatorial rainforests of the Amazon, and taiga is coniferous forest."
+    }
+  ]
+}

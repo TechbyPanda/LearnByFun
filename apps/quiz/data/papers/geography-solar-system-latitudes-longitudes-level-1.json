@@ -1,0 +1,68 @@
+{
+  "id": "geography-solar-system-latitudes-longitudes-level-1",
+  "name": "Geography – Solar System, Latitudes & Longitudes (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["earth-and-universe", "solar-system", "latitudes-longitudes", "time-zones", "seasons"],
+  "questions": [
+    {
+      "question": "Which planet is nearest to the Sun?",
+      "options": ["Venus", "Mercury", "Jupiter", "Neptune"],
+      "answer": 1,
+      "explanation": "Mercury is the closest planet to the Sun and takes only about 88 days to go around it. Venus is second, while Jupiter and Neptune are far-away outer planets."
+    },
+    {
+      "question": "Which is the largest planet of our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Mercury"],
+      "answer": 2,
+      "explanation": "Jupiter is the largest planet, far bigger than all the others. Earth and Mars are much smaller rocky planets, and Mercury is the smallest planet."
+    },
+    {
+      "question": "The rotation of the Earth on its axis causes:",
+      "options": ["Day and night", "Change of seasons", "Solar eclipses", "Ocean tides"],
+      "answer": 0,
+      "explanation": "As the Earth spins on its axis, the half facing the Sun has day and the other half has night. Seasons are caused by revolution around the Sun together with the tilt of the axis, not by rotation."
+    },
+    {
+      "question": "How much time does the Earth take to complete one revolution around the Sun?",
+      "options": ["24 hours", "About 30 days", "About 100 days", "About 365¼ days"],
+      "answer": 3,
+      "explanation": "The Earth takes about 365¼ days (one year) to go once around the Sun; the extra quarter days add up to a leap year every four years. 24 hours is the time for one rotation, which gives one day."
+    },
+    {
+      "question": "The 0° latitude is known as the:",
+      "options": ["Equator", "Tropic of Cancer", "Arctic Circle", "South Pole"],
+      "answer": 0,
+      "explanation": "The Equator is the 0° latitude and divides the Earth into the Northern and Southern Hemispheres. The Tropic of Cancer is at 23½°N, the Arctic Circle at 66½°N and the South Pole at 90°S."
+    },
+    {
+      "question": "The Prime Meridian (0° longitude) passes through:",
+      "options": ["New Delhi", "Tokyo", "Greenwich", "New York"],
+      "answer": 2,
+      "explanation": "The Prime Meridian passes through Greenwich, near London, where the British Royal Observatory is located. Longitudes are counted east and west from this line; the other cities are far from it."
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": ["Venus", "Saturn", "Uranus", "Mars"],
+      "answer": 3,
+      "explanation": "Mars looks reddish because of the iron-rich (rusty) dust on its surface, so it is called the Red Planet. Saturn is known for its rings and Venus for being very bright."
+    },
+    {
+      "question": "On which date does the Northern Hemisphere have its longest day?",
+      "options": ["21 March", "21 June", "23 September", "22 December"],
+      "answer": 1,
+      "explanation": "On 21 June (the summer solstice) the Sun's rays fall directly on the Tropic of Cancer, giving the Northern Hemisphere its longest day. 22 December has the shortest day there, while 21 March and 23 September have equal day and night."
+    },
+    {
+      "question": "Which planet is called 'Earth's twin' because of its similar size and shape?",
+      "options": ["Mars", "Jupiter", "Venus", "Neptune"],
+      "answer": 2,
+      "explanation": "Venus is called Earth's twin because its size and shape are very similar to those of the Earth. Mars is much smaller, while Jupiter and Neptune are huge planets made mostly of gases."
+    },
+    {
+      "question": "Which longitude is taken as the Standard Meridian of India?",
+      "options": ["0°", "82½°E", "180°", "23½°E"],
+      "answer": 1,
+      "explanation": "The local time at 82½°E (82°30'E) is taken as Indian Standard Time for the whole country. 0° is the Prime Meridian and 180° is the line followed by the International Date Line."
+    }
+  ]
+}

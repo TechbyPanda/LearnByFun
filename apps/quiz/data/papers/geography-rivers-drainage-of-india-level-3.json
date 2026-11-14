@@ -1,0 +1,68 @@
+{
+  "id": "geography-rivers-drainage-of-india-level-3",
+  "name": "Geography – Rivers & Drainage of India (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["indian-drainage", "himalayan-rivers", "peninsular-rivers", "lakes", "dams"],
+  "questions": [
+    {
+      "question": "Which one of the following is a right-bank tributary of the Ganga?",
+      "options": ["Ghaghara", "Gandak", "Son", "Kosi"],
+      "answer": 2,
+      "explanation": "The Son rises in the peninsular uplands near Amarkantak and joins the Ganga on its right (southern) bank. The Ghaghara, the Gandak and the Kosi come down from the Himalayas and join on the left bank."
+    },
+    {
+      "question": "Which is the largest tributary of the Indus?",
+      "options": ["Chenab", "Sutlej", "Jhelum", "Ravi"],
+      "answer": 0,
+      "explanation": "The Chenab, formed by the Chandra and the Bhaga streams in Himachal Pradesh, is the largest tributary of the Indus. The Sutlej is long too, but the Jhelum and the Ravi are clearly smaller."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Hirakud Dam – Godavari", "Tehri Dam – Bhagirathi", "Nagarjuna Sagar Dam – Kaveri", "Sardar Sarovar Dam – Tapi"],
+      "answer": 1,
+      "explanation": "The Tehri Dam is on the Bhagirathi in Uttarakhand. The Hirakud Dam is on the Mahanadi, Nagarjuna Sagar is on the Krishna and Sardar Sarovar is on the Narmada."
+    },
+    {
+      "question": "After taking a turn around Namcha Barwa, the Brahmaputra enters Arunachal Pradesh under which name?",
+      "options": ["Tsangpo", "Jamuna", "Lohit", "Dihang (Siang)"],
+      "answer": 3,
+      "explanation": "The river enters India as the Dihang or Siang. Tsangpo is its name in Tibet, Jamuna is its name in Bangladesh and the Lohit is one of its tributaries in Arunachal Pradesh."
+    },
+    {
+      "question": "Which river rises at Beas Kund near the Rohtang Pass and joins the Sutlej near Harike in Punjab?",
+      "options": ["Ravi", "Chenab", "Beas", "Jhelum"],
+      "answer": 2,
+      "explanation": "The Beas rises at Beas Kund near the Rohtang Pass and meets the Sutlej near Harike. The Ravi also rises near Rohtang but joins the Chenab, and the Jhelum rises at Verinag in the Kashmir valley."
+    },
+    {
+      "question": "Which river flows through a rift valley between the Vindhya Range in the north and the Satpura Range in the south?",
+      "options": ["Narmada", "Tapi", "Mahi", "Son"],
+      "answer": 0,
+      "explanation": "The Narmada flows westwards in a rift valley between the Vindhyas and the Satpuras. The Tapi also flows in a rift valley, but it lies to the south of the Satpura Range."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Vembanad Lake – Tamil Nadu", "Wular Lake – Himachal Pradesh", "Chilika Lake – Andhra Pradesh", "Loktak Lake – Manipur"],
+      "answer": 3,
+      "explanation": "Loktak is a freshwater lake in Manipur. Vembanad is in Kerala, Wular is in Jammu and Kashmir and Chilika is in Odisha."
+    },
+    {
+      "question": "The Jog Falls are located on which river?",
+      "options": ["Kaveri", "Sharavati", "Narmada", "Mandovi"],
+      "answer": 1,
+      "explanation": "The Jog (Gersoppa) Falls are on the Sharavati river in Karnataka. The Kaveri has the Shivasamudram Falls, the Narmada has the Dhuandhar Falls and the Mandovi has the Dudhsagar Falls."
+    },
+    {
+      "question": "Which one of the following pairs of tributary and main river is correctly matched?",
+      "options": ["Indravati – Mahanadi", "Tungabhadra – Krishna", "Hemavati – Godavari", "Betwa – Narmada"],
+      "answer": 1,
+      "explanation": "The Tungabhadra is a major tributary of the Krishna. The Indravati joins the Godavari, the Hemavati joins the Kaveri and the Betwa joins the Yamuna."
+    },
+    {
+      "question": "When rivers originate from a hill and flow outwards in all directions, as the rivers rising from the Amarkantak range do, the drainage pattern is called:",
+      "options": ["Radial", "Centripetal", "Trellis", "Dendritic"],
+      "answer": 0,
+      "explanation": "Radial drainage has streams flowing away in all directions from a central high point, as the Narmada and the Son do from Amarkantak. Centripetal is the opposite, with streams flowing inwards into a lake or depression."
+    }
+  ]
+}

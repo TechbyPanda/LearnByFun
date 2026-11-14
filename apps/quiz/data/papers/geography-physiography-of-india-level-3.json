@@ -1,0 +1,68 @@
+{
+  "id": "geography-physiography-of-india-level-3",
+  "name": "Geography – Physiography of India (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["indian-physiography", "himalayas", "northern-plains", "peninsular-plateau", "coasts-and-islands"],
+  "questions": [
+    {
+      "question": "The latitudinal extent of the mainland of India is:",
+      "options": ["6°45′ N to 37°6′ N", "8°4′ N to 35°6′ N", "6°45′ N to 35°6′ N", "8°4′ N to 37°6′ N"],
+      "answer": 3,
+      "explanation": "The Indian mainland stretches from 8°4′ N (Kanniyakumari) to 37°6′ N in the north. 6°45′ N is the latitude of Indira Point in the Nicobar Islands, which is the southernmost point of the country but not of the mainland."
+    },
+    {
+      "question": "With which neighbouring country does India share its longest land boundary?",
+      "options": ["China", "Bangladesh", "Pakistan", "Nepal"],
+      "answer": 1,
+      "explanation": "India's longest land boundary, about 4,096 km, is with Bangladesh. The boundaries with China and Pakistan are also long, but both are shorter, and the boundary with Nepal is much shorter."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Nathu La – Sikkim", "Zoji La – Himachal Pradesh", "Shipki La – Uttarakhand", "Bomdi La – Sikkim"],
+      "answer": 0,
+      "explanation": "Nathu La is in Sikkim and connects it with Tibet. Zoji La is on the Srinagar–Leh route in Ladakh, Shipki La is in Himachal Pradesh and Bomdi La is in Arunachal Pradesh."
+    },
+    {
+      "question": "K2 (Godwin Austen), the highest peak in India, lies in which range?",
+      "options": ["Ladakh Range", "Zaskar Range", "Karakoram Range", "Pir Panjal Range"],
+      "answer": 2,
+      "explanation": "K2 lies in the Karakoram Range of the Trans-Himalaya. The Ladakh and Zaskar ranges lie to its south and are lower, while the Pir Panjal belongs to the Lesser Himalaya."
+    },
+    {
+      "question": "The streams that disappear in the bhabar belt re-emerge to form a wet, marshy tract known as the:",
+      "options": ["Khadar", "Terai", "Bhangar", "Dun"],
+      "answer": 1,
+      "explanation": "South of the bhabar, the streams come back to the surface and create the swampy, thickly forested terai. Khadar and bhangar are the new and old alluvial plains further south, and a dun is a valley inside the Himalayas."
+    },
+    {
+      "question": "Calcareous deposits locally known as 'kankar' are characteristic of which part of the Northern Plains?",
+      "options": ["Bhabar", "Terai", "Khadar", "Bhangar"],
+      "answer": 3,
+      "explanation": "Bhangar is the older alluvium lying above the flood plains, and its soil contains lime nodules called kankar. Khadar is the newer alluvium renewed by floods almost every year, so it does not have these old deposits."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Doddabetta – Nilgiri Hills", "Anamudi – Nilgiri Hills", "Guru Shikhar – Satpura Range", "Dhupgarh – Vindhya Range"],
+      "answer": 0,
+      "explanation": "Doddabetta is the highest peak of the Nilgiri Hills. Anamudi is in the Anaimalai Hills, Guru Shikhar is the highest peak of the Aravallis and Dhupgarh is the highest peak of the Satpura Range."
+    },
+    {
+      "question": "The Western Ghats and the Eastern Ghats meet each other at the:",
+      "options": ["Cardamom Hills", "Mahadeo Hills", "Nilgiri Hills", "Rajmahal Hills"],
+      "answer": 2,
+      "explanation": "The two Ghats join at the Nilgiri Hills, near the meeting point of Tamil Nadu, Kerala and Karnataka. The Cardamom Hills lie further south in the Western Ghats, the Mahadeo Hills are part of the Satpuras and the Rajmahal Hills are in Jharkhand."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Malabar Coast – Maharashtra", "Konkan Coast – Odisha", "Northern Circars – Kerala", "Coromandel Coast – Tamil Nadu"],
+      "answer": 3,
+      "explanation": "The Coromandel Coast is the southern part of the eastern coast, along Tamil Nadu. The Malabar Coast is in Kerala, the Konkan is in Maharashtra and Goa, and the Northern Circars are the northern part of the eastern coast."
+    },
+    {
+      "question": "The Ten Degree Channel separates:",
+      "options": ["Lakshadweep from the Maldives", "The Andaman Islands from the Nicobar Islands", "Minicoy from the rest of Lakshadweep", "India from Sri Lanka"],
+      "answer": 1,
+      "explanation": "The Ten Degree Channel lies between the Andaman group in the north and the Nicobar group in the south. The Eight Degree Channel separates Minicoy from the Maldives, the Nine Degree Channel separates Minicoy from the rest of Lakshadweep, and the Palk Strait separates India from Sri Lanka."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "geography-physiography-of-india-level-1",
+  "name": "Geography – Physiography of India (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["indian-physiography", "himalayas", "northern-plains", "peninsular-plateau", "coasts-and-islands"],
+  "questions": [
+    {
+      "question": "Which important line of latitude passes almost through the middle of India?",
+      "options": ["Equator", "Tropic of Cancer", "Arctic Circle", "Tropic of Capricorn"],
+      "answer": 1,
+      "explanation": "The Tropic of Cancer (23°30′ N) runs almost halfway through India. The Equator lies to the south of India, and the Tropic of Capricorn and the Arctic Circle are far away from the country."
+    },
+    {
+      "question": "Which mountains stand like a great wall along the northern boundary of India?",
+      "options": ["Western Ghats", "Aravalli Hills", "Vindhya Range", "Himalayas"],
+      "answer": 3,
+      "explanation": "The lofty, snow-covered Himalayas stretch along India's northern boundary. The Aravallis, the Vindhyas and the Western Ghats all lie further south, inside the country."
+    },
+    {
+      "question": "The northernmost and highest of the three parallel ranges of the Himalayas is called the:",
+      "options": ["Great Himalaya (Himadri)", "Shiwalik", "Satpura", "Nilgiri"],
+      "answer": 0,
+      "explanation": "The Great Himalaya or Himadri is the northernmost range and has the world's highest peaks. The Shiwalik is the southernmost and lowest Himalayan range, while the Satpura and Nilgiri hills are not in the Himalayas at all."
+    },
+    {
+      "question": "The Northern Plains of India are made up mainly of:",
+      "options": ["Hard volcanic rock", "Coral deposits", "Alluvial deposits laid down by rivers", "Desert sand"],
+      "answer": 2,
+      "explanation": "The Indus, the Ganga, the Brahmaputra and their tributaries brought down fine soil (alluvium) and spread it to form the flat, fertile Northern Plains. Volcanic rock is found on the Deccan Plateau and coral forms islands such as Lakshadweep."
+    },
+    {
+      "question": "In which part of India does the Great Indian Desert lie?",
+      "options": ["Eastern", "Southern", "North-eastern", "Western"],
+      "answer": 3,
+      "explanation": "The Great Indian Desert (Thar) lies in the western part of India, mostly in Rajasthan. It is a dry, hot and sandy stretch with very little vegetation, unlike the rainy east and north-east."
+    },
+    {
+      "question": "A piece of land that is surrounded by water on three sides is called:",
+      "options": ["A peninsula", "An island", "A strait", "A plateau"],
+      "answer": 0,
+      "explanation": "A peninsula has water on three sides, like southern India with the Arabian Sea, the Indian Ocean and the Bay of Bengal around it. An island has water on all sides, and a strait is a narrow strip of water, not land."
+    },
+    {
+      "question": "Which range, one of the oldest in the world, borders the Peninsular Plateau on its north-west side?",
+      "options": ["Himalayas", "Aravalli Hills", "Eastern Ghats", "Karakoram"],
+      "answer": 1,
+      "explanation": "The Aravalli Hills, among the oldest ranges of the world, lie on the north-west side of the Peninsular Plateau. The Himalayas and the Karakoram are young mountains in the far north, and the Eastern Ghats border the plateau on the east."
+    },
+    {
+      "question": "In which water body are the Lakshadweep Islands located?",
+      "options": ["Bay of Bengal", "Caspian Sea", "Arabian Sea", "Red Sea"],
+      "answer": 2,
+      "explanation": "The Lakshadweep Islands are small coral islands in the Arabian Sea, off the coast of Kerala. The islands in the Bay of Bengal are the Andaman and Nicobar Islands."
+    },
+    {
+      "question": "Which island country lies to the south of India, separated from it by the Palk Strait?",
+      "options": ["Sri Lanka", "Japan", "Indonesia", "Madagascar"],
+      "answer": 0,
+      "explanation": "Sri Lanka is separated from India by the narrow Palk Strait. Japan, Indonesia and Madagascar are island countries too, but they lie far away from India's southern tip."
+    },
+    {
+      "question": "The Andaman and Nicobar Islands are located in the:",
+      "options": ["Arabian Sea", "Bay of Bengal", "Mediterranean Sea", "Gulf of Kachchh"],
+      "answer": 1,
+      "explanation": "The Andaman and Nicobar Islands lie to the south-east of the Indian mainland in the Bay of Bengal. The Arabian Sea, on the western side, has the Lakshadweep Islands instead."
+    }
+  ]
+}

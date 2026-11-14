@@ -1,0 +1,68 @@
+{
+  "id": "geography-agriculture-irrigation-in-india-level-3",
+  "name": "Geography – Agriculture & Irrigation in India (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["indian-agriculture", "cropping-seasons", "major-crops", "irrigation", "green-revolution"],
+  "questions": [
+    {
+      "question": "The Green Revolution in India in the 1960s was based mainly on high-yielding variety (HYV) seeds of:",
+      "options": ["Wheat and rice", "Rice and jute", "Pulses and oilseeds", "Cotton and sugarcane"],
+      "answer": 0,
+      "explanation": "The Green Revolution used HYV seeds of wheat (from Mexico) and rice (from the Philippines), along with irrigation and fertilisers, mainly in Punjab, Haryana and western Uttar Pradesh. Pulses, oilseeds and commercial crops were largely left out in the early phase."
+    },
+    {
+      "question": "Who is known as the 'Father of the Green Revolution in India'?",
+      "options": ["Norman Borlaug", "M. S. Swaminathan", "Verghese Kurien", "C. Subramaniam"],
+      "answer": 1,
+      "explanation": "M. S. Swaminathan led the scientific work that brought HYV wheat and rice to Indian farms. Norman Borlaug is the father of the Green Revolution worldwide, Verghese Kurien led the White Revolution, and C. Subramaniam was the minister who supported the programme."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Blue Revolution – Oilseeds", "Yellow Revolution – Fish", "White Revolution – Milk", "Green Revolution – Jute"],
+      "answer": 2,
+      "explanation": "The White Revolution is about milk. The Blue Revolution is about fish, the Yellow Revolution about oilseeds, and the Green Revolution about food grains (wheat and rice), not jute."
+    },
+    {
+      "question": "The Indira Gandhi Canal takes off from the:",
+      "options": ["Harike Barrage", "Bhakra Dam", "Pong Dam", "Ropar Headworks"],
+      "answer": 0,
+      "explanation": "The canal starts at the Harike Barrage in Punjab, just below the meeting point of the Satluj and the Beas, and carries water to the Thar Desert of Rajasthan. Bhakra, Pong and Ropar are other works on the same river system but are not its source."
+    },
+    {
+      "question": "Intensive canal irrigation without proper drainage, as seen in parts of the Indira Gandhi Canal command area, has mainly caused:",
+      "options": ["Gully erosion", "Laterisation of soil", "Sharp fall in the water table", "Waterlogging and soil salinity"],
+      "answer": 3,
+      "explanation": "Too much canal water raises the water table, which waterlogs the land and brings salts to the surface. A falling water table is the problem of tubewell areas, not canal areas, and gully erosion and laterisation have other causes."
+    },
+    {
+      "question": "Tank irrigation is most widely practised in:",
+      "options": ["The northern plains", "Peninsular India", "The Thar Desert", "The Himalayan region"],
+      "answer": 1,
+      "explanation": "In peninsular India the hard rock does not let water soak in and the uneven surface makes it easy to collect rain in tanks, as in Tamil Nadu, Andhra Pradesh and Telangana. The soft alluvium of the northern plains suits canals and tubewells instead."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Tea – Well-drained soil on hill slopes", "Cotton – Rabi crop of cool, wet regions", "Wheat – Standing water in the field", "Rubber – Dry temperate climate"],
+      "answer": 0,
+      "explanation": "Tea needs deep, well-drained soil on gentle hill slopes with rain through the year. Cotton is a kharif crop of drier black-soil areas, standing water is needed by rice and not wheat, and rubber needs a hot, wet equatorial-type climate."
+    },
+    {
+      "question": "'Aus', 'aman' and 'boro' are three crops in a year of which cereal in West Bengal?",
+      "options": ["Wheat", "Maize", "Rice", "Jowar"],
+      "answer": 2,
+      "explanation": "In West Bengal farmers grow three rice crops a year, called aus, aman and boro. Wheat, maize and jowar are not grown in this three-crop pattern."
+    },
+    {
+      "question": "Which method of irrigation delivers water drop by drop near the roots and so has the highest water-use efficiency?",
+      "options": ["Flood irrigation", "Furrow irrigation", "Sprinkler irrigation", "Drip irrigation"],
+      "answer": 3,
+      "explanation": "Drip irrigation supplies water directly to the root zone, so very little is lost by evaporation or seepage. Sprinklers save water too but lose more to evaporation and wind, and flood and furrow methods waste the most."
+    },
+    {
+      "question": "Which one of the following pairs of multipurpose project and river is correctly matched?",
+      "options": ["Bhakra Nangal – Beas", "Hirakud – Mahanadi", "Nagarjuna Sagar – Godavari", "Sardar Sarovar – Tapi"],
+      "answer": 1,
+      "explanation": "The Hirakud Dam is on the Mahanadi in Odisha. Bhakra Nangal is on the Satluj, Nagarjuna Sagar on the Krishna and Sardar Sarovar on the Narmada."
+    }
+  ]
+}

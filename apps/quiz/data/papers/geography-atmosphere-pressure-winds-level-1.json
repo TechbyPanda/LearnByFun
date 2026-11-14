@@ -1,0 +1,68 @@
+{
+  "id": "geography-atmosphere-pressure-winds-level-1",
+  "name": "Geography – Atmosphere, Pressure & Winds (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["atmosphere", "pressure-belts", "winds", "heat-budget", "local-winds"],
+  "questions": [
+    {
+      "question": "Which gas makes up the largest part of the air around us?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 2,
+      "explanation": "Nitrogen makes up about 78% of the air. Oxygen is second at about 21%, while carbon dioxide and hydrogen are present only in tiny amounts."
+    },
+    {
+      "question": "In which layer of the atmosphere do almost all weather events such as rain, clouds and storms take place?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+      "answer": 0,
+      "explanation": "The troposphere is the lowest layer, where we live and where the air has water vapour and clouds, so weather happens here. The layers above it are too dry and thin for rain and storms."
+    },
+    {
+      "question": "Which gas high up in the atmosphere protects us from the harmful ultraviolet rays of the Sun?",
+      "options": ["Nitrogen", "Carbon dioxide", "Helium", "Ozone"],
+      "answer": 3,
+      "explanation": "The ozone layer in the stratosphere absorbs most of the Sun's harmful ultraviolet rays. Nitrogen, carbon dioxide and helium do not do this job."
+    },
+    {
+      "question": "Which instrument is used to measure air pressure?",
+      "options": ["Thermometer", "Barometer", "Rain gauge", "Wind vane"],
+      "answer": 1,
+      "explanation": "A barometer measures air pressure. A thermometer measures temperature, a rain gauge measures rainfall and a wind vane shows the direction of the wind."
+    },
+    {
+      "question": "The hot, dry wind that blows over the northern plains of India in summer is called the:",
+      "options": ["Monsoon", "Sea breeze", "Blizzard", "Loo"],
+      "answer": 3,
+      "explanation": "The loo is a hot, dry local wind of the northern plains in May and June. The monsoon brings rain, a sea breeze is cool, and a blizzard is a snowstorm."
+    },
+    {
+      "question": "The cool wind that blows from the sea towards the land during the day is called a:",
+      "options": ["Land breeze", "Sea breeze", "Trade wind", "Cyclone"],
+      "answer": 1,
+      "explanation": "During the day the land heats up faster than the sea, so cool air moves in from the sea. This is the sea breeze. A land breeze blows the other way, from land to sea, at night."
+    },
+    {
+      "question": "The amount of water vapour present in the air is called:",
+      "options": ["Humidity", "Pressure", "Temperature", "Altitude"],
+      "answer": 0,
+      "explanation": "Humidity tells us how much moisture (water vapour) is in the air. Pressure is the weight of air, temperature is how hot or cold it is, and altitude is height."
+    },
+    {
+      "question": "Radio waves sent from the Earth are reflected back to the Earth by which layer of the atmosphere?",
+      "options": ["Troposphere", "Stratosphere", "Ionosphere", "Exosphere"],
+      "answer": 2,
+      "explanation": "The ionosphere (part of the thermosphere) has electrically charged particles that bounce radio waves back to the Earth, which makes radio transmission possible. The other layers do not reflect radio waves this way."
+    },
+    {
+      "question": "What happens to air pressure as we climb higher up a mountain?",
+      "options": ["It increases", "It decreases", "It stays the same", "It becomes double"],
+      "answer": 1,
+      "explanation": "Air pressure is highest at sea level and falls as we go higher, because there is less air above us pressing down. That is why climbers find it hard to breathe on high mountains."
+    },
+    {
+      "question": "Trade winds, westerlies and polar easterlies, which blow all through the year in the same direction, are called:",
+      "options": ["Local winds", "Seasonal winds", "Night winds", "Permanent winds"],
+      "answer": 3,
+      "explanation": "These three blow constantly throughout the year in a fixed direction, so they are called permanent winds. Seasonal winds like the monsoon change direction with the season, and local winds blow only in a small area."
+    }
+  ]
+}

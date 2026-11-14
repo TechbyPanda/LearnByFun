@@ -1,0 +1,88 @@
+{
+  "id": "geography-oceans-currents-tides-level-3",
+  "name": "Geography – Oceans, Currents & Tides (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["oceanography", "ocean-currents", "tides", "salinity", "ocean-relief"],
+  "questions": [
+    {
+      "question": "The Atacama Desert on the west coast of South America is associated with which cold ocean current?",
+      "options": ["Benguela Current", "Canary Current", "California Current", "Humboldt (Peru) Current"],
+      "answer": 3,
+      "explanation": "The cold Humboldt (Peru) Current flows north along the coast of Chile and Peru and helps keep the Atacama dry. The Benguela is linked with the Namib, the Canary with the Sahara coast and the California Current with the deserts of south-western North America."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Kuroshio Current – warm current of the North Pacific Ocean",
+        "Oyashio Current – warm current of the North Pacific Ocean",
+        "Canary Current – cold current of the South Atlantic Ocean",
+        "Agulhas Current – cold current of the Indian Ocean"
+      ],
+      "answer": 0,
+      "explanation": "The Kuroshio is a warm current flowing past Japan in the North Pacific. The Oyashio is a cold current, the Canary Current is a cold current of the North (not South) Atlantic, and the Agulhas is a warm current of the Indian Ocean."
+    },
+    {
+      "question": "Which sea has no land boundary and is enclosed only by ocean currents?",
+      "options": ["Caribbean Sea", "Arabian Sea", "Sargasso Sea", "Coral Sea"],
+      "answer": 2,
+      "explanation": "The Sargasso Sea lies in the North Atlantic Ocean and is bounded by currents such as the Gulf Stream and the Canary Current, not by any coast. The Caribbean, Arabian and Coral Seas all have coastlines."
+    },
+    {
+      "question": "Neap tides occur when the Sun and the Moon are:",
+      "options": [
+        "In a straight line on the same side of the Earth",
+        "At right angles to each other with respect to the Earth",
+        "In a straight line on opposite sides of the Earth",
+        "Both closest to the Earth"
+      ],
+      "answer": 1,
+      "explanation": "When the Sun and the Moon are at right angles, their pulls partly cancel each other, giving the weak neap tides. When they are in a straight line with the Earth (new moon or full moon), the pulls add up and spring tides occur."
+    },
+    {
+      "question": "The time gap between two successive high tides at a place is about:",
+      "options": ["6 hours 13 minutes", "12 hours", "12 hours 25 minutes", "24 hours 50 minutes"],
+      "answer": 2,
+      "explanation": "Because the Moon moves ahead in its orbit while the Earth rotates, a place returns under the Moon after about 24 hours 50 minutes, so high tides come about every 12 hours 25 minutes. About 6 hours 13 minutes is the gap between a high tide and the next low tide."
+    },
+    {
+      "question": "The gently sloping deep-ocean regions that are among the flattest and smoothest areas of the world, covered with fine sediments like clay and silt, are called:",
+      "options": ["Abyssal plains", "Continental shelves", "Oceanic trenches", "Guyots"],
+      "answer": 0,
+      "explanation": "Abyssal (deep sea) plains lie at depths of about 3,000 to 6,000 m and are extremely flat. Continental shelves are shallow, trenches are deep narrow depressions, and guyots are flat-topped seamounts."
+    },
+    {
+      "question": "Which of the following seas has the lowest salinity?",
+      "options": ["Red Sea", "Mediterranean Sea", "Persian Gulf", "Baltic Sea"],
+      "answer": 3,
+      "explanation": "The Baltic Sea has very low salinity because many rivers pour fresh water into it and evaporation is low. The Red Sea, the Mediterranean and the Persian Gulf lie in hot, dry regions with high evaporation, so they are saltier than average."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Barrier reef – ring-shaped reef enclosing a lagoon with no land in the centre",
+        "Fringing reef – reef attached to the coast, with a narrow shallow lagoon or none",
+        "Atoll – reef running parallel to the coast, separated from it by a wide deep lagoon",
+        "Lakshadweep Islands – example of fringing reefs"
+      ],
+      "answer": 1,
+      "explanation": "A fringing reef grows close to the shore. The ring-shaped reef around a lagoon is an atoll, the reef parallel to the coast beyond a wide lagoon is a barrier reef, and the Lakshadweep Islands are atolls."
+    },
+    {
+      "question": "The layer of ocean water in which temperature falls rapidly with increasing depth is called the:",
+      "options": ["Halocline", "Pycnocline", "Thermocline", "Photic zone"],
+      "answer": 2,
+      "explanation": "The thermocline is the boundary zone below the warm surface layer where temperature drops quickly with depth. The halocline is the zone of rapid salinity change, the pycnocline of rapid density change, and the photic zone is the sunlit upper layer."
+    },
+    {
+      "question": "In the open oceans, surface salinity is generally highest:",
+      "options": [
+        "At the Equator",
+        "In the subtropical belts around 20°–30° latitude",
+        "Around 60° latitude",
+        "Near the poles"
+      ],
+      "answer": 1,
+      "explanation": "The subtropical belts have clear skies, high evaporation and little rain, so salinity is highest there. Heavy rainfall lowers salinity at the Equator, and low evaporation and melting ice lower it in high latitudes and near the poles."
+    }
+  ]
+}

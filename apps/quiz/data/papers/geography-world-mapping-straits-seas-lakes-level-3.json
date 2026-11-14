@@ -1,0 +1,83 @@
+{
+  "id": "geography-world-mapping-straits-seas-lakes-level-3",
+  "name": "Geography – World Mapping: Straits, Seas & Lakes (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["world-mapping", "straits", "seas", "lakes", "rivers-of-the-world"],
+  "questions": [
+    {
+      "question": "The Strait of Bab-el-Mandeb connects:",
+      "options": [
+        "The Red Sea and the Mediterranean Sea",
+        "The Persian Gulf and the Gulf of Oman",
+        "The Red Sea and the Gulf of Aden",
+        "The Black Sea and the Sea of Marmara"
+      ],
+      "answer": 2,
+      "explanation": "Bab-el-Mandeb, between Yemen and Djibouti/Eritrea, joins the Red Sea to the Gulf of Aden. The Red Sea and the Mediterranean are joined by the Suez Canal, the Persian Gulf and the Gulf of Oman by the Strait of Hormuz, and the Black Sea and the Sea of Marmara by the Bosphorus."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Strait of Hormuz – joins the Persian Gulf and the Gulf of Oman",
+        "Bosphorus Strait – joins the Aegean Sea and the Sea of Marmara",
+        "Sunda Strait – separates Java and Borneo",
+        "Strait of Dover – joins the North Sea and the Baltic Sea"
+      ],
+      "answer": 0,
+      "explanation": "The Strait of Hormuz, between Iran and Oman, joins the Persian Gulf to the Gulf of Oman. The Bosphorus joins the Black Sea and the Sea of Marmara (the Dardanelles joins Marmara to the Aegean), the Sunda Strait separates Java and Sumatra, and the Strait of Dover joins the English Channel and the North Sea."
+    },
+    {
+      "question": "Which of the following countries does NOT have a coastline on the Caspian Sea?",
+      "options": ["Azerbaijan", "Turkmenistan", "Kazakhstan", "Uzbekistan"],
+      "answer": 3,
+      "explanation": "The Caspian Sea is bordered by five countries: Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan. Uzbekistan does not touch the Caspian; it borders the Aral Sea instead."
+    },
+    {
+      "question": "Lake Titicaca, the high-altitude lake of the Andes, lies on the border between:",
+      "options": ["Chile and Argentina", "Peru and Bolivia", "Ecuador and Colombia", "Brazil and Paraguay"],
+      "answer": 1,
+      "explanation": "Lake Titicaca lies high in the Andes and is shared by Peru and Bolivia. The other pairs of countries do not share this lake."
+    },
+    {
+      "question": "The Aral Sea is shared by which two countries?",
+      "options": ["Kazakhstan and Uzbekistan", "Turkmenistan and Iran", "Kazakhstan and Russia", "Uzbekistan and Tajikistan"],
+      "answer": 0,
+      "explanation": "The Aral Sea, which has shrunk greatly because its feeder rivers were diverted for irrigation, lies between Kazakhstan in the north and Uzbekistan in the south. Turkmenistan, Iran and Russia border the Caspian Sea, and Tajikistan touches neither."
+    },
+    {
+      "question": "The Danube River empties into the:",
+      "options": ["North Sea", "Baltic Sea", "Adriatic Sea", "Black Sea"],
+      "answer": 3,
+      "explanation": "The Danube rises in Germany, flows east across central and south-eastern Europe and enters the Black Sea through its delta in Romania. The Rhine flows into the North Sea, and rivers such as the Vistula flow into the Baltic."
+    },
+    {
+      "question": "The Mekong River forms its delta and enters the South China Sea in:",
+      "options": ["Thailand", "Myanmar", "Vietnam", "Cambodia"],
+      "answer": 2,
+      "explanation": "The Mekong rises on the Tibetan Plateau and, after passing China, Myanmar, Laos, Thailand and Cambodia, forms its delta in southern Vietnam. Cambodia lies just upstream of the delta, which is why it is a tempting wrong answer."
+    },
+    {
+      "question": "Which of the following countries is crossed by both the Equator and the Tropic of Capricorn?",
+      "options": ["Argentina", "Brazil", "Colombia", "Kenya"],
+      "answer": 1,
+      "explanation": "Brazil is crossed by the Equator in the north and by the Tropic of Capricorn in the south. Argentina is crossed only by the Tropic of Capricorn, while Colombia and Kenya are crossed only by the Equator."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Lake Tanganyika – shared by Kenya and Ethiopia",
+        "Lake Baikal – located in Kazakhstan",
+        "Lake Superior – lies wholly within the United States of America",
+        "Lake Victoria – shared by Kenya, Uganda and Tanzania"
+      ],
+      "answer": 3,
+      "explanation": "Lake Victoria is shared by Kenya, Uganda and Tanzania. Lake Tanganyika is shared by Tanzania, DR Congo, Burundi and Zambia; Lake Baikal is in Russia; and Lake Superior is shared by Canada and the USA (Lake Michigan is the Great Lake wholly within the USA)."
+    },
+    {
+      "question": "Which of the following rivers crosses the Equator twice?",
+      "options": ["Congo", "Nile", "Amazon", "Niger"],
+      "answer": 0,
+      "explanation": "The Congo flows north across the Equator, curves in a great arc and crosses it again on its way south-west to the Atlantic. The Nile crosses it only near its source, the Amazon flows just south of it, and the Niger stays north of it."
+    }
+  ]
+}

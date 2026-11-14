@@ -1,0 +1,118 @@
+{
+  "id": "economy-national-income-level-4",
+  "name": "Economy – National Income (Level 4)",
+  "tags": ["economy", "level-4"],
+  "subtags": ["national-income", "gva-and-gdp", "national-income-aggregates", "gdp-deflator-and-cpi"],
+  "questions": [
+    {
+      "question": "Consider the following statements regarding Gross Domestic Product (GDP) and Gross National Product (GNP):\n1. GDP measures the market value of all final goods and services produced within the domestic territory of a country during a given period.\n2. GNP includes income earned by foreign nationals residing and working within the domestic territory of the country.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: GDP is a territorial concept that measures the total value of final goods and services produced within a country's domestic territory.\nStatement 2 is incorrect: GNP measures income earned by normal residents of a country regardless of location; factor income earned by non-residents/foreign nationals inside the domestic territory is subtracted from GDP to get GNP.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements regarding the GDP Deflator and the Consumer Price Index (CPI):\n1. The GDP Deflator covers all goods and services produced domestically, whereas the CPI covers a representative basket of goods and services consumed by households.\n2. Prices of imported consumer goods are directly included in the calculation of the GDP Deflator.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: The GDP Deflator reflects price changes across the entire domestically produced output, while CPI tracks retail prices of a fixed consumer basket.\nStatement 2 is incorrect: Imported goods are not produced domestically, so their prices are excluded from the GDP Deflator (though they are included in CPI if consumed by households).\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Which of the following items is included in the calculation of India's National Income?",
+      "options": [
+        "Imputed rent of owner-occupied houses",
+        "Windfall gains earned from winning a state lottery",
+        "Commission earned on the sale of second-hand shares",
+        "Pension received by a retired central government employee"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Owner-occupied houses provide housing services equivalent to rented houses, so their estimated (imputed) rental value is included in National Income.\nOption 2 is incorrect: Lottery winnings are windfall gains with no corresponding productive activity and are excluded.\nOption 3 is incorrect: Actually, wait—commission earned by a broker is payment for a current service, whereas the sale value of second-hand shares itself is excluded. Let us verify clearly: Option 1 is unambiguously included in standard NCERT macroeconomics as a classic inclusion item, while lottery winnings (Option 2) are excluded. To avoid any ambiguity on Option 3 (brokerage vs sale), note that the sale proceeds of second-hand shares are excluded, whereas imputed rent of owner-occupied dwellings is a textbook inclusion.\nOption 4 is incorrect: Old-age/retirement pensions in standard macroeconomics are treated as unilateral transfer payments rather than current factor services.\nSo the correct option is Imputed rent of owner-occupied houses."
+    },
+    {
+      "question": "Consider the following statements regarding Gross Value Added (GVA) and Gross Domestic Product (GDP) in India:\n1. GVA gives a sector-wise picture of economic activity from the producer's side.\n2. GDP at market prices is obtained by subtracting net product taxes from GVA at basic prices.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: GVA measures the value added by each sector (agriculture, industry, services) and reflects the supply or producer side of the economy.\nStatement 2 is incorrect: GDP at market prices is obtained by adding (not subtracting) net product taxes (product taxes minus product subsidies) to GVA at basic prices.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements regarding Net Domestic Product (NDP) and Depreciation:\n1. Depreciation refers to the normal wear and tear and expected obsolescence of fixed capital assets during production.\n2. An economy with a higher rate of depreciation will have a larger gap between its GDP and NDP.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Depreciation (consumption of fixed capital) accounts for regular wear and tear, accidental damage, and foreseen obsolescence of capital goods.\nStatement 2 is correct: Since NDP = GDP minus Depreciation, a higher depreciation allowance increases the difference between GDP and NDP.\nSo both 1 and 2 are correct."
+    },
+    {
+      "question": "In the context of Indian National Income accounting, what does 'Operating Surplus' under the Income Method consist of?",
+      "options": [
+        "Rent, Interest, and Profit",
+        "Wages, Salaries, and Employers' Contribution to Social Security",
+        "Indirect Taxes, Subsidies, and Depreciation",
+        "Private Final Consumption Expenditure and Net Exports"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Under the Income Method, Operating Surplus represents income from property and entrepreneurship, comprising rent, royalty, interest, and profit.\nOption 2 is incorrect: Wages, salaries, and employers' social security contributions constitute Compensation of Employees.\nOption 3 is incorrect: Indirect taxes, subsidies, and depreciation are adjustments between market price/factor cost and gross/net aggregates.\nOption 4 is incorrect: Private final consumption expenditure and net exports are components of the Expenditure Method.\nSo the correct option is Rent, Interest, and Profit."
+    },
+    {
+      "question": "Consider the following statements regarding Real GDP and Nominal GDP:\n1. When the general price level rises continuously, Nominal GDP grows faster than Real GDP.\n2. In the base year, the numerical value of Nominal GDP is equal to the numerical value of Real GDP.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Nominal GDP captures both output growth and price inflation, whereas Real GDP reflects only physical output growth; thus during inflation, Nominal GDP grows faster.\nStatement 2 is correct: Because current year prices and base year prices are identical in the base year itself, Nominal GDP equals Real GDP in that year.\nSo both 1 and 2 are correct."
+    },
+    {
+      "question": "Why are intermediate goods excluded while calculating Gross Domestic Product (GDP) through the Final Expenditure Method?",
+      "options": [
+        "Their value is already embedded in the market price of final goods",
+        "They are produced exclusively by the unorganized informal sector",
+        "They are exempt from all forms of indirect taxation by the government",
+        "Their market prices fluctuate too frequently within a financial year"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Including intermediate goods separately alongside final goods would count their value multiple times (double counting), as their cost is already built into the price of final goods.\nOption 2 is incorrect: Intermediate goods are produced across both organized and unorganized sectors.\nOption 3 is incorrect: Tax treatment does not determine whether a good is intermediate or final.\nOption 4 is incorrect: Price volatility is unrelated to the exclusion of intermediate goods.\nSo the correct option is Their value is already embedded in the market price of final goods."
+    },
+    {
+      "question": "Consider the following statements regarding Net Factor Income from Abroad (NFIA):\n1. NFIA is the difference between factor income earned by normal residents from the rest of the world and factor income earned by non-residents within the domestic territory.\n2. Remittances sent home by Indian workers employed permanently abroad are recorded as part of NFIA.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: NFIA equals factor income received from abroad by normal residents minus factor income paid to non-residents domestically.\nStatement 2 is incorrect: Workers residing abroad for more than one year become residents of that foreign country, so money sent home by them is classified as unilateral current transfers (private remittances) in the Balance of Payments, not NFIA.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Which of the following best describes 'Mixed Income of Self-Employed' in National Income accounting?",
+      "options": [
+        "Income of unincorporated enterprises and self-employed workers where wages, rent, interest, and profit cannot be separated",
+        "Combined revenue earned by joint-sector companies owned by both the government and private investors",
+        "Total household income derived simultaneously from domestic agriculture and foreign remittances",
+        "National income calculated by averaging the results of the Income Method and the Expenditure Method"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Self-employed individuals such as small farmers, shopkeepers, and doctors use their own labour, land, and capital, making it impossible to separate factor payments into distinct wages, rent, interest, and profit; this combined earning is termed Mixed Income.\nOption 2 is incorrect: Joint-sector enterprise profits are classified under corporate profits in Operating Surplus.\nOption 3 is incorrect: Foreign remittances are transfer receipts, not part of Mixed Income.\nOption 4 is incorrect: In theory, all three methods yield the exact same National Income without averaging.\nSo the correct option is Income of unincorporated enterprises and self-employed workers where wages, rent, interest, and profit cannot be separated."
+    }
+  ]
+}

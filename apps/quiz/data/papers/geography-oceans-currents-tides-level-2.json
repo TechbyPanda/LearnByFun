@@ -1,0 +1,68 @@
+{
+  "id": "geography-oceans-currents-tides-level-2",
+  "name": "Geography – Oceans, Currents & Tides (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["oceanography", "ocean-currents", "tides", "salinity", "ocean-relief"],
+  "questions": [
+    {
+      "question": "The average salinity of ocean water is about:",
+      "options": ["5 parts per thousand", "35 parts per thousand", "100 parts per thousand", "350 parts per thousand"],
+      "answer": 1,
+      "explanation": "On average, 1,000 grams of sea water contain about 35 grams of dissolved salts, so the average salinity is 35 parts per thousand. The other figures are far too low or far too high for the open ocean."
+    },
+    {
+      "question": "The falling of the tide, when sea water moves back away from the shore, is called:",
+      "options": ["Flood tide", "Spring tide", "Tidal bore", "Ebb tide"],
+      "answer": 3,
+      "explanation": "When the water level falls and the sea moves back from the shore, it is called the ebb. The flood (or flow) tide is the rising water moving towards the land, and a spring tide is an extra-high tide on full moon and new moon days."
+    },
+    {
+      "question": "Which of the following is a cold ocean current?",
+      "options": ["Labrador Current", "Gulf Stream", "Kuroshio Current", "Agulhas Current"],
+      "answer": 0,
+      "explanation": "The Labrador Current is a cold current that flows south from the Arctic along the east coast of Canada. The Gulf Stream, the Kuroshio and the Agulhas are all warm currents that carry water away from the tropics."
+    },
+    {
+      "question": "The Gulf Stream is a warm ocean current of the:",
+      "options": ["Indian Ocean", "South Pacific Ocean", "North Atlantic Ocean", "Arctic Ocean"],
+      "answer": 2,
+      "explanation": "The Gulf Stream flows from the Gulf of Mexico along the east coast of North America in the North Atlantic Ocean. It does not flow in the Indian, Pacific or Arctic Oceans."
+    },
+    {
+      "question": "The gently sloping, shallow part of the sea floor that extends outward from the edge of a continent is called the:",
+      "options": ["Abyssal plain", "Continental shelf", "Oceanic trench", "Mid-oceanic ridge"],
+      "answer": 1,
+      "explanation": "The continental shelf is the shallow, gently sloping submerged edge of a continent. The abyssal plain is the deep flat ocean floor, a trench is a very deep narrow ditch, and a mid-oceanic ridge is an underwater mountain chain."
+    },
+    {
+      "question": "Coral reefs are built by:",
+      "options": ["Tiny marine animals called coral polyps", "Seaweeds", "Undersea volcanoes", "Shoals of fish"],
+      "answer": 0,
+      "explanation": "Coral polyps are tiny sea animals that make hard skeletons of calcium carbonate; over a very long time these skeletons pile up to form reefs. Seaweeds, volcanoes and fish do not build coral reefs."
+    },
+    {
+      "question": "The long chain of underwater mountains running north to south through the middle of the Atlantic Ocean is called the:",
+      "options": ["Mariana Trench", "Great Barrier Reef", "Continental slope", "Mid-Atlantic Ridge"],
+      "answer": 3,
+      "explanation": "The Mid-Atlantic Ridge is a long mountain chain on the floor of the Atlantic Ocean. The Mariana Trench is a deep trench in the Pacific, the Great Barrier Reef is a coral reef, and the continental slope is the steep edge beyond the continental shelf."
+    },
+    {
+      "question": "The Great Barrier Reef, the world's largest coral reef system, lies off the coast of:",
+      "options": ["India", "Brazil", "Australia", "South Africa"],
+      "answer": 2,
+      "explanation": "The Great Barrier Reef lies in the Coral Sea off the north-east coast of Australia (Queensland). It is not found near India, Brazil or South Africa."
+    },
+    {
+      "question": "Waves on the surface of the ocean are formed mainly by:",
+      "options": ["The gravitational pull of the Moon", "Winds blowing over the water surface", "The rotation of the Earth", "Rivers flowing into the sea"],
+      "answer": 1,
+      "explanation": "Waves form when winds blow over the sea surface; the stronger the wind, the bigger the waves. The Moon's pull causes tides, not ordinary waves, and rivers and the Earth's rotation do not create waves."
+    },
+    {
+      "question": "The area near Newfoundland, where the warm Gulf Stream meets the cold Labrador Current, is famous for its:",
+      "options": ["Rich fishing grounds", "Coral reefs", "Hot deserts", "Deep ocean trenches"],
+      "answer": 0,
+      "explanation": "Where warm and cold currents meet, the mixing water is rich in plankton, the food of fish, so such areas (like the Grand Banks near Newfoundland) are among the world's best fishing grounds. Corals need warm water, and deserts and trenches are not formed this way."
+    }
+  ]
+}

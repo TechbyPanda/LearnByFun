@@ -1,0 +1,68 @@
+{
+  "id": "geography-earth-interior-rocks-level-2",
+  "name": "Geography – Earth Interior & Rocks (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["earth-interior", "rocks", "rock-cycle", "weathering", "plate-tectonics"],
+  "questions": [
+    {
+      "question": "Who put forward the Continental Drift Theory?",
+      "options": ["Charles Darwin", "Alfred Wegener", "Isaac Newton", "Arthur Holmes"],
+      "answer": 1,
+      "explanation": "Alfred Wegener, a German scientist, proposed in 1912 that the continents were once joined together and later drifted apart. Arthur Holmes is known for the idea of convection currents in the mantle, Darwin for evolution and Newton for gravitation."
+    },
+    {
+      "question": "When two tectonic plates move away from each other, the boundary formed is called a:",
+      "options": ["Divergent boundary", "Convergent boundary", "Transform boundary", "Fold boundary"],
+      "answer": 0,
+      "explanation": "Plates moving apart form a divergent boundary. At a convergent boundary plates come towards each other, and at a transform boundary they slide horizontally past each other."
+    },
+    {
+      "question": "The Himalayas were formed when the Indo-Australian plate collided with the:",
+      "options": ["African plate", "Pacific plate", "Eurasian plate", "Antarctic plate"],
+      "answer": 2,
+      "explanation": "The Indo-Australian plate drifted northwards and collided with the much larger Eurasian plate. The sediments of the Tethys Sea lying between them were folded to form the Himalayas."
+    },
+    {
+      "question": "The ancient southern landmass that included India, Australia, South Africa, South America and Antarctica was called:",
+      "options": ["Laurasia", "Angaraland", "Tethys", "Gondwana land"],
+      "answer": 3,
+      "explanation": "Gondwana land was the southern part of the old super-continent and included India. Laurasia (Angaraland) was the northern landmass, and Tethys was the sea between the two."
+    },
+    {
+      "question": "Which layer of the Earth lies between the crust and the core?",
+      "options": ["Lithosphere", "Mantle", "Atmosphere", "Hydrosphere"],
+      "answer": 1,
+      "explanation": "The mantle lies just below the crust and extends down to about 2,900 km, where the core begins. The lithosphere is the rigid outer shell (crust plus uppermost mantle), while the atmosphere and hydrosphere are the air and water spheres."
+    },
+    {
+      "question": "Which of the following is an intrusive igneous rock, formed when magma cools slowly deep inside the Earth?",
+      "options": ["Granite", "Basalt", "Limestone", "Slate"],
+      "answer": 0,
+      "explanation": "Granite forms when magma cools slowly deep inside the crust, giving it large grains, so it is intrusive. Basalt is extrusive (formed from lava on the surface), limestone is sedimentary and slate is metamorphic."
+    },
+    {
+      "question": "The Deccan Trap region of Peninsular India is mainly made up of which rock?",
+      "options": ["Granite", "Sandstone", "Basalt", "Marble"],
+      "answer": 2,
+      "explanation": "The Deccan Trap is of volcanic origin, built by layers of lava that cooled into basalt. This igneous rock later weathered to give the black soil of the region."
+    },
+    {
+      "question": "In igneous and metamorphic rocks, minerals generally occur in:",
+      "options": ["Beds and layers", "Placer deposits", "Ocean nodules", "Veins and lodes"],
+      "answer": 3,
+      "explanation": "In igneous and metamorphic rocks minerals fill cracks, crevices, faults and joints; the smaller ones are called veins and the larger ones lodes. Beds and layers are typical of sedimentary rocks, and placer deposits are found in the sands of valley floors."
+    },
+    {
+      "question": "Which metamorphic rock is formed from clay or shale?",
+      "options": ["Marble", "Slate", "Granite", "Sandstone"],
+      "answer": 1,
+      "explanation": "Clay or shale changes into slate under heat and pressure. Marble comes from limestone, while granite is an igneous rock and sandstone is a sedimentary rock."
+    },
+    {
+      "question": "The breaking of rocks into smaller pieces by temperature changes and frost, without any change in their chemical make-up, is called:",
+      "options": ["Physical weathering", "Chemical weathering", "Deposition", "Sedimentation"],
+      "answer": 0,
+      "explanation": "Physical (mechanical) weathering only breaks rocks into smaller pieces; the minerals remain the same. Chemical weathering changes the minerals themselves, as in rusting or dissolving, and deposition and sedimentation are about laying material down, not breaking rock."
+    }
+  ]
+}

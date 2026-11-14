@@ -1,0 +1,68 @@
+{
+  "id": "geography-world-mapping-straits-seas-lakes-level-1",
+  "name": "Geography – World Mapping: Straits, Seas & Lakes (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["world-mapping", "straits", "seas", "lakes", "rivers-of-the-world"],
+  "questions": [
+    {
+      "question": "Which is the largest continent in the world?",
+      "options": ["Africa", "Asia", "Europe", "Australia"],
+      "answer": 1,
+      "explanation": "Asia is the largest continent, covering about one-third of the world's land. Africa is second, while Europe and Australia are much smaller (Australia is the smallest)."
+    },
+    {
+      "question": "Which strait separates India from Sri Lanka?",
+      "options": ["Bering Strait", "Strait of Gibraltar", "Strait of Dover", "Palk Strait"],
+      "answer": 3,
+      "explanation": "The narrow Palk Strait lies between Tamil Nadu in India and northern Sri Lanka. The Bering Strait is between Asia and North America, Gibraltar is between Europe and Africa, and Dover is between Britain and France."
+    },
+    {
+      "question": "The Suez Canal connects the Mediterranean Sea with the:",
+      "options": ["Red Sea", "Black Sea", "Caspian Sea", "Baltic Sea"],
+      "answer": 0,
+      "explanation": "The Suez Canal in Egypt joins the Mediterranean Sea to the Red Sea, giving ships a short route between Europe and Asia. The Black, Caspian and Baltic Seas are far from the canal."
+    },
+    {
+      "question": "Which river flows through Egypt?",
+      "options": ["Amazon", "Ganga", "Nile", "Yangtze"],
+      "answer": 2,
+      "explanation": "The Nile flows north through Egypt and falls into the Mediterranean Sea. The Amazon is in South America, the Ganga in India and the Yangtze in China."
+    },
+    {
+      "question": "The Sahara Desert is located in which continent?",
+      "options": ["Asia", "Australia", "South America", "Africa"],
+      "answer": 3,
+      "explanation": "The Sahara, the world's largest hot desert, spreads across northern Africa. It is not in Asia, Australia or South America, though these continents have their own deserts."
+    },
+    {
+      "question": "Which of these neighbours of India is a landlocked country (has no sea coast)?",
+      "options": ["Nepal", "Sri Lanka", "Maldives", "Bangladesh"],
+      "answer": 0,
+      "explanation": "Nepal is surrounded by land on all sides, by India and China. Sri Lanka and Maldives are island countries, and Bangladesh has a coast on the Bay of Bengal."
+    },
+    {
+      "question": "Which continent is also called the 'island continent'?",
+      "options": ["Africa", "Europe", "Australia", "Antarctica"],
+      "answer": 2,
+      "explanation": "Australia is the smallest continent and is surrounded by oceans and seas on all sides, so it is called the island continent. Africa and Europe are joined to other landmasses, and Antarctica is known as the frozen continent."
+    },
+    {
+      "question": "The Panama Canal connects which two oceans?",
+      "options": ["Indian and Pacific", "Atlantic and Pacific", "Atlantic and Indian", "Arctic and Atlantic"],
+      "answer": 1,
+      "explanation": "The Panama Canal cuts across the narrow country of Panama in Central America and joins the Atlantic Ocean with the Pacific Ocean. The Indian and Arctic Oceans are nowhere near it."
+    },
+    {
+      "question": "The Andes mountains are found in which continent?",
+      "options": ["South America", "Europe", "Africa", "Asia"],
+      "answer": 0,
+      "explanation": "The Andes run along the western side of South America. Europe has the Alps, Africa has the Atlas mountains and Asia has the Himalayas."
+    },
+    {
+      "question": "The Prime Meridian (0° longitude) passes through Greenwich, which is in:",
+      "options": ["India", "Japan", "Brazil", "United Kingdom"],
+      "answer": 3,
+      "explanation": "Greenwich is near London in the United Kingdom, and the 0° longitude line passing through it is called the Prime Meridian. It does not pass through India, Japan or Brazil."
+    }
+  ]
+}

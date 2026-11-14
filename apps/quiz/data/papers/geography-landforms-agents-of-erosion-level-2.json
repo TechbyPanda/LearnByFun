@@ -1,0 +1,68 @@
+{
+  "id": "geography-landforms-agents-of-erosion-level-2",
+  "name": "Geography – Landforms & Agents of Erosion (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["landforms", "rivers", "glaciers", "deserts", "karst-and-coasts"],
+  "questions": [
+    {
+      "question": "A deep, narrow V-shaped valley is typically carved by:",
+      "options": ["A glacier moving down a mountain", "A river in its upper (mountain) course", "Wind blowing over a desert", "Sea waves striking a coast"],
+      "answer": 1,
+      "explanation": "In the mountains a river flows fast and cuts downwards, making a V-shaped valley. A glacier makes a wide U-shaped valley instead."
+    },
+    {
+      "question": "A wide U-shaped valley with steep sides and a flat floor is carved by:",
+      "options": ["A glacier", "A river", "Wind", "Underground water"],
+      "answer": 0,
+      "explanation": "A glacier scrapes both the floor and the sides of a valley, giving it a U shape. A river cuts a V-shaped valley, which is the usual mix-up."
+    },
+    {
+      "question": "Loess is fine dust carried and deposited by wind over large areas. Very large deposits of loess are found in:",
+      "options": ["Brazil", "Sri Lanka", "Indonesia", "China"],
+      "answer": 3,
+      "explanation": "Wind carries very fine, light particles over long distances and drops them as loess; the largest deposits are in China. The other three countries are not known for loess."
+    },
+    {
+      "question": "Stalactites and stalagmites are features found in:",
+      "options": ["Sandy deserts", "River deltas", "Limestone caves", "Glacial valleys"],
+      "answer": 2,
+      "explanation": "Water dripping in limestone caves leaves behind lime that builds stalactites (hanging from the roof) and stalagmites (rising from the floor). They are made by underground water, not by wind, rivers or ice."
+    },
+    {
+      "question": "The raised banks built along a river by sediments deposited during floods are called:",
+      "options": ["Levees", "Moraines", "Sea cliffs", "Dunes"],
+      "answer": 0,
+      "explanation": "When a river floods, it drops sediments along its banks, building raised banks called levees. Moraines are glacial deposits and dunes are made by wind."
+    },
+    {
+      "question": "When the roof of a sea arch collapses, the wall-like pillar of rock left standing in the sea is called a:",
+      "options": ["Beach", "Lagoon", "Delta", "Stack"],
+      "answer": 3,
+      "explanation": "Sea waves first cut caves, then arches; when the arch roof falls, only a pillar called a stack remains. A beach and a delta are made by deposition, not erosion."
+    },
+    {
+      "question": "Which of the following is an example of a block mountain?",
+      "options": ["The Himalayas", "The Alps", "The Vosges", "Mount Kilimanjaro"],
+      "answer": 2,
+      "explanation": "The Vosges in Europe is a block mountain, formed when a block of land was lifted between faults. The Himalayas and the Alps are fold mountains and Kilimanjaro is a volcanic mountain."
+    },
+    {
+      "question": "The Aravalli range of India is an example of:",
+      "options": ["Young fold mountains", "Old fold mountains", "Volcanic mountains", "Coral hills"],
+      "answer": 1,
+      "explanation": "The Aravallis are one of the oldest fold mountain systems in the world and have been worn down by erosion. The Himalayas are the young fold mountains."
+    },
+    {
+      "question": "Near its mouth a river often splits into several small channels. These channels are called:",
+      "options": ["Tributaries", "Meanders", "Rapids", "Distributaries"],
+      "answer": 3,
+      "explanation": "Distributaries carry water away from the main river as it nears the sea, and they help build the delta. Tributaries do the opposite: they join and add water to the main river."
+    },
+    {
+      "question": "Chilika Lake on the coast of Odisha is an example of a:",
+      "options": ["Lagoon", "Crater lake", "Ox-bow lake", "Glacial lake"],
+      "answer": 0,
+      "explanation": "Chilika is a lagoon, a stretch of salt water cut off from the sea by a bar of sand. It was not formed by a volcano, a river loop or a glacier."
+    }
+  ]
+}

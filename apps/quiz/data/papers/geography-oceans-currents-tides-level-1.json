@@ -1,0 +1,68 @@
+{
+  "id": "geography-oceans-currents-tides-level-1",
+  "name": "Geography – Oceans, Currents & Tides (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["oceanography", "ocean-currents", "tides", "salinity", "ocean-relief"],
+  "questions": [
+    {
+      "question": "Which is the largest ocean in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "answer": 2,
+      "explanation": "The Pacific Ocean is the largest ocean and covers about one-third of the Earth's surface. The Atlantic is second, the Indian Ocean third, and the Arctic is the smallest."
+    },
+    {
+      "question": "Which is the smallest ocean in the world?",
+      "options": ["Arctic Ocean", "Pacific Ocean", "Atlantic Ocean", "Indian Ocean"],
+      "answer": 0,
+      "explanation": "The Arctic Ocean, which lies around the North Pole, is the smallest ocean. The Pacific, Atlantic and Indian Oceans are all much bigger."
+    },
+    {
+      "question": "The regular rise and fall of ocean water twice a day is called a:",
+      "options": ["Wave", "Current", "Tsunami", "Tide"],
+      "answer": 3,
+      "explanation": "The rhythmic rise and fall of sea water twice a day is called a tide. Waves are made by wind, currents are flowing streams of ocean water, and a tsunami is a rare giant wave caused by an earthquake."
+    },
+    {
+      "question": "Which of the following is the deepest part of the world's oceans?",
+      "options": ["Grand Canyon", "Mariana Trench", "Dead Sea", "Lake Baikal"],
+      "answer": 1,
+      "explanation": "The Mariana Trench in the Pacific Ocean is the deepest part of the oceans, about 11 km deep. The Grand Canyon is a river valley on land, and the Dead Sea and Lake Baikal are lakes, not parts of the ocean."
+    },
+    {
+      "question": "Tides in the ocean are caused mainly by the pull (gravity) of the:",
+      "options": ["Sun and the Moon", "Stars", "Clouds", "Planet Mars"],
+      "answer": 0,
+      "explanation": "The gravitational pull of the Moon and the Sun on the Earth's water causes tides. Stars and other planets are too far away, and clouds have nothing to do with tides."
+    },
+    {
+      "question": "A giant sea wave caused by an earthquake under the sea is called a:",
+      "options": ["Tide", "Cyclone", "Tsunami", "Current"],
+      "answer": 2,
+      "explanation": "A tsunami is a huge wave set off by an undersea earthquake, volcanic eruption or landslide. A tide is the daily rise and fall of the sea, a cyclone is a storm, and a current is a flowing stream of ocean water."
+    },
+    {
+      "question": "Ocean water tastes salty mainly because it contains a large amount of:",
+      "options": ["Sugar", "Iron", "Sand", "Sodium chloride (common salt)"],
+      "answer": 3,
+      "explanation": "Most of the salt dissolved in sea water is sodium chloride, the same common salt we eat. Sugar, iron and sand are not what make the sea salty."
+    },
+    {
+      "question": "Which is the only ocean named after a country?",
+      "options": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+      "answer": 1,
+      "explanation": "The Indian Ocean is named after India and is the only ocean named after a country. The Pacific, Atlantic and Arctic Oceans are not named after any country."
+    },
+    {
+      "question": "Streams of water that flow constantly on the ocean surface in a definite direction are called:",
+      "options": ["Tides", "Glaciers", "Ocean currents", "Rivers"],
+      "answer": 2,
+      "explanation": "Ocean currents are streams of water moving steadily in a fixed direction through the ocean. Tides are the rise and fall of the sea, while glaciers and rivers are found on land."
+    },
+    {
+      "question": "The very high tides that occur on full moon and new moon days are called:",
+      "options": ["Neap tides", "Low tides", "Ebb tides", "Spring tides"],
+      "answer": 3,
+      "explanation": "On full moon and new moon days the Sun, the Moon and the Earth are in a line, so the pull is strongest and the tides are highest. These are spring tides. Neap tides are the weak tides that come when the Moon is in its first and last quarter."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "geography-earth-interior-rocks-level-1",
+  "name": "Geography – Earth Interior & Rocks (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["earth-interior", "rocks", "rock-cycle", "weathering", "plate-tectonics"],
+  "questions": [
+    {
+      "question": "What is the outermost layer of the Earth called?",
+      "options": ["Crust", "Mantle", "Core", "Magma"],
+      "answer": 0,
+      "explanation": "The crust is the thin outermost layer on which we live. The mantle lies below it and the core is at the centre; magma is molten rock, not a layer."
+    },
+    {
+      "question": "The core of the Earth is mainly made up of:",
+      "options": ["Sand and clay", "Ice and water", "Nickel and iron", "Coal and salt"],
+      "answer": 2,
+      "explanation": "The core is made mainly of nickel (Ni) and iron (Fe), so it is called 'nife'. Sand, clay, water, coal and salt are found on or near the surface, not at the centre of the Earth."
+    },
+    {
+      "question": "Rocks formed by the cooling and hardening of molten magma are called:",
+      "options": ["Sedimentary rocks", "Igneous rocks", "Metamorphic rocks", "Fossil rocks"],
+      "answer": 1,
+      "explanation": "Igneous rocks form when hot molten magma cools and becomes solid; they are also called primary rocks. Sedimentary rocks form from deposited sediments, and metamorphic rocks form when other rocks change under heat and pressure."
+    },
+    {
+      "question": "Which of the following is a sedimentary rock?",
+      "options": ["Granite", "Basalt", "Marble", "Sandstone"],
+      "answer": 3,
+      "explanation": "Sandstone is made from grains of sand pressed and hardened together, so it is sedimentary. Granite and basalt are igneous rocks, and marble is a metamorphic rock."
+    },
+    {
+      "question": "Under great heat and pressure, limestone changes into:",
+      "options": ["Marble", "Coal", "Sandstone", "Basalt"],
+      "answer": 0,
+      "explanation": "Limestone (a sedimentary rock) changes into marble, a metamorphic rock, under heat and pressure. Basalt is igneous, sandstone is sedimentary, and coal forms from buried plant remains."
+    },
+    {
+      "question": "The radius of the Earth is about:",
+      "options": ["637 km", "6,371 km", "63,710 km", "100 km"],
+      "answer": 1,
+      "explanation": "The radius of the Earth is about 6,371 km. This is why even the deepest mines and drills have only scratched the crust and nobody has reached the centre of the Earth."
+    },
+    {
+      "question": "Fossils (remains of dead plants and animals trapped in rock layers) are mostly found in:",
+      "options": ["Igneous rocks", "Metamorphic rocks", "Sedimentary rocks", "Molten magma"],
+      "answer": 2,
+      "explanation": "Sedimentary rocks form layer by layer, so dead plants and animals get buried and preserved in them as fossils. The great heat of magma, igneous rocks and metamorphic rocks would destroy such remains."
+    },
+    {
+      "question": "The process by which one type of rock changes into another type in a continuous cycle is called the:",
+      "options": ["Water cycle", "Carbon cycle", "Nitrogen cycle", "Rock cycle"],
+      "answer": 3,
+      "explanation": "In the rock cycle, igneous rocks break down into sediments that form sedimentary rocks, heat and pressure turn rocks into metamorphic rocks, and melting turns them back into magma. The other cycles are about water, carbon and nitrogen."
+    },
+    {
+      "question": "The hot molten material found beneath the Earth's surface is called:",
+      "options": ["Magma", "Humus", "Silt", "Fossil"],
+      "answer": 0,
+      "explanation": "Molten rock inside the Earth is called magma; when it comes out on the surface it is called lava. Humus and silt are parts of soil, and a fossil is the preserved remains of a living thing."
+    },
+    {
+      "question": "The breaking up of rocks on the Earth's surface is called:",
+      "options": ["Evaporation", "Condensation", "Weathering", "Rotation"],
+      "answer": 2,
+      "explanation": "Weathering is the breaking up of rocks on the Earth's surface by heat, frost, water, plants and so on. Evaporation and condensation are steps of the water cycle, and rotation is the spinning of the Earth."
+    }
+  ]
+}

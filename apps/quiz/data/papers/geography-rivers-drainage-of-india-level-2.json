@@ -1,0 +1,68 @@
+{
+  "id": "geography-rivers-drainage-of-india-level-2",
+  "name": "Geography – Rivers & Drainage of India (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["indian-drainage", "himalayan-rivers", "peninsular-rivers", "lakes", "dams"],
+  "questions": [
+    {
+      "question": "By what name is the Brahmaputra known in Tibet?",
+      "options": ["Tsangpo", "Meghna", "Padma", "Hooghly"],
+      "answer": 0,
+      "explanation": "In Tibet the Brahmaputra is called the Tsangpo. The Padma and the Meghna are names used in Bangladesh for the Ganga and the combined stream, and the Hooghly is a distributary of the Ganga in West Bengal."
+    },
+    {
+      "question": "The Bhagirathi and the Alaknanda join to form the Ganga at:",
+      "options": ["Haridwar", "Rishikesh", "Devprayag", "Prayagraj (Allahabad)"],
+      "answer": 2,
+      "explanation": "The two headstreams meet at Devprayag in Uttarakhand, and the river is called the Ganga from there. Haridwar is where the Ganga enters the plains, and Prayagraj is where the Yamuna joins it."
+    },
+    {
+      "question": "Which is the longest river of peninsular India, also known as the 'Dakshin Ganga'?",
+      "options": ["Krishna", "Godavari", "Kaveri", "Mahanadi"],
+      "answer": 1,
+      "explanation": "The Godavari, about 1,500 km long, is the longest peninsular river and is called the Dakshin Ganga because of its length and the area it covers. The Krishna is the second longest, while the Kaveri and the Mahanadi are shorter."
+    },
+    {
+      "question": "The Narmada river rises in the:",
+      "options": ["Nasik district of Maharashtra", "Betul district of Madhya Pradesh", "Brahmagiri range of Karnataka", "Amarkantak hills of Madhya Pradesh"],
+      "answer": 3,
+      "explanation": "The Narmada rises in the Amarkantak hills of Madhya Pradesh. The Godavari rises in Nasik district, the Tapi in Betul district and the Kaveri in the Brahmagiri range."
+    },
+    {
+      "question": "Instead of deltas, the Narmada and the Tapi form which feature at their mouths?",
+      "options": ["Lagoons", "Estuaries", "Ox-bow lakes", "Glaciers"],
+      "answer": 1,
+      "explanation": "The Narmada and the Tapi flow swiftly through rift valleys and carry little silt, so they form estuaries instead of deltas. Lagoons are coastal lakes cut off by sand bars and ox-bow lakes are formed by meandering rivers in the plains."
+    },
+    {
+      "question": "Which river is known as the 'Sorrow of Bihar' because of its frequent floods?",
+      "options": ["Kosi", "Son", "Chambal", "Sutlej"],
+      "answer": 0,
+      "explanation": "The Kosi comes down from Nepal, often changes its course and floods large parts of Bihar, which gives it this name. The Son and the Chambal come from the peninsular uplands, and the Sutlej flows in the north-west."
+    },
+    {
+      "question": "A drainage pattern in which the streams look like the branches of a tree is called:",
+      "options": ["Radial", "Trellis", "Rectangular", "Dendritic"],
+      "answer": 3,
+      "explanation": "In a dendritic pattern the tributaries join the main river like the branches of a tree, following the slope of the land. In a radial pattern streams flow outwards from a central peak, and a trellis pattern has tributaries joining at right angles."
+    },
+    {
+      "question": "Which is the largest freshwater lake in India, formed as a result of tectonic activity?",
+      "options": ["Chilika Lake", "Sambhar Lake", "Wular Lake", "Pulicat Lake"],
+      "answer": 2,
+      "explanation": "Wular Lake in Jammu and Kashmir is the largest freshwater lake in India and was formed by tectonic activity. Chilika and Pulicat are coastal lagoons and Sambhar is a salt-water lake."
+    },
+    {
+      "question": "Sambhar Lake, whose water is used for producing salt, is located in:",
+      "options": ["Rajasthan", "Kerala", "Manipur", "Uttarakhand"],
+      "answer": 0,
+      "explanation": "Sambhar is a salt-water lake in Rajasthan, a region of inland drainage. Kerala has coastal backwaters, Manipur has the freshwater Loktak Lake and Uttarakhand has freshwater lakes such as Nainital and Bhimtal."
+    },
+    {
+      "question": "The Bhakra Nangal project has been built on which river?",
+      "options": ["Mahanadi", "Krishna", "Narmada", "Sutlej"],
+      "answer": 3,
+      "explanation": "The Bhakra Nangal project is on the Sutlej. The Hirakud dam is on the Mahanadi, Nagarjuna Sagar is on the Krishna and Sardar Sarovar is on the Narmada."
+    }
+  ]
+}

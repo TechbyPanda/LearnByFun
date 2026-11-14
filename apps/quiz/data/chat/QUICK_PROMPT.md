@@ -5,7 +5,10 @@ For full UPSC-style questions use `CHATBOT_PROMPT.md` instead.
 
 Copy everything inside the box below, change the lines at the top, and paste it into the chatbot.
 When it answers, use the chatbot's **"Copy code"** button on the code block (don't select the text by hand),
-paste it into a new file here named `<id>.json` (the `id` from its answer), and refresh the app.
+save it as `apps/quiz/data/papers/<id>.json` (the `id` is in its answer), and refresh the app.
+
+For more papers in the same chat, don't paste the prompt again. Send only what changes, for example:
+`Next paper. Same rules. TOPIC: Polity - Emergency Provisions (Articles 352-360)`
 
 **PATTERNS**: keep the ones you want, delete the rest (or write `all`):
 
@@ -45,6 +48,7 @@ OUTPUT RULES (very important, the output is loaded directly by an app):
 - It must be valid JSON that JSON.parse accepts. No comments, no trailing commas.
 - Do NOT escape characters Markdown-style. Never write \. or \- or \* or \\n. The only escapes allowed are \n (a line break inside a string) and \" (a double quote inside a string). Prefer single quotes inside text.
 - No source citations or reference markers like [1] or [2, 3] anywhere.
+- No letters or numbers in front of options ("(a)", "A.", "1)"). The app adds them.
 
 FORMAT:
 {
@@ -64,7 +68,7 @@ FORMAT:
 
 FIELD RULES:
 - "name": "<Subject> – Quick Revision: <Theme>" (for example "Polity – Quick Revision: Emergency Provisions"). Never a generic name.
-- "id": the name in lowercase with words joined by hyphens, letters, digits and hyphens only (for example "polity-quick-revision-emergency-provisions").
+- "id": the name in lowercase, with every run of characters that are not letters or digits replaced by one hyphen (for example "polity-quick-revision-emergency-provisions").
 - All tags and subtags are lowercase, words joined by hyphens.
 - "tags": first the subject, exactly one of: polity, economy, history, geography, environment, science-tech, art-culture, international-relations, current-affairs. Then always "quick-revision". Then add SOURCE TAG if it is not "none".
 - "subtags": 2 to 5 topics covered: the topic first, then key sub-themes.
@@ -73,9 +77,13 @@ FIELD RULES:
 
 CONTENT RULES:
 - Keep questions SHORT: at most about 25 words (spot-the-change: the question line is short, the options carry the text).
-- Spread the correct answers evenly across 0, 1, 2 and 3.
+- ANSWER KEY FIRST: before writing any question, decide the "answer" index of every question. Use each of 0, 1, 2 and 3 about equally, in no pattern, and never the same index more than twice in a row. Then place each correct option at its planned position.
+- In explanations, refer to options by their text, never by position ("Option 2", "(b)").
 - Wrong options must be the confusions students really make: neighbouring Articles (14/15/16, 352/356/360), similar terms, close numbers.
 - Explanation: 1-2 short lines. State the correct fact, then briefly what the confusing options actually are (for example "352 = National Emergency, 360 = Financial Emergency"). This is how the student memorises.
 - Cover different facts. Don't ask the same fact twice in different patterns.
 - Only use facts you are certain of. For spot-the-change, use the exact constitutional or official wording. If you're unsure of the exact wording, use another pattern.
+
+SELF-CHECK (do this silently before answering, don't print it):
+Answer each question again from scratch and confirm the option at the "answer" index is the only correct one. Count how many times each "answer" index is used and fix the paper if any index has more than 4 in every 10 questions. Then check the JSON: the number of questions asked for, 4 different options each, "answer" between 0 and 3.
 ````

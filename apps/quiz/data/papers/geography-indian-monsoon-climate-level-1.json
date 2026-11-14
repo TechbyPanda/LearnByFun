@@ -1,0 +1,68 @@
+{
+  "id": "geography-indian-monsoon-climate-level-1",
+  "name": "Geography – Indian Monsoon & Climate (Level 1)",
+  "tags": ["geography", "level-1"],
+  "subtags": ["indian-climate", "monsoon", "seasons", "rainfall-distribution", "local-storms"],
+  "questions": [
+    {
+      "question": "The climate of India is broadly described as which type?",
+      "options": ["Polar type", "Mediterranean type", "Monsoon type", "Equatorial type"],
+      "answer": 2,
+      "explanation": "India has a monsoon type of climate, because its weather is controlled by winds that change direction with the seasons. Polar, Mediterranean and equatorial climates belong to other parts of the world."
+    },
+    {
+      "question": "The word 'monsoon' comes from the Arabic word 'mausim', which means:",
+      "options": ["Season", "Mountain", "Ocean", "Desert"],
+      "answer": 0,
+      "explanation": "'Mausim' means season. The monsoon winds are named so because they reverse their direction with the change of season; the word has nothing to do with mountains, oceans or deserts."
+    },
+    {
+      "question": "Which of the following places receives the highest rainfall in India?",
+      "options": ["Jaisalmer", "Leh", "Chennai", "Mawsynram"],
+      "answer": 3,
+      "explanation": "Mawsynram in Meghalaya receives the highest rainfall in India (and the world). Jaisalmer and Leh are among the driest places, and Chennai gets only moderate rain."
+    },
+    {
+      "question": "The hot and dry wind that blows over the northern plains of India during summer days is called:",
+      "options": ["Blizzard", "Loo", "Sea breeze", "Monsoon"],
+      "answer": 1,
+      "explanation": "The loo is the hot, dry wind of the summer afternoons in north India. A blizzard is a snowstorm, a sea breeze is cool and blows on the coast, and the monsoon winds bring rain."
+    },
+    {
+      "question": "In which state does the monsoon first arrive on the Indian mainland?",
+      "options": ["Kerala", "Punjab", "Rajasthan", "Uttar Pradesh"],
+      "answer": 0,
+      "explanation": "The south-west monsoon reaches Kerala first, around the beginning of June, and then moves northwards. Punjab, Rajasthan and Uttar Pradesh get the monsoon several weeks later."
+    },
+    {
+      "question": "The cold weather season (winter) in India lasts during which months?",
+      "options": ["March to May", "June to September", "December to February", "August to October"],
+      "answer": 2,
+      "explanation": "Winter in India is from December to February. March to May is the hot weather season and June to September is the rainy season."
+    },
+    {
+      "question": "The south-west monsoon winds bring rain to India because they blow from:",
+      "options": ["Land to sea", "Sea to land", "Mountains to plains", "Deserts to forests"],
+      "answer": 1,
+      "explanation": "These winds blow from the Arabian Sea and the Bay of Bengal towards the land, so they carry a lot of moisture. Winds blowing from land to sea are dry and give little rain."
+    },
+    {
+      "question": "Which of the following regions of India receives very little rainfall?",
+      "options": ["Kerala coast", "Meghalaya", "Assam valley", "Western Rajasthan"],
+      "answer": 3,
+      "explanation": "Western Rajasthan has the Thar Desert and gets very little rain. The Kerala coast, Meghalaya and the Assam valley are among the rainiest parts of India."
+    },
+    {
+      "question": "Which mountain range protects India from the bitterly cold winds of Central Asia?",
+      "options": ["Aravalli Range", "Western Ghats", "The Himalayas", "Vindhya Range"],
+      "answer": 2,
+      "explanation": "The high Himalayas stand like a wall in the north and stop the cold winds from Central Asia. The Aravallis, Western Ghats and Vindhyas lie inside India and are much lower."
+    },
+    {
+      "question": "In which months does the monsoon retreat (go back) from India?",
+      "options": ["January and February", "April and May", "July and August", "October and November"],
+      "answer": 3,
+      "explanation": "October and November form the season of the retreating monsoon, when the rain-bearing winds move back towards the sea. July and August are the peak rainy months, not the retreat."
+    }
+  ]
+}

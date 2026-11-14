@@ -1,0 +1,68 @@
+{
+  "id": "geography-world-mapping-straits-seas-lakes-level-2",
+  "name": "Geography – World Mapping: Straits, Seas & Lakes (Level 2)",
+  "tags": ["geography", "level-2"],
+  "subtags": ["world-mapping", "straits", "seas", "lakes", "rivers-of-the-world"],
+  "questions": [
+    {
+      "question": "The Strait of Gibraltar separates:",
+      "options": ["Asia and Africa", "Asia and Europe", "Europe and Africa", "Europe and North America"],
+      "answer": 2,
+      "explanation": "The Strait of Gibraltar lies between Spain (Europe) and Morocco (Africa) and joins the Atlantic Ocean with the Mediterranean Sea. Asia and Europe are separated by the Bosphorus, and Asia and Africa by the Red Sea and the Suez Canal."
+    },
+    {
+      "question": "Lake Baikal, the deepest lake in the world, is located in:",
+      "options": ["Russia", "Canada", "China", "Tanzania"],
+      "answer": 0,
+      "explanation": "Lake Baikal lies in Siberia, in Russia, and is the world's deepest lake. Canada is known for the Great Lakes and Tanzania for Lakes Victoria and Tanganyika."
+    },
+    {
+      "question": "The Bering Strait separates:",
+      "options": ["Europe and Africa", "Australia and Asia", "North America and South America", "Asia and North America"],
+      "answer": 3,
+      "explanation": "The Bering Strait lies between Russia (Asia) and Alaska (North America) and joins the Arctic Ocean with the Pacific. Europe and Africa are separated by the Strait of Gibraltar, and the two Americas are joined by land at Panama."
+    },
+    {
+      "question": "Which is the largest freshwater lake in the world by surface area?",
+      "options": ["Lake Victoria", "Lake Superior", "Lake Baikal", "Lake Titicaca"],
+      "answer": 1,
+      "explanation": "Lake Superior, on the border of Canada and the USA, is the largest freshwater lake by surface area. Lake Victoria is the largest in Africa, and Lake Baikal is the deepest and holds the most water but has a smaller surface."
+    },
+    {
+      "question": "The Amazon River flows into the:",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Caribbean Sea"],
+      "answer": 0,
+      "explanation": "The Amazon rises in the Andes, flows east across Brazil and enters the Atlantic Ocean. The Andes block its way to the Pacific, which lies to the west."
+    },
+    {
+      "question": "Which is the only continent through which the Equator, the Tropic of Cancer and the Tropic of Capricorn all pass?",
+      "options": ["Asia", "South America", "Africa", "Australia"],
+      "answer": 2,
+      "explanation": "Africa stretches far on both sides of the Equator, so all three lines cross it. Asia is not crossed by the Tropic of Capricorn, South America is not crossed by the Tropic of Cancer, and Australia is crossed only by the Tropic of Capricorn."
+    },
+    {
+      "question": "The Strait of Malacca lies between the Malay Peninsula and the island of:",
+      "options": ["Sri Lanka", "Sumatra", "Borneo", "Java"],
+      "answer": 1,
+      "explanation": "The Strait of Malacca lies between the Malay Peninsula and the Indonesian island of Sumatra and is a very busy shipping route between the Indian and Pacific Oceans. Java lies across the Sunda Strait from Sumatra, and Borneo is further east."
+    },
+    {
+      "question": "Which of the following is a landlocked country?",
+      "options": ["Vietnam", "Thailand", "Malaysia", "Mongolia"],
+      "answer": 3,
+      "explanation": "Mongolia lies between Russia and China and has no sea coast. Vietnam, Thailand and Malaysia all have long coastlines."
+    },
+    {
+      "question": "With which country does India share its longest land border?",
+      "options": ["China", "Pakistan", "Bangladesh", "Nepal"],
+      "answer": 2,
+      "explanation": "India's border with Bangladesh, about 4,096 km long, is its longest. The borders with China, Pakistan and Nepal are all shorter."
+    },
+    {
+      "question": "The Dead Sea lies on the border between:",
+      "options": ["Egypt and Sudan", "Israel and Jordan", "Iran and Iraq", "Turkey and Syria"],
+      "answer": 1,
+      "explanation": "The Dead Sea, a very salty lake lying far below sea level, is bordered by Jordan on the east and Israel and the West Bank on the west. It is not located in the other pairs of countries."
+    }
+  ]
+}

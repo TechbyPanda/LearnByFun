@@ -1,0 +1,68 @@
+{
+  "id": "geography-solar-system-latitudes-longitudes-level-3",
+  "name": "Geography – Solar System, Latitudes & Longitudes (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["earth-and-universe", "solar-system", "latitudes-longitudes", "time-zones", "seasons"],
+  "questions": [
+    {
+      "question": "The Earth is nearest to the Sun (perihelion) around:",
+      "options": ["3 January", "4 July", "21 June", "22 December"],
+      "answer": 0,
+      "explanation": "The Earth is at perihelion (nearest to the Sun) around 3 January and at aphelion (farthest) around 4 July. 21 June and 22 December are the solstices, which depend on the tilt of the axis and not on distance from the Sun."
+    },
+    {
+      "question": "A ship crossing the International Date Line from west to east (sailing from Asia towards America) must:",
+      "options": ["Move its calendar forward by one day", "Move its clock forward by 12 hours", "Move its calendar back by one day", "Make no change to the date"],
+      "answer": 2,
+      "explanation": "Places just west of the Date Line (the Asian side) are a day ahead of places just east of it. So a traveller going eastwards across it repeats a day (calendar goes back by one day), while one going westwards skips a day."
+    },
+    {
+      "question": "Light from the Sun takes approximately how long to reach the Earth?",
+      "options": ["1.3 seconds", "8.3 minutes", "24 minutes", "4.2 years"],
+      "answer": 1,
+      "explanation": "Sunlight takes about 8.3 minutes (roughly 8 minutes 20 seconds) to reach the Earth. About 1.3 seconds is the time for light from the Moon, and about 4.2 years is for light from Proxima Centauri, the nearest star after the Sun."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Mercury – Hottest planet", "Jupiter – Planet with the lowest density", "Mars – Planet with the largest number of moons", "Venus – Rotates from east to west"],
+      "answer": 3,
+      "explanation": "Venus rotates from east to west (retrograde), opposite to most planets. The hottest planet is Venus, not Mercury, because of its thick carbon dioxide atmosphere; the lowest density belongs to Saturn; and Mars has only two moons."
+    },
+    {
+      "question": "When it is 12 noon at Greenwich (0°), the local time at 90°E is:",
+      "options": ["6 a.m.", "6 p.m.", "3 p.m.", "12 midnight"],
+      "answer": 1,
+      "explanation": "The Earth turns 15° every hour, so 90° equals 6 hours. Places to the east are ahead of Greenwich, so the time is 6 p.m. 6 a.m. would be the time at 90°W."
+    },
+    {
+      "question": "The distance on the ground between two consecutive degrees of latitude is approximately:",
+      "options": ["111 km", "96 km", "121 km", "211 km"],
+      "answer": 0,
+      "explanation": "One degree of latitude is about 111 km everywhere, because the parallels are almost evenly spaced. The distance between longitudes, on the other hand, is about 111 km only at the Equator and shrinks to zero at the poles."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Perigee – Moon farthest from the Earth", "Equinox – Longest day of the year", "Aphelion – Earth farthest from the Sun", "Solstice – Equal day and night everywhere"],
+      "answer": 2,
+      "explanation": "Aphelion is the position when the Earth is farthest from the Sun. Perigee is when the Moon is nearest to the Earth (apogee is farthest), an equinox has equal day and night, and a solstice has the longest or shortest day."
+    },
+    {
+      "question": "A total solar eclipse is seen only from places that fall within the Moon's:",
+      "options": ["Penumbra", "Antumbra", "Corona", "Umbra"],
+      "answer": 3,
+      "explanation": "The umbra is the dark central part of the Moon's shadow, where the Sun is fully hidden, so a total eclipse is seen there. In the penumbra only a partial eclipse is seen, the antumbra gives an annular (ring) eclipse, and the corona is the Sun's outer atmosphere, not a shadow."
+    },
+    {
+      "question": "The asteroid belt lies between the orbits of:",
+      "options": ["Earth and Mars", "Mars and Jupiter", "Jupiter and Saturn", "Venus and Earth"],
+      "answer": 1,
+      "explanation": "Most asteroids orbit the Sun in a belt between Mars and Jupiter. This belt also separates the inner rocky (terrestrial) planets from the outer giant (Jovian) planets."
+    },
+    {
+      "question": "The linear speed of the Earth's rotation is greatest at the:",
+      "options": ["Tropic of Cancer", "Arctic Circle", "Equator", "Poles"],
+      "answer": 2,
+      "explanation": "Every place completes one turn in 24 hours, but a point on the Equator has to travel the biggest circle, so it moves fastest (about 1,670 km per hour). The speed falls towards higher latitudes and is almost zero at the poles."
+    }
+  ]
+}

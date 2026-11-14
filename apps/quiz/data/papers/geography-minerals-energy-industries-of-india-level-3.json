@@ -1,0 +1,68 @@
+{
+  "id": "geography-minerals-energy-industries-of-india-level-3",
+  "name": "Geography – Minerals, Energy & Industries of India (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["minerals", "energy-resources", "industries", "coal-and-petroleum", "nuclear-power"],
+  "questions": [
+    {
+      "question": "Which one of the following pairs of steel plant and collaborating country is correctly matched?",
+      "options": ["Bhilai – Soviet Union (Russia)", "Rourkela – United Kingdom", "Durgapur – Germany", "Bokaro – Japan"],
+      "answer": 0,
+      "explanation": "The Bhilai steel plant was set up with Soviet (Russian) help. Rourkela was built with German help, Durgapur with British help, and Bokaro, like Bhilai, with Soviet help."
+    },
+    {
+      "question": "Which one of the following pairs of nuclear power station and state is correctly matched?",
+      "options": ["Narora – Rajasthan", "Rawatbhata – Gujarat", "Kaiga – Karnataka", "Kalpakkam – Kerala"],
+      "answer": 2,
+      "explanation": "Kaiga is in Karnataka. Narora is in Uttar Pradesh, Rawatbhata is in Rajasthan (near Kota) and Kalpakkam is in Tamil Nadu."
+    },
+    {
+      "question": "Which one of the following pairs of place and mineral is correctly matched?",
+      "options": ["Ballari – Bauxite", "Malanjkhand – Copper", "Jharia – Lignite", "Digboi – Mica"],
+      "answer": 1,
+      "explanation": "Malanjkhand in Balaghat district of Madhya Pradesh is a major copper mine. Ballari (Karnataka) is known for iron ore, Jharia (Jharkhand) for bituminous coking coal and Digboi (Assam) for petroleum."
+    },
+    {
+      "question": "Which is the oldest oil field of India?",
+      "options": ["Ankleshwar", "Mumbai High", "Naharkatiya", "Digboi"],
+      "answer": 3,
+      "explanation": "Digboi in Assam is India's oldest oil field, producing since the late 19th century. Naharkatiya (Assam), Ankleshwar (Gujarat) and Mumbai High were all developed after Independence."
+    },
+    {
+      "question": "The Jaduguda mines in Singhbhum district of Jharkhand are known for:",
+      "options": ["Uranium", "Thorium", "Manganese", "Mica"],
+      "answer": 0,
+      "explanation": "Jaduguda is India's best-known uranium mine. Thorium comes mainly from the monazite sands of the Kerala coast, and mica from the Koderma area, so these are easy to mix up but wrong here."
+    },
+    {
+      "question": "Most of the coal reserves of India belong to which geological age?",
+      "options": ["Tertiary", "Cambrian", "Gondwana", "Quaternary"],
+      "answer": 2,
+      "explanation": "Most of India's coal is of Gondwana age and is found in the Damodar, Mahanadi, Godavari and Son valleys, for example at Jharia, Raniganj and Bokaro. Tertiary coal is younger and limited mainly to the north-eastern states and lignite areas."
+    },
+    {
+      "question": "Which was the first nuclear power station to be set up in India?",
+      "options": ["Kalpakkam", "Tarapur", "Rawatbhata", "Narora"],
+      "answer": 1,
+      "explanation": "Tarapur in Maharashtra, commissioned in 1969, was India's first nuclear power station. Rawatbhata, Kalpakkam and Narora came later."
+    },
+    {
+      "question": "The Bailadila iron ore mines are located in:",
+      "options": ["Odisha", "Jharkhand", "Karnataka", "Chhattisgarh"],
+      "answer": 3,
+      "explanation": "Bailadila is in the Bastar region (Dantewada district) of Chhattisgarh and yields very high-grade haematite. Odisha, Jharkhand and Karnataka also have iron ore belts, but Bailadila is not in them."
+    },
+    {
+      "question": "The steel plant at Jamshedpur gets its water from which pair of rivers?",
+      "options": ["Damodar and Barakar", "Koel and Sankh", "Subarnarekha and Kharkai", "Mahanadi and Tel"],
+      "answer": 2,
+      "explanation": "Jamshedpur stands at the meeting point of the Subarnarekha and Kharkai rivers, which supply water to the Tata steel plant. The Koel and Sankh serve Rourkela, and the Damodar valley has other steel plants such as Bokaro and Durgapur."
+    },
+    {
+      "question": "Sugar mills are located close to sugarcane-growing areas mainly because sugarcane is:",
+      "options": ["Light and easy to store for months", "A weight-losing raw material whose sugar content falls quickly after cutting", "Grown only on black soil", "Imported through nearby ports"],
+      "answer": 1,
+      "explanation": "Sugarcane is bulky and loses weight in processing, and its sucrose content drops soon after harvest, so it must be crushed quickly near the fields. It cannot be stored for months, grows on several soils and is not imported."
+    }
+  ]
+}

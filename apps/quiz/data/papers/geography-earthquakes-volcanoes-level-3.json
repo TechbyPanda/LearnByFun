@@ -1,0 +1,88 @@
+{
+  "id": "geography-earthquakes-volcanoes-level-3",
+  "name": "Geography – Earthquakes & Volcanoes (Level 3)",
+  "tags": ["geography", "level-3"],
+  "subtags": ["earthquakes", "volcanoes", "seismic-waves", "plate-boundaries", "tsunami"],
+  "questions": [
+    {
+      "question": "The shadow zone of P-waves appears as a band around the Earth between which angular distances from the epicentre?",
+      "options": ["90° and 120°", "105° and 145°", "120° and 160°", "145° and 180°"],
+      "answer": 1,
+      "explanation": "Seismographs between 105° and 145° from the epicentre record neither P nor S waves, and this band is the P-wave shadow zone. Beyond 145° P-waves appear again, but S-waves do not."
+    },
+    {
+      "question": "Which seismic waves are the last to be recorded on a seismograph and cause the most destruction?",
+      "options": ["P waves", "S waves", "Surface waves", "Body waves"],
+      "answer": 2,
+      "explanation": "Surface waves are produced when body waves reach the surface; they arrive last and do the most damage. P and S waves are body waves and arrive earlier."
+    },
+    {
+      "question": "The fact that S-waves are not recorded beyond 105° from the epicentre is evidence that:",
+      "options": ["The outer core is in a liquid state", "The inner core is in a liquid state", "The mantle is in a liquid state", "The crust is thinner under the oceans"],
+      "answer": 0,
+      "explanation": "S-waves cannot pass through liquids, so their large shadow zone shows that the outer core is liquid. The inner core is solid and the mantle behaves largely as a solid, so S-waves pass through the mantle."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Sill – wall-like vertical intrusive body",
+        "Dyke – horizontal sheet-like intrusive body",
+        "Batholith – saucer-shaped body concave to the sky",
+        "Laccolith – dome-shaped intrusive body with a level base"
+      ],
+      "answer": 3,
+      "explanation": "A laccolith is a dome-shaped intrusion with a level base. The others are swapped: a sill is horizontal, a dyke is vertical and wall-like, and the saucer-shaped body is a lopolith, while a batholith is a very large granitic body."
+    },
+    {
+      "question": "The Deccan Traps of India are an example of which volcanic feature?",
+      "options": ["Shield volcano", "Composite volcano", "Caldera", "Flood basalt province"],
+      "answer": 3,
+      "explanation": "The Deccan Traps were built by highly fluid lava that flowed over huge areas in thick layers, forming a flood basalt province. They are not a single cone like a shield or composite volcano, nor a collapsed crater like a caldera."
+    },
+    {
+      "question": "Shield volcanoes, such as those of Hawaii, are made up mostly of:",
+      "options": ["Basalt", "Andesite", "Granite", "Rhyolite"],
+      "answer": 0,
+      "explanation": "Shield volcanoes are built by basalt, a very fluid lava that spreads far and makes gentle slopes. Andesitic lava is cooler and more viscous and builds composite volcanoes; granite is an intrusive rock."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Convergent boundary – Mid-Atlantic Ridge",
+        "Divergent boundary – Himalayas",
+        "Transform boundary – San Andreas Fault",
+        "Hotspot volcanism – Andes Mountains"
+      ],
+      "answer": 2,
+      "explanation": "The San Andreas Fault is a transform boundary where plates slide past each other. The Mid-Atlantic Ridge is a divergent boundary, while the Himalayas and the Andes were formed at convergent boundaries."
+    },
+    {
+      "question": "The intensity (Mercalli) scale of earthquakes ranges from:",
+      "options": ["0 to 10", "1 to 12", "1 to 10", "0 to 12"],
+      "answer": 1,
+      "explanation": "The Mercalli intensity scale, based on visible damage, runs from 1 to 12. The range 0 to 10 belongs to the Richter magnitude scale, which is the usual confusion."
+    },
+    {
+      "question": "As a tsunami moves from the deep open ocean into shallow coastal water, its:",
+      "options": [
+        "Speed decreases and wave height increases",
+        "Speed increases and wave height increases",
+        "Speed decreases and wave height decreases",
+        "Speed increases and wave height decreases"
+      ],
+      "answer": 0,
+      "explanation": "Tsunami speed depends on water depth, so the wave slows down in shallow water, its wavelength shortens and its height rises sharply. In the deep ocean it is fast but low, which is why ships hardly notice it."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": [
+        "Mount Etna – Greece",
+        "Krakatoa – Indonesia",
+        "Mount St. Helens – Canada",
+        "Cotopaxi – Peru"
+      ],
+      "answer": 1,
+      "explanation": "Krakatoa lies in Indonesia, between Java and Sumatra. Mount Etna is in Italy (Sicily), Mount St. Helens is in the USA and Cotopaxi is in Ecuador."
+    }
+  ]
+}

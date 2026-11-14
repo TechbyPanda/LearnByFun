@@ -1,0 +1,118 @@
+{
+  "id": "economy-national-income-level-3",
+  "name": "Economy – National Income (Level 3)",
+  "tags": ["economy", "level-3"],
+  "subtags": ["national-income", "gva-and-gdp", "national-income-aggregates", "base-year-and-nso"],
+  "questions": [
+    {
+      "question": "What is the current base year used by the National Statistical Office (NSO) for computing India's Gross Domestic Product (GDP) at constant prices?",
+      "options": [
+        "2004-05",
+        "2011-12",
+        "2014-15",
+        "2017-18"
+      ],
+      "answer": 1,
+      "explanation": "Option 2 is correct: Following the 2015 methodological revision by the Central Statistics Office (now NSO), the base year for India's national accounts series was shifted from 2004-05 to 2011-12.\nOption 1 is incorrect: 2004-05 was the previous base year before the 2015 revision.\nOption 3 is incorrect: 2014-15 is not the base year for GDP estimation.\nOption 4 is incorrect: 2017-18 is used for certain surveys like PLFS and CPI-Rural/Urban revisions, not the current GDP series.\nSo the correct option is 2011-12."
+    },
+    {
+      "question": "Which formula correctly converts Gross Value Added (GVA) at basic prices into Gross Domestic Product (GDP) at market prices?",
+      "options": [
+        "GDP at market prices = GVA at basic prices + Product taxes - Product subsidies",
+        "GDP at market prices = GVA at basic prices + Production taxes - Production subsidies",
+        "GDP at market prices = GVA at basic prices - Depreciation + Net Factor Income from Abroad",
+        "GDP at market prices = GVA at basic prices + Direct taxes - Corporate subsidies"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: In Indian national accounts, GDP at market prices is derived by adding net product taxes (product taxes minus product subsidies) to GVA at basic prices.\nOption 2 is incorrect: Production taxes and production subsidies are already adjusted when moving from GVA at factor cost to GVA at basic prices.\nOption 3 is incorrect: Subtracting depreciation and adding NFIA converts gross domestic output into net national output.\nOption 4 is incorrect: Direct taxes are not added to GVA to obtain market price GDP.\nSo the correct option is GDP at market prices = GVA at basic prices + Product taxes - Product subsidies."
+    },
+    {
+      "question": "Which of the following formulas represents Personal Disposable Income (PDI)?",
+      "options": [
+        "Personal Income - Personal Direct Taxes - Miscellaneous Receipts of Government Administrative Departments",
+        "National Income - Undistributed Corporate Profits - Corporate Tax",
+        "Net National Product at Market Price - Net Indirect Taxes",
+        "Personal Income + Transfer Payments - Subsidies"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Personal Disposable Income is the part of Personal Income actually available to households for consumption or saving after paying personal direct taxes (like income tax) and non-tax fees or fines.\nOption 2 is incorrect: Subtracting undistributed profits and corporate tax from National Income (along with net interest and transfer adjustments) yields Personal Income, not Personal Disposable Income.\nOption 3 is incorrect: NNP at Market Price minus Net Indirect Taxes gives NNP at Factor Cost (National Income).\nOption 4 is incorrect: Transfer payments are already included in Personal Income.\nSo the correct option is Personal Income - Personal Direct Taxes - Miscellaneous Receipts of Government Administrative Departments."
+    },
+    {
+      "question": "Which of the following pairs is correctly matched?\nConcept – Formula",
+      "options": [
+        "Net Domestic Product (NDP) – GDP minus Depreciation",
+        "Gross National Product (GNP) – GDP minus Net Factor Income from Abroad",
+        "Net National Product at Factor Cost – NNP at Market Price plus Net Indirect Taxes",
+        "GVA at Basic Prices – GVA at Factor Cost minus Net Production Taxes"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Net Domestic Product is calculated by deducting depreciation (consumption of fixed capital) from Gross Domestic Product.\nOption 2 is incorrect: GNP equals GDP plus Net Factor Income from Abroad, not minus.\nOption 3 is incorrect: NNP at Factor Cost equals NNP at Market Price minus Net Indirect Taxes.\nOption 4 is incorrect: GVA at Basic Prices equals GVA at Factor Cost plus Net Production Taxes.\nSo the correct option is Net Domestic Product (NDP) – GDP minus Depreciation."
+    },
+    {
+      "question": "In the expenditure method of calculating GDP (GDP = C + I + G + X - M), what does the component 'I' represent?",
+      "options": [
+        "Gross Domestic Capital Formation (Investment)",
+        "Income earned by individuals from abroad",
+        "Indirect taxes collected by the central government",
+        "Interest payments on public debt"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: In the expenditure identity, 'I' stands for Gross Domestic Capital Formation, comprising gross fixed capital formation, change in stocks (inventories), and valuables.\nOption 2 is incorrect: Income from abroad is part of Net Factor Income from Abroad (NFIA), which adjusts GDP to GNP.\nOption 3 is incorrect: Indirect taxes are fiscal levies, not investment expenditure.\nOption 4 is incorrect: Interest on public debt is a transfer payment and is excluded from GDP.\nSo the correct option is Gross Domestic Capital Formation (Investment)."
+    },
+    {
+      "question": "Which committee was appointed by the Government of India in 1949 to provide the first official framework for National Income estimation after Independence?",
+      "options": [
+        "P. C. Mahalanobis Committee",
+        "D. R. Gadgil Committee",
+        "V. K. R. V. Rao Committee",
+        "K. N. Raj Committee"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: The National Income Committee was set up in August 1949 under the chairmanship of Prof. P. C. Mahalanobis, with Prof. D. R. Gadgil and Dr. V. K. R. V. Rao as members.\nOption 2 is incorrect: Prof. D. R. Gadgil was a member of the 1949 committee, not its chairman.\nOption 3 is incorrect: Dr. V. K. R. V. Rao was also a member of the committee and had earlier made scientific pre-independence estimates in 1931-32.\nOption 4 is incorrect: K. N. Raj chaired committees on agricultural wealth taxation and public sector issues, not the 1949 National Income Committee.\nSo the correct option is P. C. Mahalanobis Committee."
+    },
+    {
+      "question": "Which of the following is an example of a 'stock' variable rather than a 'flow' variable in macroeconomics?",
+      "options": [
+        "National Wealth on a specific date",
+        "Gross Domestic Product during a financial year",
+        "Net Investment made during a quarter",
+        "Per Capita Income earned over a year"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Wealth is measured at a particular point in time and is therefore a stock variable.\nOption 2 is incorrect: GDP is measured over a period of time (a quarter or financial year), making it a flow variable.\nOption 3 is incorrect: Investment is the addition to capital stock over a period of time, hence a flow variable.\nOption 4 is incorrect: Income is earned over a defined time interval and is a flow variable.\nSo the correct option is National Wealth on a specific date."
+    },
+    {
+      "question": "Which of the following pairs is correctly matched?\nContributor – Contribution to Indian National Income",
+      "options": [
+        "V. K. R. V. Rao – First scientific estimation of India's National Income",
+        "Dadabhai Naoroji – Chairmanship of the first National Income Committee in 1949",
+        "R. C. Desai – Estimation of India's National Income for 1867-68",
+        "William Digby – Estimation of India's National Income after 1991 economic reforms"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Dr. V. K. R. V. Rao was the first to divide the Indian economy into agricultural and corporate/non-agricultural sectors to make a scientific national income estimate for 1931-32.\nOption 2 is incorrect: Dadabhai Naoroji estimated national income for 1867-68, whereas P. C. Mahalanobis chaired the 1949 committee.\nOption 3 is incorrect: R. C. Desai estimated consumer expenditure for the period 1931-32 to 1940-41, while Dadabhai Naoroji gave the 1867-68 estimate.\nOption 4 is incorrect: William Digby made colonial-era estimates for 1899.\nSo the correct option is V. K. R. V. Rao – First scientific estimation of India's National Income."
+    },
+    {
+      "question": "What does 'Green GDP' measure when evaluating an economy's performance?",
+      "options": [
+        "Conventional GDP adjusted for environmental degradation and depletion of natural resources",
+        "Total value added exclusively by the agriculture, forestry, and horticulture sectors",
+        "Revenue generated only from renewable energy and organic farming exports",
+        "Government budget allocation towards climate change adaptation schemes"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Green GDP monetizes the loss of biodiversity and costs caused by climate change and resource depletion, subtracting them from conventional GDP to reflect sustainable growth.\nOption 2 is incorrect: Green GDP covers the entire economy, not just agriculture and forestry.\nOption 3 is incorrect: It is an adjusted macroeconomic output measure rather than export revenue from green sectors.\nOption 4 is incorrect: Government budgetary expenditure is a fiscal figure, not Green GDP.\nSo the correct option is Conventional GDP adjusted for environmental degradation and depletion of natural resources."
+    },
+    {
+      "question": "Why does India's Gross National Product (GNP) historically remain slightly lower than its Gross Domestic Product (GDP)?",
+      "options": [
+        "India's Net Factor Income from Abroad (NFIA) is usually negative",
+        "India's indirect taxes exceed total government subsidies every year",
+        "India's depreciation rate is higher than its gross capital formation",
+        "India's merchandise imports exceed its services exports"
+      ],
+      "answer": 0,
+      "explanation": "Option 1 is correct: Because GNP = GDP + NFIA, and factor income outflows from India (such as profits, dividends, and interest paid to foreign investors) generally exceed factor income inflows from abroad, NFIA is negative, making GNP lower than GDP.\nOption 2 is incorrect: Net indirect taxes determine the gap between market price and factor cost, not between GDP and GNP.\nOption 3 is incorrect: Depreciation accounts for the difference between gross and net aggregates (GDP vs NDP).\nOption 4 is incorrect: Trade balance affects GDP directly through net exports (X - M) rather than the difference between GDP and GNP.\nSo the correct option is India's Net Factor Income from Abroad (NFIA) is usually negative."
+    }
+  ]
+}
