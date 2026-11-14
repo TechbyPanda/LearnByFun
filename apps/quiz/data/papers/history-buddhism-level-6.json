@@ -1,0 +1,68 @@
+{
+  "id": "history-buddhism-level-6",
+  "name": "History – Buddhism (Level 6)",
+  "tags": ["history", "level-6"],
+  "subtags": ["buddhism", "buddhist-councils", "buddhist-schools", "buddhist-art", "buddhist-texts"],
+  "questions": [
+    {
+      "question": "With reference to the Buddhist councils, consider the following statements:\n1. The First Council compiled the Sutta Pitaka and the Vinaya Pitaka.\n2. The Second Council led to the split between the Sthaviravadins and the Mahasanghikas.\n3. The Third Council was held under the patronage of Kalashoka.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: at Rajagriha, Ananda recited the Sutta and Upali the Vinaya.\nStatement 2 is correct: the dispute at Vaishali divided the Sangha into Sthaviravadins and Mahasanghikas.\nStatement 3 is incorrect: the Third Council was held under Ashoka. (Trap: Kalashoka patronised the Second Council, not the Third.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "With reference to the schools of Buddhism, consider the following statements:\n1. Mahayana Buddhism places the Bodhisattva ideal at its centre.\n2. The canon of Theravada Buddhism is preserved in Sanskrit.\n3. Vajrayana Buddhism developed with Tantric practices and spread to Tibet.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: the Bodhisattva, who delays his own nirvana to help others, is central to Mahayana.\nStatement 2 is incorrect: the Theravada canon is in Pali. (Trap: Sanskrit is linked with Mahayana and Sarvastivada texts.)\nStatement 3 is correct: Vajrayana grew out of Tantric ideas in eastern India and became important in Tibet.\nSo statements 1 and 3 are correct."
+    },
+    {
+      "question": "Which of the following sites have Buddhist rock-cut caves?\n1. Ajanta\n2. Karle\n3. Ellora\n4. Bagh\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 3,
+      "explanation": "Ajanta has Buddhist caves: its chaityas and viharas are famous for murals.\nKarle has Buddhist caves: it has one of the largest Buddhist chaitya halls.\nEllora has Buddhist caves: caves 1 to 12 are Buddhist. (Trap: Ellora is often remembered only for the Hindu Kailasa temple, but it has Buddhist, Hindu and Jain caves.)\nBagh in Madhya Pradesh has Buddhist caves with paintings similar to Ajanta.\nSo all four are correct."
+    },
+    {
+      "question": "With reference to the early Buddhist Sangha, consider the following statements:\n1. A slave could join the Sangha only with the permission of his master.\n2. Women were never allowed to become members of the Sangha.\n3. The Buddha named a monk as his successor to lead the Sangha after his death.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "1 and 3 only", "2 and 3 only"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Vinaya says children needed their parents' consent, slaves their master's, and those in the king's service the king's permission. (Trap: the Sangha was open to all, but with these exceptions.)\nStatement 2 is incorrect: women were admitted as nuns, beginning with Mahapajapati Gotami.\nStatement 3 is incorrect: the Buddha named no successor and told his followers to take the Dhamma as their guide.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "With reference to Buddhist stupas, consider the following statements:\n1. The gateways (toranas) of the Great Stupa at Sanchi carry scenes from the Jatakas.\n2. The Bharhut stupa is located in present-day Madhya Pradesh.\n3. The Amaravati stupa is located in the Krishna valley of present-day Andhra Pradesh.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1, 2 and 3", "1 and 3 only"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Sanchi toranas show Jataka tales and events of the Buddha's life.\nStatement 2 is correct: Bharhut is in Satna district of Madhya Pradesh. (Trap: it is often wrongly placed in Uttar Pradesh or Bihar.)\nStatement 3 is correct: Amaravati lies on the Krishna river in Andhra Pradesh.\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to royal patronage of Buddhism, consider the following statements:\n1. Harshavardhana held a religious assembly at Kannauj in honour of Xuanzang.\n2. The Pala rulers of Bengal and Bihar were patrons of Buddhism.\n3. The Fourth Council held under Kanishka adopted Pali as the language of the canon.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Harsha organised a grand assembly at Kannauj where Xuanzang explained Mahayana teachings.\nStatement 2 is correct: the Palas founded and supported monasteries such as Vikramashila and Somapura.\nStatement 3 is incorrect: the Fourth Council used Sanskrit and is linked with the Sarvastivada school. (Trap: Pali is the language of the Theravada canon.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following pairs:\nText – Author\n1. Buddhacharita – Ashvaghosha\n2. Visuddhimagga – Buddhaghosa\n3. Mulamadhyamakakarika – Vasubandhu\nWhich of the pairs given above is/are correctly matched?",
+      "options": ["1 only", "2 and 3 only", "1 and 3 only", "1 and 2 only"],
+      "answer": 3,
+      "explanation": "Pair 1 is correctly matched: Ashvaghosha wrote the Buddhacharita, a Sanskrit life of the Buddha.\nPair 2 is correctly matched: Buddhaghosa wrote the Visuddhimagga in Sri Lanka.\nPair 3 is incorrectly matched: the Mulamadhyamakakarika is by Nagarjuna. (Trap: Vasubandhu belongs to the Yogachara school.)\nSo pairs 1 and 2 are correctly matched."
+    },
+    {
+      "question": "With reference to the life of the Buddha, consider the following statements:\n1. Lumbini, the Buddha's birthplace, lies in present-day Nepal.\n2. Kapilavastu was the capital of the Shakyas.\n3. The Buddha's Great Departure (Mahabhinishkramana) took place after his enlightenment.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Lumbini is in the Terai of Nepal.\nStatement 2 is correct: Kapilavastu was the capital of the Shakya gana, ruled by Suddhodana.\nStatement 3 is incorrect: the Great Departure was when he left home at about 29; enlightenment came years later at Bodh Gaya. (Trap: the order of events is reversed.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following statements about the teachings of the Buddha:\n1. He rejected the authority of the Vedas.\n2. He accepted the doctrine of karma.\n3. He taught that the world was created and is ruled by a supreme God.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Buddha did not accept the Vedas as authority and opposed animal sacrifice.\nStatement 2 is correct: Buddhism kept the idea of karma and rebirth, while rejecting a permanent soul. (Trap: students assume Buddhism rejected every Brahmanical idea.)\nStatement 3 is incorrect: the Buddha did not teach a creator God; he saw the world as impermanent and governed by cause and effect.\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "The Sarvastivada school of Buddhism got its name because it held that:",
+      "options": ["Everything is empty (shunya)", "Only consciousness is real", "The Buddha was a supramundane being", "Dharmas exist in the past, present and future"],
+      "answer": 3,
+      "explanation": "Dharmas exist in the past, present and future is correct: 'sarvam asti' means 'everything exists', referring to dharmas in all three times.\nEverything is empty is the Madhyamaka view of Nagarjuna.\nOnly consciousness is real is the Yogachara (Vijnanavada) view.\nThe Buddha as a supramundane being is the Lokottaravada view, a Mahasanghika branch.\nTrap: all four are Buddhist ideas, so the name must be linked to its meaning."
+    }
+  ]
+}

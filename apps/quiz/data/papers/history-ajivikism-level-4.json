@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-4",
+  "name": "History – Ajivikism (Level 4)",
+  "tags": ["history", "level-4"],
+  "subtags": ["ajivikism", "niyati-doctrine", "mauryan-patronage", "heterodox-sects", "barabar-caves"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. The Ajivikas believed in niyati, which holds that all events are fixed in advance.\n2. The Ajivikas believed that good deeds could shorten a soul's cycle of rebirth.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: niyati (fate) was the core of Ajivika doctrine.\nStatement 2 is incorrect: the Ajivikas held that no action, good or bad, could change the fixed number of births.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Which Mauryan king, the father of Ashoka, is said to have favoured the Ajivikas?",
+      "options": ["Chandragupta Maurya", "Dasharatha", "Bindusara", "Samprati"],
+      "answer": 2,
+      "explanation": "Bindusara is correct: tradition links him with the Ajivikas.\nChandragupta Maurya is incorrect: Jain tradition links him with Jainism.\nDasharatha is incorrect: he was Ashoka's grandson.\nSamprati is incorrect: he was a later Mauryan linked with Jainism."
+    },
+    {
+      "question": "Consider the following statements:\n1. The scriptures of the Ajivikas survive in Prakrit.\n2. The Jain Bhagavati Sutra gives an account of Makkhali Gosala.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: no Ajivika text has survived in any language.\nStatement 2 is correct: the Bhagavati Sutra describes Gosala and his break with Mahavira.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Barabar caves are located in Nalanda district of Bihar.\n2. The Nagarjuni caves were dedicated to the Ajivikas by Ashoka.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Barabar caves are in Gaya district.\nStatement 2 is incorrect: the Nagarjuni caves were dedicated by Dasharatha, Ashoka's grandson; Ashoka dedicated the Barabar caves.\nSo neither statement is correct."
+    },
+    {
+      "question": "Which teacher, contemporary with the Buddha, held that reality consists of seven eternal elements: earth, water, fire, air, pleasure, pain and soul?",
+      "options": ["Ajita Kesakambali", "Sanjaya Belatthiputta", "Purana Kassapa", "Pakudha Kaccayana"],
+      "answer": 3,
+      "explanation": "Pakudha Kaccayana is correct: the Samannaphala Sutta credits him with the doctrine of seven eternal elements.\nAjita Kesakambali is incorrect: he spoke of four elements only and denied any life after death.\nSanjaya Belatthiputta is incorrect: he refused to give definite answers.\nPurana Kassapa is incorrect: he denied that actions bring merit or sin."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ajivika ascetics practised nudity.\n2. The Ajivikas accepted the authority of the Vedas.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Ajivika ascetics went naked, as did some Jain monks.\nStatement 2 is incorrect: the Ajivikas, like the Jains and Buddhists, rejected the Vedas.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Makkhali Gosala was a contemporary of Gautama Buddha.\n2. Ashoka's Seventh Pillar Edict mentions the Ajivikas among the sects looked after by dhamma mahamatras.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Buddhist texts list Gosala among the six teachers of the Buddha's time.\nStatement 2 is correct: Pillar Edict VII names the Ajivikas with the Samgha, Brahmanas and Nirgranthas.\nSo both statements are correct."
+    },
+    {
+      "question": "The Sudama cave, dedicated by Ashoka to the Ajivikas, is in which hills?",
+      "options": ["Nagarjuni hills", "Barabar hills", "Udayagiri hills", "Khandagiri hills"],
+      "answer": 1,
+      "explanation": "Barabar hills is correct: the Sudama cave carries Ashoka's dedication to the Ajivikas.\nNagarjuni hills is incorrect: its caves were dedicated by Dasharatha.\nUdayagiri and Khandagiri hills are incorrect: these hills near Bhubaneswar have Jain caves."
+    },
+    {
+      "question": "Consider the following statements about the Charvaka school:\n1. It accepted perception as the only valid means of knowledge.\n2. It denied that any soul survives after death.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Charvakas accepted only direct perception.\nStatement 2 is correct: as materialists, they held that consciousness ends with the body.\nSo both statements are correct."
+    },
+    {
+      "question": "In Tamil inscriptions of the Chola period, the Ajivikas appear as:",
+      "options": ["A group on whom a tax was levied", "Rulers of a Tamil kingdom", "Traders from Rome", "Court poets of the Sangam"],
+      "answer": 0,
+      "explanation": "A group on whom a tax was levied is correct: Chola inscriptions mention a tax on the Ajivikas, which shows the sect still existed in the south.\nRulers of a Tamil kingdom is incorrect: no Ajivika ruled a kingdom.\nTraders from Rome is incorrect: the Ajivikas were an Indian ascetic sect.\nCourt poets of the Sangam is incorrect: there is no such link."
+    }
+  ]
+}

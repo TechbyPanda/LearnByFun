@@ -1,0 +1,68 @@
+{
+  "id": "history-indus-valley-civilization-level-1",
+  "name": "History – Indus Valley Civilization (Level 1)",
+  "tags": ["history", "level-1"],
+  "subtags": ["indus-valley-civilization", "harappan-sites", "town-planning", "harappan-art"],
+  "questions": [
+    {
+      "question": "Who first excavated Harappa in 1921?",
+      "options": ["James Prinsep", "Max Muller", "Daya Ram Sahni", "William Jones"],
+      "answer": 2,
+      "explanation": "Daya Ram Sahni is correct: he excavated Harappa in 1921, the first site of this civilisation to be discovered.\nJames Prinsep is incorrect: he deciphered the Brahmi script of Ashokan inscriptions in 1837.\nMax Muller is incorrect: he was a scholar of Sanskrit and the Vedas.\nWilliam Jones is incorrect: he founded the Asiatic Society of Bengal in 1784.\nSo the answer is Daya Ram Sahni."
+    },
+    {
+      "question": "On the banks of which river is Mohenjodaro located?",
+      "options": ["Indus", "Ganga", "Godavari", "Kaveri"],
+      "answer": 0,
+      "explanation": "Indus is correct: Mohenjodaro lies on the Indus in Sindh (Pakistan).\nGanga, Godavari and Kaveri are incorrect: these rivers flow far to the east and south, away from the main Harappan region.\nSo the answer is Indus."
+    },
+    {
+      "question": "The Harappan civilisation belongs to which age?",
+      "options": ["Iron Age", "Bronze Age", "Old Stone Age", "Modern Age"],
+      "answer": 1,
+      "explanation": "Bronze Age is correct: the Harappans used copper and bronze tools.\nIron Age is incorrect: the Harappans did not know iron.\nOld Stone Age is incorrect: that was the age of hunter-gatherers, long before cities.\nModern Age is incorrect: the Harappan cities flourished more than 4,000 years ago.\nSo the answer is Bronze Age."
+    },
+    {
+      "question": "The Great Bath was found at which site?",
+      "options": ["Pataliputra", "Hampi", "Taxila", "Mohenjodaro"],
+      "answer": 3,
+      "explanation": "Mohenjodaro is correct: the Great Bath is a large brick tank in the citadel of Mohenjodaro.\nPataliputra is incorrect: it was the Mauryan capital.\nHampi is incorrect: it was the capital of the Vijayanagara empire.\nTaxila is incorrect: it is known for its ancient university and Gandhara remains.\nSo the answer is Mohenjodaro."
+    },
+    {
+      "question": "Which metal was NOT known to the Harappans?",
+      "options": ["Copper", "Gold", "Iron", "Bronze"],
+      "answer": 2,
+      "explanation": "Iron is correct: no iron has been found in Harappan cities; iron came into use in India much later.\nCopper is incorrect: copper was widely used for tools and vessels.\nGold is incorrect: gold was used for ornaments.\nBronze is incorrect: bronze (copper mixed with tin) was used, for example in the dancing girl figurine.\nSo the answer is Iron."
+    },
+    {
+      "question": "Lothal, a Harappan site famous for its dockyard, is located in which present-day state?",
+      "options": ["Bihar", "Gujarat", "Kerala", "Assam"],
+      "answer": 1,
+      "explanation": "Gujarat is correct: Lothal lies near the Gulf of Khambhat in Gujarat.\nBihar, Kerala and Assam are incorrect: no major Harappan city lies in these states.\nSo the answer is Gujarat."
+    },
+    {
+      "question": "What is the present status of the Harappan script?",
+      "options": ["It has not yet been deciphered", "It has been read as Sanskrit", "It has been read as Tamil", "It is the same as the Devanagari script"],
+      "answer": 0,
+      "explanation": "It has not yet been deciphered is correct: scholars still cannot read the Harappan script.\nIt has been read as Sanskrit and It has been read as Tamil are incorrect: such claims are not accepted because the script remains undeciphered.\nIt is the same as the Devanagari script is incorrect: Devanagari developed thousands of years later from Brahmi.\nSo the answer is that it has not yet been deciphered."
+    },
+    {
+      "question": "Which famous bronze figurine was found at Mohenjodaro?",
+      "options": ["Sarnath Lion Capital", "Nataraja", "Gommateshwara", "Dancing Girl"],
+      "answer": 3,
+      "explanation": "Dancing Girl is correct: this small bronze figurine was found at Mohenjodaro.\nSarnath Lion Capital is incorrect: it is a Mauryan stone pillar capital of Ashoka.\nNataraja is incorrect: the famous bronze Natarajas were made under the Cholas.\nGommateshwara is incorrect: it is a huge stone statue at Shravanabelagola in Karnataka.\nSo the answer is Dancing Girl."
+    },
+    {
+      "question": "Harappan cities are well known for which feature?",
+      "options": ["Large Buddhist stupas", "Covered drains along the streets", "Iron-roofed palaces", "Temples with tall towers"],
+      "answer": 1,
+      "explanation": "Covered drains along the streets is correct: Harappan cities had a planned drainage system with covered drains.\nLarge Buddhist stupas is incorrect: Buddhism arose over a thousand years later.\nIron-roofed palaces is incorrect: the Harappans did not know iron.\nTemples with tall towers is incorrect: no temples have been identified in Harappan cities.\nSo the answer is covered drains along the streets."
+    },
+    {
+      "question": "Which animal appears most often on Harappan seals?",
+      "options": ["Unicorn", "Lion", "Peacock", "Camel"],
+      "answer": 0,
+      "explanation": "Unicorn is correct: a one-horned animal, called the unicorn, is the most common motif on Harappan seals.\nLion, Peacock and Camel are incorrect: none of these is the common seal motif.\nSo the answer is Unicorn."
+    }
+  ]
+}

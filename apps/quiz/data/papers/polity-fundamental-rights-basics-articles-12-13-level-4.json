@@ -1,0 +1,68 @@
+{
+  "id": "polity-fundamental-rights-basics-articles-12-13-level-4",
+  "name": "Polity – Fundamental Rights Basics & Articles 12-13 (Level 4)",
+  "tags": ["polity", "level-4"],
+  "subtags": ["fundamental-rights", "article-12", "article-13", "doctrine-of-eclipse"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. The original Constitution provided seven Fundamental Rights.\n2. The Right to Property was removed from Part III by the 44th Amendment Act, 1978.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the original Constitution had seven Fundamental Rights, including the Right to Property.\nStatement 2 is correct: the 44th Amendment (1978) removed it, so six remain.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Article 12 defines 'the State' for the purposes of Part III.\n2. The definition of 'the State' in Article 12 applies to the whole Constitution.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Article 12 begins 'In this Part, unless the context otherwise requires...'.\nStatement 2 is incorrect: the definition is only for Part III. Article 36 separately adopts it for Part IV (Directive Principles).\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Under Article 13, a law that is inconsistent with Fundamental Rights is void:",
+      "options": ["In its entirety, in every case", "Only if the President declares it void", "Only after Parliament repeals it", "To the extent of the inconsistency"],
+      "answer": 3,
+      "explanation": "Article 13(1) and 13(2) make a law void 'to the extent of' the inconsistency or contravention. This is the basis of the doctrine of severability: only the offending part goes if it can be separated.\nA court declares it void; neither the President nor Parliament has to act."
+    },
+    {
+      "question": "Consider the following statements:\n1. The rights under Article 19 are available to foreigners as well as citizens.\n2. The right under Article 21 is available to all persons, including foreigners.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Article 19 is for citizens only, like Articles 15, 16, 29 and 30.\nStatement 2 is correct: Article 21 says 'No person shall be deprived...', so it covers foreigners too.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "The doctrine of eclipse, as laid down by the Supreme Court, applies mainly to which laws?",
+      "options": ["Constitutional amendments", "Pre-constitutional laws", "Ordinances only", "Laws placed in the Ninth Schedule"],
+      "answer": 1,
+      "explanation": "In Bhikaji Narain Dhakras (1955), the Court held that a pre-constitutional law that conflicts with a Fundamental Right is not dead, only overshadowed (eclipsed). It becomes active again if the conflict is removed.\nConstitutional amendments are outside Article 13 because of clause (4). Ninth Schedule laws are covered by Article 31B, not this doctrine."
+    },
+    {
+      "question": "Consider the following statements:\n1. Article 13 expressly uses the words 'judicial review'.\n2. Article 13 allows the State to make a law abridging Fundamental Rights if it is passed by a two-thirds majority.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: Article 13 does not use the words 'judicial review', though it is the basis of judicial review of laws.\nStatement 2 is incorrect: Article 13(2) bars the State from making any law that takes away or abridges Fundamental Rights. It makes no exception for a special majority.\nSo neither statement is correct."
+    },
+    {
+      "question": "In which case did the Supreme Court give the 'basic structure' doctrine?",
+      "options": ["Kesavananda Bharati case (1973)", "Golaknath case (1967)", "Minerva Mills case (1980)", "Maneka Gandhi case (1978)"],
+      "answer": 0,
+      "explanation": "Kesavananda Bharati (1973) held that Parliament can amend any part of the Constitution, including Fundamental Rights, but not its basic structure.\nGolaknath barred amending Fundamental Rights, Minerva Mills reaffirmed the basic structure doctrine, and Maneka Gandhi widened Article 21."
+    },
+    {
+      "question": "Consider the following statements:\n1. Some Fundamental Rights, such as Article 17, are available against private individuals too.\n2. Under Article 33, Parliament can restrict the Fundamental Rights of members of the armed forces.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Article 17 (abolition of untouchability) applies to private persons as well as the State.\nStatement 2 is correct: Article 33 lets Parliament restrict or modify Fundamental Rights of the armed forces, police and similar forces so they do their duties and stay disciplined.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Fundamental Rights are non-justiciable.\n2. A person cannot approach the Supreme Court directly for enforcing Fundamental Rights; they must first go to a High Court.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: Fundamental Rights are justiciable, meaning courts enforce them. Directive Principles are non-justiciable.\nStatement 2 is incorrect: Article 32 lets a person go directly to the Supreme Court, and that right is itself a Fundamental Right.\nSo neither statement is correct."
+    },
+    {
+      "question": "In Zee Telefilms Ltd v Union of India (2005), what did the Supreme Court hold about the Board of Control for Cricket in India (BCCI)?",
+      "options": ["It is not 'State' under Article 12", "It is 'State' under Article 12", "It is a department of the Union Government", "It is a local authority"],
+      "answer": 0,
+      "explanation": "The Court held that BCCI is not 'State' under Article 12. It is not financially, functionally or administratively controlled by the Government.\nThe Court added that BCCI does public functions, so it can still be brought before a High Court under Article 226."
+    }
+  ]
+}

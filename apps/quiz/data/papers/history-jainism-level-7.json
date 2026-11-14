@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-7",
+  "name": "History – Jainism (Level 7)",
+  "tags": ["history", "level-7"],
+  "subtags": ["jainism", "tirthankaras", "jain-sects", "jain-art", "royal-patrons"],
+  "questions": [
+    {
+      "question": "Arrange the following from earliest to latest:\n1. Construction of the Vimal Vasahi temple at Mount Abu\n2. Hathigumpha inscription of Kharavela\n3. Construction of the Chaumukha temple at Ranakpur\n4. Aihole inscription composed by Ravikirti\nSelect the correct answer using the code given below.",
+      "options": ["4-2-1-3", "2-4-1-3", "2-4-3-1", "2-1-4-3"],
+      "answer": 1,
+      "explanation": "Hathigumpha inscription (2) is the earliest: Kharavela ruled Kalinga in the 1st or 2nd century BCE (scholars differ, but it is centuries before the others).\nAihole inscription (4) comes next: Ravikirti composed it in 634 CE for Pulakeshin II.\nVimal Vasahi (1) follows: it was built in 1031 CE by Vimala, minister of the Chalukya king Bhima I.\nRanakpur (3) is the latest: it was built in the 15th century under Rana Kumbha.\n(Trap: placing Ranakpur before Vimal Vasahi because both are Rajasthan marble temples.)\nSo the order is 2-4-1-3."
+    },
+    {
+      "question": "With reference to the Tirthankaras, consider the following statements:\n1. Parshvanatha is traditionally associated with Varanasi.\n2. Only four Tirthankaras are believed to have attained nirvana at Sammed Shikhar.\n3. Sammed Shikhar is located on the Parasnath hill in Jharkhand.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: Jain tradition describes Parshvanatha as a prince of Varanasi (Kashi), son of King Ashvasena.\nStatement 2 is incorrect: Jains believe that 20 of the 24 Tirthankaras, including Parshvanatha, attained nirvana there. (Trap: the four exceptions are Rishabhanatha, Vasupujya, Neminatha and Mahavira.)\nStatement 3 is correct: Sammed Shikhar is on Parasnath hill in Giridih district, Jharkhand.\nSo statements 1 and 3 only are correct."
+    },
+    {
+      "question": "With reference to Mahavira's religious order, consider the following statements:\n1. Mahavira had eleven chief disciples known as ganadharas.\n2. Indrabhuti Gautama was the chief of the ganadharas.\n3. The Jain sangha included all four groups: monks, nuns, laymen and laywomen.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Mahavira's teachings were passed on by eleven ganadharas.\nStatement 2 is correct: Indrabhuti Gautama is remembered as the first and chief ganadhara. (Trap: the name 'Gautama' makes some students think of the Buddha.)\nStatement 3 is correct: the Jain community is a fourfold sangha of sadhus, sadhvis, shravakas and shravikas. (Trap: the word 'all' here is true.)\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to sub-sects of Jainism, consider the following statements:\n1. Sthanakvasis are a Svetambara sub-sect that rejects idol worship.\n2. The Terapanth sect was founded by Acharya Tulsi.\n3. All Digambara sub-sects practise idol worship.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1 and 3 only"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Sthanakvasis broke away from the image-worshipping Svetambaras and worship without idols.\nStatement 2 is incorrect: Terapanth was founded by Acharya Bhikshu in the 18th century. (Trap: Acharya Tulsi was a later head of Terapanth, known for the Anuvrat movement.)\nStatement 3 is incorrect: the Taranapantha, a Digambara sub-sect, does not worship images. (Trap: 'all'.)\nSo statement 1 only is correct."
+    },
+    {
+      "question": "Which of the following places have Jain temples or monuments?\n1. Khajuraho\n2. Deogarh (Lalitpur, Uttar Pradesh)\n3. Kalugumalai\n4. Bodh Gaya\nSelect the correct answer using the code given below.",
+      "options": ["1 and 3 only", "2 and 4 only", "1, 3 and 4 only", "1, 2 and 3 only"],
+      "answer": 3,
+      "explanation": "Place 1 has Jain temples: Khajuraho has an eastern group of Jain temples, such as the Parshvanatha temple, built under the Chandelas.\nPlace 2 has Jain temples: the hill at Deogarh has a large group of Jain temples. (Trap: Deogarh is better known for the Gupta-period Dashavatara temple.)\nPlace 3 has Jain monuments: Kalugumalai in Tamil Nadu has Jain beds and rock-cut Tirthankara reliefs.\nPlace 4 does not: Bodh Gaya is the Buddhist site where the Buddha attained enlightenment.\nSo 1, 2 and 3 only."
+    },
+    {
+      "question": "With reference to Jain festivals, consider the following statements:\n1. Jains observe Diwali as the day of Mahavira's nirvana.\n2. For Svetambara Jains, Paryushana ends with Samvatsari, the day of asking forgiveness.\n3. Mahavira Jayanti is celebrated on Kartika Purnima.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Jains celebrate Diwali as the night Mahavira attained nirvana at Pava.\nStatement 2 is correct: the Svetambara Paryushana ends with Samvatsari, when Jains ask forgiveness ('Michhami Dukkadam') of all beings.\nStatement 3 is incorrect: Mahavira Jayanti falls on the 13th day of the bright half of Chaitra. (Trap: Kartika Purnima is an important Jain pilgrimage day, especially at Palitana, but not Mahavira's birthday.)\nSo statements 1 and 2 only are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Makkhali Gosala, the leader of the Ajivikas, was a contemporary of Mahavira.\n2. Jainism rejected the existence of gods altogether.\n3. Jainism required all its followers, including lay followers, to give up clothes.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Gosala was a contemporary of Mahavira and the Buddha; Jain texts say he spent some years with Mahavira.\nStatement 2 is incorrect: Jainism accepted the existence of gods but placed them below the Jina; it rejected a creator god. (Trap: rejecting a creator is not the same as rejecting all gods.)\nStatement 3 is incorrect: nudity was a practice of Digambara monks; lay followers were never required to give up clothes. (Trap: 'all'.)\nSo only one statement is correct."
+    },
+    {
+      "question": "With reference to the Mauryas and the sramana sects, consider the following statements:\n1. Jain tradition holds that Samprati, a grandson of Ashoka, was a patron of Jainism.\n2. Ashoka's seventh Pillar Edict mentions the Nirgranthas among the sects to be looked after by the Dhamma Mahamattas.\n3. Bindusara is the only Mauryan ruler associated with the Ajivikas.\nWhich of the statements given above is/are correct?",
+      "options": ["2 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Jain texts describe Samprati as a great patron who spread Jainism.\nStatement 2 is correct: Pillar Edict VII names the Sangha, Brahmanas, Ajivikas and Nirgranthas (Jains) as groups the Dhamma Mahamattas were to look after.\nStatement 3 is incorrect: besides Bindusara's links with an Ajivika, Ashoka and his grandson Dasharatha gave the Barabar and Nagarjuni caves to the Ajivikas. (Trap: 'only'.)\nSo statements 1 and 2 only are correct."
+    },
+    {
+      "question": "With reference to the Dilwara temples at Mount Abu, consider the following statements:\n1. The Vimal Vasahi temple is dedicated to Rishabhanatha.\n2. The Luna Vasahi temple was built by the brothers Vastupala and Tejapala.\n3. The temples are built in the Dravida style of temple architecture.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Vimal Vasahi, the oldest of the group, is dedicated to the first Tirthankara.\nStatement 2 is correct: Luna Vasahi, dedicated to Neminatha, was built in the 13th century by the minister brothers Vastupala and Tejapala.\nStatement 3 is incorrect: the Dilwara temples follow the Nagara (western Indian, Maru-Gurjara) style. (Trap: Dravida is the southern style.)\nSo only two statements are correct."
+    },
+    {
+      "question": "With reference to Jain art, consider the following statements:\n1. Ayagapatas, carved stone tablets of homage, have been found at Jain sites in Mathura.\n2. The Rani Gumpha, a two-storeyed Jain cave, is part of the Ellora caves.\n3. Tirthankaras are shown both standing in the kayotsarga posture and seated in meditation.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: ayagapatas carved with Jain symbols and figures have been found at the Kankali Tila Jain stupa site in Mathura.\nStatement 2 is incorrect: the Rani Gumpha is on Udayagiri hill near Bhubaneswar, Odisha. (Trap: Ellora's best-known Jain cave is the Indra Sabha.)\nStatement 3 is correct: Jina images appear either standing upright with arms hanging down (kayotsarga) or seated in padmasana.\nSo statements 1 and 3 only are correct."
+    }
+  ]
+}

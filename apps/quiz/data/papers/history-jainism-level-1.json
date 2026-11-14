@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-1",
+  "name": "History – Jainism (Level 1)",
+  "tags": ["history", "level-1"],
+  "subtags": ["jainism", "tirthankaras", "mahavira", "jain-art"],
+  "questions": [
+    {
+      "question": "Who was the 24th and last Tirthankara of Jainism?",
+      "options": ["Gautama Buddha", "Ashoka", "Mahavira", "Kabir"],
+      "answer": 2,
+      "explanation": "Mahavira is correct: Jain tradition regards Vardhamana Mahavira as the 24th and last Tirthankara.\nGautama Buddha is incorrect: he founded Buddhism.\nAshoka is incorrect: he was a Mauryan emperor linked with Buddhism.\nKabir is incorrect: he was a Bhakti saint of medieval India."
+    },
+    {
+      "question": "Who is regarded by Jains as the first Tirthankara?",
+      "options": ["Rishabhanatha", "Chanakya", "Harsha", "Kanishka"],
+      "answer": 0,
+      "explanation": "Rishabhanatha is correct: Jain tradition names Rishabhanatha (also called Adinatha) as the first Tirthankara.\nChanakya is incorrect: he was the adviser of Chandragupta Maurya.\nHarsha is incorrect: he was a 7th-century king of Kanauj.\nKanishka is incorrect: he was a Kushana king who patronised Buddhism."
+    },
+    {
+      "question": "At which place did Mahavira pass away (attain nirvana)?",
+      "options": ["Delhi", "Kanchipuram", "Ujjain", "Pava (Pavapuri)"],
+      "answer": 3,
+      "explanation": "Pava (Pavapuri) is correct: Mahavira died at Pava, near Rajgir in present-day Bihar, at the age of 72.\nDelhi, Kanchipuram and Ujjain are incorrect: none of them is linked with Mahavira's death."
+    },
+    {
+      "question": "In which language did Mahavira and the early Jains spread their teachings among ordinary people?",
+      "options": ["English", "Prakrit", "Persian", "Arabic"],
+      "answer": 1,
+      "explanation": "Prakrit is correct: Mahavira taught in Prakrit, the language of ordinary people, so that everyone could understand him (NCERT Class 6).\nEnglish, Persian and Arabic are incorrect: these languages came to India much later."
+    },
+    {
+      "question": "Mahavira was called 'Jina'. What does the word 'Jina' mean?",
+      "options": ["Traveller", "Conqueror", "Merchant", "Farmer"],
+      "answer": 1,
+      "explanation": "Conqueror is correct: 'Jina' means the conqueror (of one's own desires and senses). Jainism takes its name from this word.\nTraveller, Merchant and Farmer are incorrect: none of them is the meaning of 'Jina'."
+    },
+    {
+      "question": "The famous Gommateshwara (Bahubali) statue at Shravanabelagola is located in which state?",
+      "options": ["Punjab", "Assam", "West Bengal", "Karnataka"],
+      "answer": 3,
+      "explanation": "Karnataka is correct: Shravanabelagola, with the huge Gommateshwara statue, is in Karnataka.\nPunjab, Assam and West Bengal are incorrect: the statue is not in any of these states."
+    },
+    {
+      "question": "Which ruler is believed by Jain tradition to have adopted Jainism and gone to South India with Jain monks?",
+      "options": ["Chandragupta Maurya", "Babur", "Akbar", "Shivaji"],
+      "answer": 0,
+      "explanation": "Chandragupta Maurya is correct: Jain tradition says the founder of the Mauryan empire became a Jain and went to Karnataka with the monk Bhadrabahu.\nBabur is incorrect: he founded the Mughal empire.\nAkbar is incorrect: he respected Jain monks but did not become a Jain.\nShivaji is incorrect: he founded the Maratha kingdom."
+    },
+    {
+      "question": "Which of the following is the most important teaching of Jainism?",
+      "options": ["Fighting wars", "Collecting wealth", "Ahimsa (non-violence)", "Animal sacrifice"],
+      "answer": 2,
+      "explanation": "Ahimsa (non-violence) is correct: Jainism teaches that no living being should be hurt or killed.\nFighting wars and Collecting wealth are incorrect: Jainism teaches peace and giving up possessions.\nAnimal sacrifice is incorrect: Jainism strongly opposed it."
+    },
+    {
+      "question": "The Dilwara Jain temples are located at:",
+      "options": ["Agra", "Varanasi", "Kolkata", "Mount Abu"],
+      "answer": 3,
+      "explanation": "Mount Abu is correct: the marble Dilwara temples stand at Mount Abu in Rajasthan.\nAgra, Varanasi and Kolkata are incorrect: the Dilwara temples are not in any of these cities."
+    },
+    {
+      "question": "Which of the following is a sect of Jainism?",
+      "options": ["Digambara", "Sufism", "Sikhism", "Zoroastrianism"],
+      "answer": 0,
+      "explanation": "Digambara is correct: Digambara and Svetambara are the two main sects of Jainism.\nSufism is incorrect: it is a mystic tradition within Islam.\nSikhism is incorrect: it is a separate religion founded by Guru Nanak.\nZoroastrianism is incorrect: it is the religion of the Parsis."
+    }
+  ]
+}

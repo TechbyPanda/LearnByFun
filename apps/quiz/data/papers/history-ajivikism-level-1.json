@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-1",
+  "name": "History – Ajivikism (Level 1)",
+  "tags": ["history", "level-1"],
+  "subtags": ["ajivikism", "makkhali-gosala", "niyati-doctrine", "barabar-caves"],
+  "questions": [
+    {
+      "question": "Who is regarded as the leader of the Ajivika sect?",
+      "options": ["Gautama Buddha", "Chandragupta Maurya", "Makkhali Gosala", "Ajatashatru"],
+      "answer": 2,
+      "explanation": "Makkhali Gosala is correct: he was the best-known leader of the Ajivikas, a contemporary of the Buddha and Mahavira.\nGautama Buddha is incorrect: he founded Buddhism.\nChandragupta Maurya is incorrect: he founded the Mauryan empire.\nAjatashatru is incorrect: he was a king of Magadha, not a religious teacher."
+    },
+    {
+      "question": "According to the Ajivikas, everything in life is decided by:",
+      "options": ["Fate (niyati)", "Vedic sacrifices", "Temple worship", "Royal orders"],
+      "answer": 0,
+      "explanation": "Fate (niyati) is correct: the Ajivikas believed that all events are fixed in advance by niyati.\nVedic sacrifices is incorrect: the Ajivikas rejected the authority of the Vedas.\nTemple worship is incorrect: it played no part in Ajivika doctrine.\nRoyal orders is incorrect: kings do not decide fate in Ajivika belief."
+    },
+    {
+      "question": "Makkhali Gosala, the Ajivika leader, was a contemporary of:",
+      "options": ["Samudragupta", "Akbar", "Kanishka", "Mahavira"],
+      "answer": 3,
+      "explanation": "Mahavira is correct: Gosala lived in the same age as Mahavira and the Buddha.\nSamudragupta is incorrect: he was a Gupta ruler of the 4th century CE.\nAkbar is incorrect: he was a Mughal emperor.\nKanishka is incorrect: he was a Kushana king of the 1st-2nd century CE."
+    },
+    {
+      "question": "Which Mauryan emperor dedicated caves in the Barabar hills to the Ajivikas?",
+      "options": ["Harsha", "Ashoka", "Krishnadevaraya", "Shivaji"],
+      "answer": 1,
+      "explanation": "Ashoka is correct: his inscriptions in the Barabar caves record their gift to the Ajivikas.\nHarsha is incorrect: he ruled in the 7th century CE.\nKrishnadevaraya is incorrect: he was a Vijayanagara ruler.\nShivaji is incorrect: he was a Maratha ruler of the 17th century."
+    },
+    {
+      "question": "The Barabar caves are located in which present-day state of India?",
+      "options": ["Gujarat", "Bihar", "Kerala", "Punjab"],
+      "answer": 1,
+      "explanation": "Bihar is correct: the Barabar caves are in the Gaya district of Bihar, in the old Magadha region.\nGujarat, Kerala and Punjab are incorrect: the caves are not in these states."
+    },
+    {
+      "question": "The Ajivikas belonged to which group of sects that rejected the authority of the Vedas?",
+      "options": ["Bhakti saints", "Sufi orders", "Rajput clans", "Heterodox (shramana) sects"],
+      "answer": 3,
+      "explanation": "Heterodox (shramana) sects is correct: like the Jains and Buddhists, the Ajivikas were wandering ascetics who rejected the Vedas.\nBhakti saints is incorrect: the Bhakti movement came much later.\nSufi orders is incorrect: Sufism is a mystic movement within Islam.\nRajput clans is incorrect: they were ruling warrior clans, not sects."
+    },
+    {
+      "question": "Makkhali Gosala was for some years a companion of which great teacher?",
+      "options": ["Mahavira", "Kabir", "Guru Nanak", "Shankaracharya"],
+      "answer": 0,
+      "explanation": "Mahavira is correct: Jain texts say Gosala lived with Mahavira for some years before they parted ways.\nKabir and Guru Nanak are incorrect: they lived in medieval times.\nShankaracharya is incorrect: he lived in the 8th century CE."
+    },
+    {
+      "question": "How were the Barabar caves made?",
+      "options": ["Built with burnt bricks", "Built of wood", "Cut into solid rock", "Made of mud and thatch"],
+      "answer": 2,
+      "explanation": "Cut into solid rock is correct: the Barabar caves are rock-cut caves carved out of granite hills.\nBuilt with burnt bricks, Built of wood and Made of mud and thatch are incorrect: the caves were not built up from materials but carved out of rock."
+    },
+    {
+      "question": "The Charvaka or Lokayata school of thought is best known for:",
+      "options": ["Devotion to Vishnu", "Performing sacrifices for rebirth in heaven", "Worship of the Sun", "Materialism"],
+      "answer": 3,
+      "explanation": "Materialism is correct: the Charvakas held that only the material world is real and denied life after death.\nDevotion to Vishnu is incorrect: that is Vaishnavism.\nPerforming sacrifices for rebirth in heaven is incorrect: the Charvakas mocked Vedic sacrifices.\nWorship of the Sun is incorrect: it has no link with the Charvakas."
+    },
+    {
+      "question": "Ajivika ascetics, like some Jain monks, were known for:",
+      "options": ["Going naked and practising strict austerity", "Living as rich householders", "Leading armies", "Serving as court priests"],
+      "answer": 0,
+      "explanation": "Going naked and practising strict austerity is correct: Ajivika ascetics went naked and lived a hard ascetic life.\nLiving as rich householders is incorrect: they were renouncers.\nLeading armies is incorrect: they were religious ascetics.\nServing as court priests is incorrect: they rejected Vedic priestly ritual."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "history-early-later-vedic-period-level-7",
+  "name": "History – Early & Later Vedic Period (Level 7)",
+  "tags": ["history", "level-7"],
+  "subtags": ["vedic-period", "vedic-literature", "rig-vedic-polity", "later-vedic-society", "vedic-archaeology"],
+  "questions": [
+    {
+      "question": "Arrange the following layers of Vedic literature from earliest to latest, in their conventional order:\n1. Upanishads\n2. Rigveda Samhita\n3. Aranyakas\n4. Brahmanas\nSelect the correct answer using the code given below.",
+      "options": ["2-3-4-1", "4-2-3-1", "2-4-1-3", "2-4-3-1"],
+      "answer": 3,
+      "explanation": "The Rigveda Samhita (2) is the earliest layer.\nThe Brahmanas (4), prose explanations of rituals, followed the Samhitas.\nThe Aranyakas (3), forest texts, came next and form a bridge to philosophy.\nThe Upanishads (1), the Vedanta, are the concluding layer.\n(Trap: the Aranyakas are often wrongly placed before the Brahmanas.)\nSo the order is 2-4-3-1."
+    },
+    {
+      "question": "With reference to Rig Vedic geography, consider the following statements:\n1. The Ganga and the Yamuna are not mentioned at all in the Rigveda.\n2. The Indus and its tributaries formed the core area of Rig Vedic settlement.\n3. The Rigveda refers to rivers that flow through present-day Afghanistan.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is incorrect: the Ganga and the Yamuna are mentioned, though only rarely. (Trap: 'not at all' turns a true idea, that they were marginal, into a false one.)\nStatement 2 is correct: the land of the Indus and its tributaries (Sapta Sindhu) was the core of Rig Vedic settlement.\nStatement 3 is correct: rivers such as the Kubha (Kabul) and Krumu (Kurram) are mentioned.\nSo only statements 2 and 3 are correct."
+    },
+    {
+      "question": "With reference to the Upanishads, consider the following statements:\n1. They exclusively upheld elaborate sacrificial rituals as the path to liberation.\n2. Their thought centres on the relationship between atman and brahman.\n3. Kshatriyas were excluded altogether from Upanishadic debates.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is incorrect: the Upanishads criticised excessive ritualism and stressed knowledge as the path to liberation. (Trap: 'exclusively'.)\nStatement 2 is correct: the identity of atman (self) and brahman (ultimate reality) is the central idea of the Upanishads.\nStatement 3 is incorrect: Kshatriya kings such as Janaka of Videha took an active part in these discussions.\nSo only one statement is correct."
+    },
+    {
+      "question": "Painted Grey Ware has been found at which of the following sites?\n1. Hastinapur\n2. Atranjikhera\n3. Ahichchhatra\n4. Mohenjodaro\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "1, 2 and 3 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 1,
+      "explanation": "Hastinapur, Atranjikhera and Ahichchhatra are correct: all are Painted Grey Ware sites of the upper Ganga valley linked with the Later Vedic period.\nMohenjodaro is incorrect: it is a Harappan city on the Indus, much earlier than Painted Grey Ware. (Trap: a famous excavated site of a different culture.)\nSo the answer is 1, 2 and 3 only."
+    },
+    {
+      "question": "With reference to Rig Vedic polity, consider the following statements:\n1. The purohita accompanied the king and urged him on to war.\n2. The king did not maintain a regular standing army.\n3. The king's post was always hereditary, and no assembly ever had a role in choosing him.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: priests such as Vasishtha and Vishvamitra advised the chiefs and exhorted them to war.\nStatement 2 is correct: the Rig Vedic king had no regular or standing army; militias were raised for war.\nStatement 3 is incorrect: although the post tended to be hereditary, there are traces of the chief being chosen by the samiti. (Trap: 'always' and 'ever'.)\nSo only statements 1 and 2 are correct."
+    },
+    {
+      "question": "With reference to the Vedas, consider the following statements:\n1. The Samaveda takes all its verses, without exception, from the Rigveda.\n2. The Yajurveda contains both hymns and prose formulas for sacrifices.\n3. The Shukla Yajurveda is also called the Vajasaneyi Samhita.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 only", "1, 2 and 3", "2 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: most, but not all, verses of the Samaveda come from the Rigveda; a small number are found only in the Samaveda. (Trap: 'all, without exception'.)\nStatement 2 is correct: the Yajurveda has verses and prose formulas recited at sacrifices.\nStatement 3 is correct: the Shukla (White) Yajurveda is known as the Vajasaneyi Samhita; the Krishna (Black) Yajurveda has the Taittiriya and other Samhitas.\nSo only statements 2 and 3 are correct."
+    },
+    {
+      "question": "With reference to Later Vedic society, consider the following statements:\n1. Kings who performed the Rajasuya and Ashvamedha gave large gifts (dakshina) to the priests.\n2. The Vaishyas appear to have been the only tribute-payers among the varnas.\n3. The upanayana ceremony was open to the Shudras.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: the great royal sacrifices brought priests rich gifts of cattle, gold, cloth and horses.\nStatement 2 is correct: the Vaishyas were the main, and apparently the only, tribute-payers; Brahmanas and Kshatriyas lived on what they collected. (Trap: 'only' is true here.)\nStatement 3 is incorrect: upanayana was limited to the three higher varnas and denied to the Shudras.\nSo only two statements are correct."
+    },
+    {
+      "question": "With reference to Vedic gods, consider the following statements:\n1. The Rigveda contains the Nasadiya Sukta, which speculates on the origin of the universe.\n2. Indra was also called Vritrahan, the slayer of Vritra.\n3. Varuna kept his position as the chief deity in the Later Vedic period.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Nasadiya Sukta, the hymn of creation, is in Mandala X of the Rigveda.\nStatement 2 is correct: Indra, who killed the demon Vritra, is called Vritrahan.\nStatement 3 is incorrect: in the Later Vedic period Prajapati became the supreme god, and Rudra and Vishnu rose in importance. (Trap: a Rig Vedic god carried into the later period.)\nSo only statements 1 and 2 are correct."
+    },
+    {
+      "question": "Which of the following were among the 'five peoples' (pancha janah) of the Rigveda?\n1. Yadus\n2. Turvashas\n3. Bharatas\n4. Druhyus\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "1, 3 and 4 only", "1, 2 and 4 only", "1, 2, 3 and 4"],
+      "answer": 2,
+      "explanation": "The Yadus, Turvashas and Druhyus are correct: together with the Anus and Purus they made up the five peoples.\nThe Bharatas are incorrect: they were a separate and powerful tribe, the tribe of Sudas, and are not counted among the five. (Trap: the best-known Rig Vedic tribe is not in the group.)\nSo the answer is 1, 2 and 4 only."
+    },
+    {
+      "question": "With reference to the Rig Vedic economy, consider the following statements:\n1. Cattle-rearing was more important than agriculture.\n2. Rice was the staple crop.\n3. Land was the main form of property given as gifts to priests.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Rig Vedic people were mainly pastoral; agriculture was secondary.\nStatement 2 is incorrect: the main grain was yava (barley); rice appears in Later Vedic texts.\nStatement 3 is incorrect: gifts to priests were mostly cows and slave women; land had not yet become private property and was not gifted. (Trap: a later practice, land grants, pushed back into the Vedic age.)\nSo only one statement is correct."
+    }
+  ]
+}

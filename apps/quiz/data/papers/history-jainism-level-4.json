@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-4",
+  "name": "History – Jainism (Level 4)",
+  "tags": ["history", "level-4"],
+  "subtags": ["jainism", "jain-sects", "jain-philosophy", "jain-art", "royal-patrons"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. Mahavira was a contemporary of Gautama Buddha.\n2. According to Jain tradition, Mahavira was the first Tirthankara and the founder of Jainism.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Mahavira and the Buddha both lived and preached in the 6th-5th centuries BCE in the Ganga valley.\nStatement 2 is incorrect: Jain tradition regards Mahavira as the 24th and last Tirthankara; Rishabhanatha was the first.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Digambara monks traditionally do not wear any clothes.\n2. The division of Jains into Digambaras and Svetambaras is traditionally linked to a long famine in Magadha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: 'Digambara' means sky-clad; their monks give up clothes completely.\nStatement 2 is correct: during a famine in Magadha, Bhadrabahu led some monks to Karnataka while Sthulabhadra stayed back; differences between the two groups later led to the split.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Kharavela, the Jain patron king, belonged to the Maurya dynasty.\n2. The Hathigumpha inscription of Kharavela is found at Udayagiri near Bhubaneswar.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Kharavela belonged to the Mahameghavahana (Chedi) dynasty of Kalinga, not the Mauryas.\nStatement 2 is correct: the Hathigumpha (elephant cave) inscription is on Udayagiri hill near Bhubaneswar, Odisha.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Dilwara temples are built of red sandstone.\n2. The Dilwara temples are dedicated to Buddhist Bodhisattvas.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Dilwara temples are famous for their finely carved white marble.\nStatement 2 is incorrect: they are Jain temples, dedicated to Tirthankaras such as Rishabhanatha and Neminatha.\nSo neither statement is correct."
+    },
+    {
+      "question": "The Jain doctrine of 'Anekantavada' refers to:",
+      "options": ["The many-sidedness of reality", "The cycle of birth and death", "The vow of non-possession", "The worship of Tirthankara images"],
+      "answer": 0,
+      "explanation": "The many-sidedness of reality is correct: anekantavada holds that truth and reality can be seen from many points of view, and no single view is complete.\nThe cycle of birth and death is incorrect: that is samsara.\nThe vow of non-possession is incorrect: that is aparigraha.\nThe worship of Tirthankara images is incorrect: anekantavada is a philosophical doctrine, not a form of worship."
+    },
+    {
+      "question": "Consider the following statements:\n1. Parshvanatha, the 23rd Tirthankara, had taught four vows.\n2. In Jainism, 'asteya' means not stealing.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Parshvanatha taught four vows (ahimsa, satya, asteya and aparigraha); Mahavira later added brahmacharya.\nStatement 2 is correct: asteya means not taking anything that is not given, that is, non-stealing.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Jainism accepted the authority of the Vedas.\n2. Jains believe that even plants and stones possess life (jiva).\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: like Buddhism, Jainism rejected the authority of the Vedas and Vedic sacrifices.\nStatement 2 is correct: Jains believe that life exists everywhere, even in plants, stones, water and earth, which is why they practise strict non-violence.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "The Kalpasutra, a Jain text containing the lives of the Tirthankaras, is traditionally attributed to:",
+      "options": ["Hemachandra", "Jinasena", "Bhadrabahu", "Kundakunda"],
+      "answer": 2,
+      "explanation": "Bhadrabahu is correct: Jain tradition attributes the Kalpasutra, with the biographies of Mahavira and other Tirthankaras, to Bhadrabahu.\nHemachandra is incorrect: he was a 12th-century scholar of Gujarat.\nJinasena is incorrect: he was a Digambara scholar at the Rashtrakuta court.\nKundakunda is incorrect: he was a Digambara philosopher, not the author of the Kalpasutra."
+    },
+    {
+      "question": "According to Jain tradition, Chandragupta Maurya spent his last days at:",
+      "options": ["Pavapuri", "Mount Abu", "Girnar", "Shravanabelagola"],
+      "answer": 3,
+      "explanation": "Shravanabelagola is correct: Jain tradition says Chandragupta Maurya went with Bhadrabahu to Shravanabelagola in Karnataka and ended his life there by fasting.\nPavapuri is incorrect: it is where Mahavira died.\nMount Abu is incorrect: it is known for the Dilwara temples.\nGirnar is incorrect: it is a Jain hill in Gujarat linked with Neminatha."
+    },
+    {
+      "question": "The Jain temple complex at Ranakpur was built in the 15th century during the reign of which ruler of Mewar?",
+      "options": ["Rana Sanga", "Rana Kumbha", "Maharana Pratap", "Prithviraj Chauhan"],
+      "answer": 1,
+      "explanation": "Rana Kumbha is correct: the Ranakpur temple was built by the merchant Dharna Shah with the support of Rana Kumbha of Mewar.\nRana Sanga is incorrect: he ruled Mewar later and fought Babur at Khanwa (1527).\nMaharana Pratap is incorrect: he ruled in the 16th century and fought at Haldighati.\nPrithviraj Chauhan is incorrect: he was a 12th-century Chauhan king of Ajmer and Delhi, not a ruler of Mewar."
+    }
+  ]
+}

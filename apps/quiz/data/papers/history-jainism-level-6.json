@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-6",
+  "name": "History – Jainism (Level 6)",
+  "tags": ["history", "level-6"],
+  "subtags": ["jainism", "jain-sects", "jain-literature", "jain-art"],
+  "questions": [
+    {
+      "question": "With reference to Mahavira, consider the following statements:\n1. He renounced household life at the age of 30.\n2. Buddhist texts refer to him as Nigantha Nataputta.\n3. He died at Kushinagara.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Mahavira left home at 30 and spent 12 years in penance.\nStatement 2 is correct: the Pali texts call him Nigantha Nataputta (the Nirgrantha of the Jnatrika clan).\nStatement 3 is incorrect: he died at Pava (Pavapuri). (Trap: Kushinagara is where the Buddha died.)\nSo statements 1 and 2 only are correct."
+    },
+    {
+      "question": "With reference to the Digambara and Svetambara sects, consider the following statements:\n1. Digambara nuns, like Digambara monks, go without clothes.\n2. Svetambaras hold that Mallinatha, the 19th Tirthankara, was a woman.\n3. Digambaras hold that the original Jain canon was lost.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is incorrect: only Digambara monks give up clothes; Digambara nuns wear white robes. (Trap: an exception to the sky-clad rule.)\nStatement 2 is correct: Svetambaras regard Malli as a woman Tirthankara, while Digambaras hold that a woman must be reborn as a man to attain liberation.\nStatement 3 is correct: Digambaras do not accept the Svetambara Agamas, holding that the original canon was lost.\nSo statements 2 and 3 only are correct."
+    },
+    {
+      "question": "With reference to Jain philosophy, consider the following statements:\n1. Jiva (soul) and ajiva (non-soul) are the two basic categories of existence.\n2. Karma can be removed only through rituals performed by priests.\n3. Liberation is attained through one's own effort, not by the grace of a god.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 and 3 only", "2 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Jainism divides everything into jiva (living souls) and ajiva (non-living things such as matter, space and time).\nStatement 2 is incorrect: Jainism rejects priestly rituals; karma is destroyed by penance, self-control and right conduct. (Trap: 'only through rituals' describes Vedic practice, not Jainism.)\nStatement 3 is correct: each soul must free itself through the Triratna; there is no creator god who grants liberation.\nSo statements 1 and 3 only are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Tamil epic Silappadikaram is attributed to Ilango Adigal, who is traditionally regarded as a Jain monk.\n2. The Jain scholar Jinasena was patronised by the Rashtrakuta king Amoghavarsha I.\n3. The Kannada work Kavirajamarga is attributed to Amoghavarsha I.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: Silappadikaram is attributed to Ilango Adigal, whom tradition describes as a Jain ascetic.\nStatement 2 is correct: Jinasena, author of the Adipurana, was a teacher at the court of Amoghavarsha I.\nStatement 3 is correct: Kavirajamarga, the earliest surviving Kannada work on poetics, is attributed to Amoghavarsha I (some scholars credit his court poet Srivijaya).\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to the Gommateshwara statue at Shravanabelagola, consider the following statements:\n1. It stands on the Chandragiri hill.\n2. Its Mahamastakabhisheka is held once every 12 years.\n3. It was erected by Chamundaraya, a minister of the Western Ganga dynasty.\nWhich of the statements given above is/are correct?",
+      "options": ["2 and 3 only", "1 and 2 only", "3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is incorrect: the statue stands on Vindhyagiri hill. (Trap: Chandragiri, the facing hill, is linked with Bhadrabahu and Chandragupta Maurya.)\nStatement 2 is correct: the Mahamastakabhisheka, the head-anointing ceremony, takes place once every 12 years.\nStatement 3 is correct: it was erected in the late 10th century by Chamundaraya, minister and general of the Western Ganga rulers.\nSo statements 2 and 3 only are correct."
+    },
+    {
+      "question": "With reference to the Hathigumpha inscription of Kharavela, consider the following statements:\n1. It is written in Prakrit in the Brahmi script.\n2. It records the bringing back of a Jina image that had been taken away by a Nanda king.\n3. It is engraved on a free-standing stone pillar.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the inscription is in Prakrit, written in Brahmi.\nStatement 2 is correct: it says Kharavela brought back from Magadha the Jina image of Kalinga once carried off by a Nanda king.\nStatement 3 is incorrect: it is carved on the overhanging rock of a natural cave (the 'elephant cave') on Udayagiri hill. (Trap: pillars are typical of Ashoka's edicts.)\nSo statements 1 and 2 only are correct."
+    },
+    {
+      "question": "Consider the following statements about Jainism and Buddhism:\n1. Both rejected the authority of the Vedas.\n2. Like Buddhism, Jainism denies the existence of a permanent soul.\n3. Both Mahavira and the Buddha preached in the languages of the common people rather than in Sanskrit.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "3 only", "1 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: both rejected Vedic authority and animal sacrifice.\nStatement 2 is incorrect: Jainism believes in an eternal soul (jiva) in every living being; it is Buddhism that teaches anatta (no permanent self). (Trap: a key difference stated as a similarity.)\nStatement 3 is correct: Mahavira used Ardhamagadhi Prakrit and the Buddha used Pali/Magadhi, the languages of ordinary people.\nSo statements 1 and 3 only are correct."
+    },
+    {
+      "question": "Which of the following are Jain sites?\n1. Udayagiri-Khandagiri caves\n2. Sittanavasal\n3. Sanchi\n4. Shravanabelagola\nSelect the correct answer using the code given below.",
+      "options": ["1 and 3 only", "1, 2 and 4 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 1,
+      "explanation": "Site 1 is Jain: the Udayagiri-Khandagiri caves near Bhubaneswar were cut as homes for Jain monks.\nSite 2 is Jain: Sittanavasal in Tamil Nadu is a Jain cave known for its paintings and stone beds.\nSite 3 is not Jain: Sanchi in Madhya Pradesh is a Buddhist stupa site. (Trap: an ancient religious site, but Buddhist.)\nSite 4 is Jain: Shravanabelagola in Karnataka is a major Jain centre.\nSo 1, 2 and 4 only are Jain sites."
+    },
+    {
+      "question": "Which one of the following pairs of Jain scholar and royal patron is correctly matched?",
+      "options": ["Jinasena – Kharavela", "Hiravijaya Suri – Jahangir", "Ravikirti – Harshavardhana", "Hemachandra – Kumarapala"],
+      "answer": 3,
+      "explanation": "Hemachandra – Kumarapala is correctly matched: Hemachandra was the leading scholar at the court of Kumarapala of Gujarat.\nJinasena – Kharavela is incorrect: Jinasena was linked with the Rashtrakuta king Amoghavarsha I.\nHiravijaya Suri – Jahangir is incorrect: Hiravijaya Suri was honoured by Akbar. (Trap: Jahangir was Akbar's son.)\nRavikirti – Harshavardhana is incorrect: Ravikirti was the court poet of Pulakeshin II, Harsha's rival.\nSo only Hemachandra – Kumarapala is correct."
+    },
+    {
+      "question": "Which one of the following is regarded as the first of the twelve Angas of the Svetambara Jain canon?",
+      "options": ["Acharanga Sutra", "Kalpasutra", "Sutrakritanga", "Bhagavati Sutra"],
+      "answer": 0,
+      "explanation": "Acharanga Sutra is correct: it is the first Anga and deals mainly with the conduct of monks.\nKalpasutra is incorrect: it is a text with the lives of the Tirthankaras, not one of the Angas.\nSutrakritanga is incorrect: it is the second Anga.\nBhagavati Sutra is incorrect: it is the fifth Anga (Vyakhyaprajnapti)."
+    }
+  ]
+}

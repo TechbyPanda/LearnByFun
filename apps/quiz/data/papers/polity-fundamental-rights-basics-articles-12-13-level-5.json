@@ -1,0 +1,68 @@
+{
+  "id": "polity-fundamental-rights-basics-articles-12-13-level-5",
+  "name": "Polity – Fundamental Rights Basics & Articles 12-13 (Level 5)",
+  "tags": ["polity", "level-5"],
+  "subtags": ["fundamental-rights", "article-12", "article-13", "emergency-and-fundamental-rights"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. Under Article 12, only authorities within the territory of India can be 'the State'.\n2. Article 12 does not expressly mention the judiciary.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Article 12 covers authorities 'within the territory of India OR under the control of the Government of India', so a body outside India under Government of India control is also included.\nStatement 2 is correct: Article 12 names the Government, Parliament, State Legislatures and local or other authorities, but not the judiciary.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Clause (4) of Article 13 was inserted by the 42nd Amendment Act.\n2. Under Article 13(1), a pre-constitutional law inconsistent with Fundamental Rights is void in its entirety.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: Article 13(4) was inserted by the 24th Amendment (1971), not the 42nd.\nStatement 2 is incorrect: such a law is void only 'to the extent of such inconsistency', not entirely.\nSo neither statement is correct."
+    },
+    {
+      "question": "Under Article 35, the power to make laws for certain Fundamental Rights, such as those under Articles 16(3), 32(3), 33 and 34, is vested in:",
+      "options": ["Parliament only", "State Legislatures only", "Both Parliament and State Legislatures", "The President by order"],
+      "answer": 0,
+      "explanation": "Article 35 gives this power only to Parliament and not to State Legislatures, so these matters stay uniform across India.\nIt is a legislative power, not one the President exercises by order."
+    },
+    {
+      "question": "Consider the following statements regarding Article 13(3):\n1. A custom or usage having the force of law is included in 'law'.\n2. 'Laws in force' includes pre-Constitution laws not previously repealed, even if they are not in operation.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Article 13(3)(a) includes custom or usage having the force of law.\nStatement 2 is correct: Article 13(3)(b) covers laws made before the Constitution and not previously repealed, 'notwithstanding that any such law... may not be then in operation'.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The President cannot suspend the enforcement of Articles 20 and 21 under Article 359.\n2. Article 19 is automatically suspended under Article 358 when a National Emergency is declared on the ground of armed rebellion.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: after the 44th Amendment (1978), the enforcement of Articles 20 and 21 cannot be suspended.\nStatement 2 is incorrect: Article 358 applies only when the emergency is declared on the ground of war or external aggression, not armed rebellion.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Which one of the following pairs (Case – Body held to be 'State') is correctly matched?",
+      "options": ["Sukhdev Singh case (1975) – Board of Control for Cricket in India", "Zee Telefilms case (2005) – Life Insurance Corporation", "Ajay Hasia case (1981) – Reserve Bank of India", "Pradeep Kumar Biswas case (2002) – Council of Scientific and Industrial Research"],
+      "answer": 3,
+      "explanation": "Pradeep Kumar Biswas (2002) held that CSIR is 'State', overruling Sabhajit Tewary (1975).\nSukhdev Singh dealt with statutory corporations such as ONGC, LIC and IFC, not BCCI. Zee Telefilms held that BCCI is not 'State'. Ajay Hasia was about a society running the Regional Engineering College, Srinagar."
+    },
+    {
+      "question": "Consider the following statements:\n1. According to the Supreme Court, the doctrine of eclipse applies mainly to post-constitutional laws.\n2. A pre-constitutional law eclipsed by a Fundamental Right becomes active again if that Fundamental Right is amended to remove the conflict.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the doctrine applies to pre-constitutional laws. A post-constitutional law that violates Fundamental Rights is void from the start (Deep Chand, 1959).\nStatement 2 is correct: in Bhikaji Narain Dhakras (1955), the law became active again once the First Amendment removed the shadow.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. A citizen cannot waive a Fundamental Right.\n2. The rights under Articles 15, 16, 19, 29 and 30 are available only to citizens.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Basheshar Nath (1959) held that Fundamental Rights are not only for individual benefit but also serve public policy, so they cannot be waived.\nStatement 2 is correct: these five Articles are limited to citizens. The others are available to all persons.\nSo both statements are correct."
+    },
+    {
+      "question": "Article 31B, which protects laws in the Ninth Schedule from being challenged for violating Fundamental Rights, was inserted by:",
+      "options": ["24th Amendment Act, 1971", "42nd Amendment Act, 1976", "44th Amendment Act, 1978", "1st Amendment Act, 1951"],
+      "answer": 3,
+      "explanation": "The 1st Amendment (1951) added Articles 31A and 31B and created the Ninth Schedule to protect land reform laws.\nThe 24th added Article 13(4), the 42nd widened Article 31C, and the 44th removed the Right to Property."
+    },
+    {
+      "question": "Consider the following statements:\n1. In the Shankari Prasad case (1951), the Supreme Court held that Parliament cannot amend Fundamental Rights.\n2. In the Golaknath case (1967), the Supreme Court held that a constitutional amendment is 'law' under Article 13.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Shankari Prasad held that Parliament CAN amend Fundamental Rights under Article 368, because 'law' in Article 13 means ordinary law only.\nStatement 2 is correct: Golaknath reversed this and held that an amendment is 'law', so Fundamental Rights cannot be abridged.\nSo only statement 2 is correct."
+    }
+  ]
+}

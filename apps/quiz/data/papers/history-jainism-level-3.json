@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-3",
+  "name": "History – Jainism (Level 3)",
+  "tags": ["history", "level-3"],
+  "subtags": ["jainism", "mahavira", "jain-councils", "jain-art"],
+  "questions": [
+    {
+      "question": "Mahavira was born at:",
+      "options": ["Lumbini", "Kundagrama", "Pavapuri", "Rajagriha"],
+      "answer": 1,
+      "explanation": "Kundagrama is correct: Mahavira was born at Kundagrama near Vaishali in present-day Bihar.\nLumbini is incorrect: it is the birthplace of Gautama Buddha.\nPavapuri is incorrect: it is where Mahavira died.\nRajagriha is incorrect: it was the capital of Magadha, where Mahavira often preached."
+    },
+    {
+      "question": "Mahavira's mother Trishala was a princess of which clan?",
+      "options": ["Jnatrika", "Shakya", "Lichchhavi", "Malla"],
+      "answer": 2,
+      "explanation": "Lichchhavi is correct: Trishala belonged to the Lichchhavi clan of Vaishali.\nJnatrika is incorrect: it was the clan of Mahavira's father Siddhartha.\nShakya is incorrect: it was the Buddha's clan.\nMalla is incorrect: the Mallas ruled Kushinagara and Pava, but Trishala was not from them."
+    },
+    {
+      "question": "At what age did Mahavira attain kaivalya (supreme knowledge)?",
+      "options": ["30 years", "36 years", "40 years", "42 years"],
+      "answer": 3,
+      "explanation": "42 years is correct: Mahavira left home at 30 and attained kaivalya after 12 years of penance, at 42.\n30 years is incorrect: that was his age when he left home.\n36 years and 40 years are incorrect: they do not match the 12 years of penance after leaving home at 30."
+    },
+    {
+      "question": "The first Jain council was held at:",
+      "options": ["Pataliputra", "Rajagriha", "Vaishali", "Vallabhi"],
+      "answer": 0,
+      "explanation": "Pataliputra is correct: the first Jain council met at Pataliputra under Sthulabhadra and compiled the 12 Angas.\nRajagriha is incorrect: it was the venue of the first Buddhist council.\nVaishali is incorrect: it was the venue of the second Buddhist council.\nVallabhi is incorrect: it was the venue of the second Jain council."
+    },
+    {
+      "question": "The second Jain council at Vallabhi was presided over by:",
+      "options": ["Sthulabhadra", "Bhadrabahu", "Devarddhi Kshamashramana", "Hemachandra"],
+      "answer": 2,
+      "explanation": "Devarddhi Kshamashramana is correct: he presided over the Vallabhi council, where the Jain canon was finally compiled and written down.\nSthulabhadra is incorrect: he presided over the first council at Pataliputra.\nBhadrabahu is incorrect: he led the monks who went to Karnataka.\nHemachandra is incorrect: he was a 12th-century scholar in Gujarat."
+    },
+    {
+      "question": "Which one of the following pairs of Tirthankara and his symbol (lanchhana) is correctly matched?",
+      "options": ["Rishabhanatha – Bull", "Parshvanatha – Lion", "Mahavira – Elephant", "Neminatha – Horse"],
+      "answer": 0,
+      "explanation": "Rishabhanatha – Bull is correct: the bull is the symbol of the first Tirthankara.\nParshvanatha – Lion is incorrect: Parshvanatha's symbol is the snake (serpent).\nMahavira – Elephant is incorrect: Mahavira's symbol is the lion.\nNeminatha – Horse is incorrect: Neminatha's symbol is the conch."
+    },
+    {
+      "question": "Which one of the following pairs of Jain site and state is correctly matched?",
+      "options": ["Ranakpur – Gujarat", "Palitana – Gujarat", "Udayagiri-Khandagiri – Madhya Pradesh", "Sammed Shikhar – Bihar"],
+      "answer": 1,
+      "explanation": "Palitana – Gujarat is correct: the temple town on Shatrunjaya hill is in Gujarat.\nRanakpur – Gujarat is incorrect: Ranakpur is in Rajasthan.\nUdayagiri-Khandagiri – Madhya Pradesh is incorrect: these Jain caves are near Bhubaneswar in Odisha.\nSammed Shikhar – Bihar is incorrect: it is on Parasnath hill in Jharkhand."
+    },
+    {
+      "question": "The monolithic Gommateshwara statue at Shravanabelagola represents:",
+      "options": ["Rishabhanatha", "Mahavira", "Parshvanatha", "Bahubali"],
+      "answer": 3,
+      "explanation": "Bahubali is correct: Gommateshwara is another name of Bahubali, son of Rishabhanatha in Jain tradition.\nRishabhanatha is incorrect: he was Bahubali's father, the first Tirthankara.\nMahavira and Parshvanatha are incorrect: the statue does not depict either of them."
+    },
+    {
+      "question": "The Svetambara Jain canon (Agamas) was compiled in which language?",
+      "options": ["Pali", "Ardhamagadhi Prakrit", "Classical Sanskrit", "Old Tamil"],
+      "answer": 1,
+      "explanation": "Ardhamagadhi Prakrit is correct: the Jain Agamas are in Ardhamagadhi, a form of Prakrit.\nPali is incorrect: it is the language of the Buddhist Tipitaka.\nClassical Sanskrit is incorrect: Jains used Sanskrit only later, for commentaries and other works.\nOld Tamil is incorrect: Jains wrote Tamil works, but the canon is not in Tamil."
+    },
+    {
+      "question": "In Jainism, 'Sallekhana' refers to:",
+      "options": ["Ritual bathing of a Jina statue", "Annual festival of forgiveness", "Initiation of a monk", "Voluntary fasting unto death"],
+      "answer": 3,
+      "explanation": "Voluntary fasting unto death is correct: sallekhana is the vow of giving up food and water gradually at the end of life.\nRitual bathing of a Jina statue is incorrect: that is the mahamastakabhisheka.\nAnnual festival of forgiveness is incorrect: that is Paryushana.\nInitiation of a monk is incorrect: that is called diksha."
+    }
+  ]
+}

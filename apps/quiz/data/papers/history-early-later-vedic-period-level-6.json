@@ -1,0 +1,68 @@
+{
+  "id": "history-early-later-vedic-period-level-6",
+  "name": "History – Early & Later Vedic Period (Level 6)",
+  "tags": ["history", "level-6"],
+  "subtags": ["vedic-period", "vedic-literature", "later-vedic-polity", "vedic-economy", "position-of-women"],
+  "questions": [
+    {
+      "question": "With reference to Vedic literature, consider the following statements:\n1. The Aranyakas are forest texts that mark a transition from ritual to philosophy.\n2. The Brihadaranyaka Upanishad forms part of the Shatapatha Brahmana.\n3. The Gopatha Brahmana belongs to the Samaveda.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: the Aranyakas, meant to be studied in the forest, stand between the ritual Brahmanas and the philosophical Upanishads.\nStatement 2 is correct: the Brihadaranyaka Upanishad is the concluding part of the Shatapatha Brahmana of the Shukla Yajurveda.\nStatement 3 is incorrect: the Gopatha Brahmana belongs to the Atharvaveda. (Trap: the Samaveda's Brahmana is the Panchavimsha.)\nSo only statements 1 and 2 are correct."
+    },
+    {
+      "question": "With reference to Rig Vedic religion, consider the following statements:\n1. Usha, the goddess of dawn, is praised in several hymns.\n2. Soma was the name of both a deity and a plant whose juice was offered at sacrifices.\n3. Rudra and Vishnu were the most prominent gods of the Rigveda.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Usha, the dawn, is one of the goddesses praised in the Rigveda.\nStatement 2 is correct: Soma was a plant whose juice was drunk at sacrifices, and also the god of that drink.\nStatement 3 is incorrect: Indra and Agni were the most prominent Rig Vedic gods; Rudra and Vishnu rose to importance in the Later Vedic period. (Trap: a later development placed in the earlier period.)\nSo only statements 1 and 2 are correct."
+    },
+    {
+      "question": "Which of the following rivers are mentioned in the Rigveda?\n1. Kubha\n2. Suvastu\n3. Gomati\n4. Krumu\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "2, 3 and 4 only", "1, 2, 3 and 4", "1 and 4 only"],
+      "answer": 2,
+      "explanation": "Kubha is mentioned: it is the Kabul river.\nSuvastu is mentioned: it is the Swat river.\nGomati is mentioned: the Rig Vedic Gomati is identified with the Gomal river.\nKrumu is mentioned: it is the Kurram river.\n(Trap: all four flow in the north-west, mostly in present-day Afghanistan and Pakistan, which students tend to rule out.)\nSo all four are mentioned."
+    },
+    {
+      "question": "With reference to Later Vedic polity, consider the following statements:\n1. The term 'rashtra', indicating a territory, appears in Later Vedic texts.\n2. The bhagadugha was the officer who collected taxes.\n3. The vidatha completely disappeared.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: the word rashtra, meaning a territory, appears in Later Vedic texts, showing the rise of territorial kingdoms.\nStatement 2 is correct: the bhagadugha collected taxes; the sangrihitri was the treasurer.\nStatement 3 is correct: the vidatha, an assembly of the Rig Vedic period, completely disappeared in Later Vedic times. (Trap: the strong word 'completely' is true here.)\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to the position of women in the Vedic period, consider the following statements:\n1. In the Later Vedic period, the status of women improved and they regularly attended the sabha.\n2. Apala and Ghosha are among the women credited with composing Rig Vedic hymns.\n3. Gargi Vachaknavi took part in a philosophical debate with Yajnavalkya.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the status of women declined in the Later Vedic period and they could no longer attend the sabha. (Trap: the Rig Vedic situation applied to the later period.)\nStatement 2 is correct: Apala, Ghosha and Lopamudra are among the women composers of Rig Vedic hymns.\nStatement 3 is correct: the Brihadaranyaka Upanishad records Gargi's debate with Yajnavalkya.\nSo only statements 2 and 3 are correct."
+    },
+    {
+      "question": "Consider the following pairs:\nVedic term – Meaning\n1. Gavyuti – Measure of distance\n2. Duhitri – Daughter\n3. Godhuli – Measure of weight\nWhich of the pairs given above is/are correctly matched?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Pair 1 is correctly matched: gavyuti was used as a measure of distance.\nPair 2 is correctly matched: duhitri, the daughter, is linked with the word for milking.\nPair 3 is incorrectly matched: godhuli (the dust raised by returning cows) was a measure of time, not weight. (Trap: like gavyuti, it comes from 'go', the cow, but measures something else.)\nSo only pairs 1 and 2 are correctly matched."
+    },
+    {
+      "question": "With reference to the economy of the Later Vedic period, consider the following statements:\n1. Rice (vrihi) and wheat (godhuma) were cultivated.\n2. Regular metallic coins were used in trade.\n3. The nishka, originally a gold ornament, is mentioned in Vedic texts.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 3 only", "1 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Later Vedic texts mention rice and wheat besides barley.\nStatement 2 is incorrect: there were no regular coins in the Vedic period; coins appear in the age of the Mahajanapadas.\nStatement 3 is correct: the nishka, a gold ornament, is mentioned, and terms like nishka and satamana served as units of value. (Trap: a unit of value is not the same as a coin.)\nSo only statements 1 and 3 are correct."
+    },
+    {
+      "question": "With reference to the Kalpa Sutras, consider the following statements:\n1. The Shulbasutras give measurements for building sacrificial altars.\n2. The Grihyasutras deal with domestic rituals.\n3. The Dharmasutras deal with law and social duties.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: the Shulbasutras lay down measurements for altars and are early works of geometry.\nStatement 2 is correct: the Grihyasutras deal with household rites such as birth, marriage and death ceremonies.\nStatement 3 is correct: the Dharmasutras deal with law, custom and the duties of the varnas.\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to Rig Vedic society, consider the following statements:\n1. The word 'varna' was used to distinguish the Aryas from the Dasas.\n2. The family was matriarchal.\n3. Occupations were not strictly hereditary.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1, 2 and 3", "1 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: varna literally meant colour, and in the Rigveda it was used to distinguish the Aryas from the Dasas.\nStatement 2 is incorrect: the Rig Vedic family was patriarchal. (Trap: one word reversed.)\nStatement 3 is correct: a well-known hymn mentions a poet whose father is a physician and whose mother grinds corn, showing that occupations were not fixed by birth.\nSo only statements 1 and 3 are correct."
+    },
+    {
+      "question": "The teaching 'Tat tvam asi' (That thou art), given by Uddalaka Aruni to his son Svetaketu, is found in which Upanishad?",
+      "options": ["Katha Upanishad", "Chandogya Upanishad", "Mundaka Upanishad", "Isha Upanishad"],
+      "answer": 1,
+      "explanation": "Chandogya Upanishad is correct: it records Uddalaka Aruni teaching Svetaketu 'Tat tvam asi'.\nKatha Upanishad is incorrect: it has the dialogue of Nachiketa and Yama.\nMundaka Upanishad is incorrect: it is the source of 'Satyameva Jayate'.\nIsha Upanishad is incorrect: it does not contain this teaching. (Trap: all four are major Upanishads.)"
+    }
+  ]
+}

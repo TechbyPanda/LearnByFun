@@ -1,0 +1,68 @@
+{
+  "id": "history-early-later-vedic-period-level-5",
+  "name": "History – Early & Later Vedic Period (Level 5)",
+  "tags": ["history", "level-5"],
+  "subtags": ["vedic-period", "vedic-literature", "later-vedic-rituals", "vedic-society", "vedic-archaeology"],
+  "questions": [
+    {
+      "question": "With reference to the Rigveda, consider the following statements:\n1. Mandalas II to VII are regarded as its oldest part.\n2. The Gayatri Mantra is found in the third Mandala.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Mandalas II to VII, the 'family books', are the oldest; Mandalas I and X were added later.\nStatement 2 is correct: the Gayatri Mantra, addressed to Savitri, is in Mandala III.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements about the Rig Vedic period:\n1. The king collected a regular and compulsory tax called bali.\n2. The king was called 'gopati', the protector of cattle.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: in the Rig Vedic period bali was a voluntary offering made to the chief, not a regular tax.\nStatement 2 is correct: the king was called gopa or gopati, protector of cattle.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements about Later Vedic rituals:\n1. The Vajapeya was a horse sacrifice performed to establish imperial control.\n2. The Rajasuya included a chariot race in which the king defeated his kinsmen.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the horse sacrifice was the Ashvamedha; the Vajapeya was the chariot race.\nStatement 2 is incorrect: the Rajasuya was the royal consecration that gave the king supreme power; the chariot race was the Vajapeya.\nSo neither statement is correct."
+    },
+    {
+      "question": "Consider the following statements about Rig Vedic society:\n1. Widow remarriage and niyoga (levirate) were practised.\n2. Child marriage was common.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Rigveda shows the practice of niyoga and widow remarriage.\nStatement 2 is incorrect: there is no evidence of child marriage in the Rigveda; the age of marriage seems to have been about 16 to 17.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Which one of the following pairs (Upanishad – Episode) is correctly matched?",
+      "options": ["Katha Upanishad – Dialogue of Nachiketa and Yama", "Mundaka Upanishad – Debate of Gargi and Yajnavalkya", "Brihadaranyaka Upanishad – Dialogue of Nachiketa and Yama", "Mundaka Upanishad – Teaching of Uddalaka Aruni to Svetaketu"],
+      "answer": 0,
+      "explanation": "Katha Upanishad – Dialogue of Nachiketa and Yama is correctly matched.\nMundaka Upanishad – Debate of Gargi and Yajnavalkya is incorrect: that debate is in the Brihadaranyaka Upanishad.\nBrihadaranyaka Upanishad – Dialogue of Nachiketa and Yama is incorrect: that dialogue is in the Katha Upanishad.\nMundaka Upanishad – Teaching of Uddalaka Aruni to Svetaketu is incorrect: that teaching is in the Chandogya Upanishad."
+    },
+    {
+      "question": "Consider the following statements:\n1. Iron implements have been found at Atranjikhera in western Uttar Pradesh.\n2. Painted Grey Ware is the typical pottery of Later Vedic sites such as Hastinapur.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: excavations at Atranjikhera have yielded iron tools and weapons of the Later Vedic phase.\nStatement 2 is correct: Painted Grey Ware is the pottery of Later Vedic settlements in the upper Ganga valley, such as Hastinapur.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements about the Later Vedic period:\n1. The samiti and the vidatha both grew in importance.\n2. Women were no longer allowed to attend the sabha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the popular assemblies lost importance as royal power grew, and the vidatha disappeared.\nStatement 2 is correct: women were no longer permitted to attend the sabha in Later Vedic times.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Shudras are mentioned throughout the Rigveda as a large servile class.\n2. In Later Vedic times, the upanayana ceremony was open to all four varnas.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Shudras appear in the Rigveda only once, in the Purusha Sukta of Mandala X.\nStatement 2 is incorrect: upanayana was meant for the three higher varnas; Shudras were denied it.\nSo neither statement is correct."
+    },
+    {
+      "question": "Which Rig Vedic chief of the Bharata clan is known for defeating Shambara?",
+      "options": ["Sudas", "Divodasa", "Trasadasyu", "Parikshit"],
+      "answer": 1,
+      "explanation": "Divodasa is correct: the Rigveda describes Divodasa of the Bharata clan defeating Shambara.\nSudas is incorrect: he was a later Bharata king, the victor of the Battle of Ten Kings.\nTrasadasyu is incorrect: he was a chief of the Purus.\nParikshit is incorrect: he was a Later Vedic Kuru king."
+    },
+    {
+      "question": "The Boghazkoi inscription from Asia Minor, which names the Vedic gods Indra, Mitra, Varuna and the Nasatyas, is dated to about:",
+      "options": ["2500 BCE", "1900 BCE", "1400 BCE", "600 BCE"],
+      "answer": 2,
+      "explanation": "1400 BCE is correct: the Boghazkoi inscription, a treaty of about 1400 BCE, names these Vedic gods.\n2500 BCE is incorrect: it is the time of the mature Harappan civilisation.\n1900 BCE is incorrect: it is roughly when the mature Harappan phase declined.\n600 BCE is incorrect: it is the age of the Mahajanapadas."
+    }
+  ]
+}

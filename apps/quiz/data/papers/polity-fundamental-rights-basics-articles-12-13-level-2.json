@@ -1,0 +1,68 @@
+{
+  "id": "polity-fundamental-rights-basics-articles-12-13-level-2",
+  "name": "Polity – Fundamental Rights Basics & Articles 12-13 (Level 2)",
+  "tags": ["polity", "level-2"],
+  "subtags": ["fundamental-rights", "article-12", "article-13", "constituent-assembly"],
+  "questions": [
+    {
+      "question": "Fundamental Rights are contained in which range of Articles of the Constitution?",
+      "options": ["Articles 5 to 11", "Articles 36 to 51", "Articles 12 to 35", "Articles 52 to 78"],
+      "answer": 2,
+      "explanation": "Part III, Fundamental Rights, covers Articles 12 to 35.\nArticles 5-11 deal with Citizenship, 36-51 with Directive Principles, and 52-78 with the Union Executive."
+    },
+    {
+      "question": "Fundamental Rights are said to be 'justiciable'. What does this mean?",
+      "options": ["They can be enforced through the courts", "They are only moral guidelines for the State", "They can be changed by the President alone", "They apply only during an emergency"],
+      "answer": 0,
+      "explanation": "Justiciable means a person can go to court (Supreme Court under Article 32, High Court under Article 226) if these rights are violated.\nDirective Principles, not Fundamental Rights, are non-justiciable guidelines. The President cannot change them alone, and they apply at all times."
+    },
+    {
+      "question": "What is the present status of the Right to Property in India?",
+      "options": ["A Fundamental Right under Article 19", "A Fundamental Right under Article 31", "A Directive Principle of State Policy", "A legal (constitutional) right under Article 300A"],
+      "answer": 3,
+      "explanation": "After the 44th Amendment (1978), the Right to Property is a constitutional or legal right under Article 300A in Part XII. It is no longer a Fundamental Right.\nArticle 19(1)(f) and Article 31 were removed, and it is not a Directive Principle."
+    },
+    {
+      "question": "Which Constitutional Amendment Act removed the Right to Property from the list of Fundamental Rights?",
+      "options": ["42nd Amendment Act, 1976", "44th Amendment Act, 1978", "86th Amendment Act, 2002", "73rd Amendment Act, 1992"],
+      "answer": 1,
+      "explanation": "The 44th Amendment (1978), passed by the Janata government, removed the Right to Property.\nThe 42nd added Fundamental Duties, the 86th added the Right to Education (Article 21A), and the 73rd dealt with Panchayati Raj."
+    },
+    {
+      "question": "Which Fundamental Rights cannot be suspended even during a National Emergency?",
+      "options": ["Articles 20 and 21", "Articles 14 and 19", "Articles 19 and 32", "Articles 15 and 16"],
+      "answer": 0,
+      "explanation": "After the 44th Amendment (1978), the right to move courts for enforcing Article 20 (protection in respect of conviction for offences) and Article 21 (life and personal liberty) cannot be suspended under Article 359.\nThe enforcement of the other listed rights can be suspended during a National Emergency."
+    },
+    {
+      "question": "According to Article 12, which of the following is included in 'the State'?",
+      "options": ["Only the Union Government", "Only Parliament and the State Legislatures", "The Government and Parliament of India, the Government and Legislature of each State, and all local and other authorities", "Only the Union and State Governments"],
+      "answer": 2,
+      "explanation": "Article 12 includes the Government and Parliament of India, the Government and Legislature of each State, and all local or other authorities within India or under the control of the Government of India.\nThe other options are too narrow."
+    },
+    {
+      "question": "Under Article 13, which of the following is included in the meaning of 'law'?",
+      "options": ["A private contract", "A political party manifesto", "A newspaper editorial", "An ordinance"],
+      "answer": 3,
+      "explanation": "Article 13(3) says 'law' includes any ordinance, order, bye-law, rule, regulation, notification, and custom or usage having the force of law.\nContracts, manifestos and editorials do not have the force of law."
+    },
+    {
+      "question": "Which Article gives the High Courts the power to issue writs for enforcing Fundamental Rights?",
+      "options": ["Article 32", "Article 226", "Article 368", "Article 143"],
+      "answer": 1,
+      "explanation": "Article 226 gives the High Courts writ powers.\nArticle 32 gives this power to the Supreme Court, Article 368 deals with amending the Constitution, and Article 143 with the President seeking the Supreme Court's advice."
+    },
+    {
+      "question": "Who chaired the Constituent Assembly's Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas?",
+      "options": ["Jawaharlal Nehru", "Dr B.R. Ambedkar", "Sardar Vallabhbhai Patel", "Dr Rajendra Prasad"],
+      "answer": 2,
+      "explanation": "Sardar Vallabhbhai Patel chaired this Advisory Committee.\nNehru chaired the Union Powers and Union Constitution Committees, Ambedkar the Drafting Committee, and Rajendra Prasad the Rules of Procedure and Steering Committees."
+    },
+    {
+      "question": "Fundamental Rights mainly protect individuals against the actions of:",
+      "options": ["The State", "Only private companies", "Only foreign countries", "Only religious bodies"],
+      "answer": 0,
+      "explanation": "Most Fundamental Rights limit the power of the State, which is why Article 12 defines 'the State'. A few rights, such as Article 17, also apply against private individuals.\nThey are not limited to companies, foreign countries or religious bodies."
+    }
+  ]
+}

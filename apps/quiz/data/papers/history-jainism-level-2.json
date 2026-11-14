@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-2",
+  "name": "History – Jainism (Level 2)",
+  "tags": ["history", "level-2"],
+  "subtags": ["jainism", "mahavira", "jain-philosophy", "jain-sects"],
+  "questions": [
+    {
+      "question": "Mahavira was born into which clan?",
+      "options": ["Shakya", "Jnatrika", "Maurya", "Kuru"],
+      "answer": 1,
+      "explanation": "Jnatrika is correct: Mahavira's father Siddhartha was the head of the Jnatrika clan, a Kshatriya clan near Vaishali.\nShakya is incorrect: it was the clan of Gautama Buddha.\nMaurya is incorrect: it was the dynasty founded by Chandragupta Maurya, much later.\nKuru is incorrect: it was a Vedic tribe and later a mahajanapada."
+    },
+    {
+      "question": "Who was the 23rd Tirthankara of Jainism?",
+      "options": ["Rishabhanatha", "Neminatha", "Parshvanatha", "Mahavira"],
+      "answer": 2,
+      "explanation": "Parshvanatha is correct: he was the 23rd Tirthankara and lived before Mahavira.\nRishabhanatha is incorrect: he was the first Tirthankara.\nNeminatha is incorrect: he was the 22nd Tirthankara.\nMahavira is incorrect: he was the 24th Tirthankara."
+    },
+    {
+      "question": "Which of the following is NOT one of the Triratna (three jewels) of Jainism?",
+      "options": ["Right faith", "Right knowledge", "Right conduct", "Right livelihood"],
+      "answer": 3,
+      "explanation": "Right livelihood is correct (it is not a Triratna): it is a part of the Buddhist Eightfold Path.\nRight faith, Right knowledge and Right conduct are the three jewels of Jainism, which together lead to liberation."
+    },
+    {
+      "question": "Which of the five Jain vows was added by Mahavira to the four taught earlier by Parshvanatha?",
+      "options": ["Ahimsa", "Satya", "Asteya", "Brahmacharya"],
+      "answer": 3,
+      "explanation": "Brahmacharya is correct: Mahavira added brahmacharya (celibacy) as the fifth vow.\nAhimsa (non-violence), Satya (truth) and Asteya (non-stealing) are incorrect: these were already among the four vows of Parshvanatha, along with aparigraha (non-possession)."
+    },
+    {
+      "question": "Which Jain monk led a group of Jains to Karnataka during a long famine in Magadha?",
+      "options": ["Bhadrabahu", "Nagarjuna", "Hemachandra", "Ashvaghosha"],
+      "answer": 0,
+      "explanation": "Bhadrabahu is correct: Jain tradition says he took a group of monks south to Karnataka during a famine in Magadha.\nNagarjuna is incorrect: he was a Buddhist philosopher.\nHemachandra is incorrect: he was a Jain scholar of the 12th century, much later.\nAshvaghosha is incorrect: he was a Buddhist poet at the court of Kanishka."
+    },
+    {
+      "question": "Kharavela, a great patron of Jainism, was the ruler of:",
+      "options": ["Gandhara", "Avanti", "Kalinga", "Kamarupa"],
+      "answer": 2,
+      "explanation": "Kalinga is correct: Kharavela ruled Kalinga (present-day Odisha) and supported Jain monks.\nGandhara is incorrect: it lay in the north-west.\nAvanti is incorrect: it lay in western Madhya Pradesh, around Ujjain.\nKamarupa is incorrect: it was in present-day Assam."
+    },
+    {
+      "question": "What does the name of the Jain sect 'Svetambara' mean?",
+      "options": ["Sky-clad", "White-clad", "Yellow-robed", "Ash-smeared"],
+      "answer": 1,
+      "explanation": "White-clad is correct: Svetambara monks and nuns wear white clothes.\nSky-clad is incorrect: that is the meaning of Digambara, the other main sect, whose monks wear no clothes.\nYellow-robed and Ash-smeared are incorrect: neither describes a Jain sect."
+    },
+    {
+      "question": "In Jainism, what does the term 'Kaivalya' refer to?",
+      "options": ["Supreme knowledge", "A sacred text", "A monastery", "A festival"],
+      "answer": 0,
+      "explanation": "Supreme knowledge is correct: kaivalya (kevala jnana) is the supreme, perfect knowledge that Mahavira attained after years of penance.\nA sacred text, A monastery and A festival are incorrect: kaivalya is a state of the soul, not a book, building or festival."
+    },
+    {
+      "question": "Which Jain vow means 'non-possession', that is, not being attached to property?",
+      "options": ["Ahimsa", "Satya", "Asteya", "Aparigraha"],
+      "answer": 3,
+      "explanation": "Aparigraha is correct: it means non-possession or non-attachment to property.\nAhimsa is incorrect: it means non-violence.\nSatya is incorrect: it means speaking the truth.\nAsteya is incorrect: it means not stealing."
+    },
+    {
+      "question": "Which of the following was NOT a Jain Tirthankara?",
+      "options": ["Nagarjuna", "Neminatha", "Parshvanatha", "Rishabhanatha"],
+      "answer": 0,
+      "explanation": "Nagarjuna is correct (he was not a Tirthankara): he was a Buddhist philosopher of the Madhyamika school.\nNeminatha (22nd), Parshvanatha (23rd) and Rishabhanatha (1st) are all Jain Tirthankaras."
+    }
+  ]
+}

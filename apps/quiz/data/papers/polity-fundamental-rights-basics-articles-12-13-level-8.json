@@ -1,0 +1,68 @@
+{
+  "id": "polity-fundamental-rights-basics-articles-12-13-level-8",
+  "name": "Polity – Fundamental Rights Basics & Articles 12-13 (Level 8)",
+  "tags": ["polity", "level-8"],
+  "subtags": ["fundamental-rights", "article-12", "article-13", "basic-structure", "horizontal-application"],
+  "questions": [
+    {
+      "question": "With reference to 'the State' under Article 12 of the Constitution of India, consider the following statements:\n1. A body registered as a society can be 'the State' if it is an instrumentality or agency of the Government.\n2. Article 36 applies the same meaning of 'the State' to Part IV of the Constitution.\n3. In the Zee Telefilms case, BCCI was held to be 'the State' because it selects the national cricket team.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: in Ajay Hasia (1981), a society running the Regional Engineering College, Srinagar was held to be 'State'. The test is how the body is controlled and funded, not how it was formed.\nStatement 2 is correct: Article 36 says 'the State' in Part IV has the same meaning as in Part III.\nStatement 3 is incorrect: Zee Telefilms (2005) held that BCCI is not 'State' because the Government does not control it financially, functionally or administratively. (Trap: a public function does not by itself make a body 'State')\nSo only two statements are correct."
+    },
+    {
+      "question": "With reference to Article 13 of the Constitution of India, consider the following statements:\n1. Clause (4) of Article 13 was inserted by the 42nd Constitutional Amendment Act.\n2. A pre-constitutional law inconsistent with Fundamental Rights is void from the date it was originally enacted.\n3. In the Kesavananda Bharati case, the Supreme Court held that a constitutional amendment is 'law' under Article 13.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: Article 13(4) was inserted by the 24th Amendment (1971).\nStatement 2 is incorrect: Article 13(1) makes such laws void only from the commencement of the Constitution, and only to the extent of the inconsistency. Rights and liabilities that arose before 26 January 1950 are not affected (Keshavan Madhava Menon, 1951).\nStatement 3 is incorrect: Kesavananda Bharati overruled Golaknath on this point and held that an amendment is not 'law' under Article 13. It limited the amending power through the basic structure instead. (Trap: that was Golaknath's view)\nSo none of the statements is correct."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: Laws placed in the Ninth Schedule after 24 April 1973 can be challenged if they violate the basic structure of the Constitution.\nStatement-II: In the I.R. Coelho case (2007), the Supreme Court held that the amending power under Article 368 is subject to the basic structure doctrine, which was laid down on 24 April 1973 in the Kesavananda Bharati judgment.\nWhich one of the following is correct in respect of the above statements?",
+      "options": ["Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I", "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
+      "answer": 0,
+      "explanation": "Statement-I is correct: this is the holding of I.R. Coelho (2007).\nStatement-II is correct, and it explains Statement-I: placing a law in the Ninth Schedule is itself an amendment under Article 368. After Kesavananda Bharati (24 April 1973), every amendment must respect the basic structure, so Ninth Schedule additions made after that date can be reviewed on that ground.\nSo both are correct and Statement-II explains Statement-I."
+    },
+    {
+      "question": "Consider the following pairs:\nCase – Principle laid down\n1. Bhikaji Narain Dhakras v State of Madhya Pradesh – Doctrine of eclipse\n2. Basheshar Nath v Commissioner of Income Tax – Fundamental Rights cannot be waived\n3. R.M.D.C. v Union of India – Doctrine of severability\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 2,
+      "explanation": "Pair 1 is correctly matched: Bhikaji Narain Dhakras (1955). A pre-constitutional law in conflict with a Fundamental Right is only eclipsed, not dead.\nPair 2 is correctly matched: Basheshar Nath (1959). Fundamental Rights also serve public policy, so they cannot be waived.\nPair 3 is correctly matched: R.M.D.C. v Union of India (1957). Only the invalid part of a law goes if it can be separated from the valid part.\nSo all three pairs are correctly matched."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: A constitutional amendment that abridges a Fundamental Right is void under Article 13(2).\nStatement-II: Article 13(4) excludes amendments made under Article 368 from the operation of Article 13.\nWhich one of the following is correct in respect of the above statements?",
+      "options": ["Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I", "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
+      "answer": 3,
+      "explanation": "Statement-I is incorrect: because of Article 13(4), an amendment cannot be struck down under Article 13(2). It can be struck down only if it damages the basic structure (Kesavananda Bharati). (Trap: mixing Article 13 review with basic structure review)\nStatement-II is correct: the 24th Amendment (1971) added clause (4) for this purpose.\nSo Statement-I is incorrect but Statement-II is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. In Kaushal Kishor v State of Uttar Pradesh (2023), the Supreme Court held that the rights under Articles 19 and 21 can be enforced even against persons other than the State.\n2. In the same case, the Court held that additional restrictions on the free speech of ministers, beyond those in Article 19(2), can be imposed.\n3. The rights under Article 15(2) and Article 17 can be enforced against private individuals.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: the Constitution Bench (majority) recognised that Articles 19 and 21 can apply against non-State actors (horizontal application).\nStatement 2 is incorrect: the Court held that the grounds in Article 19(2) are exhaustive, and no additional restrictions can be imposed, even on ministers. (Trap: the opposite holding)\nStatement 3 is correct: these provisions are expressly worded to cover private conduct as well.\nSo only two statements are correct."
+    },
+    {
+      "question": "Which of the following come within the meaning of 'law' as defined in Article 13(3)?\n1. A bye-law made by a municipality\n2. A custom having the force of law\n3. An executive notification\n4. A constitutional amendment made under Article 368\nSelect the correct answer using the code given below.",
+      "options": ["1, 2 and 3 only", "1 and 2 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 0,
+      "explanation": "1, 2 and 3 are included: Article 13(3)(a) lists ordinance, order, bye-law, rule, regulation, notification, and custom or usage having the force of law. So both delegated legislation and customs can be struck down for violating Fundamental Rights.\n4 is excluded: Article 13(4) keeps amendments under Article 368 outside Article 13.\nSo the answer is 1, 2 and 3 only."
+    },
+    {
+      "question": "With reference to Fundamental Rights during a National Emergency, consider the following statements:\n1. Article 19 is suspended under Article 358 only when the emergency is declared on the ground of war or external aggression, not armed rebellion.\n2. The enforcement of Articles 20 and 21 cannot be suspended by a Presidential order under Article 359.\n3. Article 359 suspends the enforcement of the specified Fundamental Rights, not the rights themselves.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the 44th Amendment (1978) limited Article 358 to war or external aggression.\nStatement 2 is correct: the same amendment protected Articles 20 and 21 from suspension.\nStatement 3 is correct: Article 358 suspends Article 19 itself, while Article 359 only suspends the right to move courts for enforcing the rights named in the President's order.\nSo all three statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: The right to move the Supreme Court under Article 32 is itself a Fundamental Right.\nStatement-II: Under Article 226, High Courts can issue writs for enforcing Fundamental Rights and also 'for any other purpose'.\nWhich one of the following is correct in respect of the above statements?",
+      "options": ["Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I", "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
+      "answer": 1,
+      "explanation": "Statement-I is correct: Article 32 is in Part III, so the remedy itself is guaranteed.\nStatement-II is correct: High Courts' writ power is wider because it also covers legal rights.\nBut Statement-II does not explain Statement-I. Article 32 is a Fundamental Right because it sits in Part III, not because of what High Courts can do under Article 226. (Trap: two true, related facts with no cause-and-effect link)\nSo both are correct, but Statement-II is not the explanation."
+    },
+    {
+      "question": "Consider the following pairs:\nArticle – Provision\n1. Article 33 – Restriction of Fundamental Rights while martial law is in force\n2. Article 34 – Power of Parliament to modify Fundamental Rights of the armed forces\n3. Article 31A – Protection of laws included in the Ninth Schedule\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 3,
+      "explanation": "Pair 1 is incorrectly matched: Article 33 is about modifying Fundamental Rights of the armed forces, police and similar forces. Martial law is Article 34.\nPair 2 is incorrectly matched: that is Article 33. (Trap: neighbouring Articles swapped)\nPair 3 is incorrectly matched: Article 31B protects Ninth Schedule laws. Article 31A saves laws on the acquisition of estates and similar matters.\nSo none of the pairs is correctly matched."
+    }
+  ]
+}

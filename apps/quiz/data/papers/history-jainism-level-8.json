@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-8",
+  "name": "History – Jainism (Level 8)",
+  "tags": ["history", "level-8"],
+  "subtags": ["jainism", "jain-heritage", "jain-philosophy", "royal-patrons", "jain-art"],
+  "questions": [
+    {
+      "question": "With reference to Prakrit and Jain literature, consider the following statements:\n1. In 2024, the Union Cabinet approved the grant of classical language status to Prakrit.\n2. Several important Digambara texts were composed in Shauraseni Prakrit.\n3. Prakrit was the first Indian language to be declared a classical language.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: in October 2024 the Union Cabinet approved classical language status for Prakrit, along with Pali, Marathi, Assamese and Bengali.\nStatement 2 is correct: Digambara works such as the Shatkhandagama and the writings of Kundakunda are in Shauraseni Prakrit, while the Svetambara Agamas are in Ardhamagadhi.\nStatement 3 is incorrect: Tamil was the first language declared classical, in 2004. (Trap: Prakrit was among the most recent additions.)\nSo only two statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Jains have been notified as a minority community at the national level under the National Commission for Minorities Act, 1992.\n2. Jains were the sixth community to be notified as a national minority.\n3. In 2015, the Supreme Court stayed a Rajasthan High Court judgment that had treated the practice of sallekhana as a punishable offence.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Centre notified Jains as a minority community under Section 2(c) of the NCM Act, 1992 in January 2014.\nStatement 2 is correct: Muslims, Christians, Sikhs, Buddhists and Parsis were notified in 1993; Jains were added in 2014 as the sixth.\nStatement 3 is correct: in 2015 the Rajasthan High Court equated sallekhana with suicide, and the Supreme Court stayed that judgment the same year.\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to Jain philosophy, consider the following statements:\n1. Liberation requires the soul to be freed from all karmic matter.\n2. Karma is regarded as an immaterial moral law, not a physical substance.\n3. At liberation, every individual soul merges into a single universal soul (Brahman).\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: moksha is reached when the inflow of new karma is stopped (samvara) and the old karma is worn away (nirjara), leaving the soul pure.\nStatement 2 is incorrect: Jainism treats karma as fine matter (pudgala) that sticks to the soul. (Trap: the Buddhist and Brahmanical views of karma are not material in this sense.)\nStatement 3 is incorrect: Jainism holds that souls are many and each liberated soul keeps its own identity; merging into Brahman is an Upanishadic and Vedanta idea. (Trap: a true idea placed in the wrong school.)\nSo only one statement is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Hathigumpha inscription of Kharavela is located on the Khandagiri hill.\n2. Ravikirti's Aihole inscription is found on a Buddhist chaitya.\n3. The Vimal Vasahi temple at Mount Abu was built by a minister of the Rashtrakutas.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Hathigumpha cave is on Udayagiri, the twin hill facing Khandagiri near Bhubaneswar. (Trap: twin hills with similar names.)\nStatement 2 is incorrect: the Aihole inscription of Pulakeshin II is on the Meguti Jain temple.\nStatement 3 is incorrect: Vimal Vasahi was built in 1031 CE by Vimala, minister of the Chalukya (Solanki) king Bhima I of Gujarat.\nSo none of the statements is correct."
+    },
+    {
+      "question": "Consider the following pairs:\nJain monument – Location\n1. Meguti temple – Aihole\n2. Chaumukha temple of Adinatha – Ranakpur\n3. Jain beds of Kalugumalai – Karnataka\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 1,
+      "explanation": "Pair 1 is correctly matched: the Meguti Jain temple stands on a hill at Aihole in Karnataka.\nPair 2 is correctly matched: the four-faced (chaumukha) temple at Ranakpur, Rajasthan, is dedicated to Adinatha (Rishabhanatha).\nPair 3 is incorrectly matched: Kalugumalai is in Thoothukudi district of Tamil Nadu. (Trap: Karnataka has many Jain sites, so the pairing sounds believable.)\nSo only two pairs are correctly matched."
+    },
+    {
+      "question": "Consider the following pairs:\nJain term – Meaning\n1. Samavasarana – Divine assembly hall where a Tirthankara preaches\n2. Basadi – Jain temple, as the term is used in Karnataka\n3. Nishidhi – Memorial marking a Jain's death by sallekhana\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 2,
+      "explanation": "Pair 1 is correctly matched: the samavasarana is the assembly hall in which a Tirthankara, after attaining kevala jnana, preaches to all beings.\nPair 2 is correctly matched: Jain temples in Karnataka are called basadis (for example, Chandragupta Basadi on Chandragiri hill).\nPair 3 is correctly matched: nishidhis are memorial stones or inscriptions recording a death by sallekhana, common at Shravanabelagola.\nSo all three pairs are correctly matched."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: In ancient India, Jainism found its main following among trading communities rather than among cultivators.\nStatement-II: Strict observance of ahimsa made occupations such as agriculture, which involve killing insects and small creatures, difficult for Jains.\nWhich one of the following is correct in respect of the above statements?",
+      "options": ["Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I", "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
+      "answer": 0,
+      "explanation": "Statement-I is correct: Jainism was supported mainly by merchants and traders (NCERT; R.S. Sharma).\nStatement-II is correct: because ploughing kills living beings, Jains were drawn away from farming towards trade, as NCERT explains.\nStatement-II explains Statement-I: the strict ahimsa rule is the reason Jainism spread among traders rather than farmers.\nSo both are correct and Statement-II is the correct explanation for Statement-I."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: Unlike Buddhism, Jainism did not spread significantly beyond the Indian subcontinent in ancient times.\nStatement-II: Jainism received no royal patronage in India.\nWhich one of the following is correct in respect of the above statements?",
+      "options": ["Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I", "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
+      "answer": 2,
+      "explanation": "Statement-I is correct: Buddhism spread to Sri Lanka, Central Asia, China and South-East Asia, while Jainism remained largely within India.\nStatement-II is incorrect: Jainism had many royal patrons, such as Chandragupta Maurya (in Jain tradition), Kharavela of Kalinga, the Western Gangas, the Rashtrakuta king Amoghavarsha I and Kumarapala of Gujarat. (Trap: a false reason offered for a true fact.)\nSo Statement-I is correct but Statement-II is incorrect."
+    },
+    {
+      "question": "Arrange the following events in the history of Jainism from earliest to latest:\n1. The Jain council at Vallabhi\n2. Hiravijaya Suri's visit to the court of Akbar\n3. Bhadrabahu's migration to Karnataka during a famine in Magadha\n4. Erection of the Gommateshwara statue at Shravanabelagola\nSelect the correct answer using the code given below.",
+      "options": ["1-3-4-2", "3-4-1-2", "3-1-2-4", "3-1-4-2"],
+      "answer": 3,
+      "explanation": "Bhadrabahu's migration (3) is the earliest: tradition places it in the time of Chandragupta Maurya, around 300 BCE.\nThe Vallabhi council (1) comes next: it met in the 5th-6th century CE.\nThe Gommateshwara statue (4) follows: Chamundaraya had it carved in the late 10th century CE.\nHiravijaya Suri's visit to Akbar (2) is the latest: it took place in the 1580s.\n(Trap: putting the Vallabhi council before the migration because councils are thought of as early events.)\nSo the order is 3-1-4-2."
+    },
+    {
+      "question": "Which of the following terms belong to Jain philosophy?\n1. Pudgala\n2. Anatta\n3. Saptabhangi\n4. Pratityasamutpada\nSelect the correct answer using the code given below.",
+      "options": ["1 and 3 only", "2 and 4 only", "1, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 0,
+      "explanation": "Term 1 is Jain: pudgala is the Jain category of matter, one of the kinds of ajiva, of which karma is made.\nTerm 2 is not Jain: anatta (no permanent self) is a Buddhist doctrine, and it contradicts the Jain belief in an eternal jiva.\nTerm 3 is Jain: saptabhangi, the sevenfold predication, is the core of syadvada.\nTerm 4 is not Jain: pratityasamutpada (dependent origination) is the Buddhist theory of causation.\nSo 1 and 3 only."
+    }
+  ]
+}

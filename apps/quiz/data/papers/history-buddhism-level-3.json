@@ -1,0 +1,68 @@
+{
+  "id": "history-buddhism-level-3",
+  "name": "History – Buddhism (Level 3)",
+  "tags": ["history", "level-3"],
+  "subtags": ["buddhism", "buddhist-councils", "buddhist-texts", "buddhist-schools", "buddhist-art"],
+  "questions": [
+    {
+      "question": "The First Buddhist Council at Rajagriha was held under the patronage of:",
+      "options": ["Bimbisara", "Kalashoka", "Ajatashatru", "Udayin"],
+      "answer": 2,
+      "explanation": "Ajatashatru is correct: the First Council was held at Rajagriha soon after the Buddha's death, under Ajatashatru.\nBimbisara was his father and died before the Buddha, Kalashoka patronised the Second Council, and Udayin was Ajatashatru's successor."
+    },
+    {
+      "question": "The Second Buddhist Council at Vaishali was held during the reign of:",
+      "options": ["Kalashoka", "Ashoka", "Ajatashatru", "Kanishka"],
+      "answer": 0,
+      "explanation": "Kalashoka is correct: the Second Council met at Vaishali about a hundred years after the Buddha's death, under the Shishunaga king Kalashoka.\nAjatashatru patronised the First, Ashoka the Third and Kanishka the Fourth Council."
+    },
+    {
+      "question": "Who presided over the Third Buddhist Council at Pataliputra?",
+      "options": ["Mahakassapa", "Moggaliputta Tissa", "Vasumitra", "Sabakami"],
+      "answer": 1,
+      "explanation": "Moggaliputta Tissa is correct: he presided over the Third Council held at Pataliputra under Ashoka.\nMahakassapa presided over the First, Sabakami over the Second, and Vasumitra over the Fourth Council."
+    },
+    {
+      "question": "In early Buddhist art, events of the Buddha's life were shown by symbols. Which one of the following pairs is correctly matched?",
+      "options": ["Birth – Bodhi tree", "Great Departure – Stupa", "Enlightenment – Horse", "First sermon – Wheel"],
+      "answer": 3,
+      "explanation": "First sermon – Wheel is correct: the wheel (dharmachakra) stands for the first sermon at Sarnath.\nBirth is shown by the lotus and bull, not the Bodhi tree.\nThe Great Departure is shown by the horse, not the stupa.\nEnlightenment is shown by the Bodhi tree, not the horse."
+    },
+    {
+      "question": "Who presided over the First Buddhist Council?",
+      "options": ["Upali", "Mahakassapa", "Ananda", "Sabakami"],
+      "answer": 1,
+      "explanation": "Mahakassapa is correct: he presided over the First Council at Rajagriha.\nUpali recited the Vinaya and Ananda recited the Sutta at this council, but neither presided. Sabakami presided over the Second Council."
+    },
+    {
+      "question": "Which part of the Tripitaka contains the rules for monks and nuns?",
+      "options": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Khuddaka Nikaya"],
+      "answer": 0,
+      "explanation": "Vinaya Pitaka is correct: it lays down the rules of discipline for the Sangha.\nThe Sutta Pitaka holds the Buddha's discourses, the Abhidhamma Pitaka holds philosophical analysis, and the Khuddaka Nikaya is a collection within the Sutta Pitaka."
+    },
+    {
+      "question": "The Madhyamaka (Shunyavada) school of Buddhism was founded by:",
+      "options": ["Asanga", "Vasubandhu", "Dignaga", "Nagarjuna"],
+      "answer": 3,
+      "explanation": "Nagarjuna is correct: he founded the Madhyamaka school, which taught shunyata (emptiness).\nAsanga and Vasubandhu are linked with the Yogachara school, and Dignaga is known for Buddhist logic."
+    },
+    {
+      "question": "Which one of the following pairs of Buddhist monastic university and its founder is correctly matched?",
+      "options": ["Nalanda – Dharmapala", "Vikramashila – Kumaragupta I", "Vikramashila – Dharmapala", "Nalanda – Harshavardhana"],
+      "answer": 2,
+      "explanation": "Vikramashila – Dharmapala is correct: the Pala king Dharmapala founded Vikramashila.\nNalanda was founded by the Gupta ruler Kumaragupta I, not Dharmapala.\nKumaragupta I founded Nalanda, not Vikramashila.\nHarshavardhana gave grants to Nalanda but did not found it."
+    },
+    {
+      "question": "The Gandhara school of art mainly used which material for its sculptures?",
+      "options": ["Grey schist", "Spotted red sandstone", "White marble", "Granite"],
+      "answer": 0,
+      "explanation": "Grey schist is correct: Gandhara sculptures were mostly carved in grey or blue-grey schist, along with stucco.\nSpotted red sandstone was used by the Mathura school, white marble (limestone) by the Amaravati school, and granite by later south Indian temple builders."
+    },
+    {
+      "question": "The Pali text that records a dialogue between the Indo-Greek king Menander and the monk Nagasena is:",
+      "options": ["Dipavamsa", "Mahavamsa", "Buddhacharita", "Milindapanho"],
+      "answer": 3,
+      "explanation": "Milindapanho is correct: 'The Questions of Milinda' records Menander's (Milinda's) questions to Nagasena.\nThe Dipavamsa and Mahavamsa are Sri Lankan chronicles, and the Buddhacharita is Ashvaghosha's Sanskrit life of the Buddha."
+    }
+  ]
+}

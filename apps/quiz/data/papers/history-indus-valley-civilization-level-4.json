@@ -1,0 +1,68 @@
+{
+  "id": "history-indus-valley-civilization-level-4",
+  "name": "History – Indus Valley Civilization (Level 4)",
+  "tags": ["history", "level-4"],
+  "subtags": ["indus-valley-civilization", "discovery", "town-planning", "harappan-economy"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. Alexander Cunningham, the first Director-General of the Archaeological Survey of India, visited Harappa but did not realise how old it was.\n2. Mortimer Wheeler announced the discovery of a new civilisation in the Indus valley in 1924.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Cunningham visited Harappa in the 19th century but did not grasp its age, as he tried to fit finds into the early historic period.\nStatement 2 is incorrect: it was John Marshall, Director-General of the ASI, who announced the discovery in 1924. Wheeler became Director-General in 1944.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Which Harappan site on the Makran coast, near the present Iran–Pakistan border, marks the western limit of the civilisation?",
+      "options": ["Balakot", "Allahdino", "Sutkagendor", "Amri"],
+      "answer": 2,
+      "explanation": "Sutkagendor is correct: it lies on the Makran coast of Baluchistan and is the westernmost Harappan site.\nBalakot is incorrect: it is a coastal site further east, known for shell-working.\nAllahdino is incorrect: it is a small site near Karachi.\nAmri is incorrect: it lies in Sindh on the Indus.\nSo the answer is Sutkagendor."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Harappans used iron tools extensively for agriculture.\n2. The Harappan script has been deciphered as an alphabetic script.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Harappans did not know iron; their tools were of stone, copper and bronze.\nStatement 2 is incorrect: the script is undeciphered, and with about 375 to 400 signs it was not alphabetic.\nSo neither statement is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The name Kalibangan means 'mound of the dead'.\n2. Fire altars have been found at Kalibangan.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Kalibangan means 'black bangles'; it is Mohenjodaro that means 'mound of the dead'.\nStatement 2 is correct: fire altars have been found at Kalibangan.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Shortughai, a Harappan settlement in Afghanistan, was located close to the best source of:",
+      "options": ["Lapis lazuli", "Carnelian", "Shell", "Steatite"],
+      "answer": 0,
+      "explanation": "Lapis lazuli is correct: Shortughai lies near Badakhshan, the best source of this blue stone.\nCarnelian is incorrect: it came mainly from Bharuch in Gujarat.\nShell is incorrect: it came from coastal sites like Nageshwar and Balakot.\nSteatite is incorrect: Shortughai is not known for it.\nSo the answer is Lapis lazuli."
+    },
+    {
+      "question": "Consider the following statements:\n1. In Harappan cities, the citadel was usually in the eastern part of the settlement.\n2. Houses at Mohenjodaro had large windows opening on to the main streets.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the citadel was usually on the western side, while the larger lower town lay to the east.\nStatement 2 is incorrect: there were no windows in the ground-floor walls facing the streets.\nSo neither statement is correct."
+    },
+    {
+      "question": "Mesopotamian texts refer to the Harappan region by which name?",
+      "options": ["Dilmun", "Magan", "Meluhha", "Sumer"],
+      "answer": 2,
+      "explanation": "Meluhha is correct: Mesopotamian texts call the Harappan region Meluhha.\nDilmun is incorrect: it is probably Bahrain.\nMagan is incorrect: it is probably Oman.\nSumer is incorrect: it is southern Mesopotamia itself.\nSo the answer is Meluhha."
+    },
+    {
+      "question": "Consider the following statements:\n1. Rice was the main food grain of the Harappans.\n2. The Harappans kept domesticated cattle, sheep, goat and buffalo.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: wheat and barley were the main grains; rice grains are rare at Harappan sites.\nStatement 2 is correct: animal bones show that cattle, sheep, goat, buffalo and pig were domesticated.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Great Bath at Mohenjodaro was located in the citadel.\n2. Mohenjodaro had a planned network of covered drains along the streets.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Great Bath stood on the citadel mound of Mohenjodaro.\nStatement 2 is correct: streets had covered drains, and house drains joined them.\nSo both statements are correct."
+    },
+    {
+      "question": "The bronze 'dancing girl' of Mohenjodaro was made using which technique?",
+      "options": ["Lost-wax casting", "Hammering of sheet metal", "Repousse work", "Terracotta moulding"],
+      "answer": 0,
+      "explanation": "Lost-wax casting is correct: a wax model was covered in clay, the wax melted out, and molten bronze poured into the mould.\nHammering of sheet metal and Repousse work are incorrect: the figurine is solid cast metal.\nTerracotta moulding is incorrect: that is for baked clay, not bronze.\nSo the answer is lost-wax casting."
+    }
+  ]
+}

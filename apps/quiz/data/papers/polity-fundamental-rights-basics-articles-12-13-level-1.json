@@ -1,0 +1,68 @@
+{
+  "id": "polity-fundamental-rights-basics-articles-12-13-level-1",
+  "name": "Polity – Fundamental Rights Basics & Articles 12-13 (Level 1)",
+  "tags": ["polity", "level-1"],
+  "subtags": ["fundamental-rights", "article-12", "article-13"],
+  "questions": [
+    {
+      "question": "In which Part of the Indian Constitution are the Fundamental Rights given?",
+      "options": ["Part II", "Part III", "Part IV", "Part V"],
+      "answer": 1,
+      "explanation": "Fundamental Rights are in Part III (Articles 12 to 35).\nPart II deals with Citizenship, Part IV with Directive Principles and Part V with the Union."
+    },
+    {
+      "question": "The idea of Fundamental Rights in the Indian Constitution was mainly borrowed from the Constitution of which country?",
+      "options": ["Britain", "Ireland", "USA", "Canada"],
+      "answer": 2,
+      "explanation": "Fundamental Rights are inspired by the Bill of Rights of the USA.\nBritain gave parliamentary government, Ireland gave the Directive Principles and Canada gave the federation with a strong Centre."
+    },
+    {
+      "question": "Which Article did Dr B.R. Ambedkar call the 'heart and soul' of the Constitution?",
+      "options": ["Article 32", "Article 14", "Article 19", "Article 21"],
+      "answer": 0,
+      "explanation": "Article 32, the Right to Constitutional Remedies, lets a person go directly to the Supreme Court to enforce Fundamental Rights. Ambedkar called it the 'heart and soul' of the Constitution.\nArticle 14 is equality before law, Article 19 covers the six freedoms and Article 21 protects life and personal liberty."
+    },
+    {
+      "question": "Who described Article 32 as the 'heart and soul' of the Constitution?",
+      "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Dr Rajendra Prasad", "Dr B.R. Ambedkar"],
+      "answer": 3,
+      "explanation": "Dr B.R. Ambedkar, Chairman of the Drafting Committee, said this about Article 32 in the Constituent Assembly.\nNehru, Patel and Rajendra Prasad were key leaders but did not make this remark."
+    },
+    {
+      "question": "How many Fundamental Rights does the Indian Constitution have at present?",
+      "options": ["Five", "Six", "Seven", "Eight"],
+      "answer": 1,
+      "explanation": "There are six Fundamental Rights today: Equality, Freedom, against Exploitation, Freedom of Religion, Cultural and Educational Rights, and Constitutional Remedies.\nThere were seven originally; the Right to Property was removed in 1978."
+    },
+    {
+      "question": "Which right was removed from the list of Fundamental Rights by the 44th Amendment Act, 1978?",
+      "options": ["Right to Property", "Right to Equality", "Right to Freedom of Religion", "Right against Exploitation"],
+      "answer": 0,
+      "explanation": "The 44th Amendment (1978) removed the Right to Property (Article 31 and Article 19(1)(f)) from Part III. It is now a legal right under Article 300A.\nThe other three are still Fundamental Rights."
+    },
+    {
+      "question": "Fundamental Rights are often described as the ______ of India.",
+      "options": ["Gazette", "Manifesto", "Directive Book", "Magna Carta"],
+      "answer": 3,
+      "explanation": "Part III is called the Magna Carta of India because it protects the basic liberties of individuals against the State.\nThe other terms are not used for the Fundamental Rights."
+    },
+    {
+      "question": "Article 12 of the Constitution defines which term for the purposes of Fundamental Rights?",
+      "options": ["Citizen", "Union", "State", "Minority"],
+      "answer": 2,
+      "explanation": "Article 12 defines 'the State' for Part III. Fundamental Rights mostly protect people against the actions of the State.\nCitizenship is in Part II, the Union is in Article 1, and 'minority' is not defined in the Constitution."
+    },
+    {
+      "question": "Which institution is called the guardian and protector of the Fundamental Rights?",
+      "options": ["Supreme Court", "Election Commission", "Parliament", "Finance Commission"],
+      "answer": 0,
+      "explanation": "The Supreme Court protects Fundamental Rights by issuing writs under Article 32.\nThe Election Commission conducts elections, Parliament makes laws, and the Finance Commission recommends how taxes are shared."
+    },
+    {
+      "question": "Under Article 13, a law that takes away the Fundamental Rights is:",
+      "options": ["Valid in all cases", "Sent to the President for approval", "Kept pending for ten years", "Void"],
+      "answer": 3,
+      "explanation": "Article 13 says any law that conflicts with Fundamental Rights is void to the extent of the conflict. Courts use this to strike down such laws.\nThe other options are not in the Constitution."
+    }
+  ]
+}

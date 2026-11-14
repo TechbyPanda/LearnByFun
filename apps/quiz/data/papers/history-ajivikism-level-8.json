@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-8",
+  "name": "History – Ajivikism (Level 8)",
+  "tags": ["history", "level-8"],
+  "subtags": ["ajivikism", "makkhali-gosala", "niyati-doctrine", "heterodox-sects", "barabar-caves"],
+  "questions": [
+    {
+      "question": "With reference to Makkhali Gosala, consider the following statements:\n1. Jain tradition says he was associated with Mahavira before a bitter split.\n2. Buddhist texts present him as a contemporary of the Buddha.\n3. The Ajivika sect came to an end with his death.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: the Bhagavati Sutra tells of their years together and their quarrel.\nStatement 2 is correct: the Samannaphala Sutta lists him among the six teachers of the Buddha's time.\nStatement 3 is incorrect: the Ajivikas received Mauryan patronage after him and survived in south India until about the 14th century.\nSo only two statements are correct."
+    },
+    {
+      "question": "With reference to Ajivika doctrine, consider the following statements:\n1. Penance can shorten a soul's cycle of rebirth.\n2. The soul is destroyed at death.\n3. A soul's moral conduct decides the nature of its next birth.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the number of births is fixed by niyati and penance cannot change it. (Trap: this is closer to the Jain view.)\nStatement 2 is incorrect: the Ajivikas held that the soul transmigrates; destruction at death was Ajita Kesakambali's materialist view.\nStatement 3 is incorrect: for the Ajivikas, conduct does not shape rebirth; everything is predetermined.\nSo none of the statements is correct."
+    },
+    {
+      "question": "Consider the following pairs:\nCave – Associated with\n1. Sudama cave – Ashoka's dedication to the Ajivikas\n2. Lomas Rishi cave – Entrance imitating wooden architecture\n3. Gopika cave – Dasharatha's dedication to the Ajivikas\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 2,
+      "explanation": "Pair 1 is correctly matched: the Sudama cave in the Barabar hills carries Ashoka's dedication.\nPair 2 is correctly matched: the Lomas Rishi doorway copies wooden huts in stone.\nPair 3 is correctly matched: the Gopika cave in the Nagarjuni hills carries Dasharatha's dedication.\nSo all three pairs are correctly matched."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: The Ajivikas regarded human effort as useless for attaining liberation.\nStatement-II: The Ajivikas believed that every event is fixed in advance by niyati.\nWhich one of the following is correct in respect of the above statements?",
+      "options": ["Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I", "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
+      "answer": 0,
+      "explanation": "Statement-I is correct: the Ajivikas denied that effort or free will can bring release.\nStatement-II is correct: niyati (fate) governs everything in their doctrine.\nStatement-II explains Statement-I: since all is predetermined, effort can change nothing, and liberation comes only when the fixed cycle of births ends."
+    },
+    {
+      "question": "Consider the following statements:\nStatement-I: Ashoka dedicated caves in the Barabar hills to the Ajivikas.\nStatement-II: The inner walls of the Barabar caves have the high polish typical of Mauryan work.\nWhich one of the following is correct in respect of the above statements?",
+      "options": ["Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I", "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I", "Statement-I is correct but Statement-II is incorrect", "Statement-I is incorrect but Statement-II is correct"],
+      "answer": 1,
+      "explanation": "Statement-I is correct: Ashoka's inscriptions, such as the one in the Sudama cave, record the gift.\nStatement-II is correct: the granite walls carry the Mauryan polish.\nStatement-II does not explain Statement-I: the polish shows when and how the caves were made, not why Ashoka gave them to the Ajivikas, which reflects his policy of respect for all sects."
+    },
+    {
+      "question": "With reference to Mauryan patronage of the Ajivikas, consider the following statements:\n1. Bindusara is said to have favoured the Ajivikas.\n2. Dasharatha dedicated caves in the Nagarjuni hills to the Ajivikas.\n3. Ashoka's own leaning towards Buddhism did not stop him from dedicating caves to the Ajivikas.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: tradition links Bindusara with the Ajivikas.\nStatement 2 is correct: Dasharatha's inscriptions in the Nagarjuni caves record the gift.\nStatement 3 is correct: Ashoka, a Buddhist, still gave the Barabar caves to the Ajivikas, in line with his respect for all sects.\nSo all three statements are correct."
+    },
+    {
+      "question": "Which of the following are correctly matched with the teachers named in the Samannaphala Sutta?\n1. Fourfold restraint – Nigantha Nataputta\n2. Purification through transmigration – Makkhali Gosala\n3. Seven eternal elements – Ajita Kesakambali\n4. Evasive scepticism – Sanjaya Belatthiputta\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "2, 3 and 4 only", "1, 3 and 4 only", "1, 2 and 4 only"],
+      "answer": 3,
+      "explanation": "Item 1 is correct: the fourfold restraint is credited to Nigantha Nataputta (Mahavira).\nItem 2 is correct: Gosala taught samsara-suddhi, purification through a fixed round of births.\nItem 3 is incorrect: the seven eternal elements belong to Pakudha Kaccayana; Ajita was a materialist who spoke of four elements. (Trap: two teachers who both spoke of elements.)\nItem 4 is correct: Sanjaya refused to affirm or deny any view.\nSo 1, 2 and 4 only."
+    },
+    {
+      "question": "Consider the following pairs:\nSchool – Belief\n1. Ajivika – Niyati (determinism)\n2. Charvaka – Rebirth according to deeds\n3. Buddhism – Anekantavada\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 0,
+      "explanation": "Pair 1 is correctly matched: niyati is the core Ajivika doctrine.\nPair 2 is incorrectly matched: the Charvakas denied any life after death.\nPair 3 is incorrectly matched: anekantavada (many-sidedness of truth) is a Jain doctrine. (Trap: both are shramana traditions.)\nSo only one pair is correctly matched."
+    },
+    {
+      "question": "With reference to the sources for the history of the Ajivikas, consider the following statements:\n1. No text composed by the Ajivikas themselves has survived.\n2. The Jain Bhagavati Sutra contains an account of Makkhali Gosala.\n3. The Buddhist Samannaphala Sutta summarises Gosala's doctrine.\n4. Tamil inscriptions record a tax levied on the Ajivikas.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "Only three", "All four"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: the Ajivikas are known only through others.\nStatement 2 is correct: the Bhagavati Sutra is the main Jain account of Gosala.\nStatement 3 is correct: it reports his doctrine of fixed rebirths through Ajatashatru.\nStatement 4 is correct: Chola-period inscriptions mention such a tax.\nSo all four statements are correct."
+    },
+    {
+      "question": "Which of the following were common to Ajivikism, Jainism and Buddhism?\n1. Rejection of the authority of the Vedas\n2. Belief in rebirth\n3. Belief in a creator god\n4. Denial of free will\nSelect the correct answer using the code given below.",
+      "options": ["1 only", "1, 2 and 4 only", "1 and 2 only", "2, 3 and 4 only"],
+      "answer": 2,
+      "explanation": "Item 1 is common: all three were heterodox shramana sects.\nItem 2 is common: all three accepted rebirth, though they explained it differently.\nItem 3 is not common: Jainism and Buddhism reject a creator god.\nItem 4 is not common: denial of free will was special to the Ajivikas; Jainism and Buddhism hold that one's own effort leads to liberation. (Trap: a distinctive Ajivika idea passed off as shared.)\nSo 1 and 2 only."
+    }
+  ]
+}

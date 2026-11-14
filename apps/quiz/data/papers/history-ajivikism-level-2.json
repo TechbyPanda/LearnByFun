@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-2",
+  "name": "History – Ajivikism (Level 2)",
+  "tags": ["history", "level-2"],
+  "subtags": ["ajivikism", "niyati-doctrine", "mauryan-patronage", "heterodox-sects"],
+  "questions": [
+    {
+      "question": "The Barabar and Nagarjuni caves, dedicated to the Ajivikas, are in which district of Bihar?",
+      "options": ["Patna", "Gaya", "Nalanda", "Vaishali"],
+      "answer": 1,
+      "explanation": "Gaya is correct: the Barabar and Nagarjuni hills lie in Gaya district.\nPatna is incorrect: it was the site of the Mauryan capital Pataliputra, not of these caves.\nNalanda is incorrect: it is known for its later Buddhist university.\nVaishali is incorrect: it is known for the Lichchhavi republic."
+    },
+    {
+      "question": "What does the Ajivika term 'niyati' mean?",
+      "options": ["Non-violence", "Middle path", "Right conduct", "Fate or destiny"],
+      "answer": 3,
+      "explanation": "Fate or destiny is correct: niyati is the central Ajivika idea that everything is fixed in advance.\nNon-violence is incorrect: that is ahimsa, stressed by the Jains.\nMiddle path is incorrect: it is the Buddha's teaching.\nRight conduct is incorrect: it is one of the Three Jewels of Jainism."
+    },
+    {
+      "question": "Which grandson of Ashoka also dedicated caves to the Ajivikas, in the Nagarjuni hills?",
+      "options": ["Dasharatha", "Bindusara", "Chandragupta Maurya", "Brihadratha"],
+      "answer": 0,
+      "explanation": "Dasharatha is correct: his inscriptions in the Nagarjuni caves record their gift to the Ajivikas.\nBindusara is incorrect: he was Ashoka's father.\nChandragupta Maurya is incorrect: he was Ashoka's grandfather.\nBrihadratha is incorrect: he was the last Mauryan ruler."
+    },
+    {
+      "question": "Our knowledge of the Ajivikas comes mainly from which sources?",
+      "options": ["Their own surviving scriptures", "The Indica of Megasthenes", "Jain and Buddhist texts", "Tamil Sangam poems"],
+      "answer": 2,
+      "explanation": "Jain and Buddhist texts is correct: no Ajivika text survives, so we depend on rival Jain and Buddhist accounts, along with a few inscriptions.\nTheir own surviving scriptures is incorrect: none have survived.\nThe Indica of Megasthenes is incorrect: it is not a source on Ajivika doctrine.\nTamil Sangam poems is incorrect: they are not the main source."
+    },
+    {
+      "question": "Because they believed in fate, the Ajivikas denied the importance of:",
+      "options": ["Rebirth", "The soul", "Human effort and free will", "Asceticism"],
+      "answer": 2,
+      "explanation": "Human effort and free will is correct: for the Ajivikas, nothing a person did could change what niyati had fixed.\nRebirth is incorrect: they believed the soul passes through many births.\nThe soul is incorrect: they accepted the existence of the soul.\nAsceticism is incorrect: Ajivika ascetics practised hard austerities."
+    },
+    {
+      "question": "Which Jain text contains a detailed account of Makkhali Gosala?",
+      "options": ["Bhagavati Sutra", "Rigveda", "Arthashastra", "Tripitaka"],
+      "answer": 0,
+      "explanation": "Bhagavati Sutra is correct: this Jain canonical text describes Gosala's life and his break with Mahavira.\nRigveda is incorrect: it is a Vedic text.\nArthashastra is incorrect: it is a work on statecraft.\nTripitaka is incorrect: it is the Buddhist canon, not a Jain text."
+    },
+    {
+      "question": "Which Mauryan ruler's pillar edict mentions the Ajivikas among the sects looked after by dhamma mahamatras?",
+      "options": ["Chandragupta Maurya", "Bindusara", "Dasharatha", "Ashoka"],
+      "answer": 3,
+      "explanation": "Ashoka is correct: his Seventh Pillar Edict names the Ajivikas.\nChandragupta Maurya and Bindusara are incorrect: they left no such edicts.\nDasharatha is incorrect: he left cave inscriptions, not pillar edicts."
+    },
+    {
+      "question": "Which king of Magadha is described in Buddhist texts as visiting six other teachers before meeting the Buddha?",
+      "options": ["Bimbisara", "Ajatashatru", "Udayin", "Mahapadma Nanda"],
+      "answer": 1,
+      "explanation": "Ajatashatru is correct: in the Samannaphala Sutta he tells the Buddha about his visits to six teachers, including Makkhali Gosala.\nBimbisara is incorrect: he was Ajatashatru's father.\nUdayin is incorrect: he was a later king.\nMahapadma Nanda is incorrect: he founded the Nanda dynasty much later."
+    },
+    {
+      "question": "The Charvaka school accepted which of the following as the only valid source of knowledge?",
+      "options": ["Perception", "The Vedas", "Inference", "Words of sages"],
+      "answer": 0,
+      "explanation": "Perception is correct: the Charvakas accepted only what can be directly perceived.\nThe Vedas is incorrect: they rejected Vedic authority.\nInference is incorrect: they did not accept it as a valid means of knowledge.\nWords of sages is incorrect: they rejected the authority of such testimony."
+    },
+    {
+      "question": "Ajita Kesakambali, a contemporary of the Buddha, is best known for teaching:",
+      "options": ["Devotion to a god", "Fate", "Non-violence", "Materialism"],
+      "answer": 3,
+      "explanation": "Materialism is correct: he taught that a person is made of four elements and nothing survives death.\nFate is incorrect: that was the teaching of Makkhali Gosala.\nNon-violence is incorrect: it is stressed by the Jains.\nDevotion to a god is incorrect: he rejected any life beyond the material."
+    }
+  ]
+}

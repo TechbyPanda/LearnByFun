@@ -1,0 +1,68 @@
+{
+  "id": "polity-fundamental-rights-basics-articles-12-13-level-7",
+  "name": "Polity – Fundamental Rights Basics & Articles 12-13 (Level 7)",
+  "tags": ["polity", "level-7"],
+  "subtags": ["fundamental-rights", "article-12", "article-13", "landmark-cases", "ninth-schedule"],
+  "questions": [
+    {
+      "question": "Arrange the following Supreme Court cases from earliest to latest:\n1. Golaknath case\n2. Shankari Prasad case\n3. Kesavananda Bharati case\n4. Sajjan Singh case\nSelect the correct answer using the code given below.",
+      "options": ["2-1-4-3", "4-2-1-3", "2-4-3-1", "2-4-1-3"],
+      "answer": 3,
+      "explanation": "Shankari Prasad (1951) → Sajjan Singh (1965) → Golaknath (1967) → Kesavananda Bharati (1973).\nThe first two allowed Parliament to amend Fundamental Rights, Golaknath barred it, and Kesavananda allowed it subject to the basic structure.\nSo the order is 2-4-1-3."
+    },
+    {
+      "question": "With reference to Article 12, consider the following statements:\n1. The definition of 'the State' in Article 12 is exhaustive, so courts cannot add bodies to it.\n2. All local authorities within the territory of India are 'the State'.\n3. Only bodies created by a statute can be 'other authorities' under Article 12.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Article 12 uses 'includes', so the definition is inclusive. Courts have widened 'other authorities' to cover instrumentalities and agencies of the Government. (Trap: exhaustive vs inclusive)\nStatement 2 is correct: Article 12 names 'all local or other authorities within the territory of India'. (This one is true even with 'all'.)\nStatement 3 is incorrect: in Ajay Hasia (1981), a registered society was held to be 'State'. A body need not be created by a statute. (Trap: 'only')\nSo only statement 2 is correct."
+    },
+    {
+      "question": "With reference to Article 13, consider the following statements:\n1. Article 13 applies only to laws made after the commencement of the Constitution.\n2. A government notification can be challenged under Article 13 for violating Fundamental Rights.\n3. Article 13 gives Parliament alone the power to declare a law void.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is incorrect: Article 13(1) covers pre-constitutional laws in force and Article 13(2) covers post-constitutional laws. (Trap: 'only')\nStatement 2 is correct: notifications are included in 'law' under Article 13(3)(a).\nStatement 3 is incorrect: courts (Supreme Court and High Courts) declare laws void. Article 13 itself makes an inconsistent law void; Parliament has no such special power.\nSo only one statement is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Under Article 33, Parliament can restrict or abrogate the Fundamental Rights of members of the armed forces.\n2. State Legislatures also have the power to make laws under Article 33.\n3. Article 34 provides for restrictions on Fundamental Rights while martial law is in force in any area.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Article 33 allows restriction or abrogation to ensure proper discharge of duties and discipline.\nStatement 2 is incorrect: Article 35 gives the power to make laws under Article 33 only to Parliament. (Trap: Union-only power given to States)\nStatement 3 is correct: under Article 34, Parliament can also indemnify officials for acts done to restore order in a martial law area.\nSo only statements 1 and 3 are correct."
+    },
+    {
+      "question": "Which of the following have been held by the Supreme Court to be 'State' within the meaning of Article 12?\n1. Life Insurance Corporation (LIC)\n2. Oil and Natural Gas Commission (ONGC)\n3. Board of Control for Cricket in India (BCCI)\n4. Council of Scientific and Industrial Research (CSIR)\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "1, 2 and 4 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 1,
+      "explanation": "1 and 2 are 'State': Sukhdev Singh (1975) held statutory corporations such as ONGC, LIC and IFC to be 'State'.\n3 is not 'State': Zee Telefilms (2005). (Trap: BCCI does public functions but is not government-controlled)\n4 is 'State': Pradeep Kumar Biswas (2002).\nSo the answer is 1, 2 and 4 only."
+    },
+    {
+      "question": "Consider the following statements:\n1. Fundamental Rights cannot be waived, even voluntarily, by a person.\n2. Articles 20 and 21 remain enforceable during every National Emergency.\n3. All the freedoms under Article 19 are available only to citizens.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: Basheshar Nath (1959).\nStatement 2 is correct: after the 44th Amendment, Article 359 cannot be used to suspend the enforcement of Articles 20 and 21 in any emergency.\nStatement 3 is correct: Article 19 begins 'All citizens shall have the right...'.\n(Trap: all three contain absolute words such as 'every', 'all' and 'only', but each one is true.)\nSo all three statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Under the doctrine of severability, only the offending part of a law is struck down if it can be separated from the rest.\n2. In the Deep Chand case, the Supreme Court held that the doctrine of eclipse applies equally to post-constitutional laws.\n3. Under Article 13, a law violating Fundamental Rights stays valid until Parliament repeals it.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1 and 3 only"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: it comes from the words 'to the extent of' in Article 13 (R.M.D.C. v Union of India, 1957).\nStatement 2 is incorrect: Deep Chand (1959) held that a post-constitutional law violating Fundamental Rights is void from the start (ab initio), so it cannot revive. (Trap: pre vs post-constitutional)\nStatement 3 is incorrect: such a law is void as soon as it conflicts, and courts declare it so; no repeal is needed.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Nehru Report (1928) demanded Fundamental Rights for the people of India.\n2. The Karachi Session of the Indian National Congress (1931) adopted a resolution on Fundamental Rights and Economic Policy.\n3. The Constituent Assembly's Advisory Committee on Fundamental Rights was chaired by Sardar Vallabhbhai Patel.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Nehru Report (Motilal Nehru, 1928) included a bill of rights.\nStatement 2 is correct: the Karachi Session (1931), presided over by Sardar Patel, adopted the resolution on Fundamental Rights and Economic Policy.\nStatement 3 is correct: Patel chaired the Advisory Committee; J.B. Kripalani headed its Fundamental Rights Sub-committee.\nSo all three statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The I.R. Coelho case (2007) held that laws in the Ninth Schedule are completely immune from judicial review.\n2. According to the I.R. Coelho case, laws added to the Ninth Schedule after 24 April 1973 can be tested against the basic structure.\n3. Article 31B was inserted by the Constitution (First Amendment) Act, 1951.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "1 and 3 only", "2 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: Coelho held that Ninth Schedule laws are NOT completely immune. (Trap: 'completely')\nStatement 2 is correct: 24 April 1973 is the date of the Kesavananda Bharati judgment, and laws added after it can be challenged if they violate the basic structure, including the rights under Articles 14, 19 and 21 that form part of it.\nStatement 3 is correct: the 1st Amendment created Article 31B and the Ninth Schedule.\nSo only statements 2 and 3 are correct."
+    },
+    {
+      "question": "With reference to the judiciary and Article 12, consider the following statements:\n1. Article 12 does not expressly mention the judiciary.\n2. The Supreme Court has held that a judicial order of a court cannot be challenged under Article 32 by treating the court as 'the State'.\n3. Administrative acts of courts can never be treated as 'State' action.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the judiciary is not named in Article 12.\nStatement 2 is correct: Naresh Mirajkar (1966) and Rupa Ashok Hurra (2002) held that judicial orders cannot be challenged as violating Fundamental Rights under Article 32.\nStatement 3 is incorrect: when courts act in a non-judicial or administrative capacity, such as in staff matters, they can be treated as 'State'. (Trap: 'never')\nSo only statements 1 and 2 are correct."
+    }
+  ]
+}

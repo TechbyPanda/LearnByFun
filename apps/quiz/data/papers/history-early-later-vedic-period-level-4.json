@@ -1,0 +1,68 @@
+{
+  "id": "history-early-later-vedic-period-level-4",
+  "name": "History – Early & Later Vedic Period (Level 4)",
+  "tags": ["history", "level-4"],
+  "subtags": ["vedic-period", "vedic-literature", "rig-vedic-polity", "later-vedic-society", "vedic-religion"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. The Samaveda draws most of its verses from the Rigveda.\n2. The Atharvaveda is a collection of melodies meant for chanting.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: most verses of the Samaveda are taken from the Rigveda and set to tunes.\nStatement 2 is incorrect: the collection of melodies is the Samaveda; the Atharvaveda contains charms and spells.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "With reference to Rig Vedic polity, consider the following statements:\n1. The sabha and the samiti were tribal assemblies.\n2. Women could attend the sabha and the vidatha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: sabha and samiti were tribal assemblies that the chief had to consult.\nStatement 2 is correct: in the Rig Vedic period women attended the sabha and the vidatha.\nSo both statements are correct."
+    },
+    {
+      "question": "Who among the following was the priest of King Sudas when he won the Battle of Ten Kings?",
+      "options": ["Vishvamitra", "Vasishtha", "Yajnavalkya", "Uddalaka Aruni"],
+      "answer": 1,
+      "explanation": "Vasishtha is correct: Vasishtha was Sudas's purohita at the time of the Battle of Ten Kings.\nVishvamitra is incorrect: he had earlier been linked with Sudas but was replaced by Vasishtha.\nYajnavalkya and Uddalaka Aruni are incorrect: they were Later Vedic thinkers of the Upanishads."
+    },
+    {
+      "question": "Consider the following statements:\n1. Temples and idol worship were central to Rig Vedic religion.\n2. Prajapati was the most important god of the Rig Vedic period.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Rig Vedic people worshipped through prayers and sacrifices; there were no temples or idols.\nStatement 2 is incorrect: Indra and Agni were the most important Rig Vedic gods; Prajapati became supreme in the Later Vedic period.\nSo neither statement is correct."
+    },
+    {
+      "question": "Which crop is called 'vrihi' in Later Vedic texts?",
+      "options": ["Barley", "Wheat", "Millet", "Rice"],
+      "answer": 3,
+      "explanation": "Rice is correct: vrihi means rice, which became an important crop in the Later Vedic period.\nBarley is incorrect: barley is yava.\nWheat is incorrect: wheat is godhuma.\nMillet is incorrect: vrihi does not mean millet."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Shatapatha Brahmana tells of Videgha Madhava moving east across the Sadanira river.\n2. Painted Grey Ware is associated mainly with Rig Vedic settlements in Afghanistan.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Shatapatha Brahmana tells how Videgha Madhava and his priest moved east to the Sadanira, reflecting the spread of Vedic settlement.\nStatement 2 is incorrect: Painted Grey Ware is linked with Later Vedic settlements in the upper Ganga valley, such as Hastinapur.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "The Kurus of the Later Vedic period were formed by the union of which two Rig Vedic tribes?",
+      "options": ["Yadus and Turvasas", "Anus and Druhyus", "Bharatas and Purus", "Panchalas and Videhas"],
+      "answer": 2,
+      "explanation": "Bharatas and Purus is correct: these two tribes joined to form the Kurus.\nYadus and Turvasas and Anus and Druhyus are incorrect: they were other Rig Vedic tribes and did not form the Kurus.\nPanchalas and Videhas is incorrect: these were separate Later Vedic peoples; the Kurus later joined the Panchalas, not the Videhas."
+    },
+    {
+      "question": "Consider the following statements:\n1. The term 'gotra' first appeared in the Rig Vedic period.\n2. In Later Vedic times, marriage within the same gotra was not allowed.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the institution of gotra appeared in Later Vedic times.\nStatement 2 is correct: gotra exogamy was practised, so people of the same gotra could not marry.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "The Nirukta, an early work on the meaning and origin of Vedic words, was written by:",
+      "options": ["Yaska", "Panini", "Patanjali", "Pingala"],
+      "answer": 0,
+      "explanation": "Yaska is correct: Yaska wrote the Nirukta on etymology.\nPanini is incorrect: he wrote the Ashtadhyayi on grammar.\nPatanjali is incorrect: he wrote the Mahabhashya on Panini's grammar.\nPingala is incorrect: he is known for his work on metre."
+    },
+    {
+      "question": "Consider the following statements:\n1. In the Rigveda, Agni is regarded as an intermediary between gods and people.\n2. Indra is called 'Purandara', the breaker of forts.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: offerings put into the fire were believed to reach the gods through Agni.\nStatement 2 is correct: Indra is called Purandara, the breaker of forts.\nSo both statements are correct."
+    }
+  ]
+}

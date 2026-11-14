@@ -1,0 +1,68 @@
+{
+  "id": "history-indus-valley-civilization-level-3",
+  "name": "History – Indus Valley Civilization (Level 3)",
+  "tags": ["history", "level-3"],
+  "subtags": ["indus-valley-civilization", "harappan-sites", "town-planning", "harappan-script"],
+  "questions": [
+    {
+      "question": "Standard Harappan bricks had a fixed ratio of length : breadth : thickness. This ratio was:",
+      "options": ["3:2:1", "4:3:1", "2:1:1", "4:2:1"],
+      "answer": 3,
+      "explanation": "4:2:1 is correct: the length and breadth of Harappan bricks were four times and twice the thickness, the same ratio at all sites.\n3:2:1, 4:3:1 and 2:1:1 are incorrect: these are not the standard Harappan ratio.\nSo the answer is 4:2:1."
+    },
+    {
+      "question": "Which of the following is the easternmost Harappan site?",
+      "options": ["Manda", "Alamgirpur", "Daimabad", "Sutkagendor"],
+      "answer": 1,
+      "explanation": "Alamgirpur is correct: it lies in Meerut district of Uttar Pradesh and marks the eastern limit.\nManda is incorrect: it lies in Jammu and Kashmir and marks the northern limit in India.\nDaimabad is incorrect: it lies in Maharashtra and marks the southern limit.\nSutkagendor is incorrect: it lies on the Makran coast of Baluchistan and marks the western limit.\nSo the answer is Alamgirpur."
+    },
+    {
+      "question": "Which one of the following pairs (Site – River) is correctly matched?",
+      "options": ["Harappa – Sutlej", "Mohenjodaro – Ravi", "Kalibangan – Ghaggar", "Ropar – Beas"],
+      "answer": 2,
+      "explanation": "Kalibangan – Ghaggar is correctly matched: Kalibangan lies on the Ghaggar in Hanumangarh district, Rajasthan.\nHarappa – Sutlej is incorrect: Harappa lies on the Ravi.\nMohenjodaro – Ravi is incorrect: Mohenjodaro lies on the Indus.\nRopar – Beas is incorrect: Ropar lies on the Sutlej.\nSo the answer is Kalibangan – Ghaggar."
+    },
+    {
+      "question": "Which Harappan settlement was almost entirely devoted to craft production such as bead-making, shell-cutting and seal-making?",
+      "options": ["Chanhudaro", "Kot Diji", "Amri", "Kalibangan"],
+      "answer": 0,
+      "explanation": "Chanhudaro is correct: this small settlement in Sindh was almost exclusively devoted to crafts like bead-making, shell-cutting, metal-working and seal-making.\nKot Diji and Amri are incorrect: they are known mainly for their pre-Harappan (Early Harappan) levels.\nKalibangan is incorrect: it is known for its ploughed field and fire altars.\nSo the answer is Chanhudaro."
+    },
+    {
+      "question": "Rakhigarhi, one of the largest Harappan sites in India, is located in which state?",
+      "options": ["Rajasthan", "Haryana", "Gujarat", "Punjab"],
+      "answer": 1,
+      "explanation": "Haryana is correct: Rakhigarhi lies in Hisar district of Haryana.\nRajasthan is incorrect: Kalibangan is the major site there.\nGujarat is incorrect: Dholavira and Lothal are the major sites there.\nPunjab is incorrect: Ropar is the major site there.\nSo the answer is Haryana."
+    },
+    {
+      "question": "Which one of the following pairs (Find – Site) is correctly matched?",
+      "options": ["Dancing girl – Harappa", "Ploughed field – Lothal", "Dockyard – Kalibangan", "Terracotta plough model – Banawali"],
+      "answer": 3,
+      "explanation": "Terracotta plough model – Banawali is correctly matched: terracotta models of the plough have been found at Banawali (Haryana) and in Cholistan.\nDancing girl – Harappa is incorrect: the bronze dancing girl is from Mohenjodaro.\nPloughed field – Lothal is incorrect: the ploughed field is at Kalibangan.\nDockyard – Kalibangan is incorrect: the dockyard is at Lothal.\nSo the answer is Terracotta plough model – Banawali."
+    },
+    {
+      "question": "The Mature Harappan phase is generally dated to:",
+      "options": ["c. 2600–1900 BCE", "c. 3300–2600 BCE", "c. 1900–1300 BCE", "c. 1500–1000 BCE"],
+      "answer": 0,
+      "explanation": "c. 2600–1900 BCE is correct: this is the Mature Harappan phase in NCERT.\nc. 3300–2600 BCE is incorrect: this is roughly the Early Harappan phase.\nc. 1900–1300 BCE is incorrect: this is roughly the Late Harappan phase.\nc. 1500–1000 BCE is incorrect: this is roughly the Early Vedic period.\nSo the answer is c. 2600–1900 BCE."
+    },
+    {
+      "question": "Dholavira is located in:",
+      "options": ["The Gulf of Khambhat", "The Saurashtra peninsula", "Khadir island in the Rann of Kutch", "The Thar desert near Jaisalmer"],
+      "answer": 2,
+      "explanation": "Khadir island in the Rann of Kutch is correct: Dholavira lies on Khadir Bet in the Great Rann of Kutch, Gujarat.\nThe Gulf of Khambhat is incorrect: Lothal lies near the Gulf of Khambhat.\nThe Saurashtra peninsula is incorrect: Dholavira is in Kutch, north of Saurashtra.\nThe Thar desert near Jaisalmer is incorrect: that is in Rajasthan.\nSo the answer is Khadir island in the Rann of Kutch."
+    },
+    {
+      "question": "Lothal is located on the banks of which river?",
+      "options": ["Mahi", "Narmada", "Bhogava", "Luni"],
+      "answer": 2,
+      "explanation": "Bhogava is correct: Lothal lies on the Bhogava, a tributary of the Sabarmati, near the Gulf of Khambhat.\nMahi and Narmada are incorrect: they also flow into the Gulf of Khambhat but Lothal is not on them.\nLuni is incorrect: it flows through Rajasthan into the Rann of Kutch.\nSo the answer is Bhogava."
+    },
+    {
+      "question": "In which direction was the Harappan script mostly written?",
+      "options": ["From left to right", "From right to left", "From top to bottom", "In a spiral from the centre"],
+      "answer": 1,
+      "explanation": "From right to left is correct: on seals the signs are wider spaced on the right and cramped on the left, showing the engraver began on the right.\nFrom left to right is incorrect: that is the direction of Brahmi and Devanagari.\nFrom top to bottom and In a spiral from the centre are incorrect: there is no evidence for these.\nSo the answer is from right to left."
+    }
+  ]
+}

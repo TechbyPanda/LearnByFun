@@ -1,0 +1,68 @@
+{
+  "id": "history-buddhism-level-1",
+  "name": "History – Buddhism (Level 1)",
+  "tags": ["history", "level-1"],
+  "subtags": ["buddhism", "life-of-buddha", "buddhist-sangha", "buddhist-texts"],
+  "questions": [
+    {
+      "question": "Where was Gautama Buddha born?",
+      "options": ["Pataliputra", "Ujjain", "Lumbini", "Madurai"],
+      "answer": 2,
+      "explanation": "Lumbini is correct: the Buddha was born at Lumbini, in present-day Nepal.\nPataliputra was the capital of Magadha, Ujjain was the capital of Avanti, and Madurai was the capital of the Pandyas; none is linked with his birth."
+    },
+    {
+      "question": "Gautama Buddha belonged to which clan?",
+      "options": ["Shakya", "Chola", "Pandya", "Chera"],
+      "answer": 0,
+      "explanation": "Shakya is correct: the Buddha was born in the Shakya clan, which is why he is also called Shakyamuni.\nThe Cholas, Pandyas and Cheras were ruling families of the far south of India."
+    },
+    {
+      "question": "At which place did the Buddha attain enlightenment?",
+      "options": ["Delhi", "Mathura", "Kanchipuram", "Bodh Gaya"],
+      "answer": 3,
+      "explanation": "Bodh Gaya is correct: the Buddha attained enlightenment under a peepal (Bodhi) tree at Bodh Gaya in Bihar.\nDelhi, Mathura and Kanchipuram are not connected with his enlightenment."
+    },
+    {
+      "question": "Where did the Buddha give his first sermon?",
+      "options": ["Hampi", "Sarnath", "Agra", "Kanchipuram"],
+      "answer": 1,
+      "explanation": "Sarnath is correct: the Buddha taught for the first time at Sarnath, near Varanasi.\nHampi was the capital of the Vijayanagara empire, Agra was a Mughal city, and Kanchipuram was the Pallava capital."
+    },
+    {
+      "question": "In which language did the Buddha teach, so that ordinary people could understand him?",
+      "options": ["Sanskrit", "Prakrit", "Persian", "English"],
+      "answer": 1,
+      "explanation": "Prakrit is correct: the Buddha taught in Prakrit, the language of ordinary people.\nSanskrit was the language of learned priests, while Persian and English came to India much later."
+    },
+    {
+      "question": "What is the community of Buddhist monks and nuns called?",
+      "options": ["Ashrama", "Gurukul", "Khanqah", "Sangha"],
+      "answer": 3,
+      "explanation": "Sangha is correct: the Buddha set up the Sangha, an association of monks and nuns.\nAn ashrama is a stage of life, a gurukul is a teacher's school, and a khanqah is a Sufi lodge."
+    },
+    {
+      "question": "What was the Buddha's name before he became the Buddha?",
+      "options": ["Siddhartha", "Chandragupta", "Samudragupta", "Harshavardhana"],
+      "answer": 0,
+      "explanation": "Siddhartha is correct: the Buddha was born as Siddhartha, also known as Gautama.\nChandragupta and Samudragupta were kings, and Harshavardhana ruled from Kannauj many centuries later."
+    },
+    {
+      "question": "Which emperor took up Buddhism after the Kalinga war?",
+      "options": ["Akbar", "Shivaji", "Ashoka", "Babur"],
+      "answer": 2,
+      "explanation": "Ashoka is correct: the Mauryan emperor Ashoka was saddened by the killing in the Kalinga war and turned to Buddhism.\nAkbar and Babur were Mughal rulers, and Shivaji founded the Maratha kingdom."
+    },
+    {
+      "question": "Where did the Buddha pass away?",
+      "options": ["Kushinagara", "Taxila", "Madurai", "Ujjain"],
+      "answer": 0,
+      "explanation": "Kushinagara is correct: the Buddha passed away (Mahaparinirvana) at Kushinagara, in present-day Uttar Pradesh.\nTaxila, Madurai and Ujjain are not linked with his death."
+    },
+    {
+      "question": "What are the stories about the earlier births of the Buddha called?",
+      "options": ["Vedas", "Puranas", "Upanishads", "Jatakas"],
+      "answer": 3,
+      "explanation": "Jatakas is correct: the Jataka tales tell stories of the Buddha's previous births.\nThe Vedas and Upanishads are Vedic texts, and the Puranas are Hindu texts about gods and legends."
+    }
+  ]
+}

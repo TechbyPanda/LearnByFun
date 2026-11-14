@@ -1,0 +1,68 @@
+{
+  "id": "history-early-later-vedic-period-level-3",
+  "name": "History – Early & Later Vedic Period (Level 3)",
+  "tags": ["history", "level-3"],
+  "subtags": ["vedic-period", "vedic-literature", "rig-vedic-geography", "later-vedic-polity"],
+  "questions": [
+    {
+      "question": "The Battle of Ten Kings was fought on the banks of which river?",
+      "options": ["Vipas", "Sutudri", "Asikni", "Parushni"],
+      "answer": 3,
+      "explanation": "Parushni is correct: Sudas defeated the ten kings on the Parushni, the modern Ravi.\nVipas is incorrect: it is the Beas.\nSutudri is incorrect: it is the Sutlej.\nAsikni is incorrect: it is the Chenab."
+    },
+    {
+      "question": "Which Mandala of the Rigveda is entirely devoted to Soma?",
+      "options": ["Third", "Ninth", "Seventh", "Tenth"],
+      "answer": 1,
+      "explanation": "Ninth is correct: all the hymns of Mandala IX are addressed to Soma.\nThird is incorrect: it contains the Gayatri Mantra.\nSeventh is incorrect: it describes the Battle of Ten Kings.\nTenth is incorrect: it contains the Purusha Sukta and the Nasadiya Sukta."
+    },
+    {
+      "question": "Which one of the following pairs (Rig Vedic name – Modern river) is correctly matched?",
+      "options": ["Vitasta – Ravi", "Asikni – Beas", "Sutudri – Sutlej", "Vipas – Chenab"],
+      "answer": 2,
+      "explanation": "Sutudri – Sutlej is correctly matched.\nVitasta – Ravi is incorrect: Vitasta is the Jhelum; the Ravi is the Parushni.\nAsikni – Beas is incorrect: Asikni is the Chenab.\nVipas – Chenab is incorrect: Vipas is the Beas."
+    },
+    {
+      "question": "The Purusha Sukta, which describes the origin of the four varnas, is found in which Mandala of the Rigveda?",
+      "options": ["Tenth", "First", "Ninth", "Seventh"],
+      "answer": 0,
+      "explanation": "Tenth is correct: the Purusha Sukta is in Mandala X, one of the later parts of the Rigveda.\nFirst is incorrect: Mandala I is also a later Mandala, but the Purusha Sukta is not in it.\nNinth is incorrect: it is devoted to Soma.\nSeventh is incorrect: it is a family book linked with Vasishtha."
+    },
+    {
+      "question": "Which Brahmana is attached to the Rigveda?",
+      "options": ["Shatapatha Brahmana", "Aitareya Brahmana", "Gopatha Brahmana", "Panchavimsha Brahmana"],
+      "answer": 1,
+      "explanation": "Aitareya Brahmana is correct: it belongs to the Rigveda.\nShatapatha Brahmana is incorrect: it belongs to the Shukla Yajurveda.\nGopatha Brahmana is incorrect: it belongs to the Atharvaveda.\nPanchavimsha Brahmana is incorrect: it belongs to the Samaveda."
+    },
+    {
+      "question": "Which one of the following pairs (Vedanga – Subject) is correctly matched?",
+      "options": ["Nirukta – Grammar", "Jyotisha – Metre", "Shiksha – Etymology", "Kalpa – Ritual"],
+      "answer": 3,
+      "explanation": "Kalpa – Ritual is correctly matched: the Kalpa Sutras deal with rituals.\nNirukta – Grammar is incorrect: Nirukta is etymology; grammar is Vyakarana.\nJyotisha – Metre is incorrect: Jyotisha is astronomy; metre is Chhanda.\nShiksha – Etymology is incorrect: Shiksha is phonetics."
+    },
+    {
+      "question": "In the Later Vedic period, the Ashvamedha sacrifice was meant to:",
+      "options": ["Consecrate the king and confer supreme power on him", "Hold a chariot race won by the king against his kinsmen", "Establish the king's unquestioned control over the area the royal horse ran through", "Worship the household fire every morning"],
+      "answer": 2,
+      "explanation": "Establishing the king's unquestioned control over the area the royal horse ran through is correct: that was the purpose of the Ashvamedha.\nConsecrating the king with supreme power is incorrect: that was the Rajasuya.\nThe chariot race is incorrect: that was the Vajapeya.\nWorshipping the household fire is incorrect: that was a domestic rite, not a royal sacrifice."
+    },
+    {
+      "question": "The phrase 'Satyameva Jayate' is taken from which Upanishad?",
+      "options": ["Mundaka Upanishad", "Katha Upanishad", "Chandogya Upanishad", "Brihadaranyaka Upanishad"],
+      "answer": 0,
+      "explanation": "Mundaka Upanishad is correct: 'Satyameva Jayate', the national motto, comes from the Mundaka Upanishad.\nKatha Upanishad is incorrect: it is known for the dialogue of Nachiketa and Yama.\nChandogya Upanishad is incorrect: it is known for Uddalaka Aruni's teaching to Svetaketu.\nBrihadaranyaka Upanishad is incorrect: it is known for the dialogues of Yajnavalkya."
+    },
+    {
+      "question": "Which one of the following pairs (Vedic official – Function) is correctly matched?",
+      "options": ["Senani – Treasurer", "Gramani – Collector of taxes", "Purohita – Commander of the army", "Sangrihitri – Treasurer"],
+      "answer": 3,
+      "explanation": "Sangrihitri – Treasurer is correctly matched: the sangrihitri was the treasurer of the Later Vedic king.\nSenani – Treasurer is incorrect: the senani was the commander of the army.\nGramani – Collector of taxes is incorrect: the gramani was the head of the village; the tax collector was the bhagadugha.\nPurohita – Commander of the army is incorrect: the purohita was the chief priest."
+    },
+    {
+      "question": "The Rigveda is divided into how many Mandalas?",
+      "options": ["Eight", "Ten", "Twelve", "Seven"],
+      "answer": 1,
+      "explanation": "Ten is correct: the Rigveda has ten Mandalas (books).\nEight, Twelve and Seven are incorrect."
+    }
+  ]
+}

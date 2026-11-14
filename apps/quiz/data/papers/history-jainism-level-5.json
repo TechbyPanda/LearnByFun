@@ -1,0 +1,68 @@
+{
+  "id": "history-jainism-level-5",
+  "name": "History – Jainism (Level 5)",
+  "tags": ["history", "level-5"],
+  "subtags": ["jainism", "mahavira", "jain-councils", "jain-philosophy", "royal-patrons"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. The first Jain council was presided over by Sthulabhadra.\n2. The council at Vallabhi resulted in the final compilation of the 12 Angas and 12 Upangas.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the first council at Pataliputra was held under Sthulabhadra, and the 12 Angas were compiled there.\nStatement 2 is correct: the second council at Vallabhi (Gujarat), under Devarddhi Kshamashramana, gave the canon its final form, including the 12 Angas and 12 Upangas.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Mahavira attained kaivalya under a sal tree on the bank of the river Rijupalika.\n2. Mahavira attained kaivalya at Pavapuri.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Mahavira attained kaivalya under a sal tree at Jrimbhikagrama on the bank of the Rijupalika.\nStatement 2 is incorrect: Pavapuri (Pava) is where Mahavira died at 72, not where he attained kaivalya.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Anekantavada holds that reality can be fully understood from a single point of view.\n2. Syadvada is also known as the doctrine of sevenfold predication (saptabhangi).\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: anekantavada says the opposite, that reality has many sides and no single point of view gives the whole truth.\nStatement 2 is correct: syadvada expresses every judgement as 'syat' (in some respect) and sets out seven possible forms of statement, the saptabhangi.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The followers of Bhadrabahu came to be known as Svetambaras.\n2. Sthulabhadra migrated to Karnataka along with Chandragupta Maurya.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: Bhadrabahu's followers, who went south and kept the rule of nudity, came to be known as Digambaras.\nStatement 2 is incorrect: it was Bhadrabahu who went to Karnataka with Chandragupta Maurya; Sthulabhadra stayed in Magadha, and his followers became the Svetambaras.\nSo neither statement is correct."
+    },
+    {
+      "question": "Amoghavarsha I, who patronised Jain scholars such as Jinasena, belonged to which dynasty?",
+      "options": ["Western Ganga", "Hoysala", "Chalukyas of Badami", "Rashtrakuta"],
+      "answer": 3,
+      "explanation": "Rashtrakuta is correct: Amoghavarsha I was a 9th-century Rashtrakuta king of Manyakheta who patronised Jain scholars.\nWestern Ganga is incorrect: this dynasty is linked with Chamundaraya and the Gommateshwara statue.\nHoysala is incorrect: the Hoysalas rose to power later.\nChalukyas of Badami is incorrect: the Rashtrakutas replaced them in the 8th century."
+    },
+    {
+      "question": "Consider the following statements:\n1. Jainism holds that karma is a subtle form of matter that sticks to the soul.\n2. Jainism holds that a creator God decides the fruits of one's karma.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: in Jain thought karma is fine matter that flows into the soul and binds it; liberation means removing it.\nStatement 2 is incorrect: Jainism does not accept a creator God; karma works on its own, and the soul frees itself by its own effort.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ravikirti, the composer of the Aihole inscription of Pulakeshin II, was a Jain.\n2. The Jain scholar Hemachandra was associated with the court of the Chalukya king Kumarapala of Gujarat.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Ravikirti, the Jain court poet of Pulakeshin II, composed the Aihole inscription, found at the Meguti Jain temple.\nStatement 2 is correct: Hemachandra was the leading scholar at the court of Kumarapala, the Chalukya (Solanki) king of Gujarat, who became a patron of Jainism.\nSo both statements are correct."
+    },
+    {
+      "question": "Which one of the following pairs of place and the Tirthankara who attained nirvana there is correctly matched?",
+      "options": ["Pavapuri – Parshvanatha", "Girnar – Neminatha", "Sammed Shikhar – Mahavira", "Champapuri – Rishabhanatha"],
+      "answer": 1,
+      "explanation": "Girnar – Neminatha is correct: Jain tradition holds that Neminatha, the 22nd Tirthankara, attained nirvana on Girnar in Gujarat.\nPavapuri – Parshvanatha is incorrect: Pavapuri is linked with Mahavira.\nSammed Shikhar – Mahavira is incorrect: Parshvanatha and 19 other Tirthankaras attained nirvana at Sammed Shikhar, but not Mahavira.\nChampapuri – Rishabhanatha is incorrect: Champapuri is linked with Vasupujya; Rishabhanatha's nirvana is placed at Ashtapada."
+    },
+    {
+      "question": "Consider the following statements:\n1. Vardhamana was the name given to Mahavira after he attained kaivalya.\n2. According to the Svetambara tradition, Mahavira married Yashoda.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Vardhamana was his name from birth; titles such as Jina, Kevalin and Mahavira came after he attained kaivalya.\nStatement 2 is correct: Svetambaras hold that Mahavira married Yashoda and had a daughter; Digambaras hold that he never married.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "The Indra Sabha, a two-storeyed Jain rock-cut cave temple, is a part of which cave complex?",
+      "options": ["Ellora", "Ajanta", "Elephanta", "Karla"],
+      "answer": 0,
+      "explanation": "Ellora is correct: the Jain caves at Ellora, including the Indra Sabha, were cut alongside its Buddhist and Hindu caves.\nAjanta is incorrect: its caves are Buddhist.\nElephanta is incorrect: its caves are mainly Shaiva.\nKarla is incorrect: it is known for a Buddhist chaitya hall."
+    }
+  ]
+}

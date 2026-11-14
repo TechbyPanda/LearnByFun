@@ -1,0 +1,68 @@
+{
+  "id": "history-indus-valley-civilization-level-5",
+  "name": "History – Indus Valley Civilization (Level 5)",
+  "tags": ["history", "level-5"],
+  "subtags": ["indus-valley-civilization", "harappan-sites", "harappan-economy", "harappan-script"],
+  "questions": [
+    {
+      "question": "Consider the following statements about the Great Bath at Mohenjodaro:\n1. Flights of steps led into the tank on its northern and southern sides.\n2. Rooms surrounded the tank on three sides, and one of them had a large well.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: steps on the north and the south led down into the tank.\nStatement 2 is correct: there were rooms on three sides, one of which had a large well supplying water.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements about the ploughed field found at Kalibangan:\n1. It belongs to the Mature Harappan phase.\n2. Its furrows run in only one direction, showing that a single crop was grown.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the ploughed field is associated with Early Harappan levels at Kalibangan.\nStatement 2 is incorrect: it has two sets of furrows at right angles, suggesting two different crops were grown together.\nSo neither statement is correct."
+    },
+    {
+      "question": "Consider the following statements about Harappan weights:\n1. They were usually made of steatite and carried markings of their value.\n2. Their lower denominations followed a binary system (1, 2, 4, 8, 16, 32 and so on).\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: weights were usually made of chert, generally cubical, with no markings.\nStatement 2 is correct: the lower denominations were binary, doubling each time.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Harappan seals were most commonly made of:",
+      "options": ["Steatite", "Faience", "Terracotta", "Copper"],
+      "answer": 0,
+      "explanation": "Steatite is correct: most seals were carved from steatite, a soft stone.\nFaience is incorrect: it was used for beads, bangles and small vessels.\nTerracotta is incorrect: it was used for figurines and toy carts.\nCopper is incorrect: a few copper tablets exist, but seals were mostly steatite.\nSo the answer is Steatite."
+    },
+    {
+      "question": "Consider the following statements about Lothal:\n1. Its citadel was separated from the lower town by a wall, as at Mohenjodaro.\n2. It lies at the head of the Gulf of Kutch.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the citadel at Lothal was not walled off but was built on a higher level.\nStatement 2 is incorrect: Lothal lies near the head of the Gulf of Khambhat, not the Gulf of Kutch.\nSo neither statement is correct."
+    },
+    {
+      "question": "Consider the following statements about Dholavira:\n1. The city was divided into three parts.\n2. It is located on Bet Dwarka island.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Dholavira had three divisions, a citadel, a middle town and a lower town, unlike the two-part plan of most sites.\nStatement 2 is incorrect: Dholavira lies on Khadir Bet in the Rann of Kutch; Bet Dwarka is an island off the Saurashtra coast.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Which one of the following pairs (Site – Present location) is correctly matched?",
+      "options": ["Banawali – Rajasthan", "Ropar – Haryana", "Daimabad – Maharashtra", "Surkotada – Punjab"],
+      "answer": 2,
+      "explanation": "Daimabad – Maharashtra is correctly matched: Daimabad lies in Ahmednagar district and is the southernmost Harappan site.\nBanawali – Rajasthan is incorrect: Banawali is in Haryana.\nRopar – Haryana is incorrect: Ropar (Rupnagar) is in Punjab.\nSurkotada – Punjab is incorrect: Surkotada is in Kutch, Gujarat.\nSo the answer is Daimabad – Maharashtra."
+    },
+    {
+      "question": "Consider the following statements about the Harappan script:\n1. It had only about 50 signs, which shows it was alphabetic.\n2. Most inscriptions are short, the longest having about 26 signs.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the script had about 375 to 400 signs, far too many for an alphabet.\nStatement 2 is correct: inscriptions are short, the longest having about 26 signs.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Harappans obtained copper mainly from the Kolar region of Karnataka.\n2. Chemical analysis shows that both Omani copper and Harappan artefacts contain traces of nickel.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: copper came from the Khetri region of Rajasthan and from Oman; south India is linked with gold.\nStatement 2 is correct: the common nickel traces suggest copper reached the Harappans from Oman.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Mohenjodaro is located in which district of Sindh, Pakistan?",
+      "options": ["Hyderabad", "Karachi", "Sukkur", "Larkana"],
+      "answer": 3,
+      "explanation": "Larkana is correct: Mohenjodaro lies in Larkana district of Sindh, on the right bank of the Indus.\nHyderabad, Karachi and Sukkur are incorrect: these are other districts of Sindh.\nSo the answer is Larkana."
+    }
+  ]
+}

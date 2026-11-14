@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-7",
+  "name": "History – Ajivikism (Level 7)",
+  "tags": ["history", "level-7"],
+  "subtags": ["ajivikism", "niyati-doctrine", "samannaphala-sutta", "barabar-caves", "ashokan-edicts"],
+  "questions": [
+    {
+      "question": "Arrange the following in order from earliest to latest:\n1. Ashoka's dedication of the Barabar caves to the Ajivikas\n2. Lifetime of Makkhali Gosala\n3. Dasharatha's dedication of the Nagarjuni caves to the Ajivikas\n4. Chola-period Tamil inscriptions recording a tax on the Ajivikas\nSelect the correct answer using the code given below.",
+      "options": ["1-2-3-4", "2-3-1-4", "1-2-4-3", "2-1-3-4"],
+      "answer": 3,
+      "explanation": "Gosala lived in the age of the Buddha and Mahavira, before the Mauryas.\nAshoka's Barabar dedications came in the 3rd century BCE.\nDasharatha, Ashoka's grandson, followed him.\nThe Chola inscriptions belong to the medieval period.\nSo the order is 2-1-3-4. (Trap: placing Dasharatha before Ashoka because both made cave gifts.)"
+    },
+    {
+      "question": "With reference to the sources on the Ajivikas, consider the following statements:\n1. Ajivika doctrine is known only through the texts of rival sects.\n2. All Buddhist references to Makkhali Gosala present his teaching favourably.\n3. The Jain account of Gosala is found in the Bhagavati Sutra.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: no Ajivika text survives, so the doctrine comes to us only through Jain and Buddhist writings. (Trap: the word 'only' here is true.)\nStatement 2 is incorrect: Buddhist texts criticise Gosala's fatalism sharply. (Trap: 'all' with a false claim.)\nStatement 3 is correct: the Bhagavati Sutra gives the Jain account.\nSo statements 1 and 3 are correct."
+    },
+    {
+      "question": "Consider the following statements regarding Ajivika doctrine:\n1. Human effort cannot change what has been fixed by niyati.\n2. All souls attain liberation only through severe penance.\n3. A soul's good conduct can shorten its cycle of births.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: this is the heart of Ajivika determinism.\nStatement 2 is incorrect: for the Ajivikas, liberation comes when the fixed cycle of births ends, not through penance. (Trap: a Jain idea attached to the Ajivikas.)\nStatement 3 is incorrect: conduct does not alter the fixed number of births.\nSo only one statement is correct."
+    },
+    {
+      "question": "Which of the following teachers are among the six teachers whose views are reported in the Samannaphala Sutta?\n1. Purana Kassapa\n2. Sanjaya Belatthiputta\n3. Brihaspati\n4. Pakudha Kaccayana\nSelect the correct answer using the code given below.",
+      "options": ["1, 2 and 3 only", "1, 2 and 4 only", "2, 3 and 4 only", "1, 2, 3 and 4"],
+      "answer": 1,
+      "explanation": "Purana Kassapa, Sanjaya Belatthiputta and Pakudha Kaccayana are among the six, along with Makkhali Gosala, Ajita Kesakambali and Nigantha Nataputta.\nBrihaspati is not one of them: he is the traditional founder of the Charvaka school. (Trap: a materialist name close in spirit to Ajita Kesakambali.)\nSo 1, 2 and 4 only."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Barabar caves are among the earliest surviving rock-cut caves in India.\n2. The Lomas Rishi cave bears Ashoka's inscription dedicating it to the Ajivikas.\n3. The caves in the Nagarjuni hills were dedicated to the Ajivikas by Dasharatha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: these Mauryan caves are the earliest surviving rock-cut caves in India.\nStatement 2 is incorrect: Ashoka's dedication to the Ajivikas is found in caves such as the Sudama cave; the Lomas Rishi cave is famous for its carved facade, not an Ashokan inscription. (Trap: the most famous cave is not the inscribed one.)\nStatement 3 is correct: Dasharatha's inscriptions are in the Nagarjuni caves.\nSo statements 1 and 3 are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Makkhali Gosala is the only Ajivika leader named in Buddhist texts.\n2. Ajivika ascetics went naked.\n3. The Ajivikas, Jains and Buddhists all rejected the authority of the Vedas.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Buddhist texts also name Nanda Vaccha and Kisa Sankicca as earlier Ajivika leaders. (Trap: 'only' with a false claim.)\nStatement 2 is correct: nudity was a mark of Ajivika ascetics.\nStatement 3 is correct: all three were heterodox shramana sects. (Trap: 'all' with a true claim.)\nSo statements 2 and 3 are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Jainism holds that karma can be destroyed through penance.\n2. Buddhism treats intention (chetana) as the essence of karma.\n3. The Ajivikas held that karma decides the length of a soul's journey through births.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Jain austerities aim to shed karmic matter and free the soul.\nStatement 2 is correct: the Buddha said that intention is karma.\nStatement 3 is incorrect: for the Ajivikas the journey is fixed by niyati and karma does not change it. (Trap: a general Indian idea wrongly applied to the one sect that denied it.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following pairs:\nTeacher – View\n1. Purana Kassapa – Deeds bring neither merit nor sin\n2. Ajita Kesakambali – Nothing survives death\n3. Sanjaya Belatthiputta – Refusal to commit to any view\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 2,
+      "explanation": "Pair 1 is correctly matched: Purana Kassapa taught the doctrine of non-action (akiriyavada).\nPair 2 is correctly matched: Ajita Kesakambali held that a person is destroyed at death.\nPair 3 is correctly matched: Sanjaya Belatthiputta neither affirmed nor denied any proposition.\nSo all three pairs are correctly matched."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ashoka's Seventh Pillar Edict mentions the Ajivikas.\n2. The Seventh Pillar Edict is found only on the Delhi-Topra pillar.\n3. In this edict, the dhamma mahamatras are assigned only to the affairs of the Buddhist Samgha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Pillar Edict VII names the Ajivikas.\nStatement 2 is correct: Pillar Edict VII is inscribed only on the Delhi-Topra pillar. (Trap: 'only' with a true claim.)\nStatement 3 is incorrect: the dhamma mahamatras were also assigned to the Brahmanas, Ajivikas and Nirgranthas.\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following statements about the Charvaka school:\n1. It accepted inference as a valid means of knowledge.\n2. It is also called Lokayata.\n3. Its tradition traces its origin to Brihaspati.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 only", "1 and 3 only", "2 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Charvakas accepted only perception. (Trap: Nyaya accepts inference; the Charvakas did not.)\nStatement 2 is correct: Lokayata is its other name.\nStatement 3 is correct: Brihaspati is its traditional founder.\nSo statements 2 and 3 are correct."
+    }
+  ]
+}

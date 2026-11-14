@@ -1,0 +1,68 @@
+{
+  "id": "history-indus-valley-civilization-level-6",
+  "name": "History – Indus Valley Civilization (Level 6)",
+  "tags": ["history", "level-6"],
+  "subtags": ["indus-valley-civilization", "town-planning", "harappan-religion", "harappan-trade", "decline"],
+  "questions": [
+    {
+      "question": "With reference to Harappan town planning, consider the following statements:\n1. Bricks of a standard ratio were used at settlements across the civilisation.\n2. At Mohenjodaro, only the citadel was walled; the lower town was open.\n3. Streets with drains seem to have been laid out first, and houses built along them.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: bricks of the same ratio were used from Punjab to Gujarat, showing planning.\nStatement 2 is incorrect: the lower town at Mohenjodaro was also walled. (Trap: 'only the citadel')\nStatement 3 is correct: NCERT notes that streets with drains appear to have been laid out first.\nSo statements 1 and 3 are correct."
+    },
+    {
+      "question": "With reference to Harappan contacts with Mesopotamia, consider the following statements:\n1. Mesopotamian texts mention contact with regions called Dilmun, Magan and Meluhha.\n2. Magan is generally identified with Oman.\n3. Carnelian, lapis lazuli, copper and gold are among the products said to come from Meluhha.\nWhich of the statements given above is/are correct?",
+      "options": ["1, 2 and 3", "1 and 2 only", "2 and 3 only", "1 and 3 only"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Mesopotamian texts name Dilmun (probably Bahrain), Magan and Meluhha.\nStatement 2 is correct: Magan is probably Oman, a source of copper.\nStatement 3 is correct: the texts list carnelian, lapis lazuli, copper, gold and varieties of wood from Meluhha.\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to Harappan religion, consider the following statements:\n1. Remains of large temples have been identified at Mohenjodaro.\n2. A seal shows a figure seated cross-legged and surrounded by animals, which some scholars call 'proto-Shiva'.\n3. Fire altars have been found at Kalibangan and Lothal.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 only", "1 and 3 only", "2 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: no structure has been firmly identified as a temple in Harappan cities. (Trap: the Great Bath is a ritual tank, not a temple)\nStatement 2 is correct: John Marshall called this seated figure 'proto-Shiva', though scholars treat the identification with caution.\nStatement 3 is correct: fire altars are found at Kalibangan and Lothal.\nSo statements 2 and 3 are correct."
+    },
+    {
+      "question": "Which of the following crops were grown by the Harappans?\n1. Wheat\n2. Barley\n3. Sesame\n4. Millets\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "1, 2 and 3 only", "1, 2, 3 and 4", "2, 3 and 4 only"],
+      "answer": 2,
+      "explanation": "Item 1 is correct: wheat was a main grain.\nItem 2 is correct: barley was a main grain.\nItem 3 is correct: sesame remains are found at Harappan sites.\nItem 4 is correct: millets are found at sites in Gujarat. (Trap: it is rice, not millets, that is relatively rare)\nSo all four are correct."
+    },
+    {
+      "question": "With reference to Harappan seals, consider the following statements:\n1. Seals were pressed on clay to make sealings that certified the goods in a sack or package.\n2. Harappan seals have been found in Mesopotamia.\n3. Most seals were made of terracotta.\nWhich of the statements given above is/are correct?",
+      "options": ["2 and 3 only", "1 and 3 only", "3 only", "1 and 2 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: a sealing on a knotted package showed the sender's identity and that it had not been tampered with.\nStatement 2 is correct: Harappan seals found in Mesopotamia point to long-distance trade.\nStatement 3 is incorrect: most seals were made of steatite. (Trap: terracotta was used for figurines)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following pairs:\nSite – Present location\n1. Manda – Jammu and Kashmir\n2. Daimabad – Gujarat\n3. Alamgirpur – Uttar Pradesh\nWhich of the pairs given above is/are correctly matched?",
+      "options": ["1 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Pair 1 is correctly matched: Manda lies on the Chenab near Jammu.\nPair 2 is incorrectly matched: Daimabad lies in Ahmednagar district of Maharashtra. (Trap: many Harappan sites are in Gujarat, but the southernmost one is in Maharashtra)\nPair 3 is correctly matched: Alamgirpur lies in Meerut district of Uttar Pradesh.\nSo pairs 1 and 3 are correctly matched."
+    },
+    {
+      "question": "With reference to Harappan burials, consider the following statements:\n1. The dead were generally buried in pits.\n2. Some graves contain pottery and ornaments.\n3. Jewellery has been found only in the burials of women.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the dead were generally laid in pits, some lined with bricks.\nStatement 2 is correct: some graves have pottery and ornaments, perhaps showing belief in an afterlife.\nStatement 3 is incorrect: jewellery has been found in the burials of both men and women. (Trap: 'only')\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "With reference to Harappan metallurgy, consider the following statements:\n1. Bronze was made by alloying copper with tin.\n2. Iron objects have been found in Mature Harappan levels at Lothal.\n3. Copper was obtained from the Khetri region of Rajasthan.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 3 only", "1 and 2 only", "2 and 3 only", "3 only"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Harappan smiths made bronze from copper and tin.\nStatement 2 is incorrect: iron was unknown to the Harappans at all sites. (Trap: Lothal's sea trade does not mean iron)\nStatement 3 is correct: expeditions were sent to the Khetri region for copper.\nSo statements 1 and 3 are correct."
+    },
+    {
+      "question": "Traces of canals for irrigation have been found at which Harappan site?",
+      "options": ["Shortughai", "Mohenjodaro", "Harappa", "Kalibangan"],
+      "answer": 0,
+      "explanation": "Shortughai is correct: traces of canals have been found at Shortughai in Afghanistan.\nMohenjodaro and Harappa are incorrect: no canals have been found in Punjab or Sindh, perhaps because silt covered them. (Trap: the heartland, not the outpost, is the exception)\nKalibangan is incorrect: it is known for a ploughed field, not canals.\nSo the answer is Shortughai."
+    },
+    {
+      "question": "With reference to the decline of the Harappan civilisation, consider the following statements:\n1. Mortimer Wheeler suggested that Aryan invaders destroyed Mohenjodaro.\n2. George Dales argued that the skeletons found at Mohenjodaro did not all belong to the same period and did not prove a massacre.\n3. Scholars agree that a single cause, floods, ended the civilisation.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Wheeler linked skeletons at Mohenjodaro to an Aryan attack.\nStatement 2 is correct: Dales showed the skeletons came from different periods, so there was no single massacre.\nStatement 3 is incorrect: scholars suggest many causes, including climate change, deforestation, floods, shifting or drying of rivers and overuse of land. (Trap: 'single cause')\nSo statements 1 and 2 are correct."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "history-buddhism-level-5",
+  "name": "History – Buddhism (Level 5)",
+  "tags": ["history", "level-5"],
+  "subtags": ["buddhism", "buddhist-councils", "buddhist-philosophy", "buddhist-art", "monastic-universities"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. The Second Buddhist Council was held at Vaishali about a hundred years after the Buddha's death.\n2. The Second Buddhist Council was convened mainly to compile the Abhidhamma Pitaka.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Second Council met at Vaishali about a century after the Mahaparinirvana, under Kalashoka.\nStatement 2 is incorrect: it was called to settle a dispute over relaxed monastic rules (the 'ten points' of the Vaishali monks). The Abhidhamma is traditionally linked with the Third Council.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Kushinagara, where the Buddha passed away, lay in the territory of the Mallas.\n2. The Buddha delivered his first sermon to five former companions at the Deer Park in Sarnath.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Kushinagara was a town of the Malla gana-sangha.\nStatement 2 is correct: the first sermon was given to five ascetics who had earlier practised penance with him, at the Deer Park (Mrigadava) at Sarnath.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Buddhist doctrine of anatta holds that an eternal soul passes from one body to another.\n2. The doctrine of pratityasamutpada holds that everything arises in dependence on conditions.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: anatta means 'no self'; Buddhism denies a permanent, eternal soul.\nStatement 2 is correct: pratityasamutpada (dependent origination) says every phenomenon arises because of causes and conditions.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Who presided over the Fourth Buddhist Council held in Kashmir?",
+      "options": ["Moggaliputta Tissa", "Mahakassapa", "Sabakami", "Vasumitra"],
+      "answer": 3,
+      "explanation": "Vasumitra is correct: he presided over the Fourth Council under Kanishka, with Ashvaghosha as his deputy.\nMoggaliputta Tissa presided over the Third, Mahakassapa over the First, and Sabakami over the Second Council."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Jatakas form part of the Khuddaka Nikaya of the Sutta Pitaka.\n2. The Jatakas were originally composed in classical Sanskrit.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Jataka is one of the books of the Khuddaka Nikaya in the Sutta Pitaka.\nStatement 2 is incorrect: the Jatakas belong to the Pali canon and are preserved in Pali.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Mathura school of art was chiefly influenced by Greco-Roman traditions.\n2. Images of the Buddha were made in both the Gandhara and Mathura schools during the Kushana period.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the Mathura school grew out of indigenous traditions. It is the Gandhara school that shows strong Greco-Roman influence.\nStatement 2 is correct: both schools produced Buddha images under Kushana rule.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Nalanda and Vikramashila were sacked by Bakhtiyar Khalji in the late twelfth century.\n2. Atisha Dipankara, a teacher at Vikramashila, went to Tibet to spread Buddhism.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Turkish commander Bakhtiyar Khalji attacked the monasteries of Bihar, including Nalanda and Vikramashila, around the end of the twelfth century.\nStatement 2 is correct: Atisha of Vikramashila went to Tibet in the eleventh century and helped revive Buddhism there.\nSo both statements are correct."
+    },
+    {
+      "question": "Which one of the following pairs of mudra and its meaning is correctly matched?",
+      "options": ["Dhyana mudra – Touching the earth", "Abhaya mudra – Teaching", "Bhumisparsha mudra – Meditation", "Dharmachakra mudra – Turning the wheel of law"],
+      "answer": 3,
+      "explanation": "Dharmachakra mudra – Turning the wheel of law is correct: this teaching gesture recalls the first sermon.\nDhyana mudra means meditation, not touching the earth.\nAbhaya mudra means fearlessness or protection, not teaching.\nBhumisparsha mudra means touching the earth (calling the earth to witness), not meditation."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ajatashatru convened the First Buddhist Council at Vaishali.\n2. At the First Buddhist Council, Upali recited the Vinaya.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the First Council under Ajatashatru was held at Rajagriha (in the Saptaparni cave). Vaishali hosted the Second Council.\nStatement 2 is correct: Upali recited the Vinaya and Ananda recited the Sutta.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "In Mahayana Buddhism, which Bodhisattva is regarded as the embodiment of compassion?",
+      "options": ["Avalokiteshvara", "Manjushri", "Maitreya", "Vajrapani"],
+      "answer": 0,
+      "explanation": "Avalokiteshvara is correct: he is the Bodhisattva of compassion; Padmapani is one of his forms.\nManjushri stands for wisdom, Maitreya is the future Buddha, and Vajrapani is the protector holding the thunderbolt."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "history-indus-valley-civilization-level-2",
+  "name": "History – Indus Valley Civilization (Level 2)",
+  "tags": ["history", "level-2"],
+  "subtags": ["indus-valley-civilization", "harappan-sites", "harappan-economy", "harappan-religion"],
+  "questions": [
+    {
+      "question": "Who excavated Mohenjodaro in 1922?",
+      "options": ["Daya Ram Sahni", "R.D. Banerji", "S.R. Rao", "B.B. Lal"],
+      "answer": 1,
+      "explanation": "R.D. Banerji is correct: he excavated Mohenjodaro in 1922.\nDaya Ram Sahni is incorrect: he excavated Harappa in 1921.\nS.R. Rao is incorrect: he is known for excavating Lothal after Independence.\nB.B. Lal is incorrect: he is associated with later excavations such as Kalibangan.\nSo the answer is R.D. Banerji."
+    },
+    {
+      "question": "Harappa is located on the banks of which river?",
+      "options": ["Indus", "Sutlej", "Beas", "Ravi"],
+      "answer": 3,
+      "explanation": "Ravi is correct: Harappa lies on the Ravi in Punjab (Pakistan).\nIndus is incorrect: Mohenjodaro, not Harappa, is on the Indus.\nSutlej is incorrect: Ropar lies on the Sutlej.\nBeas is incorrect: no major Harappan city is associated with the Beas.\nSo the answer is Ravi."
+    },
+    {
+      "question": "Dholavira, a major Harappan city, is located in which state of India?",
+      "options": ["Gujarat", "Rajasthan", "Haryana", "Punjab"],
+      "answer": 0,
+      "explanation": "Gujarat is correct: Dholavira lies in the Rann of Kutch, Gujarat.\nRajasthan is incorrect: Kalibangan is the well-known Harappan site there.\nHaryana is incorrect: Rakhigarhi and Banawali are the well-known sites there.\nPunjab is incorrect: Ropar is the well-known site in Indian Punjab.\nSo the answer is Gujarat."
+    },
+    {
+      "question": "Evidence of a ploughed field has been found at which Harappan site?",
+      "options": ["Lothal", "Mohenjodaro", "Kalibangan", "Harappa"],
+      "answer": 2,
+      "explanation": "Kalibangan is correct: a ploughed field with furrows was found at Kalibangan in Rajasthan.\nLothal is incorrect: it is known for its dockyard.\nMohenjodaro is incorrect: it is known for the Great Bath.\nHarappa is incorrect: it is known for its granaries and cemeteries.\nSo the answer is Kalibangan."
+    },
+    {
+      "question": "The stone statue known as the 'Priest-King' was found at:",
+      "options": ["Harappa", "Lothal", "Mohenjodaro", "Kalibangan"],
+      "answer": 2,
+      "explanation": "Mohenjodaro is correct: the bearded 'Priest-King' bust was found at Mohenjodaro.\nHarappa, Lothal and Kalibangan are incorrect: the statue does not come from these sites.\nSo the answer is Mohenjodaro."
+    },
+    {
+      "question": "Why is the Indus Valley Civilisation also called the Harappan Civilisation?",
+      "options": ["Harappa was the first site of this civilisation to be discovered", "Harappa was its capital city", "Harappa is the only site with a citadel", "Harappa is the only site with seals"],
+      "answer": 0,
+      "explanation": "Harappa was the first site of this civilisation to be discovered is correct: archaeologists name a culture after the site where it was first found.\nHarappa was its capital city is incorrect: no capital of the civilisation has been identified.\nHarappa is the only site with a citadel is incorrect: Mohenjodaro, Kalibangan and others also had citadels.\nHarappa is the only site with seals is incorrect: seals are found at many sites.\nSo the answer is that Harappa was the first site discovered."
+    },
+    {
+      "question": "The Harappans were among the earliest people in the world to grow which fibre crop?",
+      "options": ["Jute", "Hemp", "Flax", "Cotton"],
+      "answer": 3,
+      "explanation": "Cotton is correct: the Harappans were among the earliest to grow cotton and weave cotton cloth.\nJute, Hemp and Flax are incorrect: these are not the fibre crops linked with the Harappans.\nSo the answer is Cotton."
+    },
+    {
+      "question": "Who was the Director-General of the Archaeological Survey of India when the discovery of the new civilisation was announced in 1924?",
+      "options": ["Alexander Cunningham", "John Marshall", "Mortimer Wheeler", "James Prinsep"],
+      "answer": 1,
+      "explanation": "John Marshall is correct: as Director-General of the ASI, he announced the discovery of a new civilisation in 1924.\nAlexander Cunningham is incorrect: he was the first Director-General of the ASI, in the 19th century.\nMortimer Wheeler is incorrect: he became Director-General in 1944.\nJames Prinsep is incorrect: he deciphered Brahmi and was never head of the ASI.\nSo the answer is John Marshall."
+    },
+    {
+      "question": "Which were the main food grains of the Harappans?",
+      "options": ["Rice and maize", "Ragi and maize", "Rice and sugarcane", "Wheat and barley"],
+      "answer": 3,
+      "explanation": "Wheat and barley is correct: these were the main grains grown in the Harappan region.\nRice and maize and Ragi and maize are incorrect: maize came to India only from the Americas, thousands of years later.\nRice and sugarcane is incorrect: rice grains are rare at Harappan sites and sugarcane is not a food grain.\nSo the answer is wheat and barley."
+    },
+    {
+      "question": "The many terracotta female figurines found at Harappan sites are generally believed to represent:",
+      "options": ["A mother goddess", "Queens of Harappa", "The Vedic goddess Usha", "Buddhist goddesses"],
+      "answer": 0,
+      "explanation": "A mother goddess is correct: many scholars see these figurines as linked with the worship of a mother goddess (fertility cult).\nQueens of Harappa is incorrect: there is no evidence of named queens or royal portraits.\nThe Vedic goddess Usha is incorrect: the Vedas were composed later.\nBuddhist goddesses is incorrect: Buddhism arose much later.\nSo the answer is a mother goddess."
+    }
+  ]
+}

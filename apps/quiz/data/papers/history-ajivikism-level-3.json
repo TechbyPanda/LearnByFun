@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-3",
+  "name": "History – Ajivikism (Level 3)",
+  "tags": ["history", "level-3"],
+  "subtags": ["ajivikism", "makkhali-gosala", "barabar-caves", "samannaphala-sutta"],
+  "questions": [
+    {
+      "question": "Which cave in the Barabar hills is famous for its carved entrance imitating wooden architecture?",
+      "options": ["Sudama cave", "Gopika cave", "Karan Chaupar cave", "Lomas Rishi cave"],
+      "answer": 3,
+      "explanation": "Lomas Rishi cave is correct: its doorway copies the curved form of wooden huts and has a frieze of elephants.\nSudama cave is incorrect: it is known for Ashoka's dedication, not a carved facade.\nGopika cave is incorrect: it is in the Nagarjuni hills.\nKaran Chaupar cave is incorrect: it is another Barabar cave, but the carved wooden-style doorway belongs to Lomas Rishi."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?\nTeacher – Doctrine",
+      "options": ["Purana Kassapa – Materialism", "Makkhali Gosala – Niyati (determinism)", "Ajita Kesakambali – Agnosticism", "Sanjaya Belatthiputta – Seven eternal elements"],
+      "answer": 1,
+      "explanation": "Makkhali Gosala – Niyati is correctly matched: he taught that everything is fixed by fate.\nPurana Kassapa – Materialism is incorrect: he denied that actions bring merit or sin (akiriyavada); materialism was Ajita's view.\nAjita Kesakambali – Agnosticism is incorrect: he was a materialist; agnosticism was Sanjaya's view.\nSanjaya Belatthiputta – Seven eternal elements is incorrect: the seven elements were taught by Pakudha Kaccayana."
+    },
+    {
+      "question": "Buddhist tradition names which two as leaders of the Ajivikas before Makkhali Gosala?",
+      "options": ["Nanda Vaccha and Kisa Sankicca", "Purana Kassapa and Pakudha Kaccayana", "Ajita Kesakambali and Sanjaya Belatthiputta", "Parshvanatha and Rishabhanatha"],
+      "answer": 0,
+      "explanation": "Nanda Vaccha and Kisa Sankicca is correct: they are named as Gosala's predecessors.\nPurana Kassapa and Pakudha Kaccayana is incorrect: they were separate teachers contemporary with Gosala.\nAjita Kesakambali and Sanjaya Belatthiputta is incorrect: they led their own schools.\nParshvanatha and Rishabhanatha is incorrect: they are Jain Tirthankaras."
+    },
+    {
+      "question": "According to the Jain Bhagavati Sutra, for about how many years did Gosala live with Mahavira before they parted?",
+      "options": ["Six years", "Twelve years", "Twenty years", "Thirty years"],
+      "answer": 0,
+      "explanation": "Six years is correct: the Bhagavati Sutra says the two ascetics wandered together for six years.\nTwelve years is incorrect: it is confused with the twelve years of Mahavira's austerities before he gained kevala jnana.\nTwenty years and Thirty years are incorrect: the text gives six years."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?\nCave – Hill group",
+      "options": ["Sudama cave – Nagarjuni hills", "Gopika cave – Barabar hills", "Lomas Rishi cave – Barabar hills", "Vadathika cave – Barabar hills"],
+      "answer": 2,
+      "explanation": "Lomas Rishi cave – Barabar hills is correctly matched.\nSudama cave – Nagarjuni hills is incorrect: Sudama is in the Barabar hills.\nGopika cave – Barabar hills is incorrect: Gopika is in the Nagarjuni hills.\nVadathika cave – Barabar hills is incorrect: Vadathika is one of Dasharatha's caves in the Nagarjuni hills."
+    },
+    {
+      "question": "The Ajivika belief that every soul is purified only by passing through a fixed cycle of births is called:",
+      "options": ["Ahimsa", "Anekantavada", "Pratityasamutpada", "Samsara-suddhi"],
+      "answer": 3,
+      "explanation": "Samsara-suddhi is correct: it means purification through transmigration, the Ajivika view that release comes only when the set round of births ends.\nAhimsa is incorrect: it means non-violence.\nAnekantavada is incorrect: it is the Jain doctrine of many-sidedness.\nPratityasamutpada is incorrect: it is the Buddhist doctrine of dependent origination."
+    },
+    {
+      "question": "Which Pillar Edict of Ashoka mentions the Ajivikas?",
+      "options": ["Fourth", "Seventh", "First", "Sixth"],
+      "answer": 1,
+      "explanation": "Seventh is correct: Pillar Edict VII lists the Ajivikas, along with the Samgha, Brahmanas and Nirgranthas, as concerns of the dhamma mahamatras.\nFourth, First and Sixth are incorrect: these edicts do not name the Ajivikas."
+    },
+    {
+      "question": "The Samannaphala Sutta, which records the views of six teachers contemporary with the Buddha, belongs to which collection?",
+      "options": ["Anguttara Nikaya", "Majjhima Nikaya", "Digha Nikaya", "Khuddaka Nikaya"],
+      "answer": 2,
+      "explanation": "Digha Nikaya is correct: the Samannaphala Sutta is the second sutta of the Digha Nikaya, the collection of long discourses.\nAnguttara, Majjhima and Khuddaka Nikayas are incorrect: they are other collections of the Sutta Pitaka."
+    },
+    {
+      "question": "Inscriptions from which region show the Ajivikas surviving until about the 14th century?",
+      "options": ["Tamil country in south India", "Kashmir", "Gandhara", "Sindh"],
+      "answer": 0,
+      "explanation": "Tamil country in south India is correct: Tamil inscriptions recording a tax on Ajivikas show the sect lasted there long after it vanished from the north.\nKashmir, Gandhara and Sindh are incorrect: no such late Ajivika presence is recorded there."
+    },
+    {
+      "question": "Which school of Indian philosophy is also called Lokayata?",
+      "options": ["Nyaya", "Vaisheshika", "Mimamsa", "Charvaka"],
+      "answer": 3,
+      "explanation": "Charvaka is correct: the materialist Charvaka school is also called Lokayata.\nNyaya is incorrect: it is the orthodox school of logic.\nVaisheshika is incorrect: it is the orthodox school of atomism.\nMimamsa is incorrect: it is the orthodox school of Vedic ritual."
+    }
+  ]
+}

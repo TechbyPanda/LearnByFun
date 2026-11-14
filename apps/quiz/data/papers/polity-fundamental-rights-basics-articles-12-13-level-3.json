@@ -1,0 +1,68 @@
+{
+  "id": "polity-fundamental-rights-basics-articles-12-13-level-3",
+  "name": "Polity – Fundamental Rights Basics & Articles 12-13 (Level 3)",
+  "tags": ["polity", "level-3"],
+  "subtags": ["fundamental-rights", "article-12", "article-13", "amendability-of-fundamental-rights"],
+  "questions": [
+    {
+      "question": "Clause (4) of Article 13, which keeps constitutional amendments outside the scope of Article 13, was inserted by which Amendment?",
+      "options": ["1st Amendment Act, 1951", "24th Amendment Act, 1971", "42nd Amendment Act, 1976", "44th Amendment Act, 1978"],
+      "answer": 1,
+      "explanation": "The 24th Amendment (1971) added Article 13(4) and Article 368(3) after the Golaknath judgment.\nThe 1st Amendment added Articles 31A and 31B, the 42nd is the 'mini-Constitution', and the 44th removed the Right to Property."
+    },
+    {
+      "question": "In which case did the Supreme Court hold that a constitutional amendment is 'law' under Article 13, so Parliament cannot take away Fundamental Rights?",
+      "options": ["Shankari Prasad case (1951)", "Sajjan Singh case (1965)", "Kesavananda Bharati case (1973)", "Golaknath case (1967)"],
+      "answer": 3,
+      "explanation": "In Golaknath (1967) the Supreme Court held that Fundamental Rights cannot be amended because an amendment is 'law' under Article 13.\nShankari Prasad and Sajjan Singh held the opposite. Kesavananda Bharati overruled Golaknath and gave the basic structure doctrine."
+    },
+    {
+      "question": "For the purposes of Article 13, which of the following is NOT treated as 'law'?",
+      "options": ["An amendment of the Constitution made under Article 368", "A bye-law", "A custom or usage having the force of law", "A notification"],
+      "answer": 0,
+      "explanation": "Article 13(4) says nothing in Article 13 applies to an amendment made under Article 368.\nBye-laws, notifications, and customs or usages having the force of law are all included in Article 13(3)(a)."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Zee Telefilms case (2005) – BCCI is 'State' under Article 12", "Golaknath case (1967) – Basic structure doctrine", "Bhikaji Narain Dhakras case (1955) – Doctrine of eclipse", "Shankari Prasad case (1951) – Parliament cannot amend Fundamental Rights"],
+      "answer": 2,
+      "explanation": "Bhikaji Narain Dhakras v State of MP (1955) laid down the doctrine of eclipse for pre-constitutional laws.\nZee Telefilms held that BCCI is NOT 'State'. The basic structure doctrine came from Kesavananda Bharati (1973). Shankari Prasad held that Parliament CAN amend Fundamental Rights."
+    },
+    {
+      "question": "After the 44th Amendment, Article 19 is automatically suspended under Article 358 only when a National Emergency is declared on the ground of:",
+      "options": ["Armed rebellion only", "Internal disturbance", "Financial instability", "War or external aggression"],
+      "answer": 3,
+      "explanation": "Since the 44th Amendment (1978), Article 358 suspends Article 19 only when the emergency is declared on the ground of war or external aggression, not armed rebellion.\n'Internal disturbance' was replaced by 'armed rebellion' in 1978, and financial instability leads to a Financial Emergency (Article 360)."
+    },
+    {
+      "question": "Who headed the Sub-committee on Fundamental Rights of the Constituent Assembly?",
+      "options": ["J.B. Kripalani", "K.M. Munshi", "Alladi Krishnaswamy Ayyar", "H.C. Mukherjee"],
+      "answer": 0,
+      "explanation": "J.B. Kripalani headed the Fundamental Rights Sub-committee, which came under Sardar Patel's Advisory Committee.\nH.C. Mukherjee headed the Minorities Sub-committee. K.M. Munshi and Alladi Krishnaswamy Ayyar were members of the Drafting Committee."
+    },
+    {
+      "question": "In Rajasthan State Electricity Board v Mohan Lal (1967), what did the Supreme Court hold about 'other authorities' in Article 12?",
+      "options": ["They include only bodies performing sovereign functions", "They include all statutory or constitutional authorities on which powers are conferred by law", "They include only Union ministries", "They include every private company"],
+      "answer": 1,
+      "explanation": "The Court held that 'other authorities' covers all authorities created by the Constitution or by a statute on which powers are conferred by law, even if they do not do governmental or sovereign work.\nThe 'sovereign functions only' view was the narrow approach this case rejected. Private companies are not automatically 'State'."
+    },
+    {
+      "question": "Which one of the following Articles gives a right that is available only to citizens of India?",
+      "options": ["Article 14", "Article 21", "Article 19", "Article 25"],
+      "answer": 2,
+      "explanation": "Article 19 (six freedoms) is for citizens only, like Articles 15, 16, 29 and 30.\nArticle 14 (equality before law), Article 21 (life and personal liberty) and Article 25 (freedom of religion) are available to all persons, including foreigners."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?",
+      "options": ["Article 33 – Power of Parliament to modify Fundamental Rights of the armed forces", "Article 34 – Definition of 'the State'", "Article 35 – Right to Constitutional Remedies", "Article 31 – Right to Education"],
+      "answer": 0,
+      "explanation": "Article 33 lets Parliament restrict or modify Fundamental Rights of the armed forces, police and similar forces.\nArticle 34 deals with martial law, Article 12 defines 'the State', Article 32 is the Right to Constitutional Remedies, and Article 21A is the Right to Education. Article 31 was repealed in 1978."
+    },
+    {
+      "question": "In which case did the Supreme Court hold that a person cannot waive their Fundamental Rights?",
+      "options": ["A.K. Gopalan case (1950)", "Romesh Thappar case (1950)", "Maneka Gandhi case (1978)", "Basheshar Nath case (1959)"],
+      "answer": 3,
+      "explanation": "In Basheshar Nath v Commissioner of Income Tax (1959), the Court held that Fundamental Rights cannot be waived.\nA.K. Gopalan and Maneka Gandhi dealt with Article 21. Romesh Thappar dealt with freedom of the press under Article 19."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "history-early-later-vedic-period-level-2",
+  "name": "History – Early & Later Vedic Period (Level 2)",
+  "tags": ["history", "level-2"],
+  "subtags": ["vedic-period", "vedic-literature", "rig-vedic-society", "vedic-religion", "vedic-economy"],
+  "questions": [
+    {
+      "question": "The Gayatri Mantra is addressed to which deity?",
+      "options": ["Agni", "Savitri", "Indra", "Varuna"],
+      "answer": 1,
+      "explanation": "Savitri is correct: the Gayatri Mantra of the Rigveda is a prayer to Savitri, a solar deity.\nAgni, Indra and Varuna are incorrect: they are important Rig Vedic gods, but the Gayatri Mantra is not addressed to them."
+    },
+    {
+      "question": "Which Veda contains charms and spells to ward off evils and diseases?",
+      "options": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+      "answer": 3,
+      "explanation": "Atharvaveda is correct: it contains charms and spells against evils and diseases and reflects popular beliefs.\nRigveda is incorrect: it is a collection of hymns to gods.\nSamaveda is incorrect: it is a collection of melodies for chanting.\nYajurveda is incorrect: it deals with sacrificial formulas and rituals."
+    },
+    {
+      "question": "The Rig Vedic term 'gavishti' literally means:",
+      "options": ["Search for cows", "Worship of fire", "Assembly of elders", "Gift to priests"],
+      "answer": 0,
+      "explanation": "Search for cows is correct: gavishti meant search for cows, and the word was used for war, since many wars were fought over cattle.\nWorship of fire is incorrect: fire worship centred on Agni.\nAssembly of elders is incorrect: assemblies were called sabha and samiti.\nGift to priests is incorrect: gifts to priests were called dakshina."
+    },
+    {
+      "question": "Which Veda deals mainly with the formulas and rules for performing sacrifices?",
+      "options": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+      "answer": 2,
+      "explanation": "Yajurveda is correct: it contains the formulas and rituals to be followed at sacrifices.\nRigveda is incorrect: it is a collection of hymns.\nSamaveda is incorrect: it is a collection of melodies.\nAtharvaveda is incorrect: it contains charms and spells."
+    },
+    {
+      "question": "The Battle of Ten Kings was won by which king of the Bharata tribe?",
+      "options": ["Divodasa", "Janaka", "Sudas", "Parikshit"],
+      "answer": 2,
+      "explanation": "Sudas is correct: Sudas, a Bharata king, defeated a group of ten chiefs in the Battle of Ten Kings described in the Rigveda.\nDivodasa is incorrect: he was an earlier Bharata chief known for defeating Shambara.\nJanaka is incorrect: he was a later Vedic king of Videha.\nParikshit is incorrect: he was a later Vedic Kuru king."
+    },
+    {
+      "question": "Which metal, called 'shyama ayas' or 'krishna ayas' in Later Vedic texts, came into use in that period?",
+      "options": ["Iron", "Copper", "Gold", "Silver"],
+      "answer": 0,
+      "explanation": "Iron is correct: Later Vedic texts call iron shyama ayas or krishna ayas, the dark or black metal.\nCopper is incorrect: copper was known earlier and is not the 'black metal'.\nGold is incorrect: gold was called hiranya.\nSilver is incorrect: it is not the metal meant by krishna ayas."
+    },
+    {
+      "question": "Which Rig Vedic god was regarded as the upholder of 'rita', the natural and cosmic order?",
+      "options": ["Agni", "Indra", "Soma", "Varuna"],
+      "answer": 3,
+      "explanation": "Varuna is correct: Varuna was believed to uphold rita, the natural order.\nAgni is incorrect: he was the god of fire and the messenger between gods and people.\nIndra is incorrect: he was the god of war and rain.\nSoma is incorrect: Soma was a plant and the god of the drink made from it."
+    },
+    {
+      "question": "In the Rigveda, the word 'vish' referred to:",
+      "options": ["A forest", "The people or clan", "A sacrifice", "A river"],
+      "answer": 1,
+      "explanation": "The people or clan is correct: vish (like jana) was a word for the people or community; the word vaishya comes from it.\nA forest, A sacrifice and A river are incorrect: vish does not mean any of these."
+    },
+    {
+      "question": "Which cereal is most often mentioned in the Rigveda?",
+      "options": ["Barley (yava)", "Maize", "Potato", "Rice"],
+      "answer": 0,
+      "explanation": "Barley (yava) is correct: yava, usually taken to mean barley, is the main grain of the Rigveda.\nMaize and Potato are incorrect: both were brought to India from the Americas many centuries later.\nRice is incorrect: rice (vrihi) appears in the Later Vedic texts."
+    },
+    {
+      "question": "The Upanishads are also known as:",
+      "options": ["Smriti", "Purana", "Itihasa", "Vedanta"],
+      "answer": 3,
+      "explanation": "Vedanta is correct: the Upanishads come at the end of the Vedic literature, so they are called Vedanta (end of the Veda).\nSmriti is incorrect: the Upanishads are shruti, not smriti.\nPurana is incorrect: the Puranas are later texts.\nItihasa is incorrect: the term refers to the epics, the Ramayana and the Mahabharata."
+    }
+  ]
+}

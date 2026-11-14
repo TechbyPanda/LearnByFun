@@ -1,0 +1,68 @@
+{
+  "id": "history-early-later-vedic-period-level-1",
+  "name": "History – Early & Later Vedic Period (Level 1)",
+  "tags": ["history", "level-1"],
+  "subtags": ["vedic-period", "vedic-literature", "rig-vedic-society", "vedic-religion"],
+  "questions": [
+    {
+      "question": "Which is the oldest of the four Vedas?",
+      "options": ["Samaveda", "Yajurveda", "Rigveda", "Atharvaveda"],
+      "answer": 2,
+      "explanation": "Rigveda is correct: it is the oldest Veda and the earliest Vedic text.\nSamaveda, Yajurveda and Atharvaveda are incorrect: they were compiled later than the Rigveda."
+    },
+    {
+      "question": "In which language were the Vedas composed?",
+      "options": ["Vedic Sanskrit", "Pali", "Tamil", "Persian"],
+      "answer": 0,
+      "explanation": "Vedic Sanskrit is correct: the Vedas were composed in an early form of Sanskrit.\nPali is incorrect: it is the language of early Buddhist texts.\nTamil is incorrect: it is the language of the Sangam texts of the south.\nPersian is incorrect: it is not an Indian Vedic language."
+    },
+    {
+      "question": "Which Rig Vedic god was the god of fire?",
+      "options": ["Varuna", "Soma", "Indra", "Agni"],
+      "answer": 3,
+      "explanation": "Agni is correct: Agni was the god of fire.\nVaruna is incorrect: he was linked with the cosmic order and waters.\nSoma is incorrect: Soma was a plant and the god of the drink made from it.\nIndra is incorrect: he was the god of war and rain."
+    },
+    {
+      "question": "Which animal was the main measure of wealth for the Rig Vedic people?",
+      "options": ["Elephant", "Cattle", "Camel", "Lion"],
+      "answer": 1,
+      "explanation": "Cattle is correct: the Rig Vedic people were mainly pastoral and counted their wealth in cows.\nElephant, Camel and Lion are incorrect: none of them was a measure of wealth for the Rig Vedic people."
+    },
+    {
+      "question": "The Rigveda is mainly a collection of:",
+      "options": ["Laws for kings", "Hymns in praise of gods", "Stories of battles", "Rules of grammar"],
+      "answer": 1,
+      "explanation": "Hymns in praise of gods is correct: the Rigveda is a collection of over a thousand hymns praising gods like Agni, Indra and Soma.\nLaws for kings is incorrect: law books (Dharmashastras) came much later.\nStories of battles is incorrect: battles are mentioned only in passing.\nRules of grammar is incorrect: grammar was dealt with later in the Vedangas."
+    },
+    {
+      "question": "Which god, a warrior and a bringer of rain, is praised in the largest number of Rig Vedic hymns?",
+      "options": ["Rama", "Ganesha", "Kartikeya", "Indra"],
+      "answer": 3,
+      "explanation": "Indra is correct: Indra, the god of war and rain, is the most frequently praised god of the Rigveda.\nRama, Ganesha and Kartikeya are incorrect: they became popular deities much later and are not Rig Vedic gods."
+    },
+    {
+      "question": "For many centuries, the Vedas were passed on mainly through:",
+      "options": ["Oral recitation and memorisation", "Printed books", "Stone inscriptions", "Copper plates"],
+      "answer": 0,
+      "explanation": "Oral recitation and memorisation is correct: the hymns were learnt by heart and recited; they were written down only centuries later.\nPrinted books is incorrect: the Rigveda was printed less than 200 years ago.\nStone inscriptions and Copper plates are incorrect: the Vedas were not carved on stone or copper."
+    },
+    {
+      "question": "In which part of the Indian subcontinent did the early Rig Vedic people mainly live?",
+      "options": ["The Deccan plateau", "The far south", "The north-west (Punjab and nearby areas)", "The north-eastern hills"],
+      "answer": 2,
+      "explanation": "The north-west (Punjab and nearby areas) is correct: the early Vedic people lived in the land of the Indus and its tributaries.\nThe Deccan plateau, The far south and The north-eastern hills are incorrect: Rig Vedic settlement did not extend to these regions."
+    },
+    {
+      "question": "What was the chief of a Rig Vedic tribe called?",
+      "options": ["Sultan", "Nawab", "Zamindar", "Rajan"],
+      "answer": 3,
+      "explanation": "Rajan is correct: the tribal chief of the Rig Vedic people was called the rajan.\nSultan and Nawab are incorrect: these are titles of the medieval period.\nZamindar is incorrect: it means a landholder in medieval and modern India."
+    },
+    {
+      "question": "The Upanishads mainly discuss:",
+      "options": ["The soul and the ultimate reality", "Rules of trade", "Methods of farming", "Plans for war"],
+      "answer": 0,
+      "explanation": "The soul and the ultimate reality is correct: the Upanishads are philosophical texts about atman (self) and brahman (ultimate reality).\nRules of trade, Methods of farming and Plans for war are incorrect: these are not the subject of the Upanishads."
+    }
+  ]
+}

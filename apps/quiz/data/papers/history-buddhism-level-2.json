@@ -1,0 +1,68 @@
+{
+  "id": "history-buddhism-level-2",
+  "name": "History – Buddhism (Level 2)",
+  "tags": ["history", "level-2"],
+  "subtags": ["buddhism", "buddhist-teachings", "buddhist-texts", "buddhist-patrons"],
+  "questions": [
+    {
+      "question": "The 'Middle Path' taught by the Buddha means avoiding which two extremes?",
+      "options": ["Kingship and renunciation", "Extreme indulgence and extreme self-mortification", "Vedic rituals and idol worship", "Trade and agriculture"],
+      "answer": 1,
+      "explanation": "Extreme indulgence and extreme self-mortification is correct: the Buddha rejected both a life of luxury and harsh penance, and taught a balanced Middle Path.\nThe other pairs are not what the Middle Path refers to."
+    },
+    {
+      "question": "The Buddha's first sermon at Sarnath is known as:",
+      "options": ["Mahaparinirvana", "Mahabhinishkramana", "Sambodhi", "Dharmachakrapravartana"],
+      "answer": 3,
+      "explanation": "Dharmachakrapravartana is correct: it means 'turning the wheel of law', the name given to the first sermon at Sarnath.\nMahaparinirvana is his death, Mahabhinishkramana is his Great Departure from home, and Sambodhi is his enlightenment."
+    },
+    {
+      "question": "The 'Triratna' (three jewels) of Buddhism are:",
+      "options": ["Buddha, Dhamma and Sangha", "Dharma, Artha and Kama", "Satya, Ahimsa and Aparigraha", "Brahma, Vishnu and Mahesh"],
+      "answer": 0,
+      "explanation": "Buddha, Dhamma and Sangha is correct: a Buddhist takes refuge in the Buddha, his teaching (Dhamma) and the order of monks (Sangha).\nDharma, Artha and Kama are goals of life in Brahmanical texts, Satya, Ahimsa and Aparigraha are vows, and Brahma, Vishnu and Mahesh are Hindu deities."
+    },
+    {
+      "question": "How many Noble Truths did the Buddha teach?",
+      "options": ["Two", "Three", "Four", "Eight"],
+      "answer": 2,
+      "explanation": "Four is correct: the Four Noble Truths are suffering, its cause, its end, and the path to its end.\nEight is the number of steps in the Eightfold Path, not the number of Noble Truths."
+    },
+    {
+      "question": "The sacred books of Buddhism are together called:",
+      "options": ["Agamas", "Vedangas", "Avesta", "Tripitaka"],
+      "answer": 3,
+      "explanation": "Tripitaka is correct: it means 'three baskets' (Vinaya, Sutta and Abhidhamma).\nThe Agamas are Jain sacred texts, the Vedangas are auxiliary Vedic texts, and the Avesta is the Zoroastrian scripture."
+    },
+    {
+      "question": "In which language is the Theravada Buddhist canon preserved?",
+      "options": ["Pali", "Sanskrit", "Tamil", "Persian"],
+      "answer": 0,
+      "explanation": "Pali is correct: the Theravada Tripitaka is preserved in Pali.\nSanskrit was used mainly for later Mahayana texts, while Tamil and Persian are not the language of the canon."
+    },
+    {
+      "question": "Which king of Magadha was a contemporary and follower of the Buddha?",
+      "options": ["Chandragupta Maurya", "Bimbisara", "Pushyamitra Shunga", "Samudragupta"],
+      "answer": 1,
+      "explanation": "Bimbisara is correct: the Haryanka king Bimbisara of Magadha was a contemporary and supporter of the Buddha.\nChandragupta Maurya, Pushyamitra Shunga and Samudragupta ruled centuries later."
+    },
+    {
+      "question": "Which Kushana ruler was a great patron of Buddhism?",
+      "options": ["Menander", "Rudradaman", "Kanishka", "Kharavela"],
+      "answer": 2,
+      "explanation": "Kanishka is correct: the Kushana king Kanishka patronised Buddhism and the Fourth Buddhist Council was held in his time.\nMenander was an Indo-Greek king, Rudradaman a Shaka ruler, and Kharavela a king of Kalinga who supported Jainism."
+    },
+    {
+      "question": "The ancient Buddhist university of Nalanda is located in which present-day state?",
+      "options": ["Bihar", "Gujarat", "Tamil Nadu", "Punjab"],
+      "answer": 0,
+      "explanation": "Bihar is correct: the remains of Nalanda Mahavihara are in Bihar.\nGujarat, Tamil Nadu and Punjab are not where Nalanda stood."
+    },
+    {
+      "question": "The final goal in Buddhism, meaning the 'blowing out' of desire, is called:",
+      "options": ["Swarga", "Kaivalya", "Samsara", "Nirvana"],
+      "answer": 3,
+      "explanation": "Nirvana is correct: it is the ending of desire and freedom from the cycle of birth and death.\nSwarga means heaven, Kaivalya is the Jain term for liberation, and Samsara is the cycle of rebirth itself."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-6",
+  "name": "History – Ajivikism (Level 6)",
+  "tags": ["history", "level-6"],
+  "subtags": ["ajivikism", "niyati-doctrine", "mauryan-patronage", "heterodox-sects", "barabar-caves"],
+  "questions": [
+    {
+      "question": "With reference to Makkhali Gosala, consider the following statements:\n1. He was associated with Mahavira for some years before they parted ways.\n2. The Jain Bhagavati Sutra portrays him favourably as Mahavira's equal.\n3. Buddhist texts list him among six teachers contemporary with the Buddha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: Jain sources say they wandered together for about six years.\nStatement 2 is incorrect: the Bhagavati Sutra is hostile to Gosala and shows him as a false disciple of Mahavira. (Trap: it is our main source on him, but not a friendly one.)\nStatement 3 is correct: the Samannaphala Sutta names him among the six teachers.\nSo statements 1 and 3 are correct."
+    },
+    {
+      "question": "With reference to Ajivika doctrine, consider the following statements:\n1. Niyati governs all events, leaving no room for human effort.\n2. Liberation comes only after a fixed number of births, just as a ball of string unwinds fully when thrown.\n3. The karma a soul builds up decides how long its cycle of births lasts.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: the Ajivikas denied that effort or free will can change anything.\nStatement 2 is correct: the Samannaphala Sutta uses the ball-of-string image for Gosala's view.\nStatement 3 is incorrect: this is closer to the Jain view; for the Ajivikas the length of the cycle is fixed and actions do not change it. (Trap: a Jain idea attached to the Ajivikas.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Which of the following are located in Gaya district of Bihar and associated with the Ajivikas?\n1. Sudama cave\n2. Lomas Rishi cave\n3. Gopika cave\n4. Udayagiri caves near Bhubaneswar\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "2, 3 and 4 only", "1, 3 and 4 only", "1, 2 and 3 only"],
+      "answer": 3,
+      "explanation": "Sudama cave is correct: it is in the Barabar hills and carries Ashoka's dedication to the Ajivikas.\nLomas Rishi cave is correct: it is part of the same Barabar group.\nGopika cave is correct: it is in the Nagarjuni hills and was dedicated by Dasharatha.\nUdayagiri caves is incorrect: they are in Odisha and are Jain caves linked with Kharavela.\nSo 1, 2 and 3 only."
+    },
+    {
+      "question": "With reference to the teachers in the Samannaphala Sutta, consider the following statements:\n1. Ajita Kesakambali taught that a person is made of four elements and nothing survives death.\n2. Pakudha Kaccayana held that there are seven eternal elements that cannot be destroyed.\n3. Sanjaya Belatthiputta taught the fourfold restraint.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Ajita was a materialist who denied any afterlife.\nStatement 2 is correct: Pakudha listed earth, water, fire, air, pleasure, pain and soul as eternal.\nStatement 3 is incorrect: the fourfold restraint is credited to Nigantha Nataputta (Mahavira); Sanjaya was a sceptic who refused definite answers. (Trap: the right doctrine attached to the wrong teacher.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "With reference to Mauryan patronage of the Ajivikas, consider the following statements:\n1. Ashoka's gift of the Barabar caves shows that he supported sects other than Buddhism.\n2. Bindusara is said to have favoured the Ajivikas.\n3. The Nagarjuni caves were dedicated to the Ajivikas by Chandragupta Maurya.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: though a Buddhist, Ashoka gave caves to the Ajivikas.\nStatement 2 is correct: tradition links Ashoka's father Bindusara with the Ajivikas.\nStatement 3 is incorrect: the Nagarjuni caves were dedicated by Dasharatha, Ashoka's grandson. (Trap: wrong Mauryan ruler.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Ajivikas, like the Jains and Buddhists, rejected the authority of the Vedas.\n2. Though they held that effort could not change destiny, Ajivika ascetics still practised severe austerities.\n3. The Ajivikas believed in a soul that passes through many births.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: all three were heterodox shramana sects.\nStatement 2 is correct: this is the well-known exception; their fatalism did not stop them from living as hard ascetics.\nStatement 3 is correct: they accepted the soul and samsara, though they held the number of births to be fixed.\nSo all three statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ajivika scriptures survive in Tamil translation.\n2. The Bhagavati Sutra (Vyakhyaprajnapti) is part of the Jain canon.\n3. Ashoka's Seventh Pillar Edict refers to the Ajivikas.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: no Ajivika text survives in any language; even in the south they are known from inscriptions and rival texts. (Trap: the sect survived in Tamil country, its texts did not.)\nStatement 2 is correct: it is one of the Angas of the Jain canon.\nStatement 3 is correct: Pillar Edict VII names the Ajivikas.\nSo statements 2 and 3 are correct."
+    },
+    {
+      "question": "Consider the following pairs:\nRuler – Link with the Ajivikas\n1. Ashoka – Barabar caves\n2. Dasharatha – Nagarjuni caves\n3. Bindusara – Sudama cave\nWhich of the pairs given above is/are correctly matched?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Pair 1 is correctly matched: Ashoka dedicated caves in the Barabar hills.\nPair 2 is correctly matched: Dasharatha dedicated caves in the Nagarjuni hills.\nPair 3 is incorrectly matched: the Sudama cave was dedicated by Ashoka. (Trap: Bindusara favoured the Ajivikas but no cave is credited to him.)\nSo pairs 1 and 2 are correctly matched."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Charvakas accepted only perception as a valid means of knowledge.\n2. The Charvakas, like the Ajivikas, believed in rebirth.\n3. Both the Charvakas and the Ajivikas are counted among the nastika (heterodox) schools.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 and 3 only", "2 and 3 only", "1 only"],
+      "answer": 1,
+      "explanation": "Statement 1 is correct: the Charvakas rejected inference and testimony.\nStatement 2 is incorrect: the Charvakas denied any life after death; the Ajivikas did accept rebirth. (Trap: grouping the two heterodox schools on a point where they differ.)\nStatement 3 is correct: both rejected the Vedas and are classed as nastika.\nSo statements 1 and 3 are correct."
+    },
+    {
+      "question": "With reference to the Ajivikas in south India, which one of the following statements is correct?",
+      "options": ["Chola-period Tamil inscriptions record a tax levied on the Ajivikas", "The Ajivikas died out in south India before the Mauryan period", "The Ajivika faith was the state religion of the Pallavas", "Ajivika scriptures have been found at Kanchipuram"],
+      "answer": 0,
+      "explanation": "The first option is correct: Chola inscriptions mention a tax on the Ajivikas, showing the sect lasted in the south into medieval times.\nDied out before the Mauryan period is incorrect: they survived there until about the 14th century.\nState religion of the Pallavas is incorrect: no such status is recorded.\nScriptures found at Kanchipuram is incorrect: no Ajivika text has survived."
+    }
+  ]
+}

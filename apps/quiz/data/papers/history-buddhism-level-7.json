@@ -1,0 +1,68 @@
+{
+  "id": "history-buddhism-level-7",
+  "name": "History – Buddhism (Level 7)",
+  "tags": ["history", "level-7"],
+  "subtags": ["buddhism", "buddhist-councils", "buddhist-texts", "buddhist-art", "spread-of-buddhism"],
+  "questions": [
+    {
+      "question": "Arrange the venues of the following Buddhist councils from earliest to latest:\n1. Pataliputra\n2. Kashmir\n3. Rajagriha\n4. Vaishali\nSelect the correct answer using the code given below.",
+      "options": ["3-1-4-2", "3-4-1-2", "4-3-1-2", "3-4-2-1"],
+      "answer": 1,
+      "explanation": "Rajagriha (3) hosted the First Council under Ajatashatru, soon after the Buddha's death.\nVaishali (4) hosted the Second Council under Kalashoka, about a century later.\nPataliputra (1) hosted the Third Council under Ashoka.\nKashmir (2) hosted the Fourth Council under Kanishka.\nTrap: Pataliputra and Vaishali are both in Bihar and are often swapped.\nSo the order is 3-4-1-2."
+    },
+    {
+      "question": "With reference to the Pali Tripitaka, consider the following statements:\n1. The Vinaya Pitaka contains rules only for monks and none for nuns.\n2. The Abhidhamma Pitaka was the last of the three Pitakas to take shape.\n3. The Pali canon was first written down in Sri Lanka in the first century BCE.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 only", "1, 2 and 3", "2 and 3 only"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Vinaya has separate codes for monks (bhikkhus) and nuns (bhikkhunis). (Trap: the word 'only'.)\nStatement 2 is correct: the Abhidhamma developed after the Sutta and Vinaya and is traditionally linked with the Third Council.\nStatement 3 is correct: the canon was passed on orally and was put in writing in Sri Lanka in the first century BCE, under King Vattagamani.\nSo statements 2 and 3 are correct."
+    },
+    {
+      "question": "Consider the following statements about the Buddha's teachings:\n1. The Eightfold Path includes right speech, right action and right livelihood.\n2. The Buddha held that settling the question of God's existence was essential for liberation.\n3. According to the Buddha, nirvana can be attained only after death.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: right speech, right action and right livelihood are three of the eight steps.\nStatement 2 is incorrect: the Buddha avoided such speculative questions and focused on ending suffering.\nStatement 3 is incorrect: nirvana can be reached in this life, as the Buddha did at Bodh Gaya; his death is called parinirvana. (Trap: the word 'only'.)\nSo only one statement is correct."
+    },
+    {
+      "question": "Which of the following Buddhist sites are located in present-day Andhra Pradesh?\n1. Amaravati\n2. Nagarjunakonda\n3. Sanchi\n4. Bhattiprolu\nSelect the correct answer using the code given below.",
+      "options": ["1 and 2 only", "1, 2 and 3 only", "1, 2 and 4 only", "1, 2, 3 and 4"],
+      "answer": 2,
+      "explanation": "Amaravati is in Andhra Pradesh, on the Krishna river.\nNagarjunakonda is in Andhra Pradesh, in the Krishna valley; it flourished under the Ikshvakus.\nSanchi is not in Andhra Pradesh: it is near Vidisha in Madhya Pradesh. (Trap: a famous stupa site in the list that lies elsewhere.)\nBhattiprolu is in Andhra Pradesh and is known for its stupa and relic casket inscriptions.\nSo 1, 2 and 4 are correct."
+    },
+    {
+      "question": "With reference to Buddhist schools of thought, consider the following statements:\n1. Nagarjuna's Madhyamaka school is also known as Shunyavada.\n2. The Yogachara school is associated with Asanga and Vasubandhu.\n3. Vajrayana Buddhism developed exclusively in South India.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "2 only", "1 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Madhyamaka teaches shunyata (emptiness), hence the name Shunyavada.\nStatement 2 is correct: the brothers Asanga and Vasubandhu are the main Yogachara (Vijnanavada) thinkers.\nStatement 3 is incorrect: Vajrayana developed mainly in eastern India (Bengal and Bihar) and spread to Tibet. (Trap: the word 'exclusively'.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Of the three Pitakas, only the Vinaya Pitaka deals mainly with monastic discipline.\n2. Ashoka's Rummindei pillar inscription records that he lowered the tax paid by the village of Lumbini.\n3. Kushinagara, the site of the Mahaparinirvana, is in present-day Uttar Pradesh.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 3,
+      "explanation": "Statement 1 is correct: the Sutta has discourses and the Abhidhamma has philosophy, so only the Vinaya is mainly about discipline. (Trap: a true statement that contains 'only'.)\nStatement 2 is correct: the Rummindei inscription says Ashoka visited Lumbini, exempted it from bali and reduced its share of produce to one-eighth.\nStatement 3 is correct: Kushinagara is in Kushinagar district of Uttar Pradesh.\nSo all three statements are correct."
+    },
+    {
+      "question": "With reference to Buddhist centres of learning, consider the following statements:\n1. Xuanzang studied at Nalanda under the teacher Shilabhadra.\n2. Vikramashila was located in present-day Bihar.\n3. I-tsing visited India during the reign of Chandragupta II.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 and 3 only", "1 and 2 only", "1, 2 and 3"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: Xuanzang studied Yogachara under Shilabhadra, the head of Nalanda.\nStatement 2 is correct: Vikramashila was in the Bhagalpur region of Bihar.\nStatement 3 is incorrect: it was Fa-hien who came during Chandragupta II's reign; I-tsing came in the late seventh century. (Trap: two Chinese pilgrims swapped.)\nSo statements 1 and 2 are correct."
+    },
+    {
+      "question": "Consider the following pairs:\nBuddhist monument – Present-day state\n1. Bharhut Stupa – Madhya Pradesh\n2. Dhamekh Stupa – Uttar Pradesh\n3. Kesariya Stupa – Odisha\nHow many of the pairs given above are correctly matched?",
+      "options": ["Only one pair", "Only two pairs", "All three pairs", "None of the pairs"],
+      "answer": 1,
+      "explanation": "Pair 1 is correctly matched: Bharhut is in Satna district, Madhya Pradesh.\nPair 2 is correctly matched: the Dhamekh Stupa stands at Sarnath, near Varanasi in Uttar Pradesh.\nPair 3 is incorrectly matched: Kesariya is in East Champaran district of Bihar. (Trap: Odisha also has Buddhist sites such as Dhauli and Ratnagiri.)\nSo only two pairs are correctly matched."
+    },
+    {
+      "question": "With reference to Buddhist art, consider the following statements:\n1. Gandhara sculptures were made mostly of spotted red sandstone.\n2. The Mathura school produced images of Buddhist deities exclusively.\n3. The Amaravati school worked mainly in grey schist.\nHow many of the statements given above are correct?",
+      "options": ["Only one", "Only two", "All three", "None"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: Gandhara used grey or blue-grey schist and stucco. Spotted red sandstone was used at Mathura. (Trap: the materials of two schools swapped.)\nStatement 2 is incorrect: Mathura made Jain and Brahmanical images as well as Buddhist ones. (Trap: the word 'exclusively'.)\nStatement 3 is incorrect: Amaravati used white limestone (often called marble). Grey schist belongs to Gandhara.\nSo none of the statements is correct."
+    },
+    {
+      "question": "With reference to the spread of Buddhism outside India, consider the following statements:\n1. Padmasambhava is associated with the spread of Buddhism in Tibet.\n2. Theravada is the main form of Buddhism in Sri Lanka, Myanmar and Thailand.\n3. Buddhism reached China only after the Gupta period.\nWhich of the statements given above is/are correct?",
+      "options": ["1 and 2 only", "1 only", "2 and 3 only", "1, 2 and 3"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Padmasambhava (Guru Rinpoche) went to Tibet in the eighth century and helped establish Buddhism there.\nStatement 2 is correct: Theravada is the dominant tradition in these countries.\nStatement 3 is incorrect: Buddhism reached China around the first century CE, in the Han period, well before the Guptas. (Trap: the word 'only' with a wrong date.)\nSo statements 1 and 2 are correct."
+    }
+  ]
+}

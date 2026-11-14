@@ -1,0 +1,68 @@
+{
+  "id": "history-buddhism-level-4",
+  "name": "History – Buddhism (Level 4)",
+  "tags": ["history", "level-4"],
+  "subtags": ["buddhism", "life-of-buddha", "buddhist-teachings", "buddhist-councils", "buddhist-sangha"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. The Buddha attained enlightenment at Sarnath.\n2. The Buddha's Mahaparinirvana took place at Lumbini.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Buddha attained enlightenment at Bodh Gaya. Sarnath is where he gave his first sermon.\nStatement 2 is incorrect: the Mahaparinirvana took place at Kushinagara. Lumbini is his birthplace.\nSo neither statement is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Eightfold Path is the first of the Four Noble Truths.\n2. The second Noble Truth states that desire (tanha) is the cause of suffering.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the first Noble Truth is that life is full of suffering (dukkha). The Eightfold Path is the fourth Truth, the way to end suffering.\nStatement 2 is correct: the second Truth names desire or craving (tanha) as the cause of suffering.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "The Buddhist idea that everything is constantly changing and nothing is permanent is called:",
+      "options": ["Anicca", "Anatta", "Dukkha", "Karuna"],
+      "answer": 0,
+      "explanation": "Anicca is correct: it means impermanence.\nAnatta means 'no permanent self', dukkha means suffering, and karuna means compassion."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Sutta Pitaka contains the discourses of the Buddha.\n2. The Abhidhamma Pitaka deals with the philosophical analysis of the Buddha's teachings.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Sutta Pitaka is the collection of the Buddha's sermons and discourses.\nStatement 2 is correct: the Abhidhamma Pitaka is a systematic, philosophical treatment of the teachings.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ashoka sent his son Mahendra and daughter Sanghamitra to Sri Lanka to spread Buddhism.\n2. The Third Buddhist Council was held at Pataliputra during Ashoka's reign.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: according to Buddhist tradition, Mahendra (Mahinda) and Sanghamitra took Buddhism to Sri Lanka.\nStatement 2 is correct: the Third Council met at Pataliputra under Ashoka, presided over by Moggaliputta Tissa.\nSo both statements are correct."
+    },
+    {
+      "question": "Which Chinese pilgrim visited India during the reign of Harshavardhana and studied at Nalanda?",
+      "options": ["Xuanzang (Hiuen Tsang)", "Fa-hien", "I-tsing", "Sung Yun"],
+      "answer": 0,
+      "explanation": "Xuanzang is correct: he travelled in India in Harsha's time and studied at Nalanda.\nFa-hien came during the reign of Chandragupta II, I-tsing came after Harsha's death, and Sung Yun visited north-west India in the early sixth century."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Fourth Buddhist Council was held at Vaishali.\n2. The Fourth Buddhist Council was held under the patronage of Ashoka.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Fourth Council was held in Kashmir (Kundalvana). Vaishali was the venue of the Second Council.\nStatement 2 is incorrect: the Fourth Council was held under the Kushana king Kanishka. Ashoka patronised the Third Council.\nSo neither statement is correct."
+    },
+    {
+      "question": "Which branch of Buddhism worships images of the Buddha and gives great importance to Bodhisattvas?",
+      "options": ["Hinayana", "Mahayana", "Theravada", "Sthaviravada"],
+      "answer": 1,
+      "explanation": "Mahayana is correct: Mahayana Buddhism took up image worship of the Buddha and the ideal of the Bodhisattva.\nHinayana, Theravada and Sthaviravada are names for the older school, which saw the Buddha as a teacher and stressed individual effort for nirvana."
+    },
+    {
+      "question": "Who was the wife of Siddhartha Gautama?",
+      "options": ["Mahamaya", "Mahapajapati Gotami", "Sanghamitra", "Yashodhara"],
+      "answer": 3,
+      "explanation": "Yashodhara is correct: she was Siddhartha's wife and the mother of Rahula.\nMahamaya was his mother, Mahapajapati Gotami was his foster mother and the first nun, and Sanghamitra was Ashoka's daughter."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Buddha allowed women to join the Sangha as nuns.\n2. Membership of the Sangha was restricted to Brahmanas and Kshatriyas.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: women were admitted to the Sangha; Mahapajapati Gotami was the first nun.\nStatement 2 is incorrect: the Sangha was open to people of all varnas.\nSo only statement 1 is correct."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "history-ajivikism-level-5",
+  "name": "History – Ajivikism (Level 5)",
+  "tags": ["history", "level-5"],
+  "subtags": ["ajivikism", "makkhali-gosala", "samannaphala-sutta", "barabar-caves", "ashokan-edicts"],
+  "questions": [
+    {
+      "question": "Consider the following statements:\n1. According to the Bhagavati Sutra, Makkhali Gosala lived with Mahavira for about six years before they parted.\n2. According to Jain tradition, Gosala died before Mahavira.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: the Bhagavati Sutra gives six years of shared wandering.\nStatement 2 is correct: the same text says Gosala died many years before Mahavira, after a bitter quarrel with him.\nSo both statements are correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ashoka dedicated caves in the Nagarjuni hills to the Ajivikas.\n2. Dasharatha, who dedicated the Nagarjuni caves to the Ajivikas, was Ashoka's grandson.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: Ashoka's caves are in the Barabar hills, not the Nagarjuni hills.\nStatement 2 is correct: Dasharatha, Ashoka's grandson, dedicated the Nagarjuni caves such as the Gopika cave.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. The Samannaphala Sutta is part of the Majjhima Nikaya.\n2. In the Samannaphala Sutta, King Ajatashatru reports the views of six teachers to the Buddha.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: the Samannaphala Sutta belongs to the Digha Nikaya, not the Majjhima Nikaya.\nStatement 2 is correct: Ajatashatru describes what Purana Kassapa, Makkhali Gosala, Ajita Kesakambali, Pakudha Kaccayana, Nigantha Nataputta and Sanjaya Belatthiputta told him.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Consider the following statements about Ajivika doctrine:\n1. A soul could gain liberation sooner through severe penance.\n2. The Ajivikas rejected the idea of rebirth altogether.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 3,
+      "explanation": "Statement 1 is incorrect: the Ajivikas held that liberation comes only when the fixed cycle of births is complete, whatever a person does.\nStatement 2 is incorrect: they accepted rebirth (samsara); their point was that the number of births is fixed.\nSo neither statement is correct."
+    },
+    {
+      "question": "Which one of the following correctly states the difference between Jain and Ajivika views on liberation?",
+      "options": ["Jains held that penance destroys karma and leads to liberation, while Ajivikas held that liberation comes only at the end of a fixed cycle of births", "Jains rejected asceticism, while Ajivikas practised it", "Both Jains and Ajivikas held that penance can shorten the cycle of births", "Ajivikas held that penance destroys karma, while Jains held that everything is fixed by fate"],
+      "answer": 0,
+      "explanation": "The first option is correct: Jainism teaches that karma can be shed through austerity, while the Ajivikas held that niyati fixes the number of births.\nJains rejected asceticism is incorrect: Jainism stresses strict asceticism.\nBoth held that penance can shorten the cycle is incorrect: the Ajivikas denied this.\nThe last option is incorrect: it reverses the two views."
+    },
+    {
+      "question": "Consider the following statements:\n1. The entrance of the Lomas Rishi cave copies the form of wooden architecture of the time.\n2. The inner walls of the Barabar caves have the high polish typical of Mauryan work.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 2,
+      "explanation": "Statement 1 is correct: its curved doorway and elephant frieze imitate wooden huts.\nStatement 2 is correct: the granite walls have the mirror-like Mauryan polish.\nSo both statements are correct."
+    },
+    {
+      "question": "Which one of the following pairs is correctly matched?\nTeacher – View in the Samannaphala Sutta",
+      "options": ["Ajita Kesakambali – Seven eternal elements", "Pakudha Kaccayana – Fourfold restraint", "Nigantha Nataputta – Refusal to commit to any view", "Sanjaya Belatthiputta – Evasive answers that neither affirm nor deny"],
+      "answer": 3,
+      "explanation": "Sanjaya Belatthiputta – Evasive answers is correctly matched: he refused to affirm or deny any proposition.\nAjita Kesakambali – Seven eternal elements is incorrect: Ajita was a materialist; the seven elements belong to Pakudha Kaccayana.\nPakudha Kaccayana – Fourfold restraint is incorrect: the fourfold restraint is credited to Nigantha Nataputta.\nNigantha Nataputta – Refusal to commit to any view is incorrect: that describes Sanjaya."
+    },
+    {
+      "question": "Consider the following statements:\n1. Ashoka named the Ajivikas, along with the Samgha, Brahmanas and Nirgranthas, as concerns of the dhamma mahamatras.\n2. This mention of the Ajivikas is found in Ashoka's Rock Edict XIII.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 0,
+      "explanation": "Statement 1 is correct: Ashoka assigned the dhamma mahamatras to these sects.\nStatement 2 is incorrect: the mention is in Pillar Edict VII; Rock Edict XIII is about the Kalinga war.\nSo only statement 1 is correct."
+    },
+    {
+      "question": "Consider the following statements:\n1. Buddhist sources name Nanda Vaccha and Kisa Sankicca as successors of Makkhali Gosala.\n2. Ajivika doctrine is known to us through the writings of rival sects.\nWhich of the statements given above is/are correct?",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "answer": 1,
+      "explanation": "Statement 1 is incorrect: they are named as Gosala's predecessors, not his successors.\nStatement 2 is correct: with no Ajivika texts left, we depend on Jain and Buddhist accounts.\nSo only statement 2 is correct."
+    },
+    {
+      "question": "Tamil inscriptions recording a tax on the Ajivikas show that the sect survived in south India until about the:",
+      "options": ["2nd century BCE", "6th century CE", "9th century CE", "14th century CE"],
+      "answer": 3,
+      "explanation": "14th century CE is correct: Ajivikas appear in Tamil inscriptions until about the 13th-14th century.\n2nd century BCE is incorrect: that is close to the end of Mauryan patronage in the north.\n6th century CE and 9th century CE are incorrect: the sect was still recorded in the south well after these dates."
+    }
+  ]
+}
